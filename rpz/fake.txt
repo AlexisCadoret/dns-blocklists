@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.fake. hostmaster.hagezi.fake. 1675983600 86400 3600 604800 30
+@ SOA rpz.hagezi.fake. hostmaster.hagezi.fake. 1676070000 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 30
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ; Expires: Updated regularly
-; Last modified: 10 Feb 2023 20:55 UTC
-; Version: 2023.0210.2055.43
+; Last modified: 10 Feb 2023 23:15 UTC
+; Version: 2023.0210.2315.52
 ; Syntax: RPZ
-; Domains: 5308
+; Domains: 5303
 ;
 1euro.at CNAME .
 *.1euro.at CNAME .
@@ -4119,8 +4119,6 @@ pandorairelandonline.com CNAME .
 *.pandorairelandonline.com CNAME .
 pannaholidays.com CNAME .
 *.pannaholidays.com CNAME .
-pannale.com CNAME .
-*.pannale.com CNAME .
 pannaxa.com CNAME .
 *.pannaxa.com CNAME .
 panzvor.com CNAME .
@@ -4135,8 +4133,6 @@ parfumly.com CNAME .
 *.parfumly.com CNAME .
 parisinpink.com CNAME .
 *.parisinpink.com CNAME .
-paulinasinger.com CNAME .
-*.paulinasinger.com CNAME .
 pawppithouse.com CNAME .
 *.pawppithouse.com CNAME .
 paxosgloballogistics.com CNAME .
@@ -8191,8 +8187,6 @@ panzer-industriebedarf.de CNAME .
 *.panzer-industriebedarf.de CNAME .
 papageienzuchtheim.de CNAME .
 *.papageienzuchtheim.de CNAME .
-partykiste-undorf.de CNAME .
-*.partykiste-undorf.de CNAME .
 passamera.de CNAME .
 *.passamera.de CNAME .
 passion-fotos.de CNAME .
@@ -8231,8 +8225,6 @@ pfaffe3000.de CNAME .
 *.pfaffe3000.de CNAME .
 pfarrei-herz-mariae-igb.de CNAME .
 *.pfarrei-herz-mariae-igb.de CNAME .
-pferdehof-kraus.de CNAME .
-*.pferdehof-kraus.de CNAME .
 pfotenschule-bremen.de CNAME .
 *.pfotenschule-bremen.de CNAME .
 pic-place.de CNAME .
@@ -9645,8 +9637,6 @@ myautofficina.it CNAME .
 *.myautofficina.it CNAME .
 pbglab.it CNAME .
 *.pbglab.it CNAME .
-peoalfonsi.it CNAME .
-*.peoalfonsi.it CNAME .
 realizetour.it CNAME .
 *.realizetour.it CNAME .
 ristoroparadiso.it CNAME .
