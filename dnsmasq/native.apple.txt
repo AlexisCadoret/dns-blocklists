@@ -1,0 +1,30 @@
+# Title: HaGeZi's Apple Tracker DNS Blocklist
+# Description: Blocks Apple native broadband tracker that track your activity.
+# Homepage: https://github.com/hagezi/dns-blocklists
+# Issues: https://github.com/hagezi/dns-blocklists/issues
+# License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
+# Expires: Updated regularly
+# Last modified: 08 Feb 2023 23:12 UTC
+# Version: 2023.0208.2312.11
+# Syntax: DNSMasq
+# Domains: 19
+#
+address=/api-adservices.apple.com/#
+address=/books-analytics-events.apple.com/#
+address=/iadsdk.apple.com/#
+address=/metrics.apple.com/#
+address=/notes-analytics-events.apple.com/#
+address=/securemetrics.apple.com/#
+address=/securemvt.apple.com/#
+address=/stocks-analytics-events.apple.com/#
+address=/supportmetrics.apple.com/#
+address=/weather-analytics-events.apple.com/#
+address=/books-analytics-events.news.apple-dns.net/#
+address=/notes-analytics-events.news.apple-dns.net/#
+address=/stocks-analytics-events.news.apple-dns.net/#
+address=/weather-analytics-events.news.apple-dns.net/#
+address=/acfeedbackws.icloud.com/#
+address=/feedbackws.icloud.com/#
+address=/metrics.icloud.com/#
+address=/dzc-metrics.mzstatic.com/#
+address=/metrics.mzstatic.com/#
