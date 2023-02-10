@@ -572,8 +572,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 10 Feb 2023 12:31 UTC
-! Version: 2023.0210.1231.32
+! Last modified: 10 Feb 2023 16:24 UTC
+! Version: 2023.0210.1624.37
 ! Syntax: AdBlock
 ! Domains: 63575
 !
@@ -72144,6 +72144,10 @@
 ! cable-internet-provider
 @@|eazy.de^
 @@|www.eazy.de^
+
+! https://github.com/hagezi/dns-blocklists/issues/325
+@@|edilnet.it^
+@@|www.edilnet.it^
 
 
 ! Title: HaGeZi's White-/Allowlist Referral for Black & White list
