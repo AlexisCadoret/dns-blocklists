@@ -8,10 +8,10 @@ $TTL 30
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ; Expires: Updated regularly
-; Last modified: 10 Feb 2023 07:08 UTC
-; Version: 2023.0210.0708.19
+; Last modified: 10 Feb 2023 20:55 UTC
+; Version: 2023.0210.2055.43
 ; Syntax: RPZ
-; Domains: 5323
+; Domains: 5308
 ;
 1euro.at CNAME .
 *.1euro.at CNAME .
@@ -3671,8 +3671,6 @@ minhtrungd.com CNAME .
 *.minhtrungd.com CNAME .
 mini-ecig.com CNAME .
 *.mini-ecig.com CNAME .
-minimalsurvival.com CNAME .
-*.minimalsurvival.com CNAME .
 minnetonkaschuhe.com CNAME .
 *.minnetonkaschuhe.com CNAME .
 miralofoto.com CNAME .
@@ -3689,8 +3687,6 @@ missmoana.com CNAME .
 *.missmoana.com CNAME .
 mizunode.com CNAME .
 *.mizunode.com CNAME .
-mkcshop.com CNAME .
-*.mkcshop.com CNAME .
 mkw-energieholz.com CNAME .
 *.mkw-energieholz.com CNAME .
 mmatrailers.com CNAME .
@@ -3761,8 +3757,6 @@ muama.com CNAME .
 *.muama.com CNAME .
 muenchen-sperrmuellservice.com CNAME .
 *.muenchen-sperrmuellservice.com CNAME .
-muesdey.com CNAME .
-*.muesdey.com CNAME .
 muhlwegfahrschule.com CNAME .
 *.muhlwegfahrschule.com CNAME .
 munbrand.com CNAME .
@@ -3959,8 +3953,6 @@ nichespares.com CNAME .
 *.nichespares.com CNAME .
 nicheten.com CNAME .
 *.nicheten.com CNAME .
-nickanii.com CNAME .
-*.nickanii.com CNAME .
 nidworkers.com CNAME .
 *.nidworkers.com CNAME .
 niebullfahrschule.com CNAME .
@@ -4005,8 +3997,6 @@ nowistherevolution.com CNAME .
 *.nowistherevolution.com CNAME .
 npowieki.com CNAME .
 *.npowieki.com CNAME .
-ntxmickeymantle.com CNAME .
-*.ntxmickeymantle.com CNAME .
 nuerahha.com CNAME .
 *.nuerahha.com CNAME .
 numerr.com CNAME .
@@ -4017,8 +4007,6 @@ nwbikeshoes.com CNAME .
 *.nwbikeshoes.com CNAME .
 nze.com CNAME .
 *.nze.com CNAME .
-oandini.com CNAME .
-*.oandini.com CNAME .
 odenkik.com CNAME .
 *.odenkik.com CNAME .
 odyssey-labs.com CNAME .
@@ -7777,8 +7765,6 @@ luxhause.de CNAME .
 *.luxhause.de CNAME .
 lv-angebote.de CNAME .
 *.lv-angebote.de CNAME .
-m-lounge-germany.de CNAME .
-*.m-lounge-germany.de CNAME .
 machart-durlach.de CNAME .
 *.machart-durlach.de CNAME .
 macschritte.de CNAME .
@@ -7983,8 +7969,6 @@ modeengels.de CNAME .
 *.modeengels.de CNAME .
 modehaus-muenchen.de CNAME .
 *.modehaus-muenchen.de CNAME .
-modehaus-weickert.de CNAME .
-*.modehaus-weickert.de CNAME .
 modellbahn-versandhaus.de CNAME .
 *.modellbahn-versandhaus.de CNAME .
 modency.de CNAME .
@@ -8075,8 +8059,6 @@ naturalzuda.de CNAME .
 *.naturalzuda.de CNAME .
 naturgesunde-tiere.de CNAME .
 *.naturgesunde-tiere.de CNAME .
-naturheilpraxis-kirsten-sildatke.de CNAME .
-*.naturheilpraxis-kirsten-sildatke.de CNAME .
 ndm-faustball.de CNAME .
 *.ndm-faustball.de CNAME .
 neapelstore.de CNAME .
@@ -8087,10 +8069,6 @@ neopass.de CNAME .
 *.neopass.de CNAME .
 neroo.de CNAME .
 *.neroo.de CNAME .
-net-inkasso.de CNAME .
-*.net-inkasso.de CNAME .
-neu-parts.de CNAME .
-*.neu-parts.de CNAME .
 neueflirts.de CNAME .
 *.neueflirts.de CNAME .
 neunagel.de CNAME .
@@ -8125,8 +8103,6 @@ nootica.de CNAME .
 *.nootica.de CNAME .
 shop.nordic-electronics.de CNAME .
 *.shop.nordic-electronics.de CNAME .
-nordiccoastgames.de CNAME .
-*.nordiccoastgames.de CNAME .
 nordsee-hooksiel.de CNAME .
 *.nordsee-hooksiel.de CNAME .
 northtruesales.de CNAME .
@@ -8177,8 +8153,6 @@ online-gold-shop.de CNAME .
 *.online-gold-shop.de CNAME .
 online-mode-1.de CNAME .
 *.online-mode-1.de CNAME .
-onyx-versand.de CNAME .
-*.onyx-versand.de CNAME .
 ordernow24.de CNAME .
 *.ordernow24.de CNAME .
 oricgermany.de CNAME .
@@ -10485,14 +10459,10 @@ moncleronlinestore.top CNAME .
 *.moncleronlinestore.top CNAME .
 monclerwomen.top CNAME .
 *.monclerwomen.top CNAME .
-nbiafish.top CNAME .
-*.nbiafish.top CNAME .
 nbspek.top CNAME .
 *.nbspek.top CNAME .
 notoance.top CNAME .
 *.notoance.top CNAME .
-nygsaxx.top CNAME .
-*.nygsaxx.top CNAME .
 outlet-moncler.top CNAME .
 *.outlet-moncler.top CNAME .
 owbuyteer.top CNAME .
