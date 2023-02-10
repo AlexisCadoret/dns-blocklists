@@ -572,8 +572,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 10 Feb 2023 21:23 UTC
-! Version: 2023.0210.2123.31
+! Last modified: 10 Feb 2023 21:41 UTC
+! Version: 2023.0210.2141.50
 ! Syntax: AdBlock
 ! Domains: 26868
 !
@@ -72709,6 +72709,9 @@
 ! https://github.com/hagezi/dns-blocklists/issues/325
 ! https://github.com/hagezi/dns-blocklists/issues/325#issuecomment-1426085695
 ! edilnet.it
+
+! Breaks national radio-television organization's VOD portal - https://365.rtvslo.si
+@@|cdn.jwplayer.com^
 
 
 ! Title: HaGeZi's White-/Allowlist Referral for Black & White list
