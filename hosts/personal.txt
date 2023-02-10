@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 10 Feb 2023 17:04 UTC
-# Version: 2023.0210.1704.33
+# Last modified: 10 Feb 2023 19:30 UTC
+# Version: 2023.0210.1930.01
 # Syntax: Hosts
-# Domains: 84673
+# Domains: 84674
 #
 0.0.0.0 003store.com
 0.0.0.0 www.003store.com
@@ -21933,7 +21933,6 @@
 0.0.0.0 t.dailymail.co.uk
 0.0.0.0 ted.dailymail.co.uk
 0.0.0.0 deepcoder.co.uk
-0.0.0.0 ookla.deepcoder.co.uk
 0.0.0.0 ads.dennisnet.co.uk
 0.0.0.0 dianomioffers.co.uk
 0.0.0.0 www.dianomioffers.co.uk
@@ -64879,6 +64878,8 @@
 0.0.0.0 js.dsp.reemo-ad.jp
 0.0.0.0 sync.dsp.reemo-ad.jp
 0.0.0.0 view.dsp.reemo-ad.jp
+0.0.0.0 reepratic.com
+0.0.0.0 www.reepratic.com
 0.0.0.0 reerfdfgourgo.xyz
 0.0.0.0 www.reerfdfgourgo.xyz
 0.0.0.0 refbanners.com
