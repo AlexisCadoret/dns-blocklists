@@ -4,10 +4,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 09 Feb 2023 23:13 UTC
-# Version: 2023.0209.2313.25
+# Last modified: 10 Feb 2023 07:02 UTC
+# Version: 2023.0210.0702.22
 # Syntax: DNSMasq
-# Domains: 1307
+# Domains: 1306
 #
 address=/0000a-fast-proxy.de/#
 address=/012proxy.ga/#
@@ -639,7 +639,6 @@ address=/napps-2.com/#
 address=/vpn.ncapi.io/#
 address=/dns.aa.net.uk/#
 address=/doh.infotek.net.id/#
-address=/luminati-holanetworksltd.netdna-ssl.com/#
 address=/netvpn.us/#
 address=/dns.neutopia.org/#
 address=/newipnow.com/#
