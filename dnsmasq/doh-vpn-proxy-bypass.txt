@@ -4,10 +4,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 10 Feb 2023 07:02 UTC
-# Version: 2023.0210.0702.22
+# Last modified: 10 Feb 2023 23:09 UTC
+# Version: 2023.0210.2309.39
 # Syntax: DNSMasq
-# Domains: 1306
+# Domains: 1303
 #
 address=/0000a-fast-proxy.de/#
 address=/012proxy.ga/#
@@ -626,7 +626,6 @@ address=/dns.mrkaran.dev/#
 address=/mullvad.net/#
 address=/my-proxy.com/#
 address=/mybestvpn.info/#
-address=/mycelium.site/#
 address=/freedom.mydns.network/#
 address=/myip.io/#
 address=/myprivateproxy.net/#
@@ -663,7 +662,6 @@ address=/ny1.nixnet.xyz/#
 address=/njal.la/#
 address=/njtzzrvg0lwj3bsn.info/#
 address=/nntime.com/#
-address=/no-block.net/#
 address=/nocensor.work/#
 address=/nordaccount.com/#
 address=/nordcdn.com/#
@@ -675,7 +673,6 @@ address=/novpn.ml/#
 address=/nqma.net/#
 address=/vpn.nvidia.com/#
 address=/nvpn.net/#
-address=/nvpn.so/#
 address=/nvpn.to/#
 address=/oclearningteam.com/#
 address=/octovpn.net/#

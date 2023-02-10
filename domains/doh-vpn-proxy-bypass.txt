@@ -4,10 +4,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 10 Feb 2023 07:02 UTC
-# Version: 2023.0210.0702.22
+# Last modified: 10 Feb 2023 23:09 UTC
+# Version: 2023.0210.2309.39
 # Syntax: Domains
-# Domains: 1424
+# Domains: 1421
 #
 0000a-fast-proxy.de
 012proxy.ga
@@ -710,7 +710,6 @@ doh.mullvad.net
 adblock.doh.mullvad.net
 my-proxy.com
 mybestvpn.info
-mycelium.site
 freedom.mydns.network
 myip.io
 myprivateproxy.net
@@ -759,7 +758,6 @@ njal.la
 dns.njal.la
 njtzzrvg0lwj3bsn.info
 nntime.com
-no-block.net
 nocensor.work
 nordaccount.com
 nordcdn.com
@@ -771,7 +769,6 @@ novpn.ml
 nqma.net
 vpn.nvidia.com
 nvpn.net
-nvpn.so
 nvpn.to
 oclearningteam.com
 octovpn.net
