@@ -8,10 +8,10 @@ $TTL 30
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ; Expires: Updated regularly
-; Last modified: 09 Feb 2023 23:20 UTC
-; Version: 2023.0209.2320.02
+; Last modified: 10 Feb 2023 07:08 UTC
+; Version: 2023.0210.0708.19
 ; Syntax: RPZ
-; Domains: 5332
+; Domains: 5323
 ;
 1euro.at CNAME .
 *.1euro.at CNAME .
@@ -2061,8 +2061,6 @@ deutschetroniks.com CNAME .
 *.deutschetroniks.com CNAME .
 deveclo.com CNAME .
 *.deveclo.com CNAME .
-devoteeshoes.com CNAME .
-*.devoteeshoes.com CNAME .
 dhe-logistics.com CNAME .
 *.dhe-logistics.com CNAME .
 dhk-transport.com CNAME .
@@ -3499,10 +3497,6 @@ mac-properties.com CNAME .
 *.mac-properties.com CNAME .
 maclakshmeshwar.com CNAME .
 *.maclakshmeshwar.com CNAME .
-maconionsfx.com CNAME .
-*.maconionsfx.com CNAME .
-made-private.com CNAME .
-*.made-private.com CNAME .
 mafiatekno.com CNAME .
 *.mafiatekno.com CNAME .
 magicmixte.com CNAME .
@@ -3547,8 +3541,6 @@ mashskincare.com CNAME .
 *.mashskincare.com CNAME .
 massive-deals.com CNAME .
 *.massive-deals.com CNAME .
-matejkohotelkrakow.com CNAME .
-*.matejkohotelkrakow.com CNAME .
 matthiastierheim.com CNAME .
 *.matthiastierheim.com CNAME .
 max-liquid.com CNAME .
@@ -3557,8 +3549,6 @@ maxiquercy.com CNAME .
 *.maxiquercy.com CNAME .
 maxnovelty.com CNAME .
 *.maxnovelty.com CNAME .
-maxspiele.com CNAME .
-*.maxspiele.com CNAME .
 maxxdrinks.com CNAME .
 *.maxxdrinks.com CNAME .
 mayeroutlet.com CNAME .
@@ -3593,8 +3583,6 @@ medikamenteonlinekaufen.com CNAME .
 *.medikamenteonlinekaufen.com CNAME .
 medirezept.com CNAME .
 *.medirezept.com CNAME .
-medismark.com CNAME .
-*.medismark.com CNAME .
 meester-werk.com CNAME .
 *.meester-werk.com CNAME .
 meetmyflirt.com CNAME .
@@ -7777,8 +7765,6 @@ luovu.de CNAME .
 *.luovu.de CNAME .
 lushdream.de CNAME .
 *.lushdream.de CNAME .
-lutricia-bock.de CNAME .
-*.lutricia-bock.de CNAME .
 luvemo.de CNAME .
 *.luvemo.de CNAME .
 luvinshop.de CNAME .
@@ -7897,8 +7883,6 @@ megaflix.de CNAME .
 *.megaflix.de CNAME .
 megahood.de CNAME .
 *.megahood.de CNAME .
-mehrwerken.de CNAME .
-*.mehrwerken.de CNAME .
 mein-babybauch.de CNAME .
 *.mein-babybauch.de CNAME .
 mein-buch24.de CNAME .
@@ -10489,8 +10473,6 @@ lmwip.top CNAME .
 *.lmwip.top CNAME .
 lowpricemoncler.top CNAME .
 *.lowpricemoncler.top CNAME .
-marosq.top CNAME .
-*.marosq.top CNAME .
 meds24.top CNAME .
 *.meds24.top CNAME .
 meisterb.top CNAME .
