@@ -4,10 +4,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 10 Feb 2023 23:09 UTC
-# Version: 2023.0210.2309.39
+# Last modified: 11 Feb 2023 23:11 UTC
+# Version: 2023.0211.2311.26
 # Syntax: Hosts
-# Domains: 1421
+# Domains: 1410
 #
 0.0.0.0 0000a-fast-proxy.de
 0.0.0.0 012proxy.ga
@@ -851,7 +851,6 @@
 0.0.0.0 doh.westeu.pi-dns.com
 0.0.0.0 doh.westus.pi-dns.com
 0.0.0.0 dot.westus.pi-dns.com
-0.0.0.0 pinkproxy.xyz
 0.0.0.0 piraproxy.org
 0.0.0.0 pixelprivacy.com
 0.0.0.0 pkproxy.info
@@ -909,7 +908,6 @@
 0.0.0.0 proxy.org
 0.0.0.0 proxy.sh
 0.0.0.0 proxy-2014.com
-0.0.0.0 proxy-2015.info
 0.0.0.0 proxy-anywhere.com
 0.0.0.0 proxy-bypass.com
 0.0.0.0 proxy-deal.net
@@ -920,7 +918,6 @@
 0.0.0.0 proxy2014.net
 0.0.0.0 proxy4freedom.com
 0.0.0.0 proxy7.club
-0.0.0.0 proxybeud.info
 0.0.0.0 proxyboost.net
 0.0.0.0 proxybox.ru
 0.0.0.0 proxybrowse.info
@@ -929,7 +926,6 @@
 0.0.0.0 proxycloyd.com
 0.0.0.0 proxyfactory.io
 0.0.0.0 proxyfish.com
-0.0.0.0 proxyflows.com
 0.0.0.0 proxyfor.eu
 0.0.0.0 proxyfree.org
 0.0.0.0 proxygogo.info
@@ -942,7 +938,6 @@
 0.0.0.0 proxyof.com
 0.0.0.0 proxyone.net
 0.0.0.0 proxypirates.com
-0.0.0.0 proxyportals.info
 0.0.0.0 proxypremium.top
 0.0.0.0 proxypx.com
 0.0.0.0 proxypy.org
@@ -950,7 +945,6 @@
 0.0.0.0 proxyscrape.com
 0.0.0.0 proxyserver.com
 0.0.0.0 proxyserverlist24.top
-0.0.0.0 proxysit.es
 0.0.0.0 proxysite.cloud
 0.0.0.0 proxysite.club
 0.0.0.0 proxysite.com
@@ -959,8 +953,6 @@
 0.0.0.0 proxysite.top
 0.0.0.0 proxysite.video
 0.0.0.0 proxysneak.com
-0.0.0.0 proxysurfers.info
-0.0.0.0 proxythis.info
 0.0.0.0 proxyturbo.com
 0.0.0.0 proxyunblock.site
 0.0.0.0 proxyunblocker.org
@@ -988,14 +980,12 @@
 0.0.0.0 doh.quickline.ch
 0.0.0.0 dot.quickline.ch
 0.0.0.0 quickprox.com
-0.0.0.0 quickvpn.info
 0.0.0.0 quintex.com
 0.0.0.0 ra4wvpn.com
 0.0.0.0 rabbithole.site
 0.0.0.0 racevpn.com
 0.0.0.0 radmin-vpn.com
 0.0.0.0 rapidproxy.us
-0.0.0.0 realanonproxy.com
 0.0.0.0 relayon.org
 0.0.0.0 remotedesktop.com
 0.0.0.0 kaitain.restena.lu
@@ -1006,7 +996,6 @@
 0.0.0.0 doh.rezhajul.io
 0.0.0.0 ringvpn.com
 0.0.0.0 ronfeed.com
-0.0.0.0 rosendaproxy.info
 0.0.0.0 rsocks.net
 0.0.0.0 dns.rubyfish.cn
 0.0.0.0 ea-dns.rubyfish.cn

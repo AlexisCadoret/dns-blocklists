@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.doh-vpn-proxy-bypass. hostmaster.hagezi.doh-vpn-proxy-bypass. 1676070000 86400 3600 604800 30
+@ SOA rpz.hagezi.doh-vpn-proxy-bypass. hostmaster.hagezi.doh-vpn-proxy-bypass. 1676156400 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Enyrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 30
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: Updated regularly
-; Last modified: 10 Feb 2023 23:09 UTC
-; Version: 2023.0210.2309.39
+; Last modified: 11 Feb 2023 23:11 UTC
+; Version: 2023.0211.2311.26
 ; Syntax: RPZ
-; Domains: 1303
+; Domains: 1292
 ;
 vpn.ac CNAME .
 *.vpn.ac CNAME .
@@ -905,8 +905,6 @@ proxycloyd.com CNAME .
 *.proxycloyd.com CNAME .
 proxyfish.com CNAME .
 *.proxyfish.com CNAME .
-proxyflows.com CNAME .
-*.proxyflows.com CNAME .
 proxylistpro.com CNAME .
 *.proxylistpro.com CNAME .
 proxymesh.com CNAME .
@@ -951,8 +949,6 @@ racevpn.com CNAME .
 *.racevpn.com CNAME .
 radmin-vpn.com CNAME .
 *.radmin-vpn.com CNAME .
-realanonproxy.com CNAME .
-*.realanonproxy.com CNAME .
 remotedesktop.com CNAME .
 *.remotedesktop.com CNAME .
 rethinkdns.com CNAME .
@@ -1401,8 +1397,6 @@ incloak.es CNAME .
 *.incloak.es CNAME .
 dns.paesa.es CNAME .
 *.dns.paesa.es CNAME .
-proxysit.es CNAME .
-*.proxysit.es CNAME .
 ultrasurf.es CNAME .
 *.ultrasurf.es CNAME .
 dns0.eu CNAME .
@@ -1585,26 +1579,12 @@ provpn.info CNAME .
 *.provpn.info CNAME .
 proxite.info CNAME .
 *.proxite.info CNAME .
-proxy-2015.info CNAME .
-*.proxy-2015.info CNAME .
 proxy-internet.info CNAME .
 *.proxy-internet.info CNAME .
-proxybeud.info CNAME .
-*.proxybeud.info CNAME .
 proxybrowse.info CNAME .
 *.proxybrowse.info CNAME .
 proxygogo.info CNAME .
 *.proxygogo.info CNAME .
-proxyportals.info CNAME .
-*.proxyportals.info CNAME .
-proxysurfers.info CNAME .
-*.proxysurfers.info CNAME .
-proxythis.info CNAME .
-*.proxythis.info CNAME .
-quickvpn.info CNAME .
-*.quickvpn.info CNAME .
-rosendaproxy.info CNAME .
-*.rosendaproxy.info CNAME .
 saoudiproxy.info CNAME .
 *.saoudiproxy.info CNAME .
 simplevpn.info CNAME .
@@ -2605,8 +2585,6 @@ panyyhh.xyz CNAME .
 *.panyyhh.xyz CNAME .
 panzend.xyz CNAME .
 *.panzend.xyz CNAME .
-pinkproxy.xyz CNAME .
-*.pinkproxy.xyz CNAME .
 vpn-server.xyz CNAME .
 *.vpn-server.xyz CNAME .
 surfshark.co.za CNAME .

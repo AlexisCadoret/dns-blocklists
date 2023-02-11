@@ -4,10 +4,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 10 Feb 2023 23:09 UTC
-# Version: 2023.0210.2309.39
+# Last modified: 11 Feb 2023 23:11 UTC
+# Version: 2023.0211.2311.26
 # Syntax: DNSMasq
-# Domains: 1303
+# Domains: 1292
 #
 address=/0000a-fast-proxy.de/#
 address=/012proxy.ga/#
@@ -754,7 +754,6 @@ address=/dot.northeu.pi-dns.com/#
 address=/doh.westeu.pi-dns.com/#
 address=/doh.westus.pi-dns.com/#
 address=/dot.westus.pi-dns.com/#
-address=/pinkproxy.xyz/#
 address=/piraproxy.org/#
 address=/pixelprivacy.com/#
 address=/pkproxy.info/#
@@ -811,7 +810,6 @@ address=/proxy.lol/#
 address=/proxy.org/#
 address=/proxy.sh/#
 address=/proxy-2014.com/#
-address=/proxy-2015.info/#
 address=/proxy-anywhere.com/#
 address=/proxy-bypass.com/#
 address=/proxy-deal.net/#
@@ -822,7 +820,6 @@ address=/proxy-youtube.com/#
 address=/proxy2014.net/#
 address=/proxy4freedom.com/#
 address=/proxy7.club/#
-address=/proxybeud.info/#
 address=/proxyboost.net/#
 address=/proxybox.ru/#
 address=/proxybrowse.info/#
@@ -831,7 +828,6 @@ address=/proxycloud.net/#
 address=/proxycloyd.com/#
 address=/proxyfactory.io/#
 address=/proxyfish.com/#
-address=/proxyflows.com/#
 address=/proxyfor.eu/#
 address=/proxyfree.org/#
 address=/proxygogo.info/#
@@ -844,7 +840,6 @@ address=/proxynova.com/#
 address=/proxyof.com/#
 address=/proxyone.net/#
 address=/proxypirates.com/#
-address=/proxyportals.info/#
 address=/proxypremium.top/#
 address=/proxypx.com/#
 address=/proxypy.org/#
@@ -852,7 +847,6 @@ address=/proxys.pw/#
 address=/proxyscrape.com/#
 address=/proxyserver.com/#
 address=/proxyserverlist24.top/#
-address=/proxysit.es/#
 address=/proxysite.cloud/#
 address=/proxysite.club/#
 address=/proxysite.com/#
@@ -861,8 +855,6 @@ address=/proxysite.one/#
 address=/proxysite.top/#
 address=/proxysite.video/#
 address=/proxysneak.com/#
-address=/proxysurfers.info/#
-address=/proxythis.info/#
 address=/proxyturbo.com/#
 address=/proxyunblock.site/#
 address=/proxyunblocker.org/#
@@ -882,14 +874,12 @@ address=/quad9.net/#
 address=/doh.quickline.ch/#
 address=/dot.quickline.ch/#
 address=/quickprox.com/#
-address=/quickvpn.info/#
 address=/quintex.com/#
 address=/ra4wvpn.com/#
 address=/rabbithole.site/#
 address=/racevpn.com/#
 address=/radmin-vpn.com/#
 address=/rapidproxy.us/#
-address=/realanonproxy.com/#
 address=/relayon.org/#
 address=/remotedesktop.com/#
 address=/kaitain.restena.lu/#
@@ -897,7 +887,6 @@ address=/rethinkdns.com/#
 address=/doh.rezhajul.io/#
 address=/ringvpn.com/#
 address=/ronfeed.com/#
-address=/rosendaproxy.info/#
 address=/rsocks.net/#
 address=/dns.rubyfish.cn/#
 address=/ea-dns.rubyfish.cn/#
