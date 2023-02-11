@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.fake. hostmaster.hagezi.fake. 1676070000 86400 3600 604800 30
+@ SOA rpz.hagezi.fake. hostmaster.hagezi.fake. 1676156400 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 30
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ; Expires: Updated regularly
-; Last modified: 10 Feb 2023 23:15 UTC
-; Version: 2023.0210.2315.52
+; Last modified: 11 Feb 2023 23:17 UTC
+; Version: 2023.0211.2317.39
 ; Syntax: RPZ
-; Domains: 5303
+; Domains: 5267
 ;
 1euro.at CNAME .
 *.1euro.at CNAME .
@@ -589,8 +589,6 @@ richtigwillig.at CNAME .
 *.richtigwillig.at CNAME .
 riverfront.at CNAME .
 *.riverfront.at CNAME .
-rohr-reinigung24.at CNAME .
-*.rohr-reinigung24.at CNAME .
 rohrreinigung--24.at CNAME .
 *.rohrreinigung--24.at CNAME .
 rohrreinigung24-7.at CNAME .
@@ -867,8 +865,6 @@ premiumcasualdating.ch CNAME .
 *.premiumcasualdating.ch CNAME .
 premiumpartnersuche.ch CNAME .
 *.premiumpartnersuche.ch CNAME .
-rezeptfrei-apotheke.ch CNAME .
-*.rezeptfrei-apotheke.ch CNAME .
 richtigwillig.ch CNAME .
 *.richtigwillig.ch CNAME .
 saremco-cosmetics.ch CNAME .
@@ -4203,8 +4199,6 @@ planetatrueque.com CNAME .
 *.planetatrueque.com CNAME .
 plasmaoracleglobalex.com CNAME .
 *.plasmaoracleglobalex.com CNAME .
-platz-brennholz.com CNAME .
-*.platz-brennholz.com CNAME .
 platzstores.com CNAME .
 *.platzstores.com CNAME .
 playsdom.com CNAME .
@@ -4375,14 +4369,10 @@ rakharo.com CNAME .
 *.rakharo.com CNAME .
 rangpoa.com CNAME .
 *.rangpoa.com CNAME .
-ranjnagupta.com CNAME .
-*.ranjnagupta.com CNAME .
 rapidprotrades.com CNAME .
 *.rapidprotrades.com CNAME .
 rareplantworld.com CNAME .
 *.rareplantworld.com CNAME .
-rasengarten.com CNAME .
-*.rasengarten.com CNAME .
 ratemyaxe.com CNAME .
 *.ratemyaxe.com CNAME .
 rawchanger.com CNAME .
@@ -4443,8 +4433,6 @@ retrocyclingtops.com CNAME .
 *.retrocyclingtops.com CNAME .
 reve-logistic.com CNAME .
 *.reve-logistic.com CNAME .
-revients.com CNAME .
-*.revients.com CNAME .
 rezeptfrei-24.com CNAME .
 *.rezeptfrei-24.com CNAME .
 rgoconnell.com CNAME .
@@ -4475,10 +4463,6 @@ rise-property.com CNAME .
 *.rise-property.com CNAME .
 ritter-mode.com CNAME .
 *.ritter-mode.com CNAME .
-rkorteo.com CNAME .
-*.rkorteo.com CNAME .
-rkzhb.com CNAME .
-*.rkzhb.com CNAME .
 robbylake.com CNAME .
 *.robbylake.com CNAME .
 rocolee.com CNAME .
@@ -4521,8 +4505,6 @@ rpakpurna.com CNAME .
 *.rpakpurna.com CNAME .
 rspasian.com CNAME .
 *.rspasian.com CNAME .
-rtcmarkt.com CNAME .
-*.rtcmarkt.com CNAME .
 rubyfo.com CNAME .
 *.rubyfo.com CNAME .
 ruckusclothing.com CNAME .
@@ -4547,8 +4529,6 @@ sagstern.com CNAME .
 *.sagstern.com CNAME .
 sakaziq.com CNAME .
 *.sakaziq.com CNAME .
-salcarriers.com CNAME .
-*.salcarriers.com CNAME .
 saleshyanne.com CNAME .
 *.saleshyanne.com CNAME .
 salestnf.com CNAME .
@@ -4589,8 +4569,6 @@ santo-vermoegen.com CNAME .
 *.santo-vermoegen.com CNAME .
 sanukdeutschland.com CNAME .
 *.sanukdeutschland.com CNAME .
-saritapiotrowski.com CNAME .
-*.saritapiotrowski.com CNAME .
 sarvamits.com CNAME .
 *.sarvamits.com CNAME .
 saturn-markt.com CNAME .
@@ -4599,10 +4577,6 @@ sauconydeutschland.com CNAME .
 *.sauconydeutschland.com CNAME .
 sauconylaufschuhe.com CNAME .
 *.sauconylaufschuhe.com CNAME .
-savcarv.com CNAME .
-*.savcarv.com CNAME .
-saweushop.com CNAME .
-*.saweushop.com CNAME .
 scarpaschuhewien.com CNAME .
 *.scarpaschuhewien.com CNAME .
 schiltach-brennholz.com CNAME .
@@ -4619,8 +4593,6 @@ schmitt-drogerie.com CNAME .
 *.schmitt-drogerie.com CNAME .
 schmutzigesgeheimnis.com CNAME .
 *.schmutzigesgeheimnis.com CNAME .
-schnellhilfekredit.com CNAME .
-*.schnellhilfekredit.com CNAME .
 schroedern.com CNAME .
 *.schroedern.com CNAME .
 schuhekaufenwien.com CNAME .
@@ -4637,10 +4609,6 @@ secrettowin.com CNAME .
 *.secrettowin.com CNAME .
 sefmgift.com CNAME .
 *.sefmgift.com CNAME .
-seidmantox.com CNAME .
-*.seidmantox.com CNAME .
-seikaffee.com CNAME .
-*.seikaffee.com CNAME .
 seiteeintragen.com CNAME .
 *.seiteeintragen.com CNAME .
 seitensprung-direkt.com CNAME .
@@ -4655,8 +4623,6 @@ seprun.com CNAME .
 *.seprun.com CNAME .
 sepshoe.com CNAME .
 *.sepshoe.com CNAME .
-seravuy.com CNAME .
-*.seravuy.com CNAME .
 serendipity-parties.com CNAME .
 *.serendipity-parties.com CNAME .
 serishirts.com CNAME .
@@ -4737,8 +4703,6 @@ sielyss.com CNAME .
 *.sielyss.com CNAME .
 sikarint.com CNAME .
 *.sikarint.com CNAME .
-sikatechnologie.com CNAME .
-*.sikatechnologie.com CNAME .
 silkbers.com CNAME .
 *.silkbers.com CNAME .
 sima-trans.com CNAME .
@@ -4809,8 +4773,6 @@ spherecryptos.com CNAME .
 *.spherecryptos.com CNAME .
 spieleund-konsolen.com CNAME .
 *.spieleund-konsolen.com CNAME .
-spielzeug-schuster.com CNAME .
-*.spielzeug-schuster.com CNAME .
 spilavizer.com CNAME .
 *.spilavizer.com CNAME .
 spirelove.com CNAME .
@@ -4823,8 +4785,6 @@ sports-ha.com CNAME .
 *.sports-ha.com CNAME .
 sprayitonyou.com CNAME .
 *.sprayitonyou.com CNAME .
-sprint-market.com CNAME .
-*.sprint-market.com CNAME .
 spyder-outlet.com CNAME .
 *.spyder-outlet.com CNAME .
 spyxe.com CNAME .
@@ -8269,8 +8229,6 @@ posner-shop.de CNAME .
 *.posner-shop.de CNAME .
 potenz-kaufhaus.de CNAME .
 *.potenz-kaufhaus.de CNAME .
-pottenmoor.de CNAME .
-*.pottenmoor.de CNAME .
 powergamestop.de CNAME .
 *.powergamestop.de CNAME .
 powersol.de CNAME .
@@ -8297,16 +8255,10 @@ printyourgesicht24.de CNAME .
 *.printyourgesicht24.de CNAME .
 privatpraxis-gyn.de CNAME .
 *.privatpraxis-gyn.de CNAME .
-pro-ben.de CNAME .
-*.pro-ben.de CNAME .
 profimatics.de CNAME .
 *.profimatics.de CNAME .
 proseccotrex.de CNAME .
 *.proseccotrex.de CNAME .
-protectgreen.de CNAME .
-*.protectgreen.de CNAME .
-pskonsolen.de CNAME .
-*.pskonsolen.de CNAME .
 psyconsilium.de CNAME .
 *.psyconsilium.de CNAME .
 psyges.de CNAME .
@@ -8365,8 +8317,6 @@ realchems.de CNAME .
 *.realchems.de CNAME .
 realflix.de CNAME .
 *.realflix.de CNAME .
-reborntraumland.de CNAME .
-*.reborntraumland.de CNAME .
 rechtsanwalt-eickelberg.de CNAME .
 *.rechtsanwalt-eickelberg.de CNAME .
 redflix.de CNAME .
@@ -8427,8 +8377,6 @@ rhein-entree.de CNAME .
 *.rhein-entree.de CNAME .
 rhein-trends24.de CNAME .
 *.rhein-trends24.de CNAME .
-rheinarche.de CNAME .
-*.rheinarche.de CNAME .
 rheineule.de CNAME .
 *.rheineule.de CNAME .
 rheintulpen.de CNAME .
@@ -8439,8 +8387,6 @@ rheumatopia.de CNAME .
 *.rheumatopia.de CNAME .
 richtigwillig.de CNAME .
 *.richtigwillig.de CNAME .
-riedlingen-fewo.de CNAME .
-*.riedlingen-fewo.de CNAME .
 riege-bonbonladenundfeines.de CNAME .
 *.riege-bonbonladenundfeines.de CNAME .
 riekeroutlet.de CNAME .
@@ -8509,12 +8455,8 @@ ruvello.de CNAME .
 *.ruvello.de CNAME .
 rww-minis.de CNAME .
 *.rww-minis.de CNAME .
-salesconsulter.de CNAME .
-*.salesconsulter.de CNAME .
 sallofino.de CNAME .
 *.sallofino.de CNAME .
-salomonschuheoutlet.de CNAME .
-*.salomonschuheoutlet.de CNAME .
 samofotografie.de CNAME .
 *.samofotografie.de CNAME .
 sandra-schwarz.de CNAME .
@@ -8687,8 +8629,6 @@ solar-traum.de CNAME .
 *.solar-traum.de CNAME .
 solargiebel.de CNAME .
 *.solargiebel.de CNAME .
-solonix.de CNAME .
-*.solonix.de CNAME .
 solovairde.de CNAME .
 *.solovairde.de CNAME .
 sonnesucht.de CNAME .
@@ -8701,8 +8641,6 @@ soulwhoppers.de CNAME .
 *.soulwhoppers.de CNAME .
 sowaswillichauch.de CNAME .
 *.sowaswillichauch.de CNAME .
-spacebuds.de CNAME .
-*.spacebuds.de CNAME .
 spaceshine.de CNAME .
 *.spaceshine.de CNAME .
 spar-markt.de CNAME .
@@ -10115,8 +10053,6 @@ whs-shop.ru CNAME .
 *.whs-shop.ru CNAME .
 yenisei-sport.ru CNAME .
 *.yenisei-sport.ru CNAME .
-resa-sista-minuten.se CNAME .
-*.resa-sista-minuten.se CNAME .
 vimosa.se CNAME .
 *.vimosa.se CNAME .
 worldwidemoving.sg CNAME .
@@ -10465,26 +10401,18 @@ pkgqybz.top CNAME .
 *.pkgqybz.top CNAME .
 pkuctg.top CNAME .
 *.pkuctg.top CNAME .
-proappshow.top CNAME .
-*.proappshow.top CNAME .
 puniatory.top CNAME .
 *.puniatory.top CNAME .
 qakppo.top CNAME .
 *.qakppo.top CNAME .
-reyhaloj.top CNAME .
-*.reyhaloj.top CNAME .
 rheokth.top CNAME .
 *.rheokth.top CNAME .
 rhnzo.top CNAME .
 *.rhnzo.top CNAME .
-rnobudz.top CNAME .
-*.rnobudz.top CNAME .
 shaxu.top CNAME .
 *.shaxu.top CNAME .
 simulward.top CNAME .
 *.simulward.top CNAME .
-ssobkhabar.top CNAME .
-*.ssobkhabar.top CNAME .
 subifyl.top CNAME .
 *.subifyl.top CNAME .
 tragolafy.top CNAME .
