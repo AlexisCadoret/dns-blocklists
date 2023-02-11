@@ -3,16 +3,15 @@
 ! Homepage: https://github.com/hagezi/dns-blocklists
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: Updated regularly
-! Last modified: 08 Feb 2023 23:03 UTC
-! Version: 2023.0208.2303.21
+! Last modified: 11 Feb 2023 23:10 UTC
+! Version: 2023.0211.2310.22
 ! Syntax: AdBlock
-! Domains: 149
+! Domains: 143
 !
 ||search.0xcb.dev^
 ||searx.32bitflo.at^
 ||search.activemail.de^
 ||haku.ahmia.fi^
-||searx.alec.ninja^
 ||zoek.anchel.nl^
 ||search.anonymize.com^
 ||recherche.aol.fr^
@@ -33,7 +32,6 @@
 ||suche.dasnetzundich.de^
 ||searx.decatec.de^
 ||searx.deepak.pro^
-||searx.devol.it^
 ||search.disroot.org^
 ||dogpile.com^
 ||searx.dojocasts.com^
@@ -96,7 +94,6 @@
 ||searx.nixnet.services^
 ||timdor.noip.me^
 ||null.media^
-||searx.openhoofd.nl^
 ||searx.openpandora.org^
 ||search.opentunisia.org^
 ||openworlds.info^
@@ -115,7 +112,6 @@
 ||roteserver.de^
 ||searchencrypt.com^
 ||searchx.mobi^
-||searx.bar^
 ||searx.be^
 ||searx.ch^
 ||searx.info^
@@ -133,8 +129,6 @@
 ||searx.semipvt.com^
 ||searx.simonoener.com^
 ||skyn3t.in^
-||searx.slash-dev.de^
-||search.snopyta.org^
 ||searx.solusar.de^
 ||searx.sp-codes.de^
 ||search.spaeth.me^

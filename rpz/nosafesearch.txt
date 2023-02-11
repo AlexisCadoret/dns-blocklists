@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.nosafesearch. hostmaster.hagezi.nosafesearch. 1676070000 86400 3600 604800 30
+@ SOA rpz.hagezi.nosafesearch. hostmaster.hagezi.nosafesearch. 1676156400 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's safesearch not supported DNS Blocklist
@@ -7,10 +7,10 @@ $TTL 30
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: Updated regularly
-; Last modified: 08 Feb 2023 23:03 UTC
-; Version: 2023.0208.2303.21
+; Last modified: 11 Feb 2023 23:10 UTC
+; Version: 2023.0211.2310.22
 ; Syntax: RPZ
-; Domains: 149
+; Domains: 143
 ;
 searx.32bitflo.at CNAME .
 *.searx.32bitflo.at CNAME .
@@ -18,8 +18,6 @@ search.st8.at CNAME .
 *.search.st8.at CNAME .
 searx.com.au CNAME .
 *.searx.com.au CNAME .
-searx.bar CNAME .
-*.searx.bar CNAME .
 searx.be CNAME .
 *.searx.be CNAME .
 search.aol.ca CNAME .
@@ -130,8 +128,6 @@ perfectpixel.de CNAME .
 *.perfectpixel.de CNAME .
 roteserver.de CNAME .
 *.roteserver.de CNAME .
-searx.slash-dev.de CNAME .
-*.searx.slash-dev.de CNAME .
 searx.solusar.de CNAME .
 *.searx.solusar.de CNAME .
 searx.sp-codes.de CNAME .
@@ -182,8 +178,6 @@ search.privacytools.io CNAME .
 *.search.privacytools.io CNAME .
 searx.ir CNAME .
 *.searx.ir CNAME .
-searx.devol.it CNAME .
-*.searx.devol.it CNAME .
 websearch.excite.co.jp CNAME .
 *.websearch.excite.co.jp CNAME .
 searx.foo.li CNAME .
@@ -216,16 +210,12 @@ searx.zdechov.net CNAME .
 *.searx.zdechov.net CNAME .
 searx.dresden.network CNAME .
 *.searx.dresden.network CNAME .
-searx.alec.ninja CNAME .
-*.searx.alec.ninja CNAME .
 searx.ninja CNAME .
 *.searx.ninja CNAME .
 zoek.anchel.nl CNAME .
 *.zoek.anchel.nl CNAME .
 metasearch.nl CNAME .
 *.metasearch.nl CNAME .
-searx.openhoofd.nl CNAME .
-*.searx.openhoofd.nl CNAME .
 search.seds.nl CNAME .
 *.search.seds.nl CNAME .
 searx.tyil.nl CNAME .
@@ -266,8 +256,6 @@ searx.pwoss.org CNAME .
 *.searx.pwoss.org CNAME .
 searx.org CNAME .
 *.searx.org CNAME .
-search.snopyta.org CNAME .
-*.search.snopyta.org CNAME .
 search.stinpriza.org CNAME .
 *.search.stinpriza.org CNAME .
 searx.thegreenwebfoundation.org CNAME .

@@ -3,16 +3,15 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 08 Feb 2023 23:03 UTC
-# Version: 2023.0208.2303.21
+# Last modified: 11 Feb 2023 23:10 UTC
+# Version: 2023.0211.2310.22
 # Syntax: DNSMasq
-# Domains: 149
+# Domains: 143
 #
 address=/search.0xcb.dev/#
 address=/searx.32bitflo.at/#
 address=/search.activemail.de/#
 address=/haku.ahmia.fi/#
-address=/searx.alec.ninja/#
 address=/zoek.anchel.nl/#
 address=/search.anonymize.com/#
 address=/recherche.aol.fr/#
@@ -33,7 +32,6 @@ address=/darmarit.org/#
 address=/suche.dasnetzundich.de/#
 address=/searx.decatec.de/#
 address=/searx.deepak.pro/#
-address=/searx.devol.it/#
 address=/search.disroot.org/#
 address=/dogpile.com/#
 address=/searx.dojocasts.com/#
@@ -96,7 +94,6 @@ address=/nigma.eu/#
 address=/searx.nixnet.services/#
 address=/timdor.noip.me/#
 address=/null.media/#
-address=/searx.openhoofd.nl/#
 address=/searx.openpandora.org/#
 address=/search.opentunisia.org/#
 address=/openworlds.info/#
@@ -115,7 +112,6 @@ address=/wtf.roflcopter.fr/#
 address=/roteserver.de/#
 address=/searchencrypt.com/#
 address=/searchx.mobi/#
-address=/searx.bar/#
 address=/searx.be/#
 address=/searx.ch/#
 address=/searx.info/#
@@ -133,8 +129,6 @@ address=/search.seds.nl/#
 address=/searx.semipvt.com/#
 address=/searx.simonoener.com/#
 address=/skyn3t.in/#
-address=/searx.slash-dev.de/#
-address=/search.snopyta.org/#
 address=/searx.solusar.de/#
 address=/searx.sp-codes.de/#
 address=/search.spaeth.me/#
