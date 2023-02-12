@@ -4,10 +4,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 12 Feb 2023 09:58 UTC
-# Version: 2023.0212.0958.18
+# Last modified: 12 Feb 2023 17:11 UTC
+# Version: 2023.0212.1711.46
 # Syntax: DNSMasq
-# Domains: 1288
+# Domains: 1285
 #
 address=/0000a-fast-proxy.de/#
 address=/012proxy.ga/#
@@ -1095,7 +1095,6 @@ address=/unblock123.com/#
 address=/unblockaccess.com/#
 address=/unblockanything.com/#
 address=/unblockblocked.net/#
-address=/unblockblog.info/#
 address=/unblockbook.biz/#
 address=/unblocked.llc/#
 address=/unblocked.me/#
@@ -1103,7 +1102,6 @@ address=/unblocked.vip/#
 address=/unblocker.net/#
 address=/unblocker.us/#
 address=/unblockfreeproxy.com/#
-address=/unblockit.app/#
 address=/unblockit.club/#
 address=/unblockit.link/#
 address=/unblockit.ltd/#
@@ -1131,7 +1129,6 @@ address=/undofilters.com/#
 address=/unifiedvpn.com/#
 address=/unknownproxy.com/#
 address=/unlimitedvpnapp.com/#
-address=/unrestrict.me/#
 address=/unrestrictedsurf.com/#
 address=/ur-browser.com/#
 address=/urban-vpn.com/#

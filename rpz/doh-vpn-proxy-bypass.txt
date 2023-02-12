@@ -8,10 +8,10 @@ $TTL 30
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: Updated regularly
-; Last modified: 12 Feb 2023 09:58 UTC
-; Version: 2023.0212.0958.18
+; Last modified: 12 Feb 2023 17:11 UTC
+; Version: 2023.0212.1711.46
 ; Syntax: RPZ
-; Domains: 1288
+; Domains: 1285
 ;
 vpn.ac CNAME .
 *.vpn.ac CNAME .
@@ -27,8 +27,6 @@ dot.tiar.app CNAME .
 *.dot.tiar.app CNAME .
 jp.tiar.app CNAME .
 *.jp.tiar.app CNAME .
-unblockit.app CNAME .
-*.unblockit.app CNAME .
 vpnproxymaster.app CNAME .
 *.vpnproxymaster.app CNAME .
 vpnsuper.app CNAME .
@@ -1593,8 +1591,6 @@ thecheapvpn.info CNAME .
 *.thecheapvpn.info CNAME .
 travelvpn.info CNAME .
 *.travelvpn.info CNAME .
-unblockblog.info CNAME .
-*.unblockblog.info CNAME .
 usafastproxy.info CNAME .
 *.usafastproxy.info CNAME .
 usproxies.info CNAME .
@@ -1771,8 +1767,6 @@ unblocked.me CNAME .
 *.unblocked.me CNAME .
 unblockproxy.me CNAME .
 *.unblockproxy.me CNAME .
-unrestrict.me CNAME .
-*.unrestrict.me CNAME .
 uvpn.me CNAME .
 *.uvpn.me CNAME .
 vpnme.me CNAME .

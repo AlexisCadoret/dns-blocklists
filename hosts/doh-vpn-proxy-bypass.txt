@@ -4,10 +4,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 12 Feb 2023 09:58 UTC
-# Version: 2023.0212.0958.18
+# Last modified: 12 Feb 2023 17:11 UTC
+# Version: 2023.0212.1711.46
 # Syntax: Hosts
-# Domains: 1406
+# Domains: 1403
 #
 0.0.0.0 0000a-fast-proxy.de
 0.0.0.0 012proxy.ga
@@ -1207,7 +1207,6 @@
 0.0.0.0 unblockaccess.com
 0.0.0.0 unblockanything.com
 0.0.0.0 unblockblocked.net
-0.0.0.0 unblockblog.info
 0.0.0.0 unblockbook.biz
 0.0.0.0 unblocked.llc
 0.0.0.0 unblocked.me
@@ -1215,7 +1214,6 @@
 0.0.0.0 unblocker.net
 0.0.0.0 unblocker.us
 0.0.0.0 unblockfreeproxy.com
-0.0.0.0 unblockit.app
 0.0.0.0 unblockit.club
 0.0.0.0 unblockit.link
 0.0.0.0 unblockit.ltd
@@ -1247,7 +1245,6 @@
 0.0.0.0 unifiedvpn.com
 0.0.0.0 unknownproxy.com
 0.0.0.0 unlimitedvpnapp.com
-0.0.0.0 unrestrict.me
 0.0.0.0 unrestrictedsurf.com
 0.0.0.0 ur-browser.com
 0.0.0.0 urban-vpn.com
