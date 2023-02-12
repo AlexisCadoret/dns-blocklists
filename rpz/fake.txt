@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.fake. hostmaster.hagezi.fake. 1676156400 86400 3600 604800 30
+@ SOA rpz.hagezi.fake. hostmaster.hagezi.fake. 1676242800 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 30
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ; Expires: Updated regularly
-; Last modified: 12 Feb 2023 17:17 UTC
-; Version: 2023.0212.1717.52
+; Last modified: 12 Feb 2023 23:16 UTC
+; Version: 2023.0212.2316.12
 ; Syntax: RPZ
-; Domains: 5237
+; Domains: 5231
 ;
 1euro.at CNAME .
 *.1euro.at CNAME .
@@ -967,8 +967,6 @@ vipmakeup.club CNAME .
 *.vipmakeup.club CNAME .
 wearfashion.club CNAME .
 *.wearfashion.club CNAME .
-windwoodsigh.club CNAME .
-*.windwoodsigh.club CNAME .
 yourgadgets.club CNAME .
 *.yourgadgets.club CNAME .
 eu.2bagsvalley.cn CNAME .
@@ -5419,16 +5417,12 @@ werkolindo.com CNAME .
 *.werkolindo.com CNAME .
 werkorinos.com CNAME .
 *.werkorinos.com CNAME .
-werkzeug-online-kaufen.com CNAME .
-*.werkzeug-online-kaufen.com CNAME .
 werkzeug-store24gmbh.com CNAME .
 *.werkzeug-store24gmbh.com CNAME .
 werkzeugfahrrad.com CNAME .
 *.werkzeugfahrrad.com CNAME .
 westshares.com CNAME .
 *.westshares.com CNAME .
-weuayshop.com CNAME .
-*.weuayshop.com CNAME .
 wgl-europetransport.com CNAME .
 *.wgl-europetransport.com CNAME .
 wholesale-burberry.com CNAME .
@@ -9141,8 +9135,6 @@ werino.de CNAME .
 *.werino.de CNAME .
 werkzeug-haus.de CNAME .
 *.werkzeug-haus.de CNAME .
-werkzeug-zuhr.de CNAME .
-*.werkzeug-zuhr.de CNAME .
 wernerzapp.de CNAME .
 *.wernerzapp.de CNAME .
 wetting.de CNAME .
@@ -10237,8 +10229,6 @@ vandder.store CNAME .
 *.vandder.store CNAME .
 vansesshop.store CNAME .
 *.vansesshop.store CNAME .
-winterangebote.store CNAME .
-*.winterangebote.store CNAME .
 wonderbacks.store CNAME .
 *.wonderbacks.store CNAME .
 kkiste.su CNAME .
@@ -10385,8 +10375,6 @@ whecler.top CNAME .
 *.whecler.top CNAME .
 whsyspa.top CNAME .
 *.whsyspa.top CNAME .
-wmusify.top CNAME .
-*.wmusify.top CNAME .
 xsanrashop.top CNAME .
 *.xsanrashop.top CNAME .
 zdcome.top CNAME .
