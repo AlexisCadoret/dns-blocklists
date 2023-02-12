@@ -8,10 +8,10 @@ $TTL 30
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ; Expires: Updated regularly
-; Last modified: 12 Feb 2023 10:04 UTC
-; Version: 2023.0212.1004.42
+; Last modified: 12 Feb 2023 17:17 UTC
+; Version: 2023.0212.1717.52
 ; Syntax: RPZ
-; Domains: 5248
+; Domains: 5237
 ;
 1euro.at CNAME .
 *.1euro.at CNAME .
@@ -5221,24 +5221,14 @@ uniqdsn.com CNAME .
 *.uniqdsn.com CNAME .
 unity-real.com CNAME .
 *.unity-real.com CNAME .
-univerheizung.com CNAME .
-*.univerheizung.com CNAME .
 universalbundle.com CNAME .
 *.universalbundle.com CNAME .
-untilya.com CNAME .
-*.untilya.com CNAME .
-ununrr.com CNAME .
-*.ununrr.com CNAME .
 upsolutmv.com CNAME .
 *.upsolutmv.com CNAME .
 urban-transporte.com CNAME .
 *.urban-transporte.com CNAME .
 urbanpodspro.com CNAME .
 *.urbanpodspro.com CNAME .
-urvoustyle.com CNAME .
-*.urvoustyle.com CNAME .
-urvousx.com CNAME .
-*.urvousx.com CNAME .
 coachoutlet-online.us.com CNAME .
 *.coachoutlet-online.us.com CNAME .
 michael-korsbags.us.com CNAME .
@@ -5319,10 +5309,6 @@ vibramsandalende.com CNAME .
 *.vibramsandalende.com CNAME .
 viccitallis.com CNAME .
 *.viccitallis.com CNAME .
-videospiele-konsolen.com CNAME .
-*.videospiele-konsolen.com CNAME .
-vigo-transportspedition.com CNAME .
-*.vigo-transportspedition.com CNAME .
 vincentteh.com CNAME .
 *.vincentteh.com CNAME .
 vinusnow.com CNAME .
@@ -9043,8 +9029,6 @@ vilow.de CNAME .
 *.vilow.de CNAME .
 vinemos.de CNAME .
 *.vinemos.de CNAME .
-vionicdeutschland.de CNAME .
-*.vionicdeutschland.de CNAME .
 virany.de CNAME .
 *.virany.de CNAME .
 virdigo-reifen.de CNAME .
@@ -9057,8 +9041,6 @@ vital-rezeptfrei.de CNAME .
 *.vital-rezeptfrei.de CNAME .
 vitalis-pankratius.de CNAME .
 *.vitalis-pankratius.de CNAME .
-vitamin-schmiede24.de CNAME .
-*.vitamin-schmiede24.de CNAME .
 vite-envogue.de CNAME .
 *.vite-envogue.de CNAME .
 viva-med.de CNAME .
@@ -9561,8 +9543,6 @@ special-gift.it CNAME .
 *.special-gift.it CNAME .
 venacquaro.it CNAME .
 *.venacquaro.it CNAME .
-vincenzosantoriello.it CNAME .
-*.vincenzosantoriello.it CNAME .
 koretrak.kaufen CNAME .
 *.koretrak.kaufen CNAME .
 replicauhren.kaufen CNAME .
@@ -10257,8 +10237,6 @@ vandder.store CNAME .
 *.vandder.store CNAME .
 vansesshop.store CNAME .
 *.vansesshop.store CNAME .
-varonet.store CNAME .
-*.varonet.store CNAME .
 winterangebote.store CNAME .
 *.winterangebote.store CNAME .
 wonderbacks.store CNAME .
