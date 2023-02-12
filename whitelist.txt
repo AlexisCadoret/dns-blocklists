@@ -2443,3 +2443,6 @@ tmx.bestbuy.com
 # https://github.com/hagezi/dns-blocklists/issues/328
 trust-provider.com
 
+# Azure Log Analytics Workspace (KQL)
+api.loganalytics.io
+
