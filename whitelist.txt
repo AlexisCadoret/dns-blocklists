@@ -2435,6 +2435,7 @@ eazy.de
 # edilnet.it
 
 # Breaks national radio-television organization's VOD portal - https://365.rtvslo.si
+# Videos Rifftrax channel on Roku
 cdn.jwplayer.com
 
 # https://github.com/hagezi/dns-blocklists/issues/326
@@ -2445,4 +2446,15 @@ trust-provider.com
 
 # Azure Log Analytics Workspace (KQL)
 api.loganalytics.io
+
+# Rifftrax channel on Roku will not start
+assets-secure.applicaster.com
+
+# Embedded TikTok
+mcs-va.tiktok.com
+mcs-va.tiktok.com.edgekey.net
+e35058.api3.akamaiedge.net
+
+# Live Chat on https://www.coextro.com/
+tawk.to
 

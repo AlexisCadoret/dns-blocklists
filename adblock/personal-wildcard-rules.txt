@@ -499,6 +499,8 @@
 ||log*.tiktokv.com^
 ||mcs*.snssdk.com^
 ||mcs*.tiktok.com^
+! Embedded TikTok
+@@||mcs-va.tiktok.com^
 ||mcs*.tiktokv.com^
 ||mon*.byteoversea.com^
 ||mon*.tiktokv.com^
