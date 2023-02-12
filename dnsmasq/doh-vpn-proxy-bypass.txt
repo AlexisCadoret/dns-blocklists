@@ -4,10 +4,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 11 Feb 2023 23:11 UTC
-# Version: 2023.0211.2311.26
+# Last modified: 12 Feb 2023 09:58 UTC
+# Version: 2023.0212.0958.18
 # Syntax: DNSMasq
-# Domains: 1292
+# Domains: 1288
 #
 address=/0000a-fast-proxy.de/#
 address=/012proxy.ga/#
@@ -620,7 +620,6 @@ address=/mofolinux.com/#
 address=/monthlyssh.net/#
 address=/monvpn.com/#
 address=/movieproxy.com/#
-address=/testpilot.r53-2.services.mozilla.com/#
 address=/vpn.mozilla.org/#
 address=/dns.mrkaran.dev/#
 address=/mullvad.net/#
@@ -984,7 +983,6 @@ address=/stealthvpn.com/#
 address=/stealthy.co/#
 address=/stop-block.com/#
 address=/stopcensoring.me/#
-address=/stormyproxy.info/#
 address=/strongvpn.com/#
 address=/stunnel.org/#
 address=/stupidproxy.com/#
@@ -1004,7 +1002,6 @@ address=/surfbouncer.com/#
 address=/surfeasy.com/#
 address=/surfly.com/#
 address=/surfmenow.com/#
-address=/surfproxyanywheresvpns.tk/#
 address=/surfproxyserver.com/#
 address=/surfshak.club/#
 address=/surfshark.app/#
@@ -1075,7 +1072,6 @@ address=/tubeprox.com/#
 address=/tubeunblock.me/#
 address=/tubeunblock.net/#
 address=/tunnelbear.com/#
-address=/tuntapproxy.info/#
 address=/turbohide.org/#
 address=/turbossh.com/#
 address=/turbovpn.com/#

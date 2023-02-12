@@ -4,10 +4,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 11 Feb 2023 23:11 UTC
-# Version: 2023.0211.2311.26
+# Last modified: 12 Feb 2023 09:58 UTC
+# Version: 2023.0212.0958.18
 # Syntax: Hosts
-# Domains: 1410
+# Domains: 1406
 #
 0.0.0.0 0000a-fast-proxy.de
 0.0.0.0 012proxy.ga
@@ -702,7 +702,6 @@
 0.0.0.0 monthlyssh.net
 0.0.0.0 monvpn.com
 0.0.0.0 movieproxy.com
-0.0.0.0 testpilot.r53-2.services.mozilla.com
 0.0.0.0 vpn.mozilla.org
 0.0.0.0 dns.mrkaran.dev
 0.0.0.0 mullvad.net
@@ -1093,7 +1092,6 @@
 0.0.0.0 stealthy.co
 0.0.0.0 stop-block.com
 0.0.0.0 stopcensoring.me
-0.0.0.0 stormyproxy.info
 0.0.0.0 strongvpn.com
 0.0.0.0 stunnel.org
 0.0.0.0 stupidproxy.com
@@ -1113,7 +1111,6 @@
 0.0.0.0 surfeasy.com
 0.0.0.0 surfly.com
 0.0.0.0 surfmenow.com
-0.0.0.0 surfproxyanywheresvpns.tk
 0.0.0.0 surfproxyserver.com
 0.0.0.0 surfshak.club
 0.0.0.0 surfshark.app
@@ -1187,7 +1184,6 @@
 0.0.0.0 tubeunblock.me
 0.0.0.0 tubeunblock.net
 0.0.0.0 tunnelbear.com
-0.0.0.0 tuntapproxy.info
 0.0.0.0 turbohide.org
 0.0.0.0 turbossh.com
 0.0.0.0 turbovpn.com

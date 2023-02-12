@@ -8,10 +8,10 @@ $TTL 30
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ; Expires: Updated regularly
-; Last modified: 11 Feb 2023 23:17 UTC
-; Version: 2023.0211.2317.39
+; Last modified: 12 Feb 2023 10:04 UTC
+; Version: 2023.0212.1004.42
 ; Syntax: RPZ
-; Domains: 5267
+; Domains: 5248
 ;
 1euro.at CNAME .
 *.1euro.at CNAME .
@@ -1049,8 +1049,6 @@ simplexe.co CNAME .
 *.simplexe.co CNAME .
 soloprime.co CNAME .
 *.soloprime.co CNAME .
-tedex.co CNAME .
-*.tedex.co CNAME .
 watchesstore.co CNAME .
 *.watchesstore.co CNAME .
 weltex.co CNAME .
@@ -1681,8 +1679,6 @@ calcaterrachallenge.com CNAME .
 *.calcaterrachallenge.com CNAME .
 calocalsale.com CNAME .
 *.calocalsale.com CNAME .
-camperberlin.com CNAME .
-*.camperberlin.com CNAME .
 canbrace.com CNAME .
 *.canbrace.com CNAME .
 canizaresarchitects.com CNAME .
@@ -4843,8 +4839,6 @@ storebbb.com CNAME .
 *.storebbb.com CNAME .
 strandkorbia.com CNAME .
 *.strandkorbia.com CNAME .
-strategic-expansion.com CNAME .
-*.strategic-expansion.com CNAME .
 strawberrymilkshop.com CNAME .
 *.strawberrymilkshop.com CNAME .
 streamlox.com CNAME .
@@ -4861,8 +4855,6 @@ studyzones.com CNAME .
 *.studyzones.com CNAME .
 stuffyinzerslike.com CNAME .
 *.stuffyinzerslike.com CNAME .
-style-sensation.com CNAME .
-*.style-sensation.com CNAME .
 stylebyjsf.com CNAME .
 *.stylebyjsf.com CNAME .
 stylegirllife.com CNAME .
@@ -4921,8 +4913,6 @@ taihand.com CNAME .
 *.taihand.com CNAME .
 tailorfactory.com CNAME .
 *.tailorfactory.com CNAME .
-taktischewelt.com CNAME .
-*.taktischewelt.com CNAME .
 tallerfelix.com CNAME .
 *.tallerfelix.com CNAME .
 tanghf.com CNAME .
@@ -4977,8 +4967,6 @@ testversand.com CNAME .
 *.testversand.com CNAME .
 tevassandalen.com CNAME .
 *.tevassandalen.com CNAME .
-tewzeny.com CNAME .
-*.tewzeny.com CNAME .
 texasdreamdolls.com CNAME .
 *.texasdreamdolls.com CNAME .
 thatsimpling.com CNAME .
@@ -4999,8 +4987,6 @@ thecasualdate.com CNAME .
 *.thecasualdate.com CNAME .
 thecraftssewing.com CNAME .
 *.thecraftssewing.com CNAME .
-thediemtoken.com CNAME .
-*.thediemtoken.com CNAME .
 thefunnysouls.com CNAME .
 *.thefunnysouls.com CNAME .
 thegiftone.com CNAME .
@@ -5019,8 +5005,6 @@ thejaycoclub.com CNAME .
 *.thejaycoclub.com CNAME .
 thejbweld.com CNAME .
 *.thejbweld.com CNAME .
-thejuliewheeler.com CNAME .
-*.thejuliewheeler.com CNAME .
 thekneehighproject.com CNAME .
 *.thekneehighproject.com CNAME .
 thelucybra.com CNAME .
@@ -5137,8 +5121,6 @@ torbianelli.com CNAME .
 *.torbianelli.com CNAME .
 totalloseweight.com CNAME .
 *.totalloseweight.com CNAME .
-totofashion2021.com CNAME .
-*.totofashion2021.com CNAME .
 de.tour-home.com CNAME .
 *.de.tour-home.com CNAME .
 europe.tour-home.com CNAME .
@@ -5325,6 +5307,8 @@ vertexoptiontrading.com CNAME .
 *.vertexoptiontrading.com CNAME .
 vertow.com CNAME .
 *.vertow.com CNAME .
+veryvoga.com CNAME .
+*.veryvoga.com CNAME .
 vesinhhoatam.com CNAME .
 *.vesinhhoatam.com CNAME .
 vgr8.com CNAME .
@@ -6589,8 +6573,6 @@ engelhardt-ses.de CNAME .
 *.engelhardt-ses.de CNAME .
 engelhardtwelpenzuhause.de CNAME .
 *.engelhardtwelpenzuhause.de CNAME .
-engeliebe.de CNAME .
-*.engeliebe.de CNAME .
 engins-siebenraben.de CNAME .
 *.engins-siebenraben.de CNAME .
 entscheider-messe.de CNAME .
@@ -8377,8 +8359,6 @@ rhein-entree.de CNAME .
 *.rhein-entree.de CNAME .
 rhein-trends24.de CNAME .
 *.rhein-trends24.de CNAME .
-rheineule.de CNAME .
-*.rheineule.de CNAME .
 rheintulpen.de CNAME .
 *.rheintulpen.de CNAME .
 rheinwing.de CNAME .
@@ -8795,8 +8775,6 @@ target-solar.de CNAME .
 *.target-solar.de CNAME .
 tatjana-beauty.de CNAME .
 *.tatjana-beauty.de CNAME .
-tauschring-neuruppin.de CNAME .
-*.tauschring-neuruppin.de CNAME .
 tavatta.de CNAME .
 *.tavatta.de CNAME .
 te.de CNAME .
@@ -8829,8 +8807,6 @@ tekonta.de CNAME .
 *.tekonta.de CNAME .
 telefonbieten.de CNAME .
 *.telefonbieten.de CNAME .
-templeofoblivion.de CNAME .
-*.templeofoblivion.de CNAME .
 tensel-markt.de CNAME .
 *.tensel-markt.de CNAME .
 terkos.de CNAME .
@@ -8861,8 +8837,6 @@ thegmbh.de CNAME .
 *.thegmbh.de CNAME .
 thehuggy.de CNAME .
 *.thehuggy.de CNAME .
-thekenstaff.de CNAME .
-*.thekenstaff.de CNAME .
 thenorthfacedeutschland.de CNAME .
 *.thenorthfacedeutschland.de CNAME .
 theordinaryme.de CNAME .
@@ -8965,8 +8939,6 @@ trusted-shop-nr8392.de CNAME .
 *.trusted-shop-nr8392.de CNAME .
 truuly.de CNAME .
 *.truuly.de CNAME .
-tshirttierchen.de CNAME .
-*.tshirttierchen.de CNAME .
 tsv-erste.de CNAME .
 *.tsv-erste.de CNAME .
 tsv-irmelshausen.de CNAME .
@@ -9793,8 +9765,6 @@ steroidhaus.net CNAME .
 *.steroidhaus.net CNAME .
 de.store2021.net CNAME .
 *.de.store2021.net CNAME .
-strowcrue.net CNAME .
-*.strowcrue.net CNAME .
 thamaro.net CNAME .
 *.thamaro.net CNAME .
 thephones.net CNAME .
@@ -10279,8 +10249,6 @@ silkandcotton.store CNAME .
 *.silkandcotton.store CNAME .
 surfside-summer.store CNAME .
 *.surfside-summer.store CNAME .
-techmeta.store CNAME .
-*.techmeta.store CNAME .
 thegoodsite.store CNAME .
 *.thegoodsite.store CNAME .
 tuyyds.store CNAME .
@@ -10413,12 +10381,6 @@ shaxu.top CNAME .
 *.shaxu.top CNAME .
 simulward.top CNAME .
 *.simulward.top CNAME .
-subifyl.top CNAME .
-*.subifyl.top CNAME .
-tragolafy.top CNAME .
-*.tragolafy.top CNAME .
-uaddylotto.top CNAME .
-*.uaddylotto.top CNAME .
 uggbootsforsale.top CNAME .
 *.uggbootsforsale.top CNAME .
 uggsmen.top CNAME .

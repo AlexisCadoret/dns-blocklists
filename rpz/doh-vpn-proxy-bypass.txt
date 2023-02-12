@@ -8,10 +8,10 @@ $TTL 30
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: Updated regularly
-; Last modified: 11 Feb 2023 23:11 UTC
-; Version: 2023.0211.2311.26
+; Last modified: 12 Feb 2023 09:58 UTC
+; Version: 2023.0212.0958.18
 ; Syntax: RPZ
-; Domains: 1292
+; Domains: 1288
 ;
 vpn.ac CNAME .
 *.vpn.ac CNAME .
@@ -735,8 +735,6 @@ monvpn.com CNAME .
 *.monvpn.com CNAME .
 movieproxy.com CNAME .
 *.movieproxy.com CNAME .
-testpilot.r53-2.services.mozilla.com CNAME .
-*.testpilot.r53-2.services.mozilla.com CNAME .
 my-proxy.com CNAME .
 *.my-proxy.com CNAME .
 mytunneling.com CNAME .
@@ -1589,16 +1587,12 @@ saoudiproxy.info CNAME .
 *.saoudiproxy.info CNAME .
 simplevpn.info CNAME .
 *.simplevpn.info CNAME .
-stormyproxy.info CNAME .
-*.stormyproxy.info CNAME .
 suedeproxy.info CNAME .
 *.suedeproxy.info CNAME .
 thecheapvpn.info CNAME .
 *.thecheapvpn.info CNAME .
 travelvpn.info CNAME .
 *.travelvpn.info CNAME .
-tuntapproxy.info CNAME .
-*.tuntapproxy.info CNAME .
 unblockblog.info CNAME .
 *.unblockblog.info CNAME .
 usafastproxy.info CNAME .
@@ -2441,8 +2435,6 @@ crypto.sx CNAME .
 *.crypto.sx CNAME .
 doh.post-factum.tk CNAME .
 *.doh.post-factum.tk CNAME .
-surfproxyanywheresvpns.tk CNAME .
-*.surfproxyanywheresvpns.tk CNAME .
 vpnproxy.tk CNAME .
 *.vpnproxy.tk CNAME .
 nvpn.to CNAME .
