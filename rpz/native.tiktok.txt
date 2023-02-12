@@ -8,10 +8,10 @@ $TTL 30
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ; Expires: Updated regularly
-; Last modified: 12 Feb 2023 10:03 UTC
-; Version: 2023.0212.1003.39
+; Last modified: 12 Feb 2023 22:02 UTC
+; Version: 2023.0212.2202.49
 ; Syntax: RPZ
-; Domains: 253
+; Domains: 252
 ;
 cdnlog-va-useast2a.byteoversea.com CNAME .
 *.cdnlog-va-useast2a.byteoversea.com CNAME .
@@ -151,8 +151,6 @@ mcs-i18n.tiktok.com CNAME .
 *.mcs-i18n.tiktok.com CNAME .
 mcs-sg.tiktok.com CNAME .
 *.mcs-sg.tiktok.com CNAME .
-mcs-va.tiktok.com CNAME .
-*.mcs-va.tiktok.com CNAME .
 mssdk-sg.tiktok.com CNAME .
 *.mssdk-sg.tiktok.com CNAME .
 mssdk-va.tiktok.com CNAME .

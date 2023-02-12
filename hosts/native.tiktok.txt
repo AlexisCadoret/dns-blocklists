@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 12 Feb 2023 10:03 UTC
-# Version: 2023.0212.1003.39
+# Last modified: 12 Feb 2023 22:02 UTC
+# Version: 2023.0212.2202.49
 # Syntax: Hosts
-# Domains: 253
+# Domains: 252
 #
 0.0.0.0 cdnlog-va-useast2a.byteoversea.com
 0.0.0.0 frontier.byteoversea.com
@@ -78,7 +78,6 @@
 0.0.0.0 analytics-test.tiktok.com
 0.0.0.0 mcs-i18n.tiktok.com
 0.0.0.0 mcs-sg.tiktok.com
-0.0.0.0 mcs-va.tiktok.com
 0.0.0.0 mssdk-sg.tiktok.com
 0.0.0.0 mssdk-va.tiktok.com
 0.0.0.0 analytics.us.tiktok.com
