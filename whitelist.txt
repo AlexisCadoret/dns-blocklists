@@ -2458,3 +2458,7 @@ e35058.api3.akamaiedge.net
 # Live Chat on https://www.coextro.com/
 tawk.to
 
+# break the messaging capabilities of Chinese chat app Tencent QQ
+*.msf.3g.qq.com
+msfwifi.3g.qq.com
+
