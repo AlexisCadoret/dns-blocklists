@@ -49343,8 +49343,6 @@ api.saypromo.net CNAME .
 *.api.saypromo.net CNAME .
 ads-interfaces.sc-cdn.net CNAME .
 *.ads-interfaces.sc-cdn.net CNAME .
-sentry.sc-prod.net CNAME .
-*.sentry.sc-prod.net CNAME .
 sc-static.net CNAME .
 *.sc-static.net CNAME .
 tracker.scalarr.net CNAME .
@@ -56377,6 +56375,8 @@ nerojimsee.xyz CNAME .
 *.nerojimsee.xyz CNAME .
 nestormandadv.xyz CNAME .
 *.nestormandadv.xyz CNAME .
+next-cryptopod.xyz CNAME .
+*.next-cryptopod.xyz CNAME .
 ngolstonora.xyz CNAME .
 *.ngolstonora.xyz CNAME .
 nkindthatmade.xyz CNAME .

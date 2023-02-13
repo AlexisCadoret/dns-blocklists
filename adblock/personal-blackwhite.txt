@@ -574,8 +574,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 13 Feb 2023 17:15 UTC
-! Version: 2023.0213.1715.30
+! Last modified: 13 Feb 2023 19:36 UTC
+! Version: 2023.0213.1936.16
 ! Syntax: AdBlock
 ! Domains: 25054
 !
@@ -16287,6 +16287,7 @@
 ||nexeps.com^
 ||ccpa.psg.nexstardigital.net^
 ||segment.psg.nexstardigital.net^
+||next-cryptopod.xyz^
 ||next-pops.top^
 ||nextbigsound.com^
 ||nextclick.pl^
@@ -19906,7 +19907,6 @@
 ||sbs-ad.com^
 ||sbz.vn^
 ||ads-interfaces.sc-cdn.net^
-||sentry.sc-prod.net^
 ||sc-static.net^
 ||scadnet.com^
 ||scajrimu.com^
@@ -70824,6 +70824,9 @@
 ! https://github.com/hagezi/dns-blocklists/issues/339
 @@|neon.ipsator.com^
 @@|carbon-v2.ipsator.com^
+
+! https://github.com/hagezi/dns-blocklists/issues/341
+@@|sentry.sc-prod.net^
 
 
 ! Title: HaGeZi's White-/Allowlist Referral for Black & White list
