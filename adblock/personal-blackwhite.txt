@@ -574,8 +574,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 13 Feb 2023 04:41 UTC
-! Version: 2023.0213.0441.51
+! Last modified: 13 Feb 2023 12:10 UTC
+! Version: 2023.0213.1210.06
 ! Syntax: AdBlock
 ! Domains: 25055
 !
@@ -70815,6 +70815,9 @@
 ! break the messaging capabilities of Chinese chat app Tencent QQ
 @@||msf.3g.qq.com^
 @@|msfwifi.3g.qq.com^
+
+! https://github.com/hagezi/dns-blocklists/issues/337
+@@|se-tv4.videoplaza.tv^
 
 
 ! Title: HaGeZi's White-/Allowlist Referral for Black & White list
