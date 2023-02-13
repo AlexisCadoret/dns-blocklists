@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 12 Feb 2023 23:16 UTC
-# Version: 2023.0212.2316.12
+# Last modified: 13 Feb 2023 23:19 UTC
+# Version: 2023.0213.2319.36
 # Syntax: Hosts
-# Domains: 10029
+# Domains: 10013
 #
 0.0.0.0 willhaben.at.04300.id
 0.0.0.0 11trikots.com
@@ -341,7 +341,6 @@
 0.0.0.0 allincosmetics.club
 0.0.0.0 www.allincosmetics.club
 0.0.0.0 allsoccer.co
-0.0.0.0 www.allsoccer.co
 0.0.0.0 alltech-de.com
 0.0.0.0 www.alltech-de.com
 0.0.0.0 alltogether.shop
@@ -356,7 +355,6 @@
 0.0.0.0 alongsideert.online
 0.0.0.0 www.alongsideert.online
 0.0.0.0 alpakafreunde.de
-0.0.0.0 www.alpakafreunde.de
 0.0.0.0 alpha-killaz.co
 0.0.0.0 www.alpha-killaz.co
 0.0.0.0 alphakatz.com
@@ -392,7 +390,6 @@
 0.0.0.0 aluver.es
 0.0.0.0 www.aluver.es
 0.0.0.0 alvensleben.net
-0.0.0.0 www.alvensleben.net
 0.0.0.0 amagarni.com
 0.0.0.0 www.amagarni.com
 0.0.0.0 amagliecalcio.com
@@ -653,7 +650,6 @@
 0.0.0.0 auditstandart.ru
 0.0.0.0 www.auditstandart.ru
 0.0.0.0 aufgewacht.at
-0.0.0.0 www.aufgewacht.at
 0.0.0.0 aufjagd.de
 0.0.0.0 www.aufjagd.de
 0.0.0.0 aufladekarten24.de
@@ -853,8 +849,6 @@
 0.0.0.0 www.barytabzug.de
 0.0.0.0 baseballsupplys.com
 0.0.0.0 www.baseballsupplys.com
-0.0.0.0 basefinex.com
-0.0.0.0 www.basefinex.com
 0.0.0.0 bass8.store
 0.0.0.0 www.bass8.store
 0.0.0.0 batteryzone.de
@@ -1069,7 +1063,6 @@
 0.0.0.0 www.bikekauf.com
 0.0.0.0 bikeondo.com
 0.0.0.0 bikerspoint-riedstadt.de
-0.0.0.0 www.bikerspoint-riedstadt.de
 0.0.0.0 bikesbigbazar.com
 0.0.0.0 www.bikesbigbazar.com
 0.0.0.0 bikexschool.de
@@ -1735,7 +1728,6 @@
 0.0.0.0 www.citymax.at
 0.0.0.0 mode-forum.cjb.net
 0.0.0.0 ck-trans.com
-0.0.0.0 www.ck-trans.com
 0.0.0.0 ckl-bau.de
 0.0.0.0 www.ckl-bau.de
 0.0.0.0 cklinen.com
@@ -1957,7 +1949,6 @@
 0.0.0.0 cryptoinas.com
 0.0.0.0 www.cryptoinas.com
 0.0.0.0 cryptoprime.eu
-0.0.0.0 www.cryptoprime.eu
 0.0.0.0 cryptradeoptions.com
 0.0.0.0 www.cryptradeoptions.com
 0.0.0.0 crystalfashion.vip
@@ -1999,8 +1990,6 @@
 0.0.0.0 www.cydiajailbreak.org
 0.0.0.0 cydiapro.com
 0.0.0.0 www.cydiapro.com
-0.0.0.0 cymgrup.com
-0.0.0.0 www.cymgrup.com
 0.0.0.0 d-rock.at
 0.0.0.0 www.d-rock.at
 0.0.0.0 dachdecker-otto.de
@@ -2031,7 +2020,6 @@
 0.0.0.0 dalmatinac.de
 0.0.0.0 www.dalmatinac.de
 0.0.0.0 damco-transport.com
-0.0.0.0 www.damco-transport.com
 0.0.0.0 damenboutique-adenberger.com
 0.0.0.0 www.damenboutique-adenberger.com
 0.0.0.0 damenmode-quelle.de
@@ -2276,6 +2264,8 @@
 0.0.0.0 www.deveclo.com
 0.0.0.0 handschellen.deveri.de
 0.0.0.0 shop.deveri.de
+0.0.0.0 devoteeshoes.com
+0.0.0.0 www.devoteeshoes.com
 0.0.0.0 dewelschutz.de
 0.0.0.0 www.dewelschutz.de
 0.0.0.0 dexia-hyp.de
@@ -3393,8 +3383,6 @@
 0.0.0.0 www.foxrm.fr
 0.0.0.0 foxusenet.de
 0.0.0.0 www.foxusenet.de
-0.0.0.0 foxxum.com
-0.0.0.0 www.foxxum.com
 0.0.0.0 fpjollet.com
 0.0.0.0 www.fpjollet.com
 0.0.0.0 fr-c.de
@@ -5707,9 +5695,7 @@
 0.0.0.0 www.mcoaltmeds.com
 0.0.0.0 mctrl-marktforschung.com
 0.0.0.0 www.mctrl-marktforschung.com
-0.0.0.0 mdates.com
 0.0.0.0 bl.mdates.com
-0.0.0.0 www.mdates.com
 0.0.0.0 me-fit.de
 0.0.0.0 www.me-fit.de
 0.0.0.0 mealsonwheels.at
@@ -7400,8 +7386,6 @@
 0.0.0.0 www.rehasportberatung.de
 0.0.0.0 rehauevents.de
 0.0.0.0 www.rehauevents.de
-0.0.0.0 reichwahl.de
-0.0.0.0 www.reichwahl.de
 0.0.0.0 reifen-altendorf.de
 0.0.0.0 www.reifen-altendorf.de
 0.0.0.0 reifen-glaser.de

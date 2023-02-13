@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.fake. hostmaster.hagezi.fake. 1676242800 86400 3600 604800 30
+@ SOA rpz.hagezi.fake. hostmaster.hagezi.fake. 1676329200 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 30
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ; Expires: Updated regularly
-; Last modified: 12 Feb 2023 23:16 UTC
-; Version: 2023.0212.2316.12
+; Last modified: 13 Feb 2023 23:19 UTC
+; Version: 2023.0213.2319.36
 ; Syntax: RPZ
-; Domains: 5231
+; Domains: 5228
 ;
 1euro.at CNAME .
 *.1euro.at CNAME .
@@ -1425,8 +1425,6 @@ barth24.com CNAME .
 *.barth24.com CNAME .
 baseballsupplys.com CNAME .
 *.baseballsupplys.com CNAME .
-basefinex.com CNAME .
-*.basefinex.com CNAME .
 de.bauhausshop.com CNAME .
 *.de.bauhausshop.com CNAME .
 baumwunsch.com CNAME .
@@ -1939,8 +1937,6 @@ cydiafree.com CNAME .
 *.cydiafree.com CNAME .
 cydiapro.com CNAME .
 *.cydiapro.com CNAME .
-cymgrup.com CNAME .
-*.cymgrup.com CNAME .
 dacoyo.com CNAME .
 *.dacoyo.com CNAME .
 daily-disney.com CNAME .
@@ -2051,6 +2047,8 @@ deutschetroniks.com CNAME .
 *.deutschetroniks.com CNAME .
 deveclo.com CNAME .
 *.deveclo.com CNAME .
+devoteeshoes.com CNAME .
+*.devoteeshoes.com CNAME .
 dhe-logistics.com CNAME .
 *.dhe-logistics.com CNAME .
 dhk-transport.com CNAME .
@@ -2539,8 +2537,6 @@ fotopr-online.com CNAME .
 *.fotopr-online.com CNAME .
 fotosocken.com CNAME .
 *.fotosocken.com CNAME .
-foxxum.com CNAME .
-*.foxxum.com CNAME .
 fpjollet.com CNAME .
 *.fpjollet.com CNAME .
 frankiemakeupartist.com CNAME .
@@ -3555,8 +3551,8 @@ mcoaltmeds.com CNAME .
 *.mcoaltmeds.com CNAME .
 mctrl-marktforschung.com CNAME .
 *.mctrl-marktforschung.com CNAME .
-mdates.com CNAME .
-*.mdates.com CNAME .
+bl.mdates.com CNAME .
+*.bl.mdates.com CNAME .
 media-heinemann.com CNAME .
 *.media-heinemann.com CNAME .
 media-palmer.com CNAME .
@@ -8295,8 +8291,6 @@ rehasportberatung.de CNAME .
 *.rehasportberatung.de CNAME .
 rehauevents.de CNAME .
 *.rehauevents.de CNAME .
-reichwahl.de CNAME .
-*.reichwahl.de CNAME .
 reifen-altendorf.de CNAME .
 *.reifen-altendorf.de CNAME .
 reifen-glaser.de CNAME .

@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 12 Feb 2023 23:16 UTC
-# Version: 2023.0212.2316.12
+# Last modified: 13 Feb 2023 23:19 UTC
+# Version: 2023.0213.2319.36
 # Syntax: DNSMasq
-# Domains: 5231
+# Domains: 5228
 #
 address=/willhaben.at.04300.id/#
 address=/11trikots.com/#
@@ -445,7 +445,6 @@ address=/barth24.com/#
 address=/bartomuk.de/#
 address=/barytabzug.de/#
 address=/baseballsupplys.com/#
-address=/basefinex.com/#
 address=/bass8.store/#
 address=/batteryzone.de/#
 address=/bau-profis24.de/#
@@ -1049,7 +1048,6 @@ address=/cydia-download.us/#
 address=/cydiafree.com/#
 address=/cydiajailbreak.org/#
 address=/cydiapro.com/#
-address=/cymgrup.com/#
 address=/d-rock.at/#
 address=/dachdecker-otto.de/#
 address=/dacoyo.com/#
@@ -1195,6 +1193,7 @@ address=/deutschetroniks.com/#
 address=/deveclo.com/#
 address=/handschellen.deveri.de/#
 address=/shop.deveri.de/#
+address=/devoteeshoes.com/#
 address=/dewelschutz.de/#
 address=/dexia-hyp.de/#
 address=/dfr-hessen.de/#
@@ -1778,7 +1777,6 @@ address=/fourer.online/#
 address=/foxflix.de/#
 address=/foxrm.fr/#
 address=/foxusenet.de/#
-address=/foxxum.com/#
 address=/fpjollet.com/#
 address=/fr-c.de/#
 address=/fraktion-bfz-gruene.de/#
@@ -2975,7 +2973,7 @@ address=/mcflanders.com/#
 address=/mcjustice.de/#
 address=/mcoaltmeds.com/#
 address=/mctrl-marktforschung.com/#
-address=/mdates.com/#
+address=/bl.mdates.com/#
 address=/me-fit.de/#
 address=/mealsonwheels.at/#
 address=/mebs.ch/#
@@ -3868,7 +3866,6 @@ address=/regli-coaching.com/#
 address=/regplay.de/#
 address=/rehasportberatung.de/#
 address=/rehauevents.de/#
-address=/reichwahl.de/#
 address=/reifen-altendorf.de/#
 address=/reifen-glaser.de/#
 address=/reifen-petlas.de/#
