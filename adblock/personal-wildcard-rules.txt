@@ -474,11 +474,23 @@
 ||tvtelemetrie.com^
 ||tvtelemetrie.de^
 ||usage*.myhomescreen.tv^
-# LG
+# LG webOS
+||aic-gfts.lge.com^
+||qt2-ngfts.lge.com^
 ||cdpbeacon.lgtvcommon.com^
+||cdpsvc.lgtvcommon.com^
+! Prevents Internet Channel guide data from downloading
+@@||aic.cdpsvc.lgtvcommon.com^
+||recommend.lgtvcommon.com^
+||rdl.lgtvcommon.com^
+||service.lgtvcommon.com^
+! Prevents local OTA Channel guide data from downloading
+@@||aic.service.lgtvcommon.com^
+||nudge.lgtvcommon.com^
+||homeprv.lgtvcommon.com^
 ||lgsmartad.com^
 ! Needed for TV Service Location Area
-@@||us.info.lgsmartad.com^
+@@||*.info.lgsmartad.com^
 
 ! TikTok Fingerprinting
 ||*-ad.byteoversea.com^
