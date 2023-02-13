@@ -574,8 +574,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 13 Feb 2023 12:10 UTC
-! Version: 2023.0213.1210.06
+! Last modified: 13 Feb 2023 12:29 UTC
+! Version: 2023.0213.1229.38
 ! Syntax: AdBlock
 ! Domains: 25055
 !
@@ -70818,6 +70818,9 @@
 
 ! https://github.com/hagezi/dns-blocklists/issues/337
 @@|se-tv4.videoplaza.tv^
+
+! https://github.com/hagezi/dns-blocklists/issues/338
+@@||ads.brave.com^
 
 
 ! Title: HaGeZi's White-/Allowlist Referral for Black & White list
