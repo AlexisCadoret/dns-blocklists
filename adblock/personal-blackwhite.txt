@@ -574,10 +574,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 13 Feb 2023 14:06 UTC
-! Version: 2023.0213.1406.22
+! Last modified: 13 Feb 2023 17:15 UTC
+! Version: 2023.0213.1715.30
 ! Syntax: AdBlock
-! Domains: 25055
+! Domains: 25054
 !
 ||003store.com^
 ||007sites.com^
@@ -19628,7 +19628,6 @@
 ||sadbmetrics.rtve.es^
 ||rtxplatform.com^
 ||rtyznd.com^
-||ru.com^
 ||ru4.com^
 ||ru6sapasgs8tror.com^
 ||ruamupr.com^
