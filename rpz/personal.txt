@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.personal. hostmaster.hagezi.personal. 1676156400 86400 3600 604800 30
+@ SOA rpz.hagezi.personal. hostmaster.hagezi.personal. 1676242800 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Personal DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 30
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ; Expires: Updated regularly
-; Last modified: 12 Feb 2023 18:05 UTC
-; Version: 2023.0212.1805.57
+; Last modified: 13 Feb 2023 00:04 UTC
+; Version: 2023.0213.0004.24
 ; Syntax: RPZ
-; Domains: 28395
+; Domains: 28413
 ;
 marketing.globalpointofcare.abbott CNAME .
 *.marketing.globalpointofcare.abbott CNAME .
@@ -915,6 +915,8 @@ costacorte.com.br CNAME .
 *.costacorte.com.br CNAME .
 dataunion.com.br CNAME .
 *.dataunion.com.br CNAME .
+demacol.com.br CNAME .
+*.demacol.com.br CNAME .
 egrana.com.br CNAME .
 *.egrana.com.br CNAME .
 enviou.com.br CNAME .
@@ -3833,6 +3835,8 @@ a-static.com CNAME .
 *.a-static.com CNAME .
 a1webstrategy.com CNAME .
 *.a1webstrategy.com CNAME .
+a2g-secure.com CNAME .
+*.a2g-secure.com CNAME .
 affiliates.a2hosting.com CNAME .
 *.affiliates.a2hosting.com CNAME .
 a2nn5eri7ce.com CNAME .
@@ -9571,6 +9575,8 @@ tracking.build.com CNAME .
 *.tracking.build.com CNAME .
 builder.com CNAME .
 *.builder.com CNAME .
+bujoke.com CNAME .
+*.bujoke.com CNAME .
 bulbbait.com CNAME .
 *.bulbbait.com CNAME .
 bulgae.com CNAME .
@@ -15601,6 +15607,8 @@ fixespreoccupation.com CNAME .
 *.fixespreoccupation.com CNAME .
 fjijxch.com CNAME .
 *.fjijxch.com CNAME .
+fjmarketing.com CNAME .
+*.fjmarketing.com CNAME .
 fkjhjnb.com CNAME .
 *.fkjhjnb.com CNAME .
 fkktckb.com CNAME .
@@ -16263,6 +16271,8 @@ fusetracking.com CNAME .
 *.fusetracking.com CNAME .
 futeboltv.com CNAME .
 *.futeboltv.com CNAME .
+futureadpro.com CNAME .
+*.futureadpro.com CNAME .
 trk.futureelectronics.com CNAME .
 *.trk.futureelectronics.com CNAME .
 futurenet.com CNAME .
@@ -16969,6 +16979,8 @@ glispa.com CNAME .
 *.glispa.com CNAME .
 glisteningguide.com CNAME .
 *.glisteningguide.com CNAME .
+global-bell-company.com CNAME .
+*.global-bell-company.com CNAME .
 tracking.ads.global-fashion-group.com CNAME .
 *.tracking.ads.global-fashion-group.com CNAME .
 global-news-blog.com CNAME .
@@ -18031,6 +18043,8 @@ smetrics.heathrow.com CNAME .
 *.smetrics.heathrow.com CNAME .
 smetrics.heathrowexpress.com CNAME .
 *.smetrics.heathrowexpress.com CNAME .
+heatso.com CNAME .
+*.heatso.com CNAME .
 heauty-viesected.com CNAME .
 *.heauty-viesected.com CNAME .
 heavyplayground.com CNAME .
@@ -22827,6 +22841,8 @@ madblast.com CNAME .
 *.madblast.com CNAME .
 madcpms.com CNAME .
 *.madcpms.com CNAME .
+maddenword.com CNAME .
+*.maddenword.com CNAME .
 madinad.com CNAME .
 *.madinad.com CNAME .
 madisonlogic.com CNAME .
@@ -28093,6 +28109,8 @@ practicbog.com CNAME .
 *.practicbog.com CNAME .
 events.practo.com CNAME .
 *.events.practo.com CNAME .
+pragnews.com CNAME .
+*.pragnews.com CNAME .
 praisefellowshipransom.com CNAME .
 *.praisefellowshipransom.com CNAME .
 praize.com CNAME .
@@ -28799,6 +28817,8 @@ qalruhvcoa.com CNAME .
 *.qalruhvcoa.com CNAME .
 smtc.qantas.com CNAME .
 *.smtc.qantas.com CNAME .
+qapharmco.com CNAME .
+*.qapharmco.com CNAME .
 qashbits.com CNAME .
 *.qashbits.com CNAME .
 smetrics.qatarairways.com CNAME .
@@ -32309,6 +32329,8 @@ socalvending.com CNAME .
 *.socalvending.com CNAME .
 socdm.com CNAME .
 *.socdm.com CNAME .
+social-logins.com CNAME .
+*.social-logins.com CNAME .
 social-sb.com CNAME .
 *.social-sb.com CNAME .
 c.socialannex.com CNAME .
@@ -33075,6 +33097,8 @@ stisudafa.com CNAME .
 *.stisudafa.com CNAME .
 stitue.com CNAME .
 *.stitue.com CNAME .
+stized.com CNAME .
+*.stized.com CNAME .
 tracking-receiver.prod-general.stocard-backend.com CNAME .
 *.tracking-receiver.prod-general.stocard-backend.com CNAME .
 stogivpi.com CNAME .
@@ -33539,6 +33563,8 @@ collector.szlcsc.com CNAME .
 *.collector.szlcsc.com CNAME .
 szobis.com CNAME .
 *.szobis.com CNAME .
+t-analytics.com CNAME .
+*.t-analytics.com CNAME .
 t.t-cb-spook.com CNAME .
 *.t.t-cb-spook.com CNAME .
 smetrics.t-mobile.com CNAME .
@@ -33957,6 +33983,8 @@ taskanalytics.com CNAME .
 *.taskanalytics.com CNAME .
 tastelesstrucks.com CNAME .
 *.tastelesstrucks.com CNAME .
+tastiesfoods.com CNAME .
+*.tastiesfoods.com CNAME .
 gtrack.tastyarea.com CNAME .
 *.gtrack.tastyarea.com CNAME .
 smetrics.tataaia.com CNAME .
@@ -34883,6 +34911,8 @@ tophosting101.com CNAME .
 *.tophosting101.com CNAME .
 toplov.com CNAME .
 *.toplov.com CNAME .
+topmusicalcomedy.com CNAME .
+*.topmusicalcomedy.com CNAME .
 topnews-24.com CNAME .
 *.topnews-24.com CNAME .
 topofblogs.com CNAME .
@@ -35909,6 +35939,8 @@ uingroundhe.com CNAME .
 *.uingroundhe.com CNAME .
 uixsuffkzkhbj.com CNAME .
 *.uixsuffkzkhbj.com CNAME .
+ukraineserverhosting.com CNAME .
+*.ukraineserverhosting.com CNAME .
 ukrait.com CNAME .
 *.ukrait.com CNAME .
 ulla.com CNAME .
@@ -37831,8 +37863,6 @@ whitesmoke.com CNAME .
 *.whitesmoke.com CNAME .
 whizzco.com CNAME .
 *.whizzco.com CNAME .
-whoisablet.com CNAME .
-*.whoisablet.com CNAME .
 whoisvisiting.com CNAME .
 *.whoisvisiting.com CNAME .
 wholegrady.com CNAME .
@@ -41533,6 +41563,8 @@ metanor.gr CNAME .
 *.metanor.gr CNAME .
 pwk.gr CNAME .
 *.pwk.gr CNAME .
+sanidas.gr CNAME .
+*.sanidas.gr CNAME .
 skroutza.skroutz.gr CNAME .
 *.skroutza.skroutz.gr CNAME .
 stoiximan.gr CNAME .
@@ -43393,6 +43425,8 @@ trk.storyly.io CNAME .
 *.trk.storyly.io CNAME .
 streetmetrics.io CNAME .
 *.streetmetrics.io CNAME .
+subutai.io CNAME .
+*.subutai.io CNAME .
 synchrobit.io CNAME .
 *.synchrobit.io CNAME .
 t13.io CNAME .
@@ -44699,6 +44733,8 @@ tatleadlam.live CNAME .
 *.tatleadlam.live CNAME .
 thoketidder.live CNAME .
 *.thoketidder.live CNAME .
+trackmwsg.live CNAME .
+*.trackmwsg.live CNAME .
 usedpaby.live CNAME .
 *.usedpaby.live CNAME .
 vipcaptcha.live CNAME .
@@ -50773,6 +50809,8 @@ piwik.documentfoundation.org CNAME .
 *.piwik.documentfoundation.org CNAME .
 dongya.org CNAME .
 *.dongya.org CNAME .
+download-file.org CNAME .
+*.download-file.org CNAME .
 downloadoffice2010.org CNAME .
 *.downloadoffice2010.org CNAME .
 downloadwarez.org CNAME .
