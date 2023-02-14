@@ -37,8 +37,8 @@
 | [Light](#light)             | 591347<br>128295     | |   |   | = | X | P | X |
 | [Normal](#normal)       | 933385<br>308087     | |   | = | X | X | P | X |
 | [Pro](#pro)              | 1271655<br>462412         | | = | X | X | X | P | X |
-| [Pro++](#proplus)    | 1348599<br>480969 | | ++ | X | X | X | P |  X |
-| [Ultimate](#ultimate)    | 2076405<br>833383 | ++ | X | X | X | X | X |  X |
+| [Pro++](#proplus)    | 1348593<br>480968 | | ++ | X | X | X | P |  X |
+| [Ultimate](#ultimate)    | 2076397<br>833380 | ++ | X | X | X | X | X |  X |
            
 *X = contains the named lists in the column header*       
 *P = partially contains the named list in the column header*       
@@ -54,13 +54,13 @@
          
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
-| Domains  | [Link](https://hagezi.github.io/dns-blocklists/domains/light.txt)<br>[Mirror](https://hagezi.gitlab.io/mirror/dns-blocklists/domains/light.txt) | PiHole, Blocky, eBlocker, Diversion, OpenSnitch, PersonalDNSfilter, pfBlockerNG, PersonalBlocklist, TechnitiumDNS | 
-| Hosts    | [Link](https://hagezi.github.io/dns-blocklists/hosts/light.txt)<br>[Mirror](https://hagezi.gitlab.io/mirror/dns-blocklists/hosts/light.txt) | Blocky, eBlocker, AdAway, uMatrix, DNS66, GasMask, HostFileEditor, OpenSnitch, NetGuard, TechnitiumDNS              |
-| Adblock  | [Link](https://hagezi.github.io/dns-blocklists/adblock/light.txt)<br>[Mirror](https://hagezi.gitlab.io/mirror/dns-blocklists/adblock/light.txt) | AdGuard, AdGuard Home, eBlocker, uBlock, AdBlock, AdBlock Plus, Opera, Vivaldi, Brave |
-| Unbound  | [Link](https://hagezi.github.io/dns-blocklists/unbound/light.blacklist.conf)<br>[Mirror](https://hagezi.gitlab.io/mirror/dns-blocklists/unbound/light.blacklist.conf) | Unbound                                                              |
-| DNSMasq  | [Link](https://hagezi.github.io/dns-blocklists/dnsmasq/light.txt)<br>[Mirror](https://hagezi.gitlab.io/mirror/dns-blocklists/dnsmasq/light.txt) | DNSMasq                                                              | 
-| Wildcard | [Link](https://hagezi.github.io/dns-blocklists/wildcard/light.txt)<br>[Mirror](https://hagezi.gitlab.io/mirror/dns-blocklists/wildcard/light.txt) | DNSCrypt, DNSCloak, YogaDNS, ...                                               |
-| RPZ | [Link](https://hagezi.github.io/dns-blocklists/rpz/light.txt)<br>[Mirror](https://hagezi.gitlab.io/mirror/dns-blocklists/rpz/light.txt) | Response Policy Zone |
+| Domains  | [Link](https://hagezi.github.io/dns-blocklists/domains/light.txt)<br>[Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/domains/light.txt) | PiHole, Blocky, eBlocker, Diversion, OpenSnitch, PersonalDNSfilter, pfBlockerNG, PersonalBlocklist, TechnitiumDNS | 
+| Hosts    | [Link](https://hagezi.github.io/dns-blocklists/hosts/light.txt)<br>[Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/light.txt) | Blocky, eBlocker, AdAway, uMatrix, DNS66, GasMask, HostFileEditor, OpenSnitch, NetGuard, TechnitiumDNS              |
+| Adblock  | [Link](https://hagezi.github.io/dns-blocklists/adblock/light.txt)<br>[Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/light.txt) | AdGuard, AdGuard Home, eBlocker, uBlock, AdBlock, AdBlock Plus, Opera, Vivaldi, Brave |
+| Unbound  | [Link](https://hagezi.github.io/dns-blocklists/unbound/light.blacklist.conf)<br>[Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/unbound/light.blacklist.conf) | Unbound                                                              |
+| DNSMasq  | [Link](https://hagezi.github.io/dns-blocklists/dnsmasq/light.txt)<br>[Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/dnsmasq/light.txt) | DNSMasq                                                              | 
+| Wildcard | [Link](https://hagezi.github.io/dns-blocklists/wildcard/light.txt)<br>[Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/wildcard/light.txt) | DNSCrypt, DNSCloak, YogaDNS, ...                                               |
+| RPZ | [Link](https://hagezi.github.io/dns-blocklists/rpz/light.txt)<br>[Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/rpz/light.txt) | Response Policy Zone |
 
 ### ***Multi NORMAL*** - **All-round protection** <a name="normal"></a>
       
@@ -70,13 +70,13 @@
           
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
-| Domains  | [Link](https://hagezi.github.io/dns-blocklists/domains/multi.txt)<br>[Mirror](https://hagezi.gitlab.io/mirror/dns-blocklists/domains/multi.txt) | PiHole, Blocky, eBlocker, Diversion, OpenSnitch, PersonalDNSfilter, pfBlockerNG, PersonalBlocklist, TechnitiumDNS | 
-| Hosts    | [Link](https://hagezi.github.io/dns-blocklists/hosts/multi.txt)<br>[Mirror](https://hagezi.gitlab.io/mirror/dns-blocklists/hosts/multi.txt) | Blocky, eBlocker, AdAway, uMatrix, DNS66, GasMask, HostFileEditor, OpenSnitch, NetGuard, TechnitiumDNS              |
-| Adblock  | [Link](https://hagezi.github.io/dns-blocklists/adblock/multi.txt)<br>[Mirror](https://hagezi.gitlab.io/mirror/dns-blocklists/adblock/multi.txt) | AdGuard, AdGuard Home, eBlocker, uBlock, AdBlock, AdBlock Plus, Opera, Vivaldi, Brave |
-| Unbound  | [Link](https://hagezi.github.io/dns-blocklists/unbound/multi.blacklist.conf)<br>[Mirror](https://hagezi.gitlab.io/mirror/dns-blocklists/unbound/multi.blacklist.conf) | Unbound                                                              |
-| DNSMasq  | [Link](https://hagezi.github.io/dns-blocklists/dnsmasq/multi.txt)<br>[Mirror](https://hagezi.gitlab.io/mirror/dns-blocklists/dnsmasq/multi.txt) | DNSMasq                                                              | 
-| Wildcard | [Link](https://hagezi.github.io/dns-blocklists/wildcard/multi.txt)<br>[Mirror](https://hagezi.gitlab.io/mirror/dns-blocklists/wildcard/multi.txt) | DNSCrypt, DNSCloak, YogaDNS, ...                                               |
-| RPZ | [Link](https://hagezi.github.io/dns-blocklists/rpz/multi.txt)<br>[Mirror](https://hagezi.gitlab.io/mirror/dns-blocklists/rpz/multi.txt) | Response Policy Zone |
+| Domains  | [Link](https://hagezi.github.io/dns-blocklists/domains/multi.txt)<br>[Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/domains/multi.txt) | PiHole, Blocky, eBlocker, Diversion, OpenSnitch, PersonalDNSfilter, pfBlockerNG, PersonalBlocklist, TechnitiumDNS | 
+| Hosts    | [Link](https://hagezi.github.io/dns-blocklists/hosts/multi.txt)<br>[Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/multi.txt) | Blocky, eBlocker, AdAway, uMatrix, DNS66, GasMask, HostFileEditor, OpenSnitch, NetGuard, TechnitiumDNS              |
+| Adblock  | [Link](https://hagezi.github.io/dns-blocklists/adblock/multi.txt)<br>[Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/multi.txt) | AdGuard, AdGuard Home, eBlocker, uBlock, AdBlock, AdBlock Plus, Opera, Vivaldi, Brave |
+| Unbound  | [Link](https://hagezi.github.io/dns-blocklists/unbound/multi.blacklist.conf)<br>[Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/unbound/multi.blacklist.conf) | Unbound                                                              |
+| DNSMasq  | [Link](https://hagezi.github.io/dns-blocklists/dnsmasq/multi.txt)<br>[Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/dnsmasq/multi.txt) | DNSMasq                                                              | 
+| Wildcard | [Link](https://hagezi.github.io/dns-blocklists/wildcard/multi.txt)<br>[Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/wildcard/multi.txt) | DNSCrypt, DNSCloak, YogaDNS, ...                                               |
+| RPZ | [Link](https://hagezi.github.io/dns-blocklists/rpz/multi.txt)<br>[Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/rpz/multi.txt) | Response Policy Zone |
 
 ### ***Multi PRO*** - **Extended protection (Recommended)** <a name="pro"></a>
       
@@ -86,13 +86,13 @@
            
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
-| Domains  | [Link](https://hagezi.github.io/dns-blocklists/domains/pro.txt)<br>[Mirror](https://hagezi.gitlab.io/mirror/dns-blocklists/domains/pro.txt) | PiHole, Blocky, eBlocker, Diversion, OpenSnitch, PersonalDNSfilter, pfBlockerNG, PersonalBlocklist, TechnitiumDNS | 
-| Hosts    | [Link](https://hagezi.github.io/dns-blocklists/hosts/pro.txt)<br>[Mirror](https://hagezi.gitlab.io/mirror/dns-blocklists/hosts/pro.txt) | Blocky, eBlocker, AdAway, uMatrix, DNS66, GasMask, HostFileEditor, OpenSnitch, NetGuard, TechnitiumDNS              |
-| Adblock  | [Link](https://hagezi.github.io/dns-blocklists/adblock/pro.txt)<br>[Mirror](https://hagezi.gitlab.io/mirror/dns-blocklists/adblock/pro.txt) | AdGuard, AdGuard Home, eBlocker, uBlock, AdBlock, AdBlock Plus, Opera, Vivaldi, Brave |
-| Unbound  | [Link](https://hagezi.github.io/dns-blocklists/unbound/pro.blacklist.conf)<br>[Mirror](https://hagezi.gitlab.io/mirror/dns-blocklists/unbound/pro.blacklist.conf) | Unbound                                                              |
-| DNSMasq  | [Link](https://hagezi.github.io/dns-blocklists/dnsmasq/pro.txt)<br>[Mirror](https://hagezi.gitlab.io/mirror/dns-blocklists/dnsmasq/pro.txt) | DNSMasq                                                              | 
-| Wildcard | [Link](https://hagezi.github.io/dns-blocklists/wildcard/pro.txt)<br>[Mirror](https://hagezi.gitlab.io/mirror/dns-blocklists/wildcard/pro.txt) | DNSCrypt, DNSCloak, YogaDNS, ...                                               |
-| RPZ | [Link](https://hagezi.github.io/dns-blocklists/rpz/pro.txt)<br>[Mirror](https://hagezi.gitlab.io/mirror/dns-blocklists/rpz/pro.txt) | Response Policy Zone |
+| Domains  | [Link](https://hagezi.github.io/dns-blocklists/domains/pro.txt)<br>[Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/domains/pro.txt) | PiHole, Blocky, eBlocker, Diversion, OpenSnitch, PersonalDNSfilter, pfBlockerNG, PersonalBlocklist, TechnitiumDNS | 
+| Hosts    | [Link](https://hagezi.github.io/dns-blocklists/hosts/pro.txt)<br>[Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/pro.txt) | Blocky, eBlocker, AdAway, uMatrix, DNS66, GasMask, HostFileEditor, OpenSnitch, NetGuard, TechnitiumDNS              |
+| Adblock  | [Link](https://hagezi.github.io/dns-blocklists/adblock/pro.txt)<br>[Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/pro.txt) | AdGuard, AdGuard Home, eBlocker, uBlock, AdBlock, AdBlock Plus, Opera, Vivaldi, Brave |
+| Unbound  | [Link](https://hagezi.github.io/dns-blocklists/unbound/pro.blacklist.conf)<br>[Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/unbound/pro.blacklist.conf) | Unbound                                                              |
+| DNSMasq  | [Link](https://hagezi.github.io/dns-blocklists/dnsmasq/pro.txt)<br>[Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/dnsmasq/pro.txt) | DNSMasq                                                              | 
+| Wildcard | [Link](https://hagezi.github.io/dns-blocklists/wildcard/pro.txt)<br>[Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/wildcard/pro.txt) | DNSCrypt, DNSCloak, YogaDNS, ...                                               |
+| RPZ | [Link](https://hagezi.github.io/dns-blocklists/rpz/pro.txt)<br>[Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/rpz/pro.txt) | Response Policy Zone |
 
 ### ***Multi PRO++*** - **Maximum protection** <a name="proplus"></a>
 
@@ -100,17 +100,17 @@
          
 *More aggressive version of the Multi PRO blocklist. It may contain few false positive domains that limit functionality. Therefore it should only be used by experienced users. Furthermore, an admin should be available to unblock incorrectly blocked domains. Reported false positive domains will be removed from the list!*
 
-**Entries:** *1348599 domains/hosts - 480969 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#proplus)    
+**Entries:** *1348593 domains/hosts - 480968 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#proplus)    
                                                 
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
-| Domains  | [Link](https://hagezi.github.io/dns-blocklists/domains/pro.plus.txt)<br>[Mirror](https://hagezi.gitlab.io/mirror/dns-blocklists/domains/pro.plus.txt) | PiHole, Blocky, eBlocker, Diversion, OpenSnitch, PersonalDNSfilter, pfBlockerNG, PersonalBlocklist, TechnitiumDNS | 
-| Hosts    | [Link](https://hagezi.github.io/dns-blocklists/hosts/pro.plus.txt)<br>[Mirror](https://hagezi.gitlab.io/mirror/dns-blocklists/hosts/pro.plus.txt) | Blocky, eBlocker, AdAway, uMatrix, DNS66, GasMask, HostFileEditor, OpenSnitch, NetGuard, TechnitiumDNS              |
-| Adblock  | [Link](https://hagezi.github.io/dns-blocklists/adblock/pro.plus.txt)<br>[Mirror](https://hagezi.gitlab.io/mirror/dns-blocklists/adblock/pro.plus.txt) | AdGuard, AdGuard Home, eBlocker, uBlock, AdBlock, AdBlock Plus, Opera, Vivaldi, Brave |
-| Unbound  | [Link](https://hagezi.github.io/dns-blocklists/unbound/pro.plus.blacklist.conf)<br>[Mirror](https://hagezi.gitlab.io/mirror/dns-blocklists/unbound/pro.plus.blacklist.conf) | Unbound                                                              |
-| DNSMasq  | [Link](https://hagezi.github.io/dns-blocklists/dnsmasq/pro.plus.txt)<br>[Mirror](https://hagezi.gitlab.io/mirror/dns-blocklists/dnsmasq/pro.plus.txt) | DNSMasq                                                              | 
-| Wildcard | [Link](https://hagezi.github.io/dns-blocklists/wildcard/pro.plus.txt)<br>[Mirror](https://hagezi.gitlab.io/mirror/dns-blocklists/wildcard/pro.plus.txt) | DNSCrypt, DNSCloak, YogaDNS, ...                                               |
-| RPZ | [Link](https://hagezi.github.io/dns-blocklists/rpz/pro.plus.txt)<br>[Mirror](https://hagezi.gitlab.io/mirror/dns-blocklists/rpz/pro.plus.txt) | Response Policy Zone |
+| Domains  | [Link](https://hagezi.github.io/dns-blocklists/domains/pro.plus.txt)<br>[Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/domains/pro.plus.txt) | PiHole, Blocky, eBlocker, Diversion, OpenSnitch, PersonalDNSfilter, pfBlockerNG, PersonalBlocklist, TechnitiumDNS | 
+| Hosts    | [Link](https://hagezi.github.io/dns-blocklists/hosts/pro.plus.txt)<br>[Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/pro.plus.txt) | Blocky, eBlocker, AdAway, uMatrix, DNS66, GasMask, HostFileEditor, OpenSnitch, NetGuard, TechnitiumDNS              |
+| Adblock  | [Link](https://hagezi.github.io/dns-blocklists/adblock/pro.plus.txt)<br>[Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/pro.plus.txt) | AdGuard, AdGuard Home, eBlocker, uBlock, AdBlock, AdBlock Plus, Opera, Vivaldi, Brave |
+| Unbound  | [Link](https://hagezi.github.io/dns-blocklists/unbound/pro.plus.blacklist.conf)<br>[Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/unbound/pro.plus.blacklist.conf) | Unbound                                                              |
+| DNSMasq  | [Link](https://hagezi.github.io/dns-blocklists/dnsmasq/pro.plus.txt)<br>[Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/dnsmasq/pro.plus.txt) | DNSMasq                                                              | 
+| Wildcard | [Link](https://hagezi.github.io/dns-blocklists/wildcard/pro.plus.txt)<br>[Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/wildcard/pro.plus.txt) | DNSCrypt, DNSCloak, YogaDNS, ...                                               |
+| RPZ | [Link](https://hagezi.github.io/dns-blocklists/rpz/pro.plus.txt)<br>[Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/rpz/pro.plus.txt) | Response Policy Zone |
                   
 ### ***Multi ULTIMATE*** - **Aggressive protection** <a name="ultimate"></a>
 
@@ -118,17 +118,17 @@
          
 *Stricter version of the Multi PRO++ blocklist. It may contain false positive domains that limit functionality. Therefore it should only be used by experienced users. Furthermore, an admin should be available to unblock incorrectly blocked domains. Reported false positive domains will be removed from the list!*
 
-**Entries:** *2076405 domains/hosts - 833383 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#ultimate)    
+**Entries:** *2076397 domains/hosts - 833380 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#ultimate)    
                                                 
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
-| Domains  | [Link](https://hagezi.github.io/dns-blocklists/domains/ultimate.txt)<br>[Mirror](https://hagezi.gitlab.io/mirror/dns-blocklists/domains/ultimate.txt) | PiHole, Blocky, eBlocker, Diversion, OpenSnitch, PersonalDNSfilter, pfBlockerNG, PersonalBlocklist, TechnitiumDNS | 
-| Hosts    | [Link](https://hagezi.github.io/dns-blocklists/hosts/ultimate.txt)<br>[Mirror](https://hagezi.gitlab.io/mirror/dns-blocklists/hosts/ultimate.txt) | Blocky, eBlocker, AdAway, uMatrix, DNS66, GasMask, HostFileEditor, OpenSnitch, NetGuard, TechnitiumDNS              |
-| Adblock  | [Link](https://hagezi.github.io/dns-blocklists/adblock/ultimate.txt)<br>[Mirror](https://hagezi.gitlab.io/mirror/dns-blocklists/adblock/ultimate.txt) | AdGuard, AdGuard Home, eBlocker, uBlock, AdBlock, AdBlock Plus, Opera, Vivaldi, Brave |
-| Unbound  | [Link](https://hagezi.github.io/dns-blocklists/unbound/ultimate.blacklist.conf)<br>[Mirror](https://hagezi.gitlab.io/mirror/dns-blocklists/unbound/ultimate.blacklist.conf) | Unbound                                                              |
-| DNSMasq  | [Link](https://hagezi.github.io/dns-blocklists/dnsmasq/ultimate.txt)<br>[Mirror](https://hagezi.gitlab.io/mirror/dns-blocklists/dnsmasq/ultimate.txt) | DNSMasq                                                              | 
-| Wildcard | [Link](https://hagezi.github.io/dns-blocklists/wildcard/ultimate.txt)<br>[Mirror](https://hagezi.gitlab.io/mirror/dns-blocklists/wildcard/ultimate.txt) | DNSCrypt, DNSCloak, YogaDNS, ...                                               |
-| RPZ | [Link](https://hagezi.github.io/dns-blocklists/rpz/ultimate.txt)<br>[Mirror](https://hagezi.gitlab.io/mirror/dns-blocklists/rpz/ultimate.txt) | Response Policy Zone |
+| Domains  | [Link](https://hagezi.github.io/dns-blocklists/domains/ultimate.txt)<br>[Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/domains/ultimate.txt) | PiHole, Blocky, eBlocker, Diversion, OpenSnitch, PersonalDNSfilter, pfBlockerNG, PersonalBlocklist, TechnitiumDNS | 
+| Hosts    | [Link](https://hagezi.github.io/dns-blocklists/hosts/ultimate.txt)<br>[Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/ultimate.txt) | Blocky, eBlocker, AdAway, uMatrix, DNS66, GasMask, HostFileEditor, OpenSnitch, NetGuard, TechnitiumDNS              |
+| Adblock  | [Link](https://hagezi.github.io/dns-blocklists/adblock/ultimate.txt)<br>[Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/ultimate.txt) | AdGuard, AdGuard Home, eBlocker, uBlock, AdBlock, AdBlock Plus, Opera, Vivaldi, Brave |
+| Unbound  | [Link](https://hagezi.github.io/dns-blocklists/unbound/ultimate.blacklist.conf)<br>[Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/unbound/ultimate.blacklist.conf) | Unbound                                                              |
+| DNSMasq  | [Link](https://hagezi.github.io/dns-blocklists/dnsmasq/ultimate.txt)<br>[Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/dnsmasq/ultimate.txt) | DNSMasq                                                              | 
+| Wildcard | [Link](https://hagezi.github.io/dns-blocklists/wildcard/ultimate.txt)<br>[Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/wildcard/ultimate.txt) | DNSCrypt, DNSCloak, YogaDNS, ...                                               |
+| RPZ | [Link](https://hagezi.github.io/dns-blocklists/rpz/ultimate.txt)<br>[Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/rpz/ultimate.txt) | Response Policy Zone |
                          
 **Expires:** *24 hours (update frequency)*
 
@@ -141,13 +141,13 @@
        
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
-| Domains  | [Link](https://hagezi.github.io/dns-blocklists/domains/fake.txt)<br>[Mirror](https://hagezi.gitlab.io/mirror/dns-blocklists/domains/fake.txt) | PiHole, Blocky, eBlocker, Diversion, OpenSnitch, PersonalDNSfilter, pfBlockerNG, PersonalBlocklist, TechnitiumDNS | 
-| Hosts    | [Link](https://hagezi.github.io/dns-blocklists/hosts/fake.txt)<br>[Mirror](https://hagezi.gitlab.io/mirror/dns-blocklists/hosts/fake.txt) | Blocky, eBlocker, AdAway, uMatrix, DNS66, GasMask, HostFileEditor, OpenSnitch, NetGuard, TechnitiumDNS              |
-| Adblock  | [Link](https://hagezi.github.io/dns-blocklists/adblock/fake.txt)<br>[Mirror](https://hagezi.gitlab.io/mirror/dns-blocklists/adblock/fake.txt) | AdGuard, AdGuard Home, eBlocker, uBlock, AdBlock, AdBlock Plus, Opera, Vivaldi, Brave |
-| Unbound  | [Link](https://hagezi.github.io/dns-blocklists/unbound/fake.blacklist.conf)<br>[Mirror](https://hagezi.gitlab.io/mirror/dns-blocklists/unbound/fake.blacklist.conf) | Unbound                                                              |
-| DNSMasq  | [Link](https://hagezi.github.io/dns-blocklists/dnsmasq/fake.txt)<br>[Mirror](https://hagezi.gitlab.io/mirror/dns-blocklists/dnsmasq/fake.txt) | DNSMasq                                                              | 
-| Wildcard | [Link](https://hagezi.github.io/dns-blocklists/wildcard/fake.txt)<br>[Mirror](https://hagezi.gitlab.io/mirror/dns-blocklists/wildcard/fake.txt) | DNSCrypt, DNSCloak, YogaDNS, ...                                               |
-| RPZ | [Link](https://hagezi.github.io/dns-blocklists/rpz/fake.txt)<br>[Mirror](https://hagezi.gitlab.io/mirror/dns-blocklists/rpz/fake.txt) | Response Policy Zone |
+| Domains  | [Link](https://hagezi.github.io/dns-blocklists/domains/fake.txt)<br>[Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/domains/fake.txt) | PiHole, Blocky, eBlocker, Diversion, OpenSnitch, PersonalDNSfilter, pfBlockerNG, PersonalBlocklist, TechnitiumDNS | 
+| Hosts    | [Link](https://hagezi.github.io/dns-blocklists/hosts/fake.txt)<br>[Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/fake.txt) | Blocky, eBlocker, AdAway, uMatrix, DNS66, GasMask, HostFileEditor, OpenSnitch, NetGuard, TechnitiumDNS              |
+| Adblock  | [Link](https://hagezi.github.io/dns-blocklists/adblock/fake.txt)<br>[Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/fake.txt) | AdGuard, AdGuard Home, eBlocker, uBlock, AdBlock, AdBlock Plus, Opera, Vivaldi, Brave |
+| Unbound  | [Link](https://hagezi.github.io/dns-blocklists/unbound/fake.blacklist.conf)<br>[Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/unbound/fake.blacklist.conf) | Unbound                                                              |
+| DNSMasq  | [Link](https://hagezi.github.io/dns-blocklists/dnsmasq/fake.txt)<br>[Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/dnsmasq/fake.txt) | DNSMasq                                                              | 
+| Wildcard | [Link](https://hagezi.github.io/dns-blocklists/wildcard/fake.txt)<br>[Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/wildcard/fake.txt) | DNSCrypt, DNSCloak, YogaDNS, ...                                               |
+| RPZ | [Link](https://hagezi.github.io/dns-blocklists/rpz/fake.txt)<br>[Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/rpz/fake.txt) | Response Policy Zone |
 
 **Expires:** *Updated regularly*
 
@@ -160,13 +160,13 @@
          
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
-| Domains  | [Link](https://hagezi.github.io/dns-blocklists/domains/tif.txt)<br>[Mirror](https://hagezi.gitlab.io/mirror/dns-blocklists/domains/tif.txt) | PiHole, Blocky, eBlocker, Diversion, OpenSnitch, PersonalDNSfilter, pfBlockerNG, PersonalBlocklist, TechnitiumDNS | 
-| Hosts    | [Link](https://hagezi.github.io/dns-blocklists/hosts/tif.txt)<br>[Mirror](https://hagezi.gitlab.io/mirror/dns-blocklists/hosts/tif.txt) | Blocky, eBlocker, AdAway, uMatrix, DNS66, GasMask, HostFileEditor, OpenSnitch, NetGuard, TechnitiumDNS              |
-| Adblock  | [Link](https://hagezi.github.io/dns-blocklists/adblock/tif.txt)<br>[Mirror](https://hagezi.gitlab.io/mirror/dns-blocklists/adblock/tif.txt) | AdGuard, AdGuard Home, eBlocker, uBlock, AdBlock, AdBlock Plus, Opera, Vivaldi, Brave |
-| Unbound  | [Link](https://hagezi.github.io/dns-blocklists/unbound/tif.blacklist.conf)<br>[Mirror](https://hagezi.gitlab.io/mirror/dns-blocklists/unbound/tif.blacklist.conf) | Unbound                                                              |
-| DNSMasq  | [Link](https://hagezi.github.io/dns-blocklists/dnsmasq/tif.txt)<br>[Mirror](https://hagezi.gitlab.io/mirror/dns-blocklists/dnsmasq/tif.txt) | DNSMasq                                                              | 
-| Wildcard | [Link](https://hagezi.github.io/dns-blocklists/wildcard/tif.txt)<br>[Mirror](https://hagezi.gitlab.io/mirror/dns-blocklists/wildcard/tif.txt) | DNSCrypt, DNSCloak, YogaDNS, ...                                               |
-| RPZ | [Link](https://hagezi.github.io/dns-blocklists/rpz/tif.txt)<br>[Mirror](https://hagezi.gitlab.io/mirror/dns-blocklists/rpz/tif.txt) | Response Policy Zone |
+| Domains  | [Link](https://hagezi.github.io/dns-blocklists/domains/tif.txt)<br>[Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/domains/tif.txt) | PiHole, Blocky, eBlocker, Diversion, OpenSnitch, PersonalDNSfilter, pfBlockerNG, PersonalBlocklist, TechnitiumDNS | 
+| Hosts    | [Link](https://hagezi.github.io/dns-blocklists/hosts/tif.txt)<br>[Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/tif.txt) | Blocky, eBlocker, AdAway, uMatrix, DNS66, GasMask, HostFileEditor, OpenSnitch, NetGuard, TechnitiumDNS              |
+| Adblock  | [Link](https://hagezi.github.io/dns-blocklists/adblock/tif.txt)<br>[Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/tif.txt) | AdGuard, AdGuard Home, eBlocker, uBlock, AdBlock, AdBlock Plus, Opera, Vivaldi, Brave |
+| Unbound  | [Link](https://hagezi.github.io/dns-blocklists/unbound/tif.blacklist.conf)<br>[Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/unbound/tif.blacklist.conf) | Unbound                                                              |
+| DNSMasq  | [Link](https://hagezi.github.io/dns-blocklists/dnsmasq/tif.txt)<br>[Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/dnsmasq/tif.txt) | DNSMasq                                                              | 
+| Wildcard | [Link](https://hagezi.github.io/dns-blocklists/wildcard/tif.txt)<br>[Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/wildcard/tif.txt) | DNSCrypt, DNSCloak, YogaDNS, ...                                               |
+| RPZ | [Link](https://hagezi.github.io/dns-blocklists/rpz/tif.txt)<br>[Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/rpz/tif.txt) | Response Policy Zone |
 
 **Expires:** *24 hours (update frequency)*
 
@@ -184,13 +184,13 @@
             
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
-| Domains  | [Link](https://hagezi.github.io/dns-blocklists/domains/doh-vpn-proxy-bypass.txt)<br>[Mirror](https://hagezi.gitlab.io/mirror/dns-blocklists/domains/doh-vpn-proxy-bypass.txt) | PiHole, Blocky, eBlocker, Diversion, OpenSnitch, PersonalDNSfilter, pfBlockerNG, PersonalBlocklist, TechnitiumDNS | 
-| Hosts    | [Link](https://hagezi.github.io/dns-blocklists/hosts/doh-vpn-proxy-bypass.txt)<br>[Mirror](https://hagezi.gitlab.io/mirror/dns-blocklists/hosts/doh-vpn-proxy-bypass.txt) | Blocky, eBlocker, AdAway, uMatrix, DNS66, GasMask, HostFileEditor, OpenSnitch, NetGuard, TechnitiumDNS              |
-| Adblock  | [Link](https://hagezi.github.io/dns-blocklists/adblock/doh-vpn-proxy-bypass.txt)<br>[Mirror](https://hagezi.gitlab.io/mirror/dns-blocklists/adblock/doh-vpn-proxy-bypass.txt) | AdGuard, AdGuard Home, eBlocker, uBlock, AdBlock, AdBlock Plus, Opera, Vivaldi, Brave |
-| Unbound  | [Link](https://hagezi.github.io/dns-blocklists/unbound/doh-vpn-proxy-bypass.blacklist.conf)<br>[Mirror](https://hagezi.gitlab.io/mirror/dns-blocklists/unbound/doh-vpn-proxy-bypass.blacklist.conf) | Unbound                                                              |
-| DNSMasq  | [Link](https://hagezi.github.io/dns-blocklists/dnsmasq/doh-vpn-proxy-bypass.txt)<br>[Mirror](https://hagezi.gitlab.io/mirror/dns-blocklists/dnsmasq/doh-vpn-proxy-bypass.txt) | DNSMasq                                                              | 
-| Wildcard | [Link](https://hagezi.github.io/dns-blocklists/wildcard/doh-vpn-proxy-bypass.txt)<br>[Mirror](https://hagezi.gitlab.io/mirror/dns-blocklists/wildcard/doh-vpn-proxy-bypass.txt) | DNSCrypt, DNSCloak, YogaDNS, ...                                               |
-| RPZ | [Link](https://hagezi.github.io/dns-blocklists/rpz/doh-vpn-proxy-bypass.txt)<br>[Mirror](https://hagezi.gitlab.io/mirror/dns-blocklists/rpz/doh-vpn-proxy-bypass.txt) | Response Policy Zone |
+| Domains  | [Link](https://hagezi.github.io/dns-blocklists/domains/doh-vpn-proxy-bypass.txt)<br>[Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/domains/doh-vpn-proxy-bypass.txt) | PiHole, Blocky, eBlocker, Diversion, OpenSnitch, PersonalDNSfilter, pfBlockerNG, PersonalBlocklist, TechnitiumDNS | 
+| Hosts    | [Link](https://hagezi.github.io/dns-blocklists/hosts/doh-vpn-proxy-bypass.txt)<br>[Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/doh-vpn-proxy-bypass.txt) | Blocky, eBlocker, AdAway, uMatrix, DNS66, GasMask, HostFileEditor, OpenSnitch, NetGuard, TechnitiumDNS              |
+| Adblock  | [Link](https://hagezi.github.io/dns-blocklists/adblock/doh-vpn-proxy-bypass.txt)<br>[Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/doh-vpn-proxy-bypass.txt) | AdGuard, AdGuard Home, eBlocker, uBlock, AdBlock, AdBlock Plus, Opera, Vivaldi, Brave |
+| Unbound  | [Link](https://hagezi.github.io/dns-blocklists/unbound/doh-vpn-proxy-bypass.blacklist.conf)<br>[Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/unbound/doh-vpn-proxy-bypass.blacklist.conf) | Unbound                                                              |
+| DNSMasq  | [Link](https://hagezi.github.io/dns-blocklists/dnsmasq/doh-vpn-proxy-bypass.txt)<br>[Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/dnsmasq/doh-vpn-proxy-bypass.txt) | DNSMasq                                                              | 
+| Wildcard | [Link](https://hagezi.github.io/dns-blocklists/wildcard/doh-vpn-proxy-bypass.txt)<br>[Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/wildcard/doh-vpn-proxy-bypass.txt) | DNSCrypt, DNSCloak, YogaDNS, ...                                               |
+| RPZ | [Link](https://hagezi.github.io/dns-blocklists/rpz/doh-vpn-proxy-bypass.txt)<br>[Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/rpz/doh-vpn-proxy-bypass.txt) | Response Policy Zone |
 
 **Expires:** *Updated regularly*
 
@@ -200,13 +200,13 @@
             
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
-| Domains  | [Link](https://hagezi.github.io/dns-blocklists/domains/doh.txt)<br>[Mirror](https://hagezi.gitlab.io/mirror/dns-blocklists/domains/doh.txt) | PiHole, Blocky, eBlocker, Diversion, OpenSnitch, PersonalDNSfilter, pfBlockerNG, PersonalBlocklist, TechnitiumDNS | 
-| Hosts    | [Link](https://hagezi.github.io/dns-blocklists/hosts/doh.txt)<br>[Mirror](https://hagezi.gitlab.io/mirror/dns-blocklists/hosts/doh.txt) | Blocky, eBlocker, AdAway, uMatrix, DNS66, GasMask, HostFileEditor, OpenSnitch, NetGuard, TechnitiumDNS              |
-| Adblock  | [Link](https://hagezi.github.io/dns-blocklists/adblock/doh.txt)<br>[Mirror](https://hagezi.gitlab.io/mirror/dns-blocklists/adblock/doh.txt) | AdGuard, AdGuard Home, eBlocker, uBlock, AdBlock, AdBlock Plus, Opera, Vivaldi, Brave |
-| Unbound  | [Link](https://hagezi.github.io/dns-blocklists/unbound/doh.blacklist.conf)<br>[Mirror](https://hagezi.gitlab.io/mirror/dns-blocklists/unbound/doh.blacklist.conf) | Unbound                                                              |
-| DNSMasq  | [Link](https://hagezi.github.io/dns-blocklists/dnsmasq/doh.txt)<br>[Mirror](https://hagezi.gitlab.io/mirror/dns-blocklists/dnsmasq/doh.txt) | DNSMasq                                                              | 
-| Wildcard | [Link](https://hagezi.github.io/dns-blocklists/wildcard/doh.txt)<br>[Mirror](https://hagezi.gitlab.io/mirror/dns-blocklists/wildcard/doh.txt) | DNSCrypt, DNSCloak, YogaDNS, ...                                               |
-| RPZ | [Link](https://hagezi.github.io/dns-blocklists/rpz/doh.txt)<br>[Mirror](https://hagezi.gitlab.io/mirror/dns-blocklists/rpz/doh.txt) | Response Policy Zone |
+| Domains  | [Link](https://hagezi.github.io/dns-blocklists/domains/doh.txt)<br>[Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/domains/doh.txt) | PiHole, Blocky, eBlocker, Diversion, OpenSnitch, PersonalDNSfilter, pfBlockerNG, PersonalBlocklist, TechnitiumDNS | 
+| Hosts    | [Link](https://hagezi.github.io/dns-blocklists/hosts/doh.txt)<br>[Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/doh.txt) | Blocky, eBlocker, AdAway, uMatrix, DNS66, GasMask, HostFileEditor, OpenSnitch, NetGuard, TechnitiumDNS              |
+| Adblock  | [Link](https://hagezi.github.io/dns-blocklists/adblock/doh.txt)<br>[Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/doh.txt) | AdGuard, AdGuard Home, eBlocker, uBlock, AdBlock, AdBlock Plus, Opera, Vivaldi, Brave |
+| Unbound  | [Link](https://hagezi.github.io/dns-blocklists/unbound/doh.blacklist.conf)<br>[Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/unbound/doh.blacklist.conf) | Unbound                                                              |
+| DNSMasq  | [Link](https://hagezi.github.io/dns-blocklists/dnsmasq/doh.txt)<br>[Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/dnsmasq/doh.txt) | DNSMasq                                                              | 
+| Wildcard | [Link](https://hagezi.github.io/dns-blocklists/wildcard/doh.txt)<br>[Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/wildcard/doh.txt) | DNSCrypt, DNSCloak, YogaDNS, ...                                               |
+| RPZ | [Link](https://hagezi.github.io/dns-blocklists/rpz/doh.txt)<br>[Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/rpz/doh.txt) | Response Policy Zone |
 
 **Expires:** *Updated regularly*
 
@@ -219,13 +219,13 @@
             
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
-| Domains  | [Link](https://hagezi.github.io/dns-blocklists/domains/nosafesearch.txt)<br>[Mirror](https://hagezi.gitlab.io/mirror/dns-blocklists/domains/nosafesearch.txt) | PiHole, Blocky, eBlocker, Diversion, OpenSnitch, PersonalDNSfilter, pfBlockerNG, PersonalBlocklist, TechnitiumDNS | 
-| Hosts    | [Link](https://hagezi.github.io/dns-blocklists/hosts/nosafesearch.txt)<br>[Mirror](https://hagezi.gitlab.io/mirror/dns-blocklists/hosts/nosafesearch.txt) | Blocky, eBlocker, AdAway, uMatrix, DNS66, GasMask, HostFileEditor, OpenSnitch, NetGuard, TechnitiumDNS              |
-| Adblock  | [Link](https://hagezi.github.io/dns-blocklists/adblock/nosafesearch.txt)<br>[Mirror](https://hagezi.gitlab.io/mirror/dns-blocklists/adblock/nosafesearch.txt) | AdGuard, AdGuard Home, eBlocker, uBlock, AdBlock, AdBlock Plus, Opera, Vivaldi, Brave |
-| Unbound  | [Link](https://hagezi.github.io/dns-blocklists/unbound/nosafesearch.blacklist.conf)<br>[Mirror](https://hagezi.gitlab.io/mirror/dns-blocklists/unbound/nosafesearch.blacklist.conf) | Unbound                                                              |
-| DNSMasq  | [Link](https://hagezi.github.io/dns-blocklists/dnsmasq/nosafesearch.txt)<br>[Mirror](https://hagezi.gitlab.io/mirror/dns-blocklists/dnsmasq/nosafesearch.txt) | DNSMasq                                                              | 
-| Wildcard | [Link](https://hagezi.github.io/dns-blocklists/wildcard/nosafesearch.txt)<br>[Mirror](https://hagezi.gitlab.io/mirror/dns-blocklists/wildcard/nosafesearch.txt) | DNSCrypt, DNSCloak, YogaDNS, ...                                               |
-| RPZ | [Link](https://hagezi.github.io/dns-blocklists/rpz/nosafesearch.txt)<br>[Mirror](https://hagezi.gitlab.io/mirror/dns-blocklists/rpz/nosafesearch.txt) | Response Policy Zone |
+| Domains  | [Link](https://hagezi.github.io/dns-blocklists/domains/nosafesearch.txt)<br>[Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/domains/nosafesearch.txt) | PiHole, Blocky, eBlocker, Diversion, OpenSnitch, PersonalDNSfilter, pfBlockerNG, PersonalBlocklist, TechnitiumDNS | 
+| Hosts    | [Link](https://hagezi.github.io/dns-blocklists/hosts/nosafesearch.txt)<br>[Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/nosafesearch.txt) | Blocky, eBlocker, AdAway, uMatrix, DNS66, GasMask, HostFileEditor, OpenSnitch, NetGuard, TechnitiumDNS              |
+| Adblock  | [Link](https://hagezi.github.io/dns-blocklists/adblock/nosafesearch.txt)<br>[Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/nosafesearch.txt) | AdGuard, AdGuard Home, eBlocker, uBlock, AdBlock, AdBlock Plus, Opera, Vivaldi, Brave |
+| Unbound  | [Link](https://hagezi.github.io/dns-blocklists/unbound/nosafesearch.blacklist.conf)<br>[Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/unbound/nosafesearch.blacklist.conf) | Unbound                                                              |
+| DNSMasq  | [Link](https://hagezi.github.io/dns-blocklists/dnsmasq/nosafesearch.txt)<br>[Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/dnsmasq/nosafesearch.txt) | DNSMasq                                                              | 
+| Wildcard | [Link](https://hagezi.github.io/dns-blocklists/wildcard/nosafesearch.txt)<br>[Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/wildcard/nosafesearch.txt) | DNSCrypt, DNSCloak, YogaDNS, ...                                               |
+| RPZ | [Link](https://hagezi.github.io/dns-blocklists/rpz/nosafesearch.txt)<br>[Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/rpz/nosafesearch.txt) | Response Policy Zone |
 
 **Expires:** *Updated regularly*
 
@@ -238,13 +238,13 @@
             
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
-| Domains  | [Link](https://hagezi.github.io/dns-blocklists/domains/dyndns.txt)<br>[Mirror](https://hagezi.gitlab.io/mirror/dns-blocklists/domains/dyndns.txt) | PiHole, Blocky, eBlocker, Diversion, OpenSnitch, PersonalDNSfilter, pfBlockerNG, PersonalBlocklist, TechnitiumDNS | 
-| Hosts    | [Link](https://hagezi.github.io/dns-blocklists/hosts/dyndns.txt)<br>[Mirror](https://hagezi.gitlab.io/mirror/dns-blocklists/hosts/dyndns.txt) | Blocky, eBlocker, AdAway, uMatrix, DNS66, GasMask, HostFileEditor, OpenSnitch, NetGuard, TechnitiumDNS              |
-| Adblock  | [Link](https://hagezi.github.io/dns-blocklists/adblock/dyndns.txt)<br>[Mirror](https://hagezi.gitlab.io/mirror/dns-blocklists/adblock/dyndns.txt) | AdGuard, AdGuard Home, eBlocker, uBlock, AdBlock, AdBlock Plus, Opera, Vivaldi, Brave |
-| Unbound  | [Link](https://hagezi.github.io/dns-blocklists/unbound/dyndns.blacklist.conf)<br>[Mirror](https://hagezi.gitlab.io/mirror/dns-blocklists/unbound/dyndns.blacklist.conf) | Unbound                                                              |
-| DNSMasq  | [Link](https://hagezi.github.io/dns-blocklists/dnsmasq/dyndns.txt)<br>[Mirror](https://hagezi.gitlab.io/mirror/dns-blocklists/dnsmasq/dyndns.txt) | DNSMasq                                                              | 
-| Wildcard | [Link](https://hagezi.github.io/dns-blocklists/wildcard/dyndns.txt)<br>[Mirror](https://hagezi.gitlab.io/mirror/dns-blocklists/wildcard/dyndns.txt) | DNSCrypt, DNSCloak, YogaDNS, ...                                               |
-| RPZ | [Link](https://hagezi.github.io/dns-blocklists/rpz/dyndns.txt)<br>[Mirror](https://hagezi.gitlab.io/mirror/dns-blocklists/rpz/dyndns.txt) | Response Policy Zone |
+| Domains  | [Link](https://hagezi.github.io/dns-blocklists/domains/dyndns.txt)<br>[Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/domains/dyndns.txt) | PiHole, Blocky, eBlocker, Diversion, OpenSnitch, PersonalDNSfilter, pfBlockerNG, PersonalBlocklist, TechnitiumDNS | 
+| Hosts    | [Link](https://hagezi.github.io/dns-blocklists/hosts/dyndns.txt)<br>[Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/dyndns.txt) | Blocky, eBlocker, AdAway, uMatrix, DNS66, GasMask, HostFileEditor, OpenSnitch, NetGuard, TechnitiumDNS              |
+| Adblock  | [Link](https://hagezi.github.io/dns-blocklists/adblock/dyndns.txt)<br>[Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/dyndns.txt) | AdGuard, AdGuard Home, eBlocker, uBlock, AdBlock, AdBlock Plus, Opera, Vivaldi, Brave |
+| Unbound  | [Link](https://hagezi.github.io/dns-blocklists/unbound/dyndns.blacklist.conf)<br>[Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/unbound/dyndns.blacklist.conf) | Unbound                                                              |
+| DNSMasq  | [Link](https://hagezi.github.io/dns-blocklists/dnsmasq/dyndns.txt)<br>[Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/dnsmasq/dyndns.txt) | DNSMasq                                                              | 
+| Wildcard | [Link](https://hagezi.github.io/dns-blocklists/wildcard/dyndns.txt)<br>[Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/wildcard/dyndns.txt) | DNSCrypt, DNSCloak, YogaDNS, ...                                               |
+| RPZ | [Link](https://hagezi.github.io/dns-blocklists/rpz/dyndns.txt)<br>[Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/rpz/dyndns.txt) | Response Policy Zone |
 
 **Expires:** *Updated regularly*
 
@@ -257,13 +257,13 @@
             
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
-| Domains  | [Link](https://hagezi.github.io/dns-blocklists/domains/hoster.txt)<br>[Mirror](https://hagezi.gitlab.io/mirror/dns-blocklists/domains/hoster.txt) | PiHole, Blocky, eBlocker, Diversion, OpenSnitch, PersonalDNSfilter, pfBlockerNG, PersonalBlocklist, TechnitiumDNS | 
-| Hosts    | [Link](https://hagezi.github.io/dns-blocklists/hosts/hoster.txt)<br>[Mirror](https://hagezi.gitlab.io/mirror/dns-blocklists/hosts/hoster.txt) | Blocky, eBlocker, AdAway, uMatrix, DNS66, GasMask, HostFileEditor, OpenSnitch, NetGuard, TechnitiumDNS              |
-| Adblock  | [Link](https://hagezi.github.io/dns-blocklists/adblock/hoster.txt)<br>[Mirror](https://hagezi.gitlab.io/mirror/dns-blocklists/adblock/hoster.txt) | AdGuard, AdGuard Home, eBlocker, uBlock, AdBlock, AdBlock Plus, Opera, Vivaldi, Brave |
-| Unbound  | [Link](https://hagezi.github.io/dns-blocklists/unbound/hoster.blacklist.conf)<br>[Mirror](https://hagezi.gitlab.io/mirror/dns-blocklists/unbound/hoster.blacklist.conf) | Unbound                                                              |
-| DNSMasq  | [Link](https://hagezi.github.io/dns-blocklists/dnsmasq/hoster.txt)<br>[Mirror](https://hagezi.gitlab.io/mirror/dns-blocklists/dnsmasq/hoster.txt) | DNSMasq                                                              | 
-| Wildcard | [Link](https://hagezi.github.io/dns-blocklists/wildcard/hoster.txt)<br>[Mirror](https://hagezi.gitlab.io/mirror/dns-blocklists/wildcard/hoster.txt) | DNSCrypt, DNSCloak, YogaDNS, ...                                               |
-| RPZ | [Link](https://hagezi.github.io/dns-blocklists/rpz/hoster.txt)<br>[Mirror](https://hagezi.gitlab.io/mirror/dns-blocklists/rpz/hoster.txt) | Response Policy Zone |
+| Domains  | [Link](https://hagezi.github.io/dns-blocklists/domains/hoster.txt)<br>[Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/domains/hoster.txt) | PiHole, Blocky, eBlocker, Diversion, OpenSnitch, PersonalDNSfilter, pfBlockerNG, PersonalBlocklist, TechnitiumDNS | 
+| Hosts    | [Link](https://hagezi.github.io/dns-blocklists/hosts/hoster.txt)<br>[Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/hoster.txt) | Blocky, eBlocker, AdAway, uMatrix, DNS66, GasMask, HostFileEditor, OpenSnitch, NetGuard, TechnitiumDNS              |
+| Adblock  | [Link](https://hagezi.github.io/dns-blocklists/adblock/hoster.txt)<br>[Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/hoster.txt) | AdGuard, AdGuard Home, eBlocker, uBlock, AdBlock, AdBlock Plus, Opera, Vivaldi, Brave |
+| Unbound  | [Link](https://hagezi.github.io/dns-blocklists/unbound/hoster.blacklist.conf)<br>[Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/unbound/hoster.blacklist.conf) | Unbound                                                              |
+| DNSMasq  | [Link](https://hagezi.github.io/dns-blocklists/dnsmasq/hoster.txt)<br>[Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/dnsmasq/hoster.txt) | DNSMasq                                                              | 
+| Wildcard | [Link](https://hagezi.github.io/dns-blocklists/wildcard/hoster.txt)<br>[Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/wildcard/hoster.txt) | DNSCrypt, DNSCloak, YogaDNS, ...                                               |
+| RPZ | [Link](https://hagezi.github.io/dns-blocklists/rpz/hoster.txt)<br>[Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/rpz/hoster.txt) | Response Policy Zone |
 
 **Expires:** *Updated regularly*
 
@@ -274,8 +274,8 @@
             
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
-| AdGuard | [Link](https://hagezi.github.io/dns-blocklists/adblock/spam-tlds.txt)<br>[Mirror](https://hagezi.gitlab.io/mirror/dns-blocklists/adblock/spam-tlds.txt) | AdGuard, AdGuard Home |
-| uBlock  | [Link](https://hagezi.github.io/dns-blocklists/adblock/spam-tlds-ublock.txt)<br>[Mirror](https://hagezi.gitlab.io/mirror/dns-blocklists/adblock/spam-tlds-ublock.txt) | uBlock |
+| AdGuard | [Link](https://hagezi.github.io/dns-blocklists/adblock/spam-tlds.txt)<br>[Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/spam-tlds.txt) | AdGuard, AdGuard Home |
+| uBlock  | [Link](https://hagezi.github.io/dns-blocklists/adblock/spam-tlds-ublock.txt)<br>[Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/spam-tlds-ublock.txt) | uBlock |
 
 **Expires:** *Updated regularly*
 
@@ -288,13 +288,13 @@
        
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
-| Domains  | [Link](https://hagezi.github.io/dns-blocklists/domains/personal.txt)<br>[Mirror](https://hagezi.gitlab.io/mirror/dns-blocklists/domains/personal.txt) | PiHole, Blocky, eBlocker, Diversion, OpenSnitch, PersonalDNSfilter, pfBlockerNG, PersonalBlocklist, TechnitiumDNS | 
-| Hosts    | [Link](https://hagezi.github.io/dns-blocklists/hosts/personal.txt)<br>[Mirror](https://hagezi.gitlab.io/mirror/dns-blocklists/hosts/personal.txt) | Blocky, eBlocker, AdAway, uMatrix, DNS66, GasMask, HostFileEditor, OpenSnitch, NetGuard, TechnitiumDNS              |
-| Adblock  | [Link](https://hagezi.github.io/dns-blocklists/adblock/personal.txt)<br>[Mirror](https://hagezi.gitlab.io/mirror/dns-blocklists/adblock/personal.txt) | AdGuard, AdGuard Home, eBlocker, uBlock, AdBlock, AdBlock Plus, Opera, Vivaldi, Brave |
-| Unbound  | [Link](https://hagezi.github.io/dns-blocklists/unbound/personal.blacklist.conf)<br>[Mirror](https://hagezi.gitlab.io/mirror/dns-blocklists/unbound/personal.blacklist.conf) | Unbound                                                              |
-| DNSMasq  | [Link](https://hagezi.github.io/dns-blocklists/dnsmasq/personal.txt)<br>[Mirror](https://hagezi.gitlab.io/mirror/dns-blocklists/dnsmasq/personal.txt) | DNSMasq                                                              | 
-| Wildcard | [Link](https://hagezi.github.io/dns-blocklists/wildcard/personal.txt)<br>[Mirror](https://hagezi.gitlab.io/mirror/dns-blocklists/wildcard/personal.txt) | DNSCrypt, DNSCloak, YogaDNS, ...                                               |
-| RPZ | [Link](https://hagezi.github.io/dns-blocklists/rpz/personal.txt)<br>[Mirror](https://hagezi.gitlab.io/mirror/dns-blocklists/rpz/personal.txt) | Response Policy Zone |
+| Domains  | [Link](https://hagezi.github.io/dns-blocklists/domains/personal.txt)<br>[Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/domains/personal.txt) | PiHole, Blocky, eBlocker, Diversion, OpenSnitch, PersonalDNSfilter, pfBlockerNG, PersonalBlocklist, TechnitiumDNS | 
+| Hosts    | [Link](https://hagezi.github.io/dns-blocklists/hosts/personal.txt)<br>[Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/personal.txt) | Blocky, eBlocker, AdAway, uMatrix, DNS66, GasMask, HostFileEditor, OpenSnitch, NetGuard, TechnitiumDNS              |
+| Adblock  | [Link](https://hagezi.github.io/dns-blocklists/adblock/personal.txt)<br>[Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/personal.txt) | AdGuard, AdGuard Home, eBlocker, uBlock, AdBlock, AdBlock Plus, Opera, Vivaldi, Brave |
+| Unbound  | [Link](https://hagezi.github.io/dns-blocklists/unbound/personal.blacklist.conf)<br>[Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/unbound/personal.blacklist.conf) | Unbound                                                              |
+| DNSMasq  | [Link](https://hagezi.github.io/dns-blocklists/dnsmasq/personal.txt)<br>[Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/dnsmasq/personal.txt) | DNSMasq                                                              | 
+| Wildcard | [Link](https://hagezi.github.io/dns-blocklists/wildcard/personal.txt)<br>[Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/wildcard/personal.txt) | DNSCrypt, DNSCloak, YogaDNS, ...                                               |
+| RPZ | [Link](https://hagezi.github.io/dns-blocklists/rpz/personal.txt)<br>[Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/rpz/personal.txt) | Response Policy Zone |
 
 **Expires:** *Updated regularly*
 
