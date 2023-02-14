@@ -586,10 +586,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 14 Feb 2023 16:26 UTC
-! Version: 2023.0214.1626.38
+! Last modified: 14 Feb 2023 20:11 UTC
+! Version: 2023.0214.2011.36
 ! Syntax: AdBlock
-! Domains: 19747
+! Domains: 19746
 !
 ||003store.com^
 ||00go.com^
@@ -11888,7 +11888,6 @@
 ||miarroba.com^
 ||miarroba.info^
 ||miciudadreal.es^
-||prvsz4pe.micpn.com^
 ||microad.jp^
 ||microad.net^
 ||microad-cn.com^
@@ -67600,6 +67599,7 @@
 @@||list-manage.com^
 @@||mandrillapp.com^
 @@||media01.eu^
+@@||micpn.com^
 @@||mktoweb.com^
 @@||mmtro.com^
 @@||ojrq.net^
