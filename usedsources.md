@@ -3,7 +3,7 @@
 #### LIGHT
 [whitelisted domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/light-removed-white.txt) | [whitelisted referral domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/light-removed-referral.txt) | [dead domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/light-removed-dead.txt)
 ```
-657956 total unique domains | 586641 (89%) included | 1388 (0%) removed | 69927 (11%) dead
+614432 total unique domains | 545959 (89%) included | 1388 (0%) removed | 67085 (11%) dead
 
  Nr | Included | Dead | Removed | URL/File
   1 |      99% |   1% |      0% | https://raw.githubusercontent.com/sjhgvr/oisd/main/oisd_small.txt
@@ -26,10 +26,10 @@ For domain and host lists, additionally: matching/missing subdomains (see at the
 #### MULTI
 [whitelisted domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/multi-removed-white.txt) | [whitelisted referral domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/multi-removed-referral.txt) | [dead domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/multi-removed-dead.txt)
 ```
-1037976 total unique domains | 933385 (90%) included | 2219 (0%) removed | 102372 (10%) dead
+1016307 total unique domains | 912802 (90%) included | 2236 (0%) removed | 101269 (10%) dead
 
  Nr | Included | Dead | Removed | URL/File
-  1 |      94% |   6% |      0% | oisd.domains.txt
+  1 |      97% |   3% |      0% | https://raw.githubusercontent.com/sjhgvr/oisd/main/oisd_big.txt
   2 |      97% |   1% |      2% | https://o0.pages.dev/Lite/hosts.txt
   3 |      92% |   8% |      0% | https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
   4 |      87% |  13% |      0% | https://threatfox.abuse.ch/downloads/hostfile
@@ -51,15 +51,15 @@ For domain and host lists, additionally: matching/missing subdomains (see at the
 #### PRO
 [whitelisted domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/pro-removed-white.txt) | [whitelisted referral domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/pro-removed-referral.txt) | [dead domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/pro-removed-dead.txt)
 ```
-1604379 total unique domains | 1271655 (79%) included | 2771 (0%) removed | 329953 (21%) dead
+1578446 total unique domains | 1255216 (80%) included | 2793 (0%) removed | 320437 (20%) dead
 
  Nr | Included | Dead | Removed | URL/File
-  1 |      75% |  25% |      0% | notracking.domains.txt
+  1 |      76% |  24% |      0% | https://raw.githubusercontent.com/notracking/hosts-blocklists/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt
   2 |      66% |  34% |      0% | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
   3 |      96% |   1% |      3% | https://gitlab.com/quidsup/notrack-annoyance-blocklist/-/raw/master/notrack-annoyance.txt
   4 |      97% |   1% |      2% | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
   5 |      45% |  52% |      3% | https://raw.githubusercontent.com/craiu/mobiletrackers/master/list.txt
-  6 |      94% |   6% |      0% | oisd.domains.txt
+  6 |      97% |   3% |      0% | https://raw.githubusercontent.com/sjhgvr/oisd/main/oisd_big.txt
   7 |      97% |   1% |      2% | https://o0.pages.dev/Lite/hosts.txt
   8 |      92% |   8% |      0% | https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
   9 |      87% |  13% |      0% | https://threatfox.abuse.ch/downloads/hostfile
