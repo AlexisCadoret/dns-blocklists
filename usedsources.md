@@ -3,10 +3,10 @@
 #### LIGHT
 [whitelisted domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/light-removed-white.txt) | [whitelisted referral domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/light-removed-referral.txt) | [dead domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/light-removed-dead.txt)
 ```
-663352 total unique domains | 591347 (89%) included | 1399 (0%) removed | 70606 (11%) dead
+657956 total unique domains | 586641 (89%) included | 1388 (0%) removed | 69927 (11%) dead
 
  Nr | Included | Dead | Removed | URL/File
-  1 |      98% |   2% |      0% | oisd.basic.domains.txt
+  1 |      99% |   1% |      0% | https://raw.githubusercontent.com/sjhgvr/oisd/main/oisd_small.txt
   2 |      99% |   0% |      1% | https://o0.pages.dev/mini/hosts.txt
   3 |      87% |  13% |      0% | https://threatfox.abuse.ch/downloads/hostfile
   4 |     100% |   0% |      0% | https://urlhaus.abuse.ch/downloads/hostfile
@@ -484,6 +484,7 @@ https://anti-ad.net/adguard.txt
 https://anti-ad.net/easylist.txt
 https://assets.windscribe.com/custom_blocklists/clickbait.txt
 https://azorult-tracker.net/api/list/domain?format=plain
+https://big.oisd.nl/
 https://blocklistproject.github.io/Lists/adguard/abuse-ags.txt
 https://blocklistproject.github.io/Lists/adguard/fraud-ags.txt
 https://blocklistproject.github.io/Lists/adguard/malware-ags.txt
@@ -772,6 +773,8 @@ https://raw.githubusercontent.com/sjhgvr/oisd/main/dbl_basic.txt
 https://raw.githubusercontent.com/sjhgvr/oisd/main/dbl_extra.txt
 https://raw.githubusercontent.com/sjhgvr/oisd/main/dbl_full.txt
 https://raw.githubusercontent.com/sjhgvr/oisd/main/dbl_nsfw.txt
+https://raw.githubusercontent.com/sjhgvr/oisd/main/oisd_big.txt
+https://raw.githubusercontent.com/sjhgvr/oisd/main/oisd_small.txt
 https://raw.githubusercontent.com/smed79/blacklist/master/hosts.txt
 https://raw.githubusercontent.com/stamparm/aux/master/maltrail-malware-domains.txt
 https://raw.githubusercontent.com/stamparm/blackbook/master/blackbook.txt
@@ -813,6 +816,7 @@ https://rescure.me/rescure_domain_blacklist.txt
 https://secure.fanboy.co.nz/fanboy-annoyance.txt
 https://secure.fanboy.co.nz/fanboy-cookiemonster.txt
 https://secure.fanboy.co.nz/fanboy-social.txt
+https://small.oisd.nl/
 https://smokingwheels.github.io/Pi-hole/multiedit
 https://someonewhocares.org/hosts/hosts
 https://someonewhocares.org/hosts/zero/hosts
