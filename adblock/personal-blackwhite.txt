@@ -586,8 +586,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 14 Feb 2023 07:50 UTC
-! Version: 2023.0214.0750.47
+! Last modified: 14 Feb 2023 12:36 UTC
+! Version: 2023.0214.1236.03
 ! Syntax: AdBlock
 ! Domains: 25558
 !
@@ -67529,6 +67529,13 @@
 
 ! https://github.com/hagezi/dns-blocklists/issues/341
 @@|sentry.sc-prod.net^
+
+! Custommer support chat on various sites
+@@||chatra.io^
+
+! Breaks Forms on/in various sites/apps
+@@|static-app.klaviyo.com^
+@@|static-forms.klaviyo.com^
 
 
 ! Title: HaGeZi's White-/Allowlist Referral for Black & White list

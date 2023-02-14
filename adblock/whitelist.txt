@@ -2799,3 +2799,10 @@
 ! https://github.com/hagezi/dns-blocklists/issues/341
 @@|sentry.sc-prod.net^
 
+! Custommer support chat on various sites
+@@||chatra.io^
+
+! Breaks Forms on/in various sites/apps
+@@|static-app.klaviyo.com^
+@@|static-forms.klaviyo.com^
+
