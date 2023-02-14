@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.fake. hostmaster.hagezi.fake. 1676329200 86400 3600 604800 30
+@ SOA rpz.hagezi.fake. hostmaster.hagezi.fake. 1676415600 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -8,8 +8,8 @@ $TTL 30
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ; Expires: Updated regularly
-; Last modified: 13 Feb 2023 23:19 UTC
-; Version: 2023.0213.2319.36
+; Last modified: 14 Feb 2023 23:17 UTC
+; Version: 2023.0214.2317.03
 ; Syntax: RPZ
 ; Domains: 5228
 ;
@@ -981,8 +981,6 @@ eshop.sintech.cn CNAME .
 *.eshop.sintech.cn CNAME .
 alleygh.co CNAME .
 *.alleygh.co CNAME .
-allsoccer.co CNAME .
-*.allsoccer.co CNAME .
 alpha-killaz.co CNAME .
 *.alpha-killaz.co CNAME .
 autostyles.co CNAME .
@@ -2537,6 +2535,8 @@ fotopr-online.com CNAME .
 *.fotopr-online.com CNAME .
 fotosocken.com CNAME .
 *.fotosocken.com CNAME .
+foxxum.com CNAME .
+*.foxxum.com CNAME .
 fpjollet.com CNAME .
 *.fpjollet.com CNAME .
 frankiemakeupartist.com CNAME .
@@ -3551,8 +3551,8 @@ mcoaltmeds.com CNAME .
 *.mcoaltmeds.com CNAME .
 mctrl-marktforschung.com CNAME .
 *.mctrl-marktforschung.com CNAME .
-bl.mdates.com CNAME .
-*.bl.mdates.com CNAME .
+mdates.com CNAME .
+*.mdates.com CNAME .
 media-heinemann.com CNAME .
 *.media-heinemann.com CNAME .
 media-palmer.com CNAME .
@@ -8083,8 +8083,6 @@ ostergartenhermesdorf.de CNAME .
 *.ostergartenhermesdorf.de CNAME .
 otto-angebote.de CNAME .
 *.otto-angebote.de CNAME .
-ouraltis.de CNAME .
-*.ouraltis.de CNAME .
 outdoor-repel.de CNAME .
 *.outdoor-repel.de CNAME .
 owlkaminholz.de CNAME .
@@ -8291,6 +8289,8 @@ rehasportberatung.de CNAME .
 *.rehasportberatung.de CNAME .
 rehauevents.de CNAME .
 *.rehauevents.de CNAME .
+reichwahl.de CNAME .
+*.reichwahl.de CNAME .
 reifen-altendorf.de CNAME .
 *.reifen-altendorf.de CNAME .
 reifen-glaser.de CNAME .

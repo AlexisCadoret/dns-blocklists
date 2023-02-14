@@ -4,8 +4,8 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 13 Feb 2023 23:19 UTC
-# Version: 2023.0213.2319.36
+# Last modified: 14 Feb 2023 23:17 UTC
+# Version: 2023.0214.2317.03
 # Syntax: DNSMasq
 # Domains: 5228
 #
@@ -179,7 +179,6 @@ address=/allfashionz.de/#
 address=/allhomesinspokane.com/#
 address=/allhotelsmorocco.com/#
 address=/allincosmetics.club/#
-address=/allsoccer.co/#
 address=/alltech-de.com/#
 address=/alltogether.shop/#
 address=/alltopinvest.com/#
@@ -1777,6 +1776,7 @@ address=/fourer.online/#
 address=/foxflix.de/#
 address=/foxrm.fr/#
 address=/foxusenet.de/#
+address=/foxxum.com/#
 address=/fpjollet.com/#
 address=/fr-c.de/#
 address=/fraktion-bfz-gruene.de/#
@@ -2973,7 +2973,7 @@ address=/mcflanders.com/#
 address=/mcjustice.de/#
 address=/mcoaltmeds.com/#
 address=/mctrl-marktforschung.com/#
-address=/bl.mdates.com/#
+address=/mdates.com/#
 address=/me-fit.de/#
 address=/mealsonwheels.at/#
 address=/mebs.ch/#
@@ -3535,7 +3535,6 @@ address=/osotic.com/#
 address=/ostergartenhermesdorf.de/#
 address=/osterreichschuheonlineshop.com/#
 address=/otto-angebote.de/#
-address=/ouraltis.de/#
 address=/ourclothes.club/#
 address=/ourjewellery.club/#
 address=/outdoor-bronco.com/#
@@ -3866,6 +3865,7 @@ address=/regli-coaching.com/#
 address=/regplay.de/#
 address=/rehasportberatung.de/#
 address=/rehauevents.de/#
+address=/reichwahl.de/#
 address=/reifen-altendorf.de/#
 address=/reifen-glaser.de/#
 address=/reifen-petlas.de/#
