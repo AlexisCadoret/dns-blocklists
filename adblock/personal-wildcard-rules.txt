@@ -10,8 +10,8 @@
 ||demdex.net^
 ! Videos on WOW / Sky Ticket / Hulu / ...
 @@||dpm.demdex.net^
-! Break a lot, add it to your personal blacklist and whitelist what you need.
-! ||omtrdc.net^
+! Break a lot, really? Let's try ..
+||omtrdc.net^
 
 ! Ads
 |ads.*^
@@ -229,6 +229,7 @@
 @@||webhook.logentries.com^
 ||api*.mixpanel.com^
 ||newrelic.com^
+||cdn*.optimizely.com^
 ||log*.optimizely.com^
 ||tagger.opecloud.com^
 ||realytics.io^
@@ -312,6 +313,8 @@
 ||rubiconproject.com^
 ! Ask.com search
 @@||micro.rubiconproject.com^
+||analytics*.elasticbeanstalk.com^
+||cdn.opecloud.com^
 
 ! Apple
 ||*analytics-events.apple.com^
@@ -330,6 +333,8 @@
 ||*-bugs-*.rtl.de^
 ||bugs-notify.nordvpn.com^
 ||bugsnag.com^
+! Bugsnag
+||d2wy8f7a9ursnm.cloudfront.net^
 ||crashlytics.com^
 ||errortracking.deepl.com^
 ||getsentry.com^

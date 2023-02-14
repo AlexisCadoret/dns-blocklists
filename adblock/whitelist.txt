@@ -1723,9 +1723,6 @@
 ! events.split.io
 @@|sdk.split.io^
 
-! Used by Origin for content delivery and others
-@@||cdn.optimizely.com^
-
 ! https://github.com/hagezi/dns-blocklists/issues/59#issuecomment-1312547506
 @@|appsumo.com^
 @@|www.appsumo.com^
@@ -2803,6 +2800,6 @@
 @@||chatra.io^
 
 ! Breaks Forms on/in various sites/apps
-@@|static-app.klaviyo.com^
-@@|static-forms.klaviyo.com^
+@@||static-app.klaviyo.com^
+@@||static-forms.klaviyo.com^
 

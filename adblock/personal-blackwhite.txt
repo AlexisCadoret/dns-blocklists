@@ -10,8 +10,8 @@
 ||demdex.net^
 ! Videos on WOW / Sky Ticket / Hulu / ...
 @@||dpm.demdex.net^
-! Break a lot, add it to your personal blacklist and whitelist what you need.
-! ||omtrdc.net^
+! Break a lot, really? Let's try ..
+||omtrdc.net^
 
 ! Ads
 |ads.*^
@@ -229,6 +229,7 @@
 @@||webhook.logentries.com^
 ||api*.mixpanel.com^
 ||newrelic.com^
+||cdn*.optimizely.com^
 ||log*.optimizely.com^
 ||tagger.opecloud.com^
 ||realytics.io^
@@ -312,6 +313,8 @@
 ||rubiconproject.com^
 ! Ask.com search
 @@||micro.rubiconproject.com^
+||analytics*.elasticbeanstalk.com^
+||cdn.opecloud.com^
 
 ! Apple
 ||*analytics-events.apple.com^
@@ -330,6 +333,8 @@
 ||*-bugs-*.rtl.de^
 ||bugs-notify.nordvpn.com^
 ||bugsnag.com^
+! Bugsnag
+||d2wy8f7a9ursnm.cloudfront.net^
 ||crashlytics.com^
 ||errortracking.deepl.com^
 ||getsentry.com^
@@ -586,10 +591,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 14 Feb 2023 20:11 UTC
-! Version: 2023.0214.2011.36
+! Last modified: 14 Feb 2023 21:15 UTC
+! Version: 2023.0214.2115.30
 ! Syntax: AdBlock
-! Domains: 19746
+! Domains: 19745
 !
 ||003store.com^
 ||00go.com^
@@ -13374,7 +13379,6 @@
 ||optimix.cn^
 ||api.optimizely.com^
 ||app.optimizely.com^
-||cdn-pci.optimizely.com^
 ||rum.optimizely.com^
 ||optimizesrv.com^
 ||front.optimonk.com^
@@ -66477,9 +66481,6 @@
 ! events.split.io
 @@|sdk.split.io^
 
-! Used by Origin for content delivery and others
-@@||cdn.optimizely.com^
-
 ! https://github.com/hagezi/dns-blocklists/issues/59#issuecomment-1312547506
 @@|appsumo.com^
 @@|www.appsumo.com^
@@ -67552,8 +67553,8 @@
 @@||chatra.io^
 
 ! Breaks Forms on/in various sites/apps
-@@|static-app.klaviyo.com^
-@@|static-forms.klaviyo.com^
+@@||static-app.klaviyo.com^
+@@||static-forms.klaviyo.com^
 
 
 ! Title: HaGeZi's White-/Allowlist Referral for Black & White list
