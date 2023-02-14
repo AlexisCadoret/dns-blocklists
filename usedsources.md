@@ -81,11 +81,11 @@ For domain and host lists, additionally: matching/missing subdomains (see at the
 #### PRO.PLUS
 [whitelisted domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/pro.plus-removed-white.txt) | [whitelisted referral domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/pro.plus-removed-referral.txt) | [dead domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/pro.plus-removed-dead.txt)
 ```
-1689286 total unique domains | 1348599 (80%) included | 4104 (0%) removed | 336583 (20%) dead
+1665658 total unique domains | 1334464 (80%) included | 4232 (0%) removed | 326962 (20%) dead
 
  Nr | Included | Dead | Removed | URL/File
   1 |     100% |   0% |      0% | pro.plus.extension.domains
-  2 |      94% |   6% |      0% | oisd.domains.txt
+  2 |      97% |   3% |      0% | https://raw.githubusercontent.com/sjhgvr/oisd/main/oisd_big.txt
   3 |      97% |   1% |      2% | https://o0.pages.dev/Pro/hosts.txt
   4 |      66% |  34% |      0% | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
   5 |      92% |   8% |      0% | https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
@@ -117,7 +117,7 @@ For domain and host lists, additionally: matching/missing subdomains (see at the
  31 |      73% |  27% |      0% | https://malware-filter.gitlab.io/malware-filter/pup-filter-hosts.txt
  32 |      96% |   4% |      0% | https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badware.txt
  33 |      52% |  48% |      0% | https://hosts.tweedge.net/malicious.txt
- 34 |      75% |  25% |      0% | notracking.domains.txt
+ 34 |      76% |  24% |      0% | https://raw.githubusercontent.com/notracking/hosts-blocklists/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt
  35 |     100% |   0% |      0% | https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/annoyances.txt
  36 |      95% |   5% |      0% | https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2020.txt
  37 |      93% |   5% |      2% | https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2021.txt
@@ -146,7 +146,7 @@ For domain and host lists, additionally: matching/missing subdomains (see at the
  60 |      63% |  37% |      0% | https://fanboy.co.nz/enhancedstats.txt
  61 |      60% |  40% |      0% | https://notabug.org/latvian-list/adblock-latvian/raw/master/lists/latvian-list.txt
  62 |      92% |   8% |      0% | https://raw.github.com/tomasko126/easylistczechandslovak/master/filters.txt
- 63 |      42% |  58% |      0% | https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt
+ 63 |      39% |  61% |      0% | https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt
  64 |     100% |   0% |      0% | https://raw.githubusercontent.com/abpvn/abpvn/master/filter/abpvn.txt
  65 |     100% |   0% |      0% | https://raw.githubusercontent.com/EasyList-Lithuania/easylist_lithuania/master/easylistlithuania.txt
  66 |      89% |  10% |      1% | https://raw.githubusercontent.com/easylist-thailand/easylist-thailand/master/subscription/easylist-thailand.txt
