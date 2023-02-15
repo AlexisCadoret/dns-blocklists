@@ -591,10 +591,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 15 Feb 2023 00:06 UTC
-! Version: 2023.0215.0006.52
+! Last modified: 15 Feb 2023 08:33 UTC
+! Version: 2023.0215.0833.53
 ! Syntax: AdBlock
-! Domains: 24987
+! Domains: 24989
 !
 ||003store.com^
 ||007sites.com^
@@ -21988,6 +21988,7 @@
 ||teslacars.space^
 ||teslaclub.io^
 ||tesladrop2x.com^
+||teslaeasy.io^
 ||teslafuture.io^
 ||teslagive23.net^
 ||teslagivex2foryou.com^
@@ -22005,6 +22006,7 @@
 ||teslapull.io^
 ||teslatime.net^
 ||teslawork.io^
+||teslax2claim.org^
 ||tesseradigital.com^
 ||images1.test.de^
 ||testamenttakeoutkill.com^
@@ -72489,4 +72491,6 @@
 @@||clck.yandex.ru^
 @@||redirect.appmetrica.yandex.*^
 @@||click.zoom.us^
-
+@@||shop-links.co^
+@@||adorama.rfvk.net^
+@@||partners*.stacksocial.com^
