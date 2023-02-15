@@ -4,10 +4,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 15 Feb 2023 16:09 UTC
-! Version: 2023.0215.1609.13
+! Last modified: 15 Feb 2023 18:58 UTC
+! Version: 2023.0215.1858.20
 ! Syntax: AdBlock
-! Domains: 22885
+! Domains: 22996
 !
 ||003store.com^
 ||00go.com^
@@ -86,6 +86,7 @@
 ||r.mail.163.com^
 ||nex.163.com^
 ||temp.163.com^
+||m.analytics.126.net.163jiasu.com^
 ||match.p4p.1688.com^
 ||vstlog.17u.cn^
 ||smetrics.1800contacts.com^
@@ -1903,8 +1904,21 @@
 ||pub.akadigital.vn^
 ||track.adformnet.akadns.net^
 ||track-eu.adformnet.akadns.net^
+||gtm.analytics.chase.com.akadns.net^
 ||innovid.com.akadns.net^
+||exchange.postrelease.com.akadns.net^
 ||jadserve.postrelease.com.akadns.net^
+||a.rfihub.com.akadns.net^
+||a-emea.rfihub.com.akadns.net^
+||a-us-east.rfihub.com.akadns.net^
+||a-us-west.rfihub.com.akadns.net^
+||ams-rtb.rfihub.com.akadns.net^
+||ewr-rtb.rfihub.com.akadns.net^
+||s.rfihub.com.akadns.net^
+||s-us-east.rfihub.com.akadns.net^
+||s-us-west.rfihub.com.akadns.net^
+||sjc-rtb.rfihub.com.akadns.net^
+||search-gtm.spotxchange.com.akadns.net^
 ||stickyadstv.com.akadns.net^
 ||tidaltv.com.akadns.net^
 ||turn.com.akadns.net^
@@ -1937,6 +1951,12 @@
 ||113vod-adaptive.akamaized.net^
 ||cdn-ketchapp.akamaized.net^
 ||appsflyer.com.akamaized.net^
+||v-ak.chartboost.com.akamaized.net^
+||ads.projectagoraservices.com.akamaized.net^
+||csync-apac.smartadserver.com.akamaized.net^
+||csync-eu.smartadserver.com.akamaized.net^
+||csync-us.smartadserver.com.akamaized.net^
+||static.vungle.com.akamaized.net^
 ||freewheel-mtgx-tv.akamaized.net^
 ||jioads.akamaized.net^
 ||ninja.akamaized.net^
@@ -2854,6 +2874,7 @@
 ||attentioniau.com^
 ||api.attentivemobile.com^
 ||events.attentivemobile.com^
+||ui-api.attentivemobile.com^
 ||atthewon.buzz^
 ||cdn.attn.tv^
 ||attr-2p.com^
@@ -3717,7 +3738,9 @@
 ||blabblablabla.com^
 ||t.blablacar.com^
 ||metrics.blackbaud.com^
+||ctz-init.blackcrow.ai^
 ||init.blackcrow.ai^
+||shopify-init.blackcrow.ai^
 ||blacklinknow.com^
 ||blacklistalert.org^
 ||blackname.biz^
@@ -5068,6 +5091,26 @@
 ||bkt.clouddn.com^
 ||smetrics.cloudera.com^
 ||cloudfastads.ru^
+||pub.doubleverify.com.cdn.cloudflare.net^
+||vast.doubleverify.com.cdn.cloudflare.net^
+||video.doubleverify.com.cdn.cloudflare.net^
+||vpaid.doubleverify.com.cdn.cloudflare.net^
+||action.media6degrees.com.cdn.cloudflare.net^
+||idpix.media6degrees.com.cdn.cloudflare.net^
+||map.media6degrees.com.cdn.cloudflare.net^
+||secure.media6degrees.com.cdn.cloudflare.net^
+||eu.newrelic.com.cdn.cloudflare.net^
+||log-api.newrelic.com.cdn.cloudflare.net^
+||metric-api.newrelic.com.cdn.cloudflare.net^
+||mobile-collector.newrelic.com.cdn.cloudflare.net^
+||platform-insights-collector.newrelic.com.cdn.cloudflare.net^
+||tls12.newrelic.com.cdn.cloudflare.net^
+||cdn.tynt.com.cdn.cloudflare.net^
+||sc.tynt.com.cdn.cloudflare.net^
+||tcr.tynt.com.cdn.cloudflare.net^
+||id.hadron.ad.gt.cdn.cloudflare.net^
+||a.stage.ad.gt.cdn.cloudflare.net^
+||p.stage.ad.gt.cdn.cloudflare.net^
 ||csp-reporting.cloudflare.com^
 ||data.em2.cloudflare.com^
 ||report-uri.cloudflare.com^
@@ -7512,37 +7555,71 @@
 ||ma788-r.analytics.edgekey.net^
 ||ma80-r.analytics.edgekey.net^
 ||cdn-inner-active.edgekey.net^
+||dlx.addthis.com.edgekey.net^
 ||ds-api-public.addthis.com.edgekey.net^
+||ds-ct1.addthis.com.edgekey.net^
+||ds-edge.addthis.com.edgekey.net^
+||ds-q.addthis.com.edgekey.net^
+||ds-s9.addthis.com.edgekey.net^
+||v1.addthis.com.edgekey.net^
 ||ds-m.addthisedge.com.edgekey.net^
 ||v1.addthisedge.com.edgekey.net^
+||statics.admanmedia.com.edgekey.net^
 ||adobetag.com.edgekey.net^
+||assets.adobetarget.com.edgekey.net^
 ||adservrs.com.edgekey.net^
 ||aniview.com.edgekey.net^
 ||smetrics.att.com.edgekey.net^
 ||betrad.com.edgekey.net^
 ||bkrtx.com.edgekey.net^
+||tags.bluekai.com.edgekey.net^
+||instream.casalemedia.com.edgekey.net^
 ||convertexperiments.com.edgekey.net^
+||cdn4.crispadvertising.com.edgekey.net^
+||wildcard.crispadvertising.com.edgekey.net^
+||cdn.cxense.com.edgekey.net^
 ||adx-dre.op.dbankcloud.com.edgekey.net^
 ||metrics.fidelity.com.edgekey.net^
 ||flashtalking.com.edgekey.net^
 ||metrics.hackerrank.com.edgekey.net^
+||api.ibeat-analytics.com.edgekey.net^
 ||innovid.com.edgekey.net^
+||global-wildcard.insightexpressai.com.edgekey.net^
 ||i16-tb.isnssdk.com.edgekey.net^
 ||analytics.libertymutual.com.edgekey.net^
 ||marketo.com.edgekey.net^
 ||mathtag.com.edgekey.net^
 ||stats.mediaforge.com.edgekey.net^
 ||moatads.com.edgekey.net^
+||cdn.mookie1.com.edgekey.net^
+||cdn-akamai.mookie1.com.edgekey.net^
+||gd1.mookie1.com.edgekey.net^
+||star2.cdn-pci.optimizely.com.edgekey.net^
+||vastcdn.outbrain.com.edgekey.net^
 ||outbrainimg.com.edgekey.net^
+||image5.pubmatic.com.edgekey.net^
 ||eus.rubiconproject.com.edgekey.net^
+||video-ads-apex.rubiconproject.com.edgekey.net^
 ||spotxcdn.com.edgekey.net^
 ||marketingassets.staples.com.edgekey.net^
 ||unityads.unity3d.com.edgekey.net^
+||san.valueclick.com.edgekey.net^
+||matchadsrvr.yieldmo.com.edgekey.net^
+||wildcard.yieldmo.com.edgekey.net^
 ||rubiconproject.com-v1.edgekey.net^
 ||v6analytics.htmedia.in.edgekey.net^
+||wildcard46.akstat.io.edgekey.net^
+||images.dable.io.edgekey.net^
+||static.dable.io.edgekey.net^
 ||ntv.io.edgekey.net^
 ||onetag.io.edgekey.net^
 ||oracleinfinity.io.edgekey.net^
+||api16-access-gcp.pangle.io.edgekey.net^
+||api16-access-sg.pangle.io.edgekey.net^
+||api16-access-sg2.pangle.io.edgekey.net^
+||api16-event-gcp.pangle.io.edgekey.net^
+||api16-event-sg.pangle.io.edgekey.net^
+||ether-pack-sg.pangle.io.edgekey.net^
 ||push.io.edgekey.net^
 ||moatpixel1.edgekey.net^
 ||tracking.admarketplace.net.edgekey.net^
@@ -7553,6 +7630,10 @@
 ||secure-adnxs.edgekey.net^
 ||teads.tv.edgekey.net^
 ||analytics.edgesuite.net^
+||akamai.smartadserver.com.edgesuite.net^
+||csync.smartadserver.com.edgesuite.net^
+||csync-global.smartadserver.com.edgesuite.net^
+||tagmanager.smartadserver.com.edgesuite.net^
 ||edgexads.com^
 ||edgrmtracking.com^
 ||edhimasifiwoery.xyz^
@@ -8003,6 +8084,7 @@
 ||cdn.ex.co^
 ||cdn-channels-pixel.ex.co^
 ||embed.ex.co^
+||large-cdn.ex.co^
 ||pixel.ex.co^
 ||player.ex.co^
 ||prd-collector-anon.ex.co^
@@ -8865,6 +8947,8 @@
 ||g4news.biz^
 ||g52bxi1v1w.com^
 ||cdn.g5e.com^
+||cross-sells.cdn-specialdeals.g5e.com^
+||offers.cdn-specialdeals.g5e.com^
 ||ceg.g5e.com^
 ||most-popular-info.g5e.com^
 ||pushwoosh.g5e.com^
@@ -9130,6 +9214,7 @@
 ||push.getbeamer.com^
 ||event.getblue.io^
 ||bacon.getcarro.com^
+||cdn-bacon.getcarro.com^
 ||getclicky.com^
 ||getconatyclub.com^
 ||getcong.com^
@@ -9417,6 +9502,7 @@
 ||goappdl.goforandroid.com^
 ||conf.api.hk.goforandroid.com^
 ||navigation.api.hk.goforandroid.com^
+||i18n.hk.goforandroid.com^
 ||zcamera.lzt.goforandroid.com^
 ||microtss.goforandroid.com^
 ||newstoredata.goforandroid.com^
@@ -9977,6 +10063,7 @@
 ||powr-counter.herokuapp.com^
 ||wootric-eligibility.herokuapp.com^
 ||event-logger.tagboard.com.herokudns.com^
+||geocode.usefomo.com.herokudns.com^
 ||api.wootric.com.herokudns.com^
 ||production.wootric.com.herokudns.com^
 ||analytics.yopify.com.herokudns.com^
@@ -11524,6 +11611,9 @@
 ||nebula-cdn.kampyle.com^
 ||udc-neb.kampyle.com^
 ||cf04.kanade-ad.net^
+||kcs.kanade-ad.net^
+||kdex004.kanade-ad.net^
+||kdex005.kanade-ad.net^
 ||kanmobi.net^
 ||kanoodle.com^
 ||kansanscichar.com^
@@ -12085,6 +12175,7 @@
 ||cmp.lemonde.fr^
 ||ressources.lemoniteur.com^
 ||content.lemonpi.io^
+||creative-content.lemonpi.io^
 ||log.lemonpi.io^
 ||lemouwee.com^
 ||qfoiss.lendingtree.com^
@@ -12203,6 +12294,7 @@
 ||liex.ru^
 ||sourcepoint.lifehacker.com^
 ||lifeimpressions.net^
+||pixel.ad.lifesight.io^
 ||lifesoonersoar.org^
 ||lifestreet.com^
 ||smetrics.lifestride.com^
@@ -12232,6 +12324,7 @@
 ||avividone.likr.tw^
 ||lilinstall11x.com^
 ||pixel.lilystyle.ai^
+||sandbox-pixel.lilystyle.ai^
 ||te.limango.de^
 ||tp.limango.de^
 ||limberkilnman.cam^
@@ -12875,6 +12968,7 @@
 ||mbww.com^
 ||mc7clurd09pla4nrtat7ion.com^
 ||mcangelus.com^
+||ssl.google-analytics.com.mcas.ms^
 ||smetrics.mcdonalds.com^
 ||track.info.mcknights.com^
 ||aas.mclaren.com^
@@ -15863,6 +15957,7 @@
 ||prhzxq.com^
 ||ifnyop.priceline.com^
 ||locate.pricespider.com^
+||ng-locate.pricespider.com^
 ||track.pricespider.com^
 ||wtbevents.pricespider.com^
 ||pricklydebt.com^
@@ -16461,6 +16556,7 @@
 ||pxi.pub^
 ||pxl.host^
 ||pxl-mailtracker.com^
+||ml-attr.com.pxlsrv.net^
 ||pxltgr.com^
 ||pxpfnbe1t1.com^
 ||pyfqqcekcgd.xyz^
@@ -17839,6 +17935,7 @@
 ||marketing.sedgwick.com^
 ||sedodna.com^
 ||sedoparking.com^
+||tg1.seed-media.net^
 ||seedr.ru^
 ||seedtag.com^
 ||seeip.org^
@@ -17908,6 +18005,8 @@
 ||quinoa-personal-identify-prod.sense360eng.com^
 ||config.sensic.net^
 ||de-config.sensic.net^
+||pixel.es-config.sensic.net^
+||pixel.nl-config.sensic.net^
 ||sg-config.sensic.net^
 ||tmptrk.sensic.net^
 ||trk.sensic.net^
@@ -18432,6 +18531,8 @@
 ||smetrics.smartmove.us^
 ||io.smartmyd.com^
 ||smartname.com^
+||elb.smartnews-ads.com.smartnews.com^
+||vpce.smartnews-ads.com.smartnews.com^
 ||smartnews-ads.com^
 ||smartocto.com^
 ||smartology.co^
@@ -19148,6 +19249,8 @@
 ||superadbox.com^
 ||superads.cn^
 ||ads.superawesome.tv^
+||eu-west-1-ads.superawesome.tv^
+||us-east-1-ads.superawesome.tv^
 ||superclix.de^
 ||supercounters.com^
 ||t.email.superdrug.com^
@@ -20897,6 +21000,7 @@
 ||srepdata.usatoday.com^
 ||sxjfhh.usatoday.com^
 ||smetrics.usbank.com^
+||sdk.out.usbla.net^
 ||stats.uscreen.io^
 ||app.usctrojans.com^
 ||t.usctrojans.com^
@@ -21546,6 +21650,7 @@
 ||smetrics.walgreens.com^
 ||walkinggrandparents.com^
 ||ec.walkme.com^
+||eu-ec.walkme.com^
 ||clear.wallapop.com^
 ||mtm.walls.io^
 ||beacon.affil.walmart.com^
@@ -22504,6 +22609,12 @@
 ||yiqifa.com^
 ||secure.yirr5frog.com^
 ||wr.yiyouliao.com^
+||bd.dhsz.cn.cname2801.yjs-cdn.com^
+||mountain.zhidao.baidu.com.cname3466.yjs-cdn.com^
+||zxgghn.25ku.com.cname3868.yjs-cdn.com^
+||dlswbr.baidu.com.cname3920.yjs-cdn.com^
+||twlcyc.cn.cname4102.yjs-cdn.com^
+||mmjs.adutp.com.cname465.yjs-cdn.com^
 ||yjtag.jp^
 ||yldbt.com^
 ||yldr.io^
