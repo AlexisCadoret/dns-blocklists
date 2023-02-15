@@ -7,8 +7,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 13 Feb 2023 04:24 UTC
-! Version: 2023.0213.0424.01
+! Last modified: 15 Feb 2023 19:26 UTC
+! Version: 2023.0215.1926.21
 ! Syntax: uBlock
 !
 ||agency^$doc,domain=~battlefield.agency|~shortcut.agency
@@ -35,7 +35,7 @@
 ||quest^$doc,domain=~0x00.quest|~prednisonetab.quest
 ||rest^$doc
 ||sbs^$doc
-||site^$doc,domain=~anitube.site|~blocklist.site|~business.site|~cdmstudy.site|~first-party.site|~fitgirl-repacks.site|~fmoviesto.site|~metrolagu.site|~notube.site|~secreto.site|~good.third-party.site|~wuxiaworld.site
+||site^$doc,domain=~anitube.site|~appslist.heimdall.site|~blocklist.site|~business.site|~cdmstudy.site|~first-party.site|~fitgirl-repacks.site|~fmoviesto.site|~metrolagu.site|~notube.site|~secreto.site|~good.third-party.site|~wuxiaworld.site
 ||surf^$doc,domain=~kayaking.surf|~quran.surf|~s-wings.surf|~surfstation.surf
 ||tk^$doc,domain=~bstweaker.tk|~budterence.tk|~c0d3c.tk|~coolcmd.tk|~coppersurfer.tk|~fakaofo.tk|~google.tk|~goshujin.tk|~gotofap.tk|~graph.tk|~loljp-wiki.tk|~nbd-media.tk|~ninetail.tk|~nolfrevival.tk|~tokelau-info.tk|~transportnews.tk
 ||top^$doc,domain=~caitlin.top|~corriente.top|~gdtot.top|~nicenature.top|~reminder.top|~magocoro.top|~castlevania.top|~suiten.top|~shucks.top|~1stream.top|~ambr.top|~techblog.top|~changlam10.top|~changlam11.top|~pdcdn1.top|~mastodon.top|~pressplay.top|~chillx.top
