@@ -2806,3 +2806,6 @@
 ! breaks architectural digest’s website by blocking media.architecturaldigest.com
 @@|vulcan.condenastdigital.com^
 
+! https://github.com/hagezi/dns-blocklists/issues/352
+@@|option.boldapps.net^
+
