@@ -2548,3 +2548,6 @@ sentry.sc-prod.net
 *.static-app.klaviyo.com
 *.static-forms.klaviyo.com
 
+# breaks architectural digest’s website by blocking media.architecturaldigest.com
+vulcan.condenastdigital.com
+
