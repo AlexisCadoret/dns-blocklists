@@ -267,6 +267,7 @@ services.gfe.nvidia.com
 # SmartTVs
 acr*.samsungcloudsolution.com
 announcements.vizio.com
+api*.sony.tv
 api-tv.spotify.com
 api.accuweather.com
 api.nfl.com
@@ -275,6 +276,8 @@ apicache.vudu.com
 applicast.ga.sony.net
 auth.samsungosp.com
 avpro.global.yamaha.com
+brightline.tv
+brightline.tv.edgekey.net
 cdn.samsungcloudsolution.com
 cdns-content.dzcdn.net
 configprd.samsungcloudsolution.net
