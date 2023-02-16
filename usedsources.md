@@ -462,11 +462,9 @@ For domain and host lists, additionally: matching/missing subdomains (see at the
 ### Subdomains
 *The matching/missing subdomains for domain and hosts lists are extracted from the following lists:*
 ```
-https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/hosts.txt
+CISCO Umbrella 1M Toplist
+TRANCO 1M Toplist
 https://raw.githubusercontent.com/jawz101/subdomain_blocklists/main/hosts.txt
-https://raw.githubusercontent.com/notracking/hosts-blocklists/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt
-https://raw.githubusercontent.com/notracking/hosts-blocklists/master/domains.txt
-https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
 https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
 ```
 ---
@@ -576,9 +574,33 @@ https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintex
 https://phishing.army/download/phishing_army_blocklist_extended.txt
 https://phishing.army/download/phishing_army_blocklist.txt
 https://raw.github.com/tomasko126/easylistczechandslovak/master/filters.txt
+https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/src/advert/adservers.txt
+https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/src/advert/thirdparty.txt
 https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt
 https://raw.githubusercontent.com/abpvn/abpvn/master/filter/abpvn.txt
 https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt
+https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/adservers_firstparty.tx
+https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/adservers_firstparty.txt
+https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/adservers.txt
+https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/cryptominers.txt
+https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/foreign.txt
+https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/ChineseFilter/sections/adservers.txt
+https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/DutchFilter/sections/adservers_firstparty.txt
+https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/DutchFilter/sections/adservers.txt
+https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/FrenchFilter/sections/adservers.txt
+https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/GermanFilter/sections/adservers.txt
+https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/JapaneseFilter/sections/adservers.txt
+https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt
+https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/RussianFilter/sections/adservers_firstparty.txt
+https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/RussianFilter/sections/adservers.txt
+https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/RussianFilter/sections/news_exchange.txt
+https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpanishFilter/sections/adservers.tx
+https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpanishFilter/sections/adservers.txt
+https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/mobile.txt
+https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/tracking_servers_firstparty.txt
+https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/tracking_servers.txt
+https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/TurkishFilter/sections/adservers_firstparty.txt
+https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/TurkishFilter/sections/adservers.txt
 https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/rules.txt
 https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt
 https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
@@ -617,6 +639,8 @@ https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/hosts.txt
 https://raw.githubusercontent.com/badmojr/1Hosts/master/Xtra/adblock.txt
 https://raw.githubusercontent.com/badmojr/1Hosts/master/Xtra/hosts.txt
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/extensions/threat/hosts
+https://raw.githubusercontent.com/bigdargon/hostsVN/master/filters/adservers.tx
+https://raw.githubusercontent.com/bigdargon/hostsVN/master/filters/adservers.txt
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hosts-VN
 https://raw.githubusercontent.com/bkrucarci/turk-adlist/master/hosts
@@ -644,8 +668,17 @@ https://raw.githubusercontent.com/durablenapkin/block/master/luminati.txt
 https://raw.githubusercontent.com/durablenapkin/block/master/streaming.txt
 https://raw.githubusercontent.com/durablenapkin/block/master/tvstream.txt
 https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
+https://raw.githubusercontent.com/easylist/easylistdutch/master/easylistdutch/block_third_party_server.txt
+https://raw.githubusercontent.com/easylist/easylistgermany/master/easylistgermany/easylistgermany_adservers.txt
 https://raw.githubusercontent.com/easylist/EasyListHebrew/master/EasyListHebrew.txt
+https://raw.githubusercontent.com/easylist/easylistitaly/master/easylistitaly/easylistitaly_adservers.txt
+https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_adservers.txt
+https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_thirdparty.txt
 https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific_cname.txt
+https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty_international.txt
+https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
+https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_trackingservers_international.txt
+https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_trackingservers.txt
 https://raw.githubusercontent.com/EasyList-Lithuania/easylist_lithuania/master/easylistlithuania.txt
 https://raw.githubusercontent.com/easylist-thailand/easylist-thailand/master/subscription/easylist-thailand.txt
 https://raw.githubusercontent.com/elliotwutingfeng/GlobalAntiScamOrg-blocklist/main/global-anti-scam-org-scam-urls-pihole.txt
@@ -700,6 +733,7 @@ https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Fre
 https://raw.githubusercontent.com/logroid/adaway-hosts/master/hosts.txt
 https://raw.githubusercontent.com/marco-acorte/antispam-it/main/antispam-it.txt
 https://raw.githubusercontent.com/marktron/fakenews/master/fakenews
+https://raw.githubusercontent.com/MasterKia/PersianBlocker/main/PersianBlockerHosts.txt
 https://raw.githubusercontent.com/matomo-org/referrer-spam-blacklist/master/spammers.txt
 https://raw.githubusercontent.com/metamask/eth-phishing-detect/master/src/hosts.txt
 https://raw.githubusercontent.com/migueldemoura/ublock-umatrix-rulesets/master/Hosts/ads-tracking
@@ -740,6 +774,7 @@ https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt
 https://raw.githubusercontent.com/piperun/iploggerfilter/master/filterlist
 https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADomains.txt
 https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-domains.txt
+https://raw.githubusercontent.com/realodix/AdBlockID/master/src/adservers.adfl
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-amnenstytech.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-certagid.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-certego.txt
