@@ -426,7 +426,6 @@ content.aimatch.com
 i1.wp.com
 images.dmca.com
 images.dwell.com
-img.yana.asideas.de
 mycliplister.com
 pcapredict.com
 sportsbet.com.au
@@ -2563,4 +2562,8 @@ track.aliexpress.com.gds.alibabadns.com
 
 # https://github.com/hagezi/dns-blocklists/issues/357
 track.yw56.com.cn
+
+# https://github.com/hagezi/dns-blocklists/issues/363
+img.yana.asideas.de
+prod-image-fastly-cdn.yana.asideas.de
 

@@ -440,7 +440,6 @@
 @@|i1.wp.com^
 @@|images.dmca.com^
 @@|images.dwell.com^
-@@|img.yana.asideas.de^
 @@|mycliplister.com^
 @@|www.mycliplister.com^
 @@|pcapredict.com^
@@ -2819,4 +2818,8 @@
 
 ! https://github.com/hagezi/dns-blocklists/issues/357
 @@|track.yw56.com.cn^
+
+! https://github.com/hagezi/dns-blocklists/issues/363
+@@|img.yana.asideas.de^
+@@|prod-image-fastly-cdn.yana.asideas.de^
 

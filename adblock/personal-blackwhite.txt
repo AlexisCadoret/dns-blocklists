@@ -591,8 +591,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 16 Feb 2023 20:32 UTC
-! Version: 2023.0216.2032.39
+! Last modified: 16 Feb 2023 21:52 UTC
+! Version: 2023.0216.2152.42
 ! Syntax: AdBlock
 ! Domains: 21788
 !
@@ -70726,7 +70726,6 @@
 @@|i1.wp.com^
 @@|images.dmca.com^
 @@|images.dwell.com^
-@@|img.yana.asideas.de^
 @@|mycliplister.com^
 @@|www.mycliplister.com^
 @@|pcapredict.com^
@@ -73091,6 +73090,10 @@
 
 ! https://github.com/hagezi/dns-blocklists/issues/357
 @@|track.yw56.com.cn^
+
+! https://github.com/hagezi/dns-blocklists/issues/363
+@@|img.yana.asideas.de^
+@@|prod-image-fastly-cdn.yana.asideas.de^
 
 
 ! Title: HaGeZi's White-/Allowlist Referral for Black & White list
