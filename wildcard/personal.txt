@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 16 Feb 2023 10:56 UTC
-# Version: 2023.0216.1056.23
+# Last modified: 16 Feb 2023 12:06 UTC
+# Version: 2023.0216.1206.40
 # Syntax: Domains Wildcard (DNSCrypt/YogaDNS/...)
-# Domains: 26179
+# Domains: 26247
 #
 *.003store.com
 *.00go.com
@@ -2205,6 +2205,9 @@
 *.beacon-cdn-custom.walmart.com.akadns.net
 *.analytics.mobile-cdn.walmart.com.akadns.net
 *.dvgtm.akadns.net
+*.ads.everesttech.net.akadns.net
+*.ats.everesttech.net.akadns.net
+*.cm.everesttech.net.akadns.net
 *.rubiconproject.net.akadns.net
 *.ads.supplyframe.akadns.net
 *.adgrx.com.tech.akadns.net
@@ -5000,6 +5003,14 @@
 *.carvecakes.com
 *.aff.carvertical.com
 *.carvyre.com
+*.carx-chat-server-prod.carx-online.com
+*.carx-id-prod.carx-online.com
+*.config.carx-online.com
+*.config-1.carx-online.com
+*.config-2.carx-online.com
+*.dr2-prod.carx-online.com
+*.hws-prod.carx-online.com
+*.street-prod.carx-online.com
 *.refwkk.cas.sk
 *.col.casa.it
 *.casalemedia.com
@@ -5637,6 +5648,8 @@
 *.bkt.clouddn.com
 *.smetrics.cloudera.com
 *.cloudfastads.ru
+*.f.convertkit.com.cdn.cloudflare.net
+*.script.crazyegg.com.cdn.cloudflare.net
 *.pub.doubleverify.com.cdn.cloudflare.net
 *.vast.doubleverify.com.cdn.cloudflare.net
 *.video.doubleverify.com.cdn.cloudflare.net
@@ -6019,6 +6032,7 @@
 *.smetrics.shellenergy.co.uk
 *.sw88.shopdisney.co.uk
 *.tracking.shopstyle.co.uk
+*.brands.sift.co.uk
 *.analytics.simplyhealth.co.uk
 *.smetrics.skipton.co.uk
 *.skymedia.co.uk
@@ -6269,6 +6283,7 @@
 *.sadobe.falabella.com.pe
 *.countly.fibabanka.com.tr
 *.smetrics.gemvisa.com.au
+*.google-analytics.com.com
 *.saam.gumtree.com.au
 *.tracking.gvm.com.tw
 *.analytics.halkbank.com.tr
@@ -6910,6 +6925,7 @@
 *.crowdskout.com
 *.apps.crowdtangle.com
 *.cdn.crowdtwist.com
+*.de-cdn.crowdtwist.com
 *.resources.crowdtwist.com
 *.crowdynews.com
 *.snippet.omm.crownpeak.com
@@ -8427,6 +8443,8 @@
 *.ads.djc.com
 *.dk4ywix.com
 *.t.ihre.dkb.de
+*.cmail2.com.lookup.dkimwl.org
+*.superad2.com.sg.lookup.dkimwl.org
 *.dkohudoflh.com
 *.dkrbus.com
 *.dkswptmwowowp.xyz
@@ -8573,6 +8591,7 @@
 *.afp.dotomi.com
 *.amazon-tam-match.dotomi.com
 *.ams-usadmm.dotomi.com
+*.ams-usadmm-ds.dotomi.com
 *.aol-match.dotomi.com
 *.apnx-match.dotomi.com
 *.casale-match.dotomi.com
@@ -9003,6 +9022,7 @@
 *.ma788-r.analytics.edgekey.net
 *.ma80-r.analytics.edgekey.net
 *.cdn-inner-active.edgekey.net
+*.s2.adform.net.cn-v1.edgekey.net
 *.dlx.addthis.com.edgekey.net
 *.ds-api-public.addthis.com.edgekey.net
 *.ds-ct1.addthis.com.edgekey.net
@@ -9043,7 +9063,7 @@
 *.cdn.mookie1.com.edgekey.net
 *.cdn-akamai.mookie1.com.edgekey.net
 *.gd1.mookie1.com.edgekey.net
-*.star2.cdn-pci.optimizely.com.edgekey.net
+*.cdn-pci.optimizely.com.edgekey.net
 *.vastcdn.outbrain.com.edgekey.net
 *.outbrainimg.com.edgekey.net
 *.image5.pubmatic.com.edgekey.net
@@ -9082,6 +9102,7 @@
 *.teads.tv.edgekey.net
 *.deep.edgequery.io
 *.analytics.edgesuite.net
+*.video-ads-module.ad-tech.nbcuni.com.edgesuite.net
 *.akamai.smartadserver.com.edgesuite.net
 *.csync.smartadserver.com.edgesuite.net
 *.csync-global.smartadserver.com.edgesuite.net
@@ -10526,6 +10547,7 @@
 *.madx.flyme.cn
 *.flytechb.com
 *.fm-p.jp
+*.superad2.com.sg.fresh.fmb.la
 *.fmlabsonline.com
 *.tms.fmm.io
 *.fmnetwork.nl
@@ -11049,6 +11071,7 @@
 *.admwhu.hit.gemius.pl
 *.adocean-pl.hit.gemius.pl
 *.adocean-ro.hit.gemius.pl
+*.adocean-si.hit.gemius.pl
 *.adro.hit.gemius.pl
 *.adrs.hit.gemius.pl
 *.adtvp.hit.gemius.pl
@@ -11515,6 +11538,7 @@
 *.gobacktothefuture.biz
 *.log.gobankingrates.com
 *.products.gobankingrates.com
+*.resources-products.gobankingrates.com
 *.t.gobearcats.com
 *.goblocker.xyz
 *.iroko.gocarrot.com
@@ -17269,6 +17293,8 @@
 *.ondbarrowat.xyz
 *.one-time-offer.com
 *.log.mediation.onebooster.me
+*.ic-validate.onecount.net
+*.im-validate.onecount.net
 *.validate.onecount.net
 *.event-collector.analytics.onedio.com
 *.onedmp.com
@@ -20332,6 +20358,7 @@
 *.creative.rutarget.ru
 *.kadam-sync.rutarget.ru
 *.moevideo-sync.rutarget.ru
+*.prebid-bidder.rutarget.ru
 *.qvol-s-sync.rutarget.ru
 *.qvol-sync.rutarget.ru
 *.rambler-sync.rutarget.ru
@@ -20718,6 +20745,8 @@
 *.securitymetrics.com
 *.securitystronghold.com
 *.securitytrfx.com
+*.c.amazon-adsystem.com.1.o965ddm60kmk.1.prx.useast2.v1api.securly.com
+*.ingest.sentry.io.1.o965ddm60kmk.1.prx.useast2.v1api.securly.com
 *.sedatecompulsiveout.com
 *.marketing.sedgwick.com
 *.sedodna.com
@@ -21666,6 +21695,7 @@
 *.spaceleadster.com
 *.spacexpump23.com
 *.spamanalyst.com
+*.list-manage.com.uribl.spameatingmonkey.net
 *.spannercopyright.com
 *.spaped.com
 *.spappmonitoring.com
@@ -22171,6 +22201,22 @@
 *.ads.supplyframe.com
 *.analytics.supplyframe.com
 *.search.supplyframe.com
+*.acemlnb.com.dob.sibl.support-intelligence.net
+*.bluekai.com.dob.sibl.support-intelligence.net
+*.cmail2.com.dob.sibl.support-intelligence.net
+*.get-huusk.com.dob.sibl.support-intelligence.net
+*.list-manage.com.dob.sibl.support-intelligence.net
+*.listrakbi.com.dob.sibl.support-intelligence.net
+*.liveintent.com.dob.sibl.support-intelligence.net
+*.maillist-manage.com.dob.sibl.support-intelligence.net
+*.mmstat.com.dob.sibl.support-intelligence.net
+*.rlcdn.com.dob.sibl.support-intelligence.net
+*.thebrighttag.com.dob.sibl.support-intelligence.net
+*.thunderhead.com.dob.sibl.support-intelligence.net
+*.braze.eu.dob.sibl.support-intelligence.net
+*.mailtrack.io.dob.sibl.support-intelligence.net
+*.returnpath.net.dob.sibl.support-intelligence.net
+*.superad2.com.sg.dob.sibl.support-intelligence.net
 *.supportxmr.com
 *.supreme-hunter.com
 *.supremeadblocker.com
@@ -22291,6 +22337,7 @@
 *.tabloidquantitycosts.com
 *.tabmo.io
 *.15.taboola.com
+*.am-api.taboola.com
 *.am-match.taboola.com
 *.am-sync.taboola.com
 *.am-trc-events.taboola.com
@@ -22302,14 +22349,21 @@
 *.c3.taboola.com
 *.cdn.taboola.com
 *.cds.taboola.com
+*.ch-api.taboola.com
 *.ch-match.taboola.com
 *.ch-sync.taboola.com
+*.ch-trc-events.taboola.com
 *.ch-vid-events.taboola.com
 *.ch-wf.taboola.com
+*.hk-api.taboola.com
 *.hk-match.taboola.com
 *.hk-sync.taboola.com
+*.hk-trc-events.taboola.com
 *.hk-vid-events.taboola.com
 *.hk-wf.taboola.com
+*.il-api.taboola.com
+*.il-sync.taboola.com
+*.il-trc-events.taboola.com
 *.images.taboola.com
 *.images-dl.taboola.com
 *.impr.taboola.com
@@ -22319,18 +22373,23 @@
 *.imprlatbmp.taboola.com
 *.imprnjmp.taboola.com
 *.imprsgmp.taboola.com
+*.la-api.taboola.com
+*.la-cds.taboola.com
 *.la-match.taboola.com
 *.la-sync.taboola.com
 *.la-trc-events.taboola.com
 *.la-vid-events.taboola.com
 *.la-wf.taboola.com
+*.magazine-api.taboola.com
 *.match.taboola.com
 *.mb.taboola.com
+*.news-api.taboola.com
 *.nr.taboola.com
 *.nr-events.taboola.com
 *.opps.taboola.com
 *.popup.taboola.com
 *.resources.taboola.com
+*.sg-api.taboola.com
 *.sg-match.taboola.com
 *.sg-sync.taboola.com
 *.sg-trc-events.taboola.com
@@ -22341,8 +22400,11 @@
 *.tracking.taboola.com
 *.trc.taboola.com
 *.trc-events.taboola.com
+*.us-api.taboola.com
+*.us-cds.taboola.com
 *.us-match.taboola.com
 *.us-sync.taboola.com
+*.us-trc-events.taboola.com
 *.us-vid-events.taboola.com
 *.us-wf.taboola.com
 *.vidanalytics.taboola.com
@@ -24776,6 +24838,7 @@
 *.t.wayfair.de
 *.waygatecrowbar.com
 *.track.wayin.com
+*.us-track.wayin.com
 *.waytogrow.eu
 *.agnes.waz.de
 *.ads-resources.waze.com
@@ -25616,8 +25679,12 @@
 *.onepush.query.yahoo.com
 *.ras.yahoo.com
 *.readmo.yahoo.com
+*.ap-southeast-1-web-oao.ssp.yahoo.com
 *.app.ssp.yahoo.com
 *.c2shb.ssp.yahoo.com
+*.eu-central-1-web-oao.ssp.yahoo.com
+*.us-east-1-web-oao.ssp.yahoo.com
+*.us-west-1-web-oao.ssp.yahoo.com
 *.web-oao.ssp.yahoo.com
 *.udc.yahoo.com
 *.udcm.yahoo.com
@@ -25747,6 +25814,7 @@
 *.secure.yirr5frog.com
 *.img-nos.yiyouliao.com
 *.wr.yiyouliao.com
+*.qpb.sohu.com.cname209.yjs-cdn.com
 *.qpb0.sohu.com.cname209.yjs-cdn.com
 *.bd.dhsz.cn.cname2801.yjs-cdn.com
 *.mountain.zhidao.baidu.com.cname3466.yjs-cdn.com
