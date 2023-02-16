@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 16 Feb 2023 12:06 UTC
-# Version: 2023.0216.1206.40
+# Last modified: 16 Feb 2023 13:33 UTC
+# Version: 2023.0216.1333.35
 # Syntax: Domains Wildcard (DNSCrypt/YogaDNS/...)
-# Domains: 26247
+# Domains: 26248
 #
 *.003store.com
 *.00go.com
@@ -17932,6 +17932,7 @@
 *.pehlvl.xyz
 *.pejzeexukxo.com
 *.api-analytics.pelikan.sk
+*.peliomaafb.com
 *.pelisnetwork.com
 *.tracking.pella.com
 *.connecttv.pelmorex.com

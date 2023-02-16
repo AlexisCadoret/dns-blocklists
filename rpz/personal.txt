@@ -8,10 +8,10 @@ $TTL 30
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ; Expires: Updated regularly
-; Last modified: 16 Feb 2023 12:06 UTC
-; Version: 2023.0216.1206.40
+; Last modified: 16 Feb 2023 13:33 UTC
+; Version: 2023.0216.1333.35
 ; Syntax: RPZ
-; Domains: 26247
+; Domains: 26248
 ;
 marketing.globalpointofcare.abbott CNAME .
 *.marketing.globalpointofcare.abbott CNAME .
@@ -24377,6 +24377,8 @@ peevishchasingstir.com CNAME .
 *.peevishchasingstir.com CNAME .
 pejzeexukxo.com CNAME .
 *.pejzeexukxo.com CNAME .
+peliomaafb.com CNAME .
+*.peliomaafb.com CNAME .
 pelisnetwork.com CNAME .
 *.pelisnetwork.com CNAME .
 tracking.pella.com CNAME .

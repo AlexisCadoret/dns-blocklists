@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 16 Feb 2023 12:06 UTC
-# Version: 2023.0216.1206.40
+# Last modified: 16 Feb 2023 13:33 UTC
+# Version: 2023.0216.1333.35
 # Syntax: Hosts
-# Domains: 77251
+# Domains: 77252
 #
 0.0.0.0 003store.com
 0.0.0.0 www.003store.com
@@ -53735,6 +53735,8 @@
 0.0.0.0 www.pehlvl.xyz
 0.0.0.0 pejzeexukxo.com
 0.0.0.0 api-analytics.pelikan.sk
+0.0.0.0 peliomaafb.com
+0.0.0.0 www.peliomaafb.com
 0.0.0.0 pelisnetwork.com
 0.0.0.0 www.pelisnetwork.com
 0.0.0.0 tracking.pella.com
@@ -66327,7 +66329,6 @@
 0.0.0.0 sanalytics.sprint.com
 0.0.0.0 sappmetrics.sprint.com
 0.0.0.0 spritzawapuhi.guru
-0.0.0.0 www.spritzawapuhi.guru
 0.0.0.0 sprngmnews.com
 0.0.0.0 www.sprngmnews.com
 0.0.0.0 sprout-ad.com
