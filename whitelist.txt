@@ -587,6 +587,7 @@ ink1001.com
 
 # Twitch Prime Loot
 spade.twitch.tv
+spade.sci.twitch.tv
 countess.twitch.tv
 
 # NordVPN Support
@@ -1261,9 +1262,6 @@ baihe.com
 
 # https://github.com/hagezi/dns-blocklists/issues/30
 56.com
-
-# Parcel tracking
-track.aliexpress.com
 
 # REWE online Prospekt
 *.bonialconnect.com
@@ -2555,5 +2553,8 @@ vulcan.condenastdigital.com
 option.boldapps.net
 
 # https://github.com/hagezi/dns-blocklists/issues/354
+# Parcel tracking
+track.aliexpress.com
+track.aliexpress.ru
 track.aliexpress.com.gds.alibabadns.com
 

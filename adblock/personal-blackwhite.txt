@@ -591,8 +591,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 16 Feb 2023 04:50 UTC
-! Version: 2023.0216.0450.50
+! Last modified: 16 Feb 2023 10:12 UTC
+! Version: 2023.0216.1012.24
 ! Syntax: AdBlock
 ! Domains: 19853
 !
@@ -60501,6 +60501,7 @@
 
 ! Twitch Prime Loot
 @@|spade.twitch.tv^
+@@|spade.sci.twitch.tv^
 @@|countess.twitch.tv^
 
 ! NordVPN Support
@@ -61254,9 +61255,6 @@
 ! https://github.com/hagezi/dns-blocklists/issues/30
 @@|56.com^
 @@|www.56.com^
-
-! Parcel tracking
-@@|track.aliexpress.com^
 
 ! REWE online Prospekt
 @@||bonialconnect.com^
@@ -62678,6 +62676,9 @@
 @@|option.boldapps.net^
 
 ! https://github.com/hagezi/dns-blocklists/issues/354
+! Parcel tracking
+@@|track.aliexpress.com^
+@@|track.aliexpress.ru^
 @@|track.aliexpress.com.gds.alibabadns.com^
 
 
