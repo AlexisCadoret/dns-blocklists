@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 15 Feb 2023 23:17 UTC
-# Version: 2023.0215.2317.26
+# Last modified: 16 Feb 2023 12:43 UTC
+# Version: 2023.0216.1243.51
 # Syntax: DNSMasq
-# Domains: 5228
+# Domains: 5227
 #
 address=/willhaben.at.04300.id/#
 address=/11trikots.com/#
@@ -1250,7 +1250,6 @@ address=/dogarta.de/#
 address=/doggenkirchner.de/#
 address=/dogsdreamaustria.at/#
 address=/dohahotel24.com/#
-address=/doktor-potenzmittel.com/#
 address=/domako.de/#
 address=/domel-us.de/#
 address=/domelus.de/#
