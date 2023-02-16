@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 15 Feb 2023 19:17 UTC
-# Version: 2023.0215.1917.10
+# Last modified: 16 Feb 2023 00:10 UTC
+# Version: 2023.0216.0010.15
 # Syntax: Hosts
-# Domains: 67938
+# Domains: 67948
 #
 0.0.0.0 003store.com
 0.0.0.0 www.003store.com
@@ -31025,6 +31025,8 @@
 0.0.0.0 trk.gdconf.com
 0.0.0.0 gdeslon.ru
 0.0.0.0 www.gdeslon.ru
+0.0.0.0 gdrisajx.com
+0.0.0.0 www.gdrisajx.com
 0.0.0.0 adsmind.gdtimg.com
 0.0.0.0 qzs.gdtimg.com
 0.0.0.0 gdxinya.com
@@ -37928,6 +37930,8 @@
 0.0.0.0 lftracker.leadfeeder.com
 0.0.0.0 logos.leadfeeder.com
 0.0.0.0 www.leadfeeder.com
+0.0.0.0 leadforce1.com
+0.0.0.0 www.leadforce1.com
 0.0.0.0 leadforensics.com
 0.0.0.0 ldynamicspublicapi.leadforensics.com
 0.0.0.0 manhattan.leadforensics.com
@@ -44760,6 +44764,8 @@
 0.0.0.0 ninja.data.olxcdn.com
 0.0.0.0 olxwqtfh.com
 0.0.0.0 www.olxwqtfh.com
+0.0.0.0 olympicsappointment.com
+0.0.0.0 www.olympicsappointment.com
 0.0.0.0 sstats.omahasteaks.com
 0.0.0.0 omappapi.com
 0.0.0.0 a.omappapi.com
@@ -47376,6 +47382,8 @@
 0.0.0.0 laas-api.phunware.com
 0.0.0.0 platform-events.phunware.com
 0.0.0.0 www.phunware.com
+0.0.0.0 phychashowi.com
+0.0.0.0 www.phychashowi.com
 0.0.0.0 physicalblueberry.com
 0.0.0.0 www.physicalblueberry.com
 0.0.0.0 physiqueusualconsulting.com
@@ -47415,6 +47423,8 @@
 0.0.0.0 www.picreel.com
 0.0.0.0 ablinks.picsart.com
 0.0.0.0 analytics.picsart.com
+0.0.0.0 picscity.info
+0.0.0.0 www.picscity.info
 0.0.0.0 picsofdream.today
 0.0.0.0 www.picsofdream.today
 0.0.0.0 picsservices.info
@@ -48111,6 +48121,8 @@
 0.0.0.0 pornhb.me
 0.0.0.0 pornjustx.com
 0.0.0.0 est.pornleech.ch
+0.0.0.0 pornme.pm
+0.0.0.0 www.pornme.pm
 0.0.0.0 pornogrund.com
 0.0.0.0 www.pornogrund.com
 0.0.0.0 pornojux.com
@@ -48393,6 +48405,8 @@
 0.0.0.0 www.privacywithholdrepose.com
 0.0.0.0 private-show.live
 0.0.0.0 www.private-show.live
+0.0.0.0 private4.com
+0.0.0.0 www.private4.com
 0.0.0.0 privatecash.com
 0.0.0.0 www.privatecash.com
 0.0.0.0 privatelands.biz
@@ -48582,6 +48596,7 @@
 0.0.0.0 proranktracker.com
 0.0.0.0 www.proranktracker.com
 0.0.0.0 prosboshas.com
+0.0.0.0 prosinggumdrop.com
 0.0.0.0 prosperent.com
 0.0.0.0 www.prosperent.com
 0.0.0.0 prospero.ru
@@ -49582,11 +49597,9 @@
 0.0.0.0 pymx5.com
 0.0.0.0 api.pymx5.com
 0.0.0.0 pyoungstersofto.xyz
-0.0.0.0 www.pyoungstersofto.xyz
 0.0.0.0 pythat.com
 0.0.0.0 www.pythat.com
 0.0.0.0 pyxiscablese.com
-0.0.0.0 www.pyxiscablese.com
 0.0.0.0 pzapi-ij.com
 0.0.0.0 pzapi-kg.com
 0.0.0.0 pzimff.com
@@ -49619,7 +49632,6 @@
 0.0.0.0 qccoccocmedia.vn
 0.0.0.0 www.qccoccocmedia.vn
 0.0.0.0 qcffrrsyaxcccx.xyz
-0.0.0.0 www.qcffrrsyaxcccx.xyz
 0.0.0.0 qchannel01.cn
 0.0.0.0 www.qchannel01.cn
 0.0.0.0 qchannel03.cn
@@ -49679,7 +49691,6 @@
 0.0.0.0 filter.qksrv.cc
 0.0.0.0 static.qksrv.biz
 0.0.0.0 static.qksrv.cc
-0.0.0.0 www.qksrv.biz
 0.0.0.0 xml.qksrv.biz
 0.0.0.0 xml.qksrv.cc
 0.0.0.0 xml-eu-v4.qksrv.cc
@@ -49709,7 +49720,6 @@
 0.0.0.0 www.qoopler.ru
 0.0.0.0 qoqv.com
 0.0.0.0 qouiuircb.com
-0.0.0.0 www.qouiuircb.com
 0.0.0.0 qprskl.com
 0.0.0.0 masdk.3g.qq.com
 0.0.0.0 pmir.3g.qq.com
@@ -50384,13 +50394,11 @@
 0.0.0.0 qwertypay.com
 0.0.0.0 www.qwertypay.com
 0.0.0.0 qwrot.cyou
-0.0.0.0 www.qwrot.cyou
 0.0.0.0 qwtag.com
 0.0.0.0 cdn.qwtag.com
 0.0.0.0 qxdeqrxsxbnqbm.com
 0.0.0.0 www.qxdeqrxsxbnqbm.com
 0.0.0.0 qxdownload.com
-0.0.0.0 www.qxdownload.com
 0.0.0.0 ssl.o.qxmd.com
 0.0.0.0 msg.qy.net
 0.0.0.0 msg-intl.qy.net
@@ -50428,7 +50436,6 @@
 0.0.0.0 d7d3cf2e81d293050033-3dfc0615b0fd7b49143049256703bfce.ssl.cf1.rackcdn.com
 0.0.0.0 smetrics.rackroomshoes.com
 0.0.0.0 racterdeet.com
-0.0.0.0 www.racterdeet.com
 0.0.0.0 api.radar.io
 0.0.0.0 radargoats.com
 0.0.0.0 www.radargoats.com
@@ -50465,7 +50472,6 @@
 0.0.0.0 www.rainbownine.net
 0.0.0.0 t.rainide.com
 0.0.0.0 rainierem.com
-0.0.0.0 www.rainierem.com
 0.0.0.0 raintwig.com
 0.0.0.0 rainyautumnnews.com
 0.0.0.0 www.rainyautumnnews.com
@@ -51010,7 +51016,6 @@
 0.0.0.0 reepratic.com
 0.0.0.0 www.reepratic.com
 0.0.0.0 reerfdfgourgo.xyz
-0.0.0.0 www.reerfdfgourgo.xyz
 0.0.0.0 rees46.com
 0.0.0.0 cdn.rees46.com
 0.0.0.0 www.rees46.com
@@ -53333,6 +53338,8 @@
 0.0.0.0 reports.sdiapi.com
 0.0.0.0 services.sdiapi.com
 0.0.0.0 sdkfjxjertertry.com
+0.0.0.0 sdlocujcelv.com
+0.0.0.0 www.sdlocujcelv.com
 0.0.0.0 sdmot.ru
 0.0.0.0 www.sdmot.ru
 0.0.0.0 dwtracking.sdo.com
@@ -59841,6 +59848,8 @@
 0.0.0.0 www.tefuse.com
 0.0.0.0 tegronews.com
 0.0.0.0 www.tegronews.com
+0.0.0.0 tegrooxo.xyz
+0.0.0.0 www.tegrooxo.xyz
 0.0.0.0 tehous.com
 0.0.0.0 www.tehous.com
 0.0.0.0 tehras.com
@@ -60883,6 +60892,7 @@
 0.0.0.0 tracead.com
 0.0.0.0 www.tracead.com
 0.0.0.0 s2.tracemyip.org
+0.0.0.0 engine.traceparts.com
 0.0.0.0 tracify.ai
 0.0.0.0 beacon.tracify.ai
 0.0.0.0 scripting.tracify.ai
