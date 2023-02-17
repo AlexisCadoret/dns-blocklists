@@ -3,7 +3,7 @@
 #### LIGHT
 [whitelisted domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/light-removed-white.txt) | [whitelisted referral domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/light-removed-referral.txt) | [dead domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/light-removed-dead.txt)
 ```
-487004 total unique domains | 444745 (91%) included | 266 (0%) removed | 41993 (9%) dead
+520717 total unique domains | 476688 (92%) included | 263 (0%) removed | 43766 (8%) dead
 
  Nr | Included | Dead | Removed | URL/File
   1 |     100% |   0% |      0% | personal.txt
@@ -847,6 +847,8 @@ https://raw.githubusercontent.com/sjhgvr/oisd/main/dbl_extra.txt
 https://raw.githubusercontent.com/sjhgvr/oisd/main/dbl_full.txt
 https://raw.githubusercontent.com/sjhgvr/oisd/main/dbl_nsfw.txt
 https://raw.githubusercontent.com/sjhgvr/oisd/main/dbl_small.txt
+https://raw.githubusercontent.com/sjhgvr/oisd/main/domains_big.txt
+https://raw.githubusercontent.com/sjhgvr/oisd/main/domains_small.txt
 https://raw.githubusercontent.com/sjhgvr/oisd/main/oisd_big.txt
 https://raw.githubusercontent.com/sjhgvr/oisd/main/oisd_small.txt
 https://raw.githubusercontent.com/smed79/blacklist/master/hosts.txt
