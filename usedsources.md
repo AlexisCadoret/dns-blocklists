@@ -3,7 +3,7 @@
 #### LIGHT
 [whitelisted domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/light-removed-white.txt) | [whitelisted referral domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/light-removed-referral.txt) | [dead domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/light-removed-dead.txt)
 ```
-520717 total unique domains | 476688 (92%) included | 263 (0%) removed | 43766 (8%) dead
+521969 total unique domains | 506171 (97%) included | 264 (0%) removed | 15534 (3%) dead
 
  Nr | Included | Dead | Removed | URL/File
   1 |     100% |   0% |      0% | personal.txt
