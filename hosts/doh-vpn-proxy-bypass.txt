@@ -4,10 +4,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 12 Feb 2023 17:11 UTC
-# Version: 2023.0212.1711.46
+# Last modified: 17 Feb 2023 23:17 UTC
+# Version: 2023.0217.2317.17
 # Syntax: Hosts
-# Domains: 1403
+# Domains: 1414
 #
 0.0.0.0 0000a-fast-proxy.de
 0.0.0.0 012proxy.ga
@@ -124,6 +124,7 @@
 0.0.0.0 astrovpn.co
 0.0.0.0 dandelionsprout.asuscomm.com
 0.0.0.0 atlasvpn.com
+0.0.0.0 atoproxy.com
 0.0.0.0 atozproxy.com
 0.0.0.0 dohtrial.att.net
 0.0.0.0 dnsproxy.ff.avast.com
@@ -486,6 +487,7 @@
 0.0.0.0 freecavpn.com
 0.0.0.0 freecloudvpn.com
 0.0.0.0 freedevpn.com
+0.0.0.0 freedomvpn.ga
 0.0.0.0 freeeuroproxy.com
 0.0.0.0 freehiddenvpn.gq
 0.0.0.0 freeopenproxy.com
@@ -538,6 +540,7 @@
 0.0.0.0 getoutline.org
 0.0.0.0 getproxi.es
 0.0.0.0 getusvpn.com
+0.0.0.0 getvpn.info
 0.0.0.0 gfwvpn.com
 0.0.0.0 gizlibaglanti.com
 0.0.0.0 globalssh.net
@@ -596,6 +599,7 @@
 0.0.0.0 hidevpnproxy.ga
 0.0.0.0 hidevpnproxy.gq
 0.0.0.0 hideweb.org
+0.0.0.0 hidingyour.info
 0.0.0.0 hiload.in
 0.0.0.0 dns.hinet.net
 0.0.0.0 hitian.me
@@ -678,6 +682,7 @@
 0.0.0.0 quickvpn.lipisoft.com
 0.0.0.0 litevpn.top
 0.0.0.0 locaproxy.com
+0.0.0.0 lookingglass.site
 0.0.0.0 lopana.com
 0.0.0.0 luminati.io
 0.0.0.0 luminatinet.com
@@ -857,6 +862,7 @@
 0.0.0.0 kronos.plan9-dns.com
 0.0.0.0 pluton.plan9-dns.com
 0.0.0.0 pointtoserver.com
+0.0.0.0 polandgrows.com
 0.0.0.0 polargrizzly.com
 0.0.0.0 polaris.cx
 0.0.0.0 polippix.org
@@ -878,6 +884,7 @@
 0.0.0.0 privateinternetaccess.com
 0.0.0.0 privatetunnel.com
 0.0.0.0 privatevpn.com
+0.0.0.0 pro-unblock.com
 0.0.0.0 prointern.info
 0.0.0.0 prostovpn.org
 0.0.0.0 vpn-api.proton.me
@@ -929,6 +936,7 @@
 0.0.0.0 proxyfree.org
 0.0.0.0 proxygogo.info
 0.0.0.0 proxyhub.in
+0.0.0.0 proxyisp.com
 0.0.0.0 proxylistpro.com
 0.0.0.0 proxyload.net
 0.0.0.0 proxymaster.me
@@ -1053,7 +1061,9 @@
 0.0.0.0 snowproxy.com
 0.0.0.0 socks-proxy.net
 0.0.0.0 free-vpn.en.softonic.com
+0.0.0.0 softvpn.ml
 0.0.0.0 spacevpn.io
+0.0.0.0 spanproxy.com
 0.0.0.0 sparklabs.com
 0.0.0.0 doh-01.spectrum.com
 0.0.0.0 doh-02.spectrum.com
@@ -1325,6 +1335,7 @@
 0.0.0.0 vpnprivacy.services
 0.0.0.0 vpnpro.com
 0.0.0.0 vpnproxies.cf
+0.0.0.0 vpnproxy.org
 0.0.0.0 vpnproxy.pw
 0.0.0.0 vpnproxy.tk
 0.0.0.0 vpnproxymaster.app
@@ -1342,6 +1353,7 @@
 0.0.0.0 vpnunlimitedapp.com
 0.0.0.0 vpnuse.com
 0.0.0.0 vpnvip.com
+0.0.0.0 vpnvpn.ga
 0.0.0.0 antispam.vpnvps.com
 0.0.0.0 vpnwebsite.com
 0.0.0.0 antispam.vpsvpn.com
@@ -1391,7 +1403,6 @@
 0.0.0.0 yogavpn.com
 0.0.0.0 youcanhide.net
 0.0.0.0 your-freedom.de
-0.0.0.0 yourcheat.com
 0.0.0.0 yourvpn.info
 0.0.0.0 youtubebyclick.com
 0.0.0.0 youtubefreeproxy.net

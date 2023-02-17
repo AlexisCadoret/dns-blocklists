@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.doh-vpn-proxy-bypass. hostmaster.hagezi.doh-vpn-proxy-bypass. 1676588400 86400 3600 604800 30
+@ SOA rpz.hagezi.doh-vpn-proxy-bypass. hostmaster.hagezi.doh-vpn-proxy-bypass. 1676674800 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Enyrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 30
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: Updated regularly
-; Last modified: 12 Feb 2023 17:11 UTC
-; Version: 2023.0212.1711.46
+; Last modified: 17 Feb 2023 23:17 UTC
+; Version: 2023.0217.2317.17
 ; Syntax: RPZ
-; Domains: 1285
+; Domains: 1296
 ;
 vpn.ac CNAME .
 *.vpn.ac CNAME .
@@ -275,6 +275,8 @@ dandelionsprout.asuscomm.com CNAME .
 *.dandelionsprout.asuscomm.com CNAME .
 atlasvpn.com CNAME .
 *.atlasvpn.com CNAME .
+atoproxy.com CNAME .
+*.atoproxy.com CNAME .
 atozproxy.com CNAME .
 *.atozproxy.com CNAME .
 dnsproxy.ff.avast.com CNAME .
@@ -851,6 +853,8 @@ pluton.plan9-dns.com CNAME .
 *.pluton.plan9-dns.com CNAME .
 pointtoserver.com CNAME .
 *.pointtoserver.com CNAME .
+polandgrows.com CNAME .
+*.polandgrows.com CNAME .
 polargrizzly.com CNAME .
 *.polargrizzly.com CNAME .
 portalssh.com CNAME .
@@ -867,6 +871,8 @@ privatetunnel.com CNAME .
 *.privatetunnel.com CNAME .
 privatevpn.com CNAME .
 *.privatevpn.com CNAME .
+pro-unblock.com CNAME .
+*.pro-unblock.com CNAME .
 protonstatus.com CNAME .
 *.protonstatus.com CNAME .
 protonvpn.com CNAME .
@@ -901,6 +907,8 @@ proxycloyd.com CNAME .
 *.proxycloyd.com CNAME .
 proxyfish.com CNAME .
 *.proxyfish.com CNAME .
+proxyisp.com CNAME .
+*.proxyisp.com CNAME .
 proxylistpro.com CNAME .
 *.proxylistpro.com CNAME .
 proxymesh.com CNAME .
@@ -1001,6 +1009,8 @@ snowproxy.com CNAME .
 *.snowproxy.com CNAME .
 free-vpn.en.softonic.com CNAME .
 *.free-vpn.en.softonic.com CNAME .
+spanproxy.com CNAME .
+*.spanproxy.com CNAME .
 sparklabs.com CNAME .
 *.sparklabs.com CNAME .
 doh-01.spectrum.com CNAME .
@@ -1309,8 +1319,6 @@ xvbelink.com CNAME .
 *.xvbelink.com CNAME .
 yogavpn.com CNAME .
 *.yogavpn.com CNAME .
-yourcheat.com CNAME .
-*.yourcheat.com CNAME .
 youtubebyclick.com CNAME .
 *.youtubebyclick.com CNAME .
 youtubez.com CNAME .
@@ -1433,6 +1441,8 @@ jcdns.fun CNAME .
 *.jcdns.fun CNAME .
 012proxy.ga CNAME .
 *.012proxy.ga CNAME .
+freedomvpn.ga CNAME .
+*.freedomvpn.ga CNAME .
 freevpns.ga CNAME .
 *.freevpns.ga CNAME .
 hidevpnproxy.ga CNAME .
@@ -1443,6 +1453,8 @@ proxyvpn.ga CNAME .
 *.proxyvpn.ga CNAME .
 supervpn.ga CNAME .
 *.supervpn.ga CNAME .
+vpnvpn.ga CNAME .
+*.vpnvpn.ga CNAME .
 webvpn.ga CNAME .
 *.webvpn.ga CNAME .
 doh.futa.gg CNAME .
@@ -1551,12 +1563,16 @@ fbproxies.info CNAME .
 *.fbproxies.info CNAME .
 german-proxy.info CNAME .
 *.german-proxy.info CNAME .
+getvpn.info CNAME .
+*.getvpn.info CNAME .
 goldvpn.info CNAME .
 *.goldvpn.info CNAME .
 hiddendigital.info CNAME .
 *.hiddendigital.info CNAME .
 hidevpn.info CNAME .
 *.hidevpn.info CNAME .
+hidingyour.info CNAME .
+*.hidingyour.info CNAME .
 interncloud.info CNAME .
 *.interncloud.info CNAME .
 miniprox.info CNAME .
@@ -1781,6 +1797,8 @@ novpn.ml CNAME .
 *.novpn.ml CNAME .
 proxyvpn.ml CNAME .
 *.proxyvpn.ml CNAME .
+softvpn.ml CNAME .
+*.softvpn.ml CNAME .
 vpnbypass.ml CNAME .
 *.vpnbypass.ml CNAME .
 vpncompany.ml CNAME .
@@ -2353,6 +2371,8 @@ usa-proxy.org CNAME .
 *.usa-proxy.org CNAME .
 vpnpie.org CNAME .
 *.vpnpie.org CNAME .
+vpnproxy.org CNAME .
+*.vpnproxy.org CNAME .
 webtunnel.org CNAME .
 *.webtunnel.org CNAME .
 whonix.org CNAME .
@@ -2413,6 +2433,8 @@ firstcontact.site CNAME .
 *.firstcontact.site CNAME .
 hiddendragon.site CNAME .
 *.hiddendragon.site CNAME .
+lookingglass.site CNAME .
+*.lookingglass.site CNAME .
 proxyunblock.site CNAME .
 *.proxyunblock.site CNAME .
 rabbithole.site CNAME .

@@ -4,10 +4,10 @@
 ! Homepage: https://github.com/hagezi/dns-blocklists
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: Updated regularly
-! Last modified: 12 Feb 2023 17:11 UTC
-! Version: 2023.0212.1711.46
+! Last modified: 17 Feb 2023 23:17 UTC
+! Version: 2023.0217.2317.17
 ! Syntax: AdBlock
-! Domains: 1285
+! Domains: 1296
 !
 ||0000a-fast-proxy.de^
 ||012proxy.ga^
@@ -93,6 +93,7 @@
 ||astrovpn.co^
 ||dandelionsprout.asuscomm.com^
 ||atlasvpn.com^
+||atoproxy.com^
 ||atozproxy.com^
 ||dohtrial.att.net^
 ||dnsproxy.ff.avast.com^
@@ -407,6 +408,7 @@
 ||freecavpn.com^
 ||freecloudvpn.com^
 ||freedevpn.com^
+||freedomvpn.ga^
 ||freeeuroproxy.com^
 ||freehiddenvpn.gq^
 ||freeopenproxy.com^
@@ -459,6 +461,7 @@
 ||getoutline.org^
 ||getproxi.es^
 ||getusvpn.com^
+||getvpn.info^
 ||gfwvpn.com^
 ||gizlibaglanti.com^
 ||globalssh.net^
@@ -517,6 +520,7 @@
 ||hidevpnproxy.ga^
 ||hidevpnproxy.gq^
 ||hideweb.org^
+||hidingyour.info^
 ||hiload.in^
 ||dns.hinet.net^
 ||hitian.me^
@@ -596,6 +600,7 @@
 ||quickvpn.lipisoft.com^
 ||litevpn.top^
 ||locaproxy.com^
+||lookingglass.site^
 ||lopana.com^
 ||luminati.io^
 ||luminatinet.com^
@@ -760,6 +765,7 @@
 ||kronos.plan9-dns.com^
 ||pluton.plan9-dns.com^
 ||pointtoserver.com^
+||polandgrows.com^
 ||polargrizzly.com^
 ||polaris.cx^
 ||polippix.org^
@@ -781,6 +787,7 @@
 ||privateinternetaccess.com^
 ||privatetunnel.com^
 ||privatevpn.com^
+||pro-unblock.com^
 ||prointern.info^
 ||prostovpn.org^
 ||vpn-api.proton.me^
@@ -831,6 +838,7 @@
 ||proxyfree.org^
 ||proxygogo.info^
 ||proxyhub.in^
+||proxyisp.com^
 ||proxylistpro.com^
 ||proxyload.net^
 ||proxymaster.me^
@@ -944,7 +952,9 @@
 ||snowproxy.com^
 ||socks-proxy.net^
 ||free-vpn.en.softonic.com^
+||softvpn.ml^
 ||spacevpn.io^
+||spanproxy.com^
 ||sparklabs.com^
 ||doh-01.spectrum.com^
 ||doh-02.spectrum.com^
@@ -1209,6 +1219,7 @@
 ||vpnprivacy.services^
 ||vpnpro.com^
 ||vpnproxies.cf^
+||vpnproxy.org^
 ||vpnproxy.pw^
 ||vpnproxy.tk^
 ||vpnproxymaster.app^
@@ -1226,6 +1237,7 @@
 ||vpnunlimitedapp.com^
 ||vpnuse.com^
 ||vpnvip.com^
+||vpnvpn.ga^
 ||antispam.vpnvps.com^
 ||vpnwebsite.com^
 ||antispam.vpsvpn.com^
@@ -1273,7 +1285,6 @@
 ||yogavpn.com^
 ||youcanhide.net^
 ||your-freedom.de^
-||yourcheat.com^
 ||yourvpn.info^
 ||youtubebyclick.com^
 ||youtubefreeproxy.net^

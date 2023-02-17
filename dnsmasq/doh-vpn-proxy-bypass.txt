@@ -4,10 +4,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 12 Feb 2023 17:11 UTC
-# Version: 2023.0212.1711.46
+# Last modified: 17 Feb 2023 23:17 UTC
+# Version: 2023.0217.2317.17
 # Syntax: DNSMasq
-# Domains: 1285
+# Domains: 1296
 #
 address=/0000a-fast-proxy.de/#
 address=/012proxy.ga/#
@@ -93,6 +93,7 @@ address=/astrill.org/#
 address=/astrovpn.co/#
 address=/dandelionsprout.asuscomm.com/#
 address=/atlasvpn.com/#
+address=/atoproxy.com/#
 address=/atozproxy.com/#
 address=/dohtrial.att.net/#
 address=/dnsproxy.ff.avast.com/#
@@ -407,6 +408,7 @@ address=/freecanadavpn.com/#
 address=/freecavpn.com/#
 address=/freecloudvpn.com/#
 address=/freedevpn.com/#
+address=/freedomvpn.ga/#
 address=/freeeuroproxy.com/#
 address=/freehiddenvpn.gq/#
 address=/freeopenproxy.com/#
@@ -459,6 +461,7 @@ address=/getlantern.org/#
 address=/getoutline.org/#
 address=/getproxi.es/#
 address=/getusvpn.com/#
+address=/getvpn.info/#
 address=/gfwvpn.com/#
 address=/gizlibaglanti.com/#
 address=/globalssh.net/#
@@ -517,6 +520,7 @@ address=/hidevpn.info/#
 address=/hidevpnproxy.ga/#
 address=/hidevpnproxy.gq/#
 address=/hideweb.org/#
+address=/hidingyour.info/#
 address=/hiload.in/#
 address=/dns.hinet.net/#
 address=/hitian.me/#
@@ -596,6 +600,7 @@ address=/lionssh.com/#
 address=/quickvpn.lipisoft.com/#
 address=/litevpn.top/#
 address=/locaproxy.com/#
+address=/lookingglass.site/#
 address=/lopana.com/#
 address=/luminati.io/#
 address=/luminatinet.com/#
@@ -760,6 +765,7 @@ address=/helios.plan9-dns.com/#
 address=/kronos.plan9-dns.com/#
 address=/pluton.plan9-dns.com/#
 address=/pointtoserver.com/#
+address=/polandgrows.com/#
 address=/polargrizzly.com/#
 address=/polaris.cx/#
 address=/polippix.org/#
@@ -781,6 +787,7 @@ address=/privadovpn.com/#
 address=/privateinternetaccess.com/#
 address=/privatetunnel.com/#
 address=/privatevpn.com/#
+address=/pro-unblock.com/#
 address=/prointern.info/#
 address=/prostovpn.org/#
 address=/vpn-api.proton.me/#
@@ -831,6 +838,7 @@ address=/proxyfor.eu/#
 address=/proxyfree.org/#
 address=/proxygogo.info/#
 address=/proxyhub.in/#
+address=/proxyisp.com/#
 address=/proxylistpro.com/#
 address=/proxyload.net/#
 address=/proxymaster.me/#
@@ -944,7 +952,9 @@ address=/smartydns.com/#
 address=/snowproxy.com/#
 address=/socks-proxy.net/#
 address=/free-vpn.en.softonic.com/#
+address=/softvpn.ml/#
 address=/spacevpn.io/#
+address=/spanproxy.com/#
 address=/sparklabs.com/#
 address=/doh-01.spectrum.com/#
 address=/doh-02.spectrum.com/#
@@ -1209,6 +1219,7 @@ address=/vpnprivacy.com/#
 address=/vpnprivacy.services/#
 address=/vpnpro.com/#
 address=/vpnproxies.cf/#
+address=/vpnproxy.org/#
 address=/vpnproxy.pw/#
 address=/vpnproxy.tk/#
 address=/vpnproxymaster.app/#
@@ -1226,6 +1237,7 @@ address=/vpnunlimited.com/#
 address=/vpnunlimitedapp.com/#
 address=/vpnuse.com/#
 address=/vpnvip.com/#
+address=/vpnvpn.ga/#
 address=/antispam.vpnvps.com/#
 address=/vpnwebsite.com/#
 address=/antispam.vpsvpn.com/#
@@ -1273,7 +1285,6 @@ address=/yellowproxy.net/#
 address=/yogavpn.com/#
 address=/youcanhide.net/#
 address=/your-freedom.de/#
-address=/yourcheat.com/#
 address=/yourvpn.info/#
 address=/youtubebyclick.com/#
 address=/youtubefreeproxy.net/#

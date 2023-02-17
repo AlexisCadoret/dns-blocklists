@@ -4,10 +4,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 12 Feb 2023 17:11 UTC
-# Version: 2023.0212.1711.46
+# Last modified: 17 Feb 2023 23:17 UTC
+# Version: 2023.0217.2317.17
 # Syntax: Domains
-# Domains: 1403
+# Domains: 1414
 #
 0000a-fast-proxy.de
 012proxy.ga
@@ -124,6 +124,7 @@ astrill.org
 astrovpn.co
 dandelionsprout.asuscomm.com
 atlasvpn.com
+atoproxy.com
 atozproxy.com
 dohtrial.att.net
 dnsproxy.ff.avast.com
@@ -486,6 +487,7 @@ freecanadavpn.com
 freecavpn.com
 freecloudvpn.com
 freedevpn.com
+freedomvpn.ga
 freeeuroproxy.com
 freehiddenvpn.gq
 freeopenproxy.com
@@ -538,6 +540,7 @@ getlantern.org
 getoutline.org
 getproxi.es
 getusvpn.com
+getvpn.info
 gfwvpn.com
 gizlibaglanti.com
 globalssh.net
@@ -596,6 +599,7 @@ hidevpn.info
 hidevpnproxy.ga
 hidevpnproxy.gq
 hideweb.org
+hidingyour.info
 hiload.in
 dns.hinet.net
 hitian.me
@@ -678,6 +682,7 @@ lionssh.com
 quickvpn.lipisoft.com
 litevpn.top
 locaproxy.com
+lookingglass.site
 lopana.com
 luminati.io
 luminatinet.com
@@ -857,6 +862,7 @@ helios.plan9-dns.com
 kronos.plan9-dns.com
 pluton.plan9-dns.com
 pointtoserver.com
+polandgrows.com
 polargrizzly.com
 polaris.cx
 polippix.org
@@ -878,6 +884,7 @@ privadovpn.com
 privateinternetaccess.com
 privatetunnel.com
 privatevpn.com
+pro-unblock.com
 prointern.info
 prostovpn.org
 vpn-api.proton.me
@@ -929,6 +936,7 @@ proxyfor.eu
 proxyfree.org
 proxygogo.info
 proxyhub.in
+proxyisp.com
 proxylistpro.com
 proxyload.net
 proxymaster.me
@@ -1053,7 +1061,9 @@ smartydns.com
 snowproxy.com
 socks-proxy.net
 free-vpn.en.softonic.com
+softvpn.ml
 spacevpn.io
+spanproxy.com
 sparklabs.com
 doh-01.spectrum.com
 doh-02.spectrum.com
@@ -1325,6 +1335,7 @@ vpnprivacy.com
 vpnprivacy.services
 vpnpro.com
 vpnproxies.cf
+vpnproxy.org
 vpnproxy.pw
 vpnproxy.tk
 vpnproxymaster.app
@@ -1342,6 +1353,7 @@ vpnunlimited.com
 vpnunlimitedapp.com
 vpnuse.com
 vpnvip.com
+vpnvpn.ga
 antispam.vpnvps.com
 vpnwebsite.com
 antispam.vpsvpn.com
@@ -1391,7 +1403,6 @@ yellowproxy.net
 yogavpn.com
 youcanhide.net
 your-freedom.de
-yourcheat.com
 yourvpn.info
 youtubebyclick.com
 youtubefreeproxy.net
