@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 12 Feb 2023 09:57 UTC
-# Version: 2023.0212.0957.21
+# Last modified: 17 Feb 2023 23:16 UTC
+# Version: 2023.0217.2316.30
 # Syntax: Hosts
-# Domains: 146
+# Domains: 148
 #
 0.0.0.0 search.0xcb.dev
 0.0.0.0 searx.32bitflo.at
@@ -68,11 +68,13 @@
 0.0.0.0 searx.lelux.fi
 0.0.0.0 search.lgbtq.cool
 0.0.0.0 searx.libmail.eu
+0.0.0.0 searx.louifox.house
 0.0.0.0 lukol.com
 0.0.0.0 searx.lwhr.xyz
 0.0.0.0 searx.lynnesbian.space
 0.0.0.0 go.mail.ru
 0.0.0.0 searx.mastodontech.de
+0.0.0.0 searx.maxxblow.de
 0.0.0.0 search.mdosch.de
 0.0.0.0 metacrawler.com
 0.0.0.0 metager.de

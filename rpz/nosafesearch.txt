@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.nosafesearch. hostmaster.hagezi.nosafesearch. 1676588400 86400 3600 604800 30
+@ SOA rpz.hagezi.nosafesearch. hostmaster.hagezi.nosafesearch. 1676674800 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's safesearch not supported DNS Blocklist
@@ -7,10 +7,10 @@ $TTL 30
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: Updated regularly
-; Last modified: 12 Feb 2023 09:57 UTC
-; Version: 2023.0212.0957.21
+; Last modified: 17 Feb 2023 23:16 UTC
+; Version: 2023.0217.2316.30
 ; Syntax: RPZ
-; Domains: 143
+; Domains: 145
 ;
 searx.32bitflo.at CNAME .
 *.searx.32bitflo.at CNAME .
@@ -114,6 +114,8 @@ gruble.de CNAME .
 *.gruble.de CNAME .
 searx.mastodontech.de CNAME .
 *.searx.mastodontech.de CNAME .
+searx.maxxblow.de CNAME .
+*.searx.maxxblow.de CNAME .
 search.mdosch.de CNAME .
 *.search.mdosch.de CNAME .
 metager.de CNAME .
@@ -164,6 +166,8 @@ searx.zapashcanon.fr CNAME .
 *.searx.zapashcanon.fr CNAME .
 spot.ecloud.global CNAME .
 *.spot.ecloud.global CNAME .
+searx.louifox.house CNAME .
+*.searx.louifox.house CNAME .
 skyn3t.in CNAME .
 *.skyn3t.in CNAME .
 openworlds.info CNAME .
