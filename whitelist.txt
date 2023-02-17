@@ -2567,3 +2567,9 @@ track.yw56.com.cn
 img.yana.asideas.de
 prod-image-fastly-cdn.yana.asideas.de
 
+# https://github.com/hagezi/dns-blocklists/issues/380
+*.speedtest.sbcglobal.net
+
+# https://github.com/hagezi/dns-blocklists/issues/364
+reliaquest.com
+
