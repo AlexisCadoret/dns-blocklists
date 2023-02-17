@@ -591,10 +591,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 17 Feb 2023 16:10 UTC
-! Version: 2023.0217.1610.14
+! Last modified: 17 Feb 2023 17:05 UTC
+! Version: 2023.0217.1705.30
 ! Syntax: AdBlock
-! Domains: 25803
+! Domains: 25802
 !
 ||003store.com^
 ||007sites.com^
@@ -15539,7 +15539,6 @@
 ||chanalytics.merchantadvantage.com^
 ||secure.merchantadvantage.com^
 ||sadobe.mercuryinsurance.com^
-||meredithcorp.io^
 ||analytics00.meride.tv^
 ||info.meriwest.com^
 ||data-f1e447fbcf.merkur.de^
@@ -76647,6 +76646,14 @@
 ! https://github.com/hagezi/dns-blocklists/issues/364
 @@|reliaquest.com^
 @@|www.reliaquest.com^
+
+! https://github.com/hagezi/dns-blocklists/issues/422
+@@|doppler-config.cbsivideo.com^
+
+! https://github.com/hagezi/dns-blocklists/issues/420
+@@|playback.video.meredithcorp.io^
+@@|imagesvc.meredithcorp.io^
+@@|cdn.video.meredithcorp.io^
 
 
 ! Title: HaGeZi's White-/Allowlist Referral for Black & White list
