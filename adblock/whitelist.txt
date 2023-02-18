@@ -2841,3 +2841,6 @@
 ! Blocks CNN app on Apple TV from confirming geo location, a requirement to open app
 @@||geo.ngtv.io^
 
+! https://github.com/hagezi/dns-blocklists/issues/432
+@@||measurement-lab.org^
+
