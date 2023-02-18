@@ -361,7 +361,11 @@ ads.twitter.com
 analytics.twitter.com
 syndication.twitter.com
 t.co
-
+global.albtls.t.co
+d2cttawv9fdszz.cloudfront.net
+na.albtls.t.co
+dlp3zj68t5lvh.cloudfront.net
+ 
 # Youtube
 *.googlevideo.com
 *.ytimg.com
@@ -1042,10 +1046,6 @@ embed.dugout.com
 
 # Videos on fitbook.de
 cdn.bitmovin.com
-
-# Breaks login on videoland.com
-# https://github.com/AdAway/adaway.github.io/issues/343
-socialize.eu1.gigya.com
 
 # Videos on various sites (SAT1, PRO7, ...)
 polyfill.io
@@ -2589,4 +2589,7 @@ cdn.video.meredithcorp.io
 
 # https://github.com/hagezi/dns-blocklists/issues/433
 sbchill.com
+
+# https://github.com/hagezi/dns-blocklists/issues/478
+tili.sanoma.fi
 
