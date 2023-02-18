@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 17 Feb 2023 19:14 UTC
-# Version: 2023.0217.1914.00
+# Last modified: 18 Feb 2023 00:13 UTC
+# Version: 2023.0218.0013.25
 # Syntax: Domains Wildcard (DNSCrypt/YogaDNS/...)
-# Domains: 32280
+# Domains: 32308
 #
 *.003store.com
 *.007sites.com
@@ -959,6 +959,7 @@
 *.a23-trk.xyz
 *.a2dfp.net
 *.a2g-secure.com
+*.affiliates.a2hosting.com
 *.a2nn5eri7ce.com
 *.a2tw6yoodsag.com
 *.prod.cm.publishers.advertising.a2z.com
@@ -1137,6 +1138,7 @@
 *.activate.academy.com
 *.analytics.academy.com
 *.insights.academy.com
+*.academyblocked.com
 *.academyenrage.com
 *.acalraiz.xyz
 *.connect.acams.org
@@ -4732,6 +4734,7 @@
 *.bhgfinancial.com
 *.bhoroshasthol.com
 *.ensighten.bhphoto.com
+*.affiliates.bhphotovideo.com
 *.bhpprfk.cn
 *.bhs4.com
 *.bhsexgy.com
@@ -4820,6 +4823,7 @@
 *.bigwww.com
 *.bijitsoa.com
 *.bikopol.top
+*.bikzandylogistics.com
 *.amptrack.bild.de
 *.as.bild.de
 *.data-861bbf2127.bild.de
@@ -5501,6 +5505,7 @@
 *.tracking.build.com
 *.builder.com
 *.buildnaq91.site
+*.bujoke.com
 *.bulbbait.com
 *.bulgae.com
 *.bulkaapricot.com
@@ -6011,6 +6016,7 @@
 *.ccmiocw.com
 *.ccnmbpx.cc
 *.ccnshks.in
+*.ccpmtrk.com
 *.ccscserver.com
 *.p.data.cctv.com
 *.adx.cda.pl
@@ -6019,6 +6025,7 @@
 *.cdtm.cdiscount.com
 *.smetrics.cdiscount.com
 *.tracking.cdiscount.com
+*.affiliates.cdkeys.com
 *.cdn.house
 *.analytics.cdn.live
 *.cdn-chrome.com
@@ -6114,6 +6121,7 @@
 *.center.io
 *.centeredfailinghotline.com
 *.images.marketing.centerpointenergy.com
+*.centesmbarbola.com
 *.marketing.centra.org
 *.ressources.centraleauto.com
 *.centralgoogle.com
@@ -6257,6 +6265,7 @@
 *.chewcoat.com
 *.chewsrompedhemp.com
 *.chfpgcbe.com
+*.affiliate.chiaki.vn
 *.clicker.chiaki.vn
 *.chibaigo.com
 *.chibchasuffete.com
@@ -6351,6 +6360,7 @@
 *.chzei.com
 *.cialis.tech
 *.cialiswithoutadoctorprescription.com
+*.ciar-kep.com
 *.cibaipuki.com
 *.analytics.cibc.com
 *.valf.atm.cp31.ott.cibntv.net
@@ -6683,6 +6693,7 @@
 *.p.stage.ad.gt.cdn.cloudflare.net
 *.csp-reporting.cloudflare.com
 *.data.em2.cloudflare.com
+*.a.nel.cloudflare.com
 *.report-uri.cloudflare.com
 *.tr.www.cloudflare.com
 *.cloudflareinsights.com
@@ -6995,6 +7006,7 @@
 *.smetrics.jewson.co.uk
 *.email-em.jll.co.uk
 *.tracker.joongang.co.kr
+*.affiliate.juno.co.uk
 *.k-h.co.il
 *.stat.kbs.co.kr
 *.ad.khan.co.kr
@@ -7073,10 +7085,7 @@
 *.pulse.rac.co.uk
 *.smetrics.rac.co.uk
 *.raindance.co.uk
-*.log.affiliate.rakuten.co.jp
-*.mtwidget04.affiliate.rakuten.co.jp
-*.static.affiliate.rakuten.co.jp
-*.xml.affiliate.rakuten.co.jp
+*.affiliate.rakuten.co.jp
 *.ba.afl.rakuten.co.jp
 *.hbb.afl.rakuten.co.jp
 *.ashiato.rakuten.co.jp
@@ -7442,6 +7451,7 @@
 *.idealli.com.br
 *.immoinvest.com.br
 *.ads.independent.com.mt
+*.innonews.com.ng
 *.isanikcieontap.com.ua
 *.mark.isbank.com.tr
 *.itcnt.com.np
@@ -7540,6 +7550,7 @@
 *.resenderocha.com.br
 *.retargeter.com.br
 *.roblox.com.et
+*.affiliates.rozetka.com.ua
 *.api-analytics.rozetka.com.ua
 *.rtb.com.ru
 *.rtisistemas.com.br
@@ -8066,6 +8077,7 @@
 *.cquotient.com
 *.cqwajn.com
 *.crabbychin.com
+*.crack2games.com
 *.crackcatalog.com
 *.crackcool.com
 *.crackdj.com
@@ -9694,6 +9706,7 @@
 *.difiel.com
 *.difies.com
 *.static.digidip.net
+*.affiliate.digikala.com
 *.affstat.digikala.com
 *.new-sentry.digikala.com
 *.tracker.digikala.com
@@ -10889,6 +10902,7 @@
 *.edt02.net
 *.chnu.edu.ua
 *.elu.edu.tr
+*.fpno.edu.ng
 *.ibsar.edu.in
 *.smetrics.latrobe.edu.au
 *.overseas.edu.lk
@@ -12336,6 +12350,7 @@
 *.data-9988ff7b89.ffh.de
 *.ffsdtao.com
 *.l.ffx.io
+*.fgcz.net
 *.fhcigars.com
 *.fhsmtrnsfnt.com
 *.images.bncontacto.fi.cr
@@ -13416,7 +13431,9 @@
 *.genceletatloginia.com
 *.gencid.com
 *.t-s.gene.com
+*.affiliates.genealogybank.com
 *.smetrics.generac.com
+*.generacity.com
 *.generalfitnesscenter.com
 *.generaltracking.de
 *.generashionvd.com
@@ -14620,7 +14637,7 @@
 *.hetaruwg.com
 *.hethisisath.xyz
 *.heugeqm.com
-*.serve.affiliate.heureka.cz
+*.affiliate.heureka.cz
 *.hexagon-analytics.com
 *.connect.hexagongeosystems.com
 *.hexinfotraders.com
@@ -14931,6 +14948,7 @@
 *.om.hotels.com
 *.oms.hotels.com
 *.som.hotels.com
+*.affiliates.hotelscombined.com
 *.hothomefuck.com
 *.hotjar.com
 *.hotjar.io
@@ -16053,13 +16071,7 @@
 *.iqjeetk.com
 *.iqm.com
 *.iqncjxw.com
-*.api.iqoption.com
-*.auth.iqoption.com
-*.eu.iqoption.com
-*.event.iqoption.com
-*.fsms.iqoption.com
-*.notification.iqoption.com
-*.updates.iqoption.com
+*.iqoption.com
 *.iqtest.com
 *.eloquatracking.iqvia.com
 *.iqwfmfi.net
@@ -16147,6 +16159,7 @@
 *.a1.itc.cn
 *.js.tv.itc.cn
 *.data.vod.itc.cn
+*.itchinglikely.com
 *.itcleffaom.com
 *.itcompany.com
 *.itdise.info
@@ -16912,6 +16925,7 @@
 *.kliksaya.com
 *.kliqz.com
 *.hearob.klix.ba
+*.affiliate.klook.com
 *.log.klook.com
 *.kloperd.com
 *.kloshgriffe.com
@@ -18368,6 +18382,7 @@
 *.markedcrayon.com
 *.smetric.markenschuhe.de
 *.markerly.com
+*.marketgameland.com
 *.marketgid.com
 *.markethealth.com
 *.tracking.markethero.io
@@ -19737,6 +19752,7 @@
 *.metrics.myprime.com
 *.myprivatesearch.com
 *.tracking.myregus.com
+*.myreniwn.com
 *.myreqdcompany.com
 *.myriad.be
 *.somni.myrocket.com
@@ -21192,6 +21208,7 @@
 *.cert.org.cn
 *.grandages.org.my
 *.ivcbrasil.org.br
+*.jazancci.org.sa
 *.mediaathay.org.uk
 *.smetrics.nationaltrust.org.uk
 *.nsb.org.uk
@@ -22108,7 +22125,7 @@
 *.fahmta.pocket-lint.com
 *.pocketads.pl
 *.pocketfaucet.com
-*.m.pocketoption.com
+*.pocketoption.com
 *.pocli.click
 *.marketing.poconomountains.com
 *.pocosmegashdd.org
@@ -22241,6 +22258,7 @@
 *.porncrash.com
 *.porndeals.com
 *.plx.porndig.com
+*.pornego.com
 *.pornglee.com
 *.pornhb.me
 *.pornjustx.com
@@ -24834,6 +24852,7 @@
 *.rendfy.com
 *.renewalsuspiciousrattle.com
 *.renomeeguze.com
+*.renomesolar.com
 *.pixel.renovai.com
 *.feqbqn.rent.com
 *.gqjppj.rentcafe.com
@@ -26289,6 +26308,7 @@
 *.smetrics.showtimeanytime.com
 *.shptron.com
 *.shqbsdjatunl.com
+*.shredassortmentmood.com
 *.shreeumiyagroup.com
 *.shrewrotl.com
 *.shrfbdg004.com
@@ -27160,6 +27180,7 @@
 *.spritzawapuhi.guru
 *.sprngmnews.com
 *.sprout-ad.com
+*.sprw.io
 *.sptserov.ru
 *.spulse.net
 *.web.spurtparole.top
@@ -28516,6 +28537,7 @@
 *.ads.tiktok.com
 *.ads-api.tiktok.com
 *.ads-sg.tiktok.com
+*.affiliate.tiktok.com
 *.analytics.tiktok.com
 *.analytics-sg.tiktok.com
 *.business-api.tiktok.com
@@ -28715,6 +28737,7 @@
 *.toplist.cz
 *.toplist.sk
 *.toplov.com
+*.topmeds.net
 *.cdn.topmind.io
 *.topmusicalcomedy.com
 *.topnews-24.com
@@ -28744,6 +28767,7 @@
 *.cmp.tori.fi
 *.torimochi-ad.net
 *.torioluor.com
+*.torlago.com
 *.secure.torn6back.com
 *.toroadvertising.com
 *.toromclick.com
@@ -31004,6 +31028,7 @@
 *.data-2af9963ee4.wieistmeineip.de
 *.cookie.wieni.be
 *.wifelovers.com
+*.wifimaster.tech
 *.wifly.net
 *.wigetmedia.com
 *.tracker.wigzopush.com
@@ -31297,6 +31322,7 @@
 *.wt-eu02.net
 *.wt-safetag.com
 *.wtg-ads.com
+*.wtjcqntwdtgs.com
 *.wtlive.com
 *.wtp101.com
 *.wts.one
@@ -31331,6 +31357,7 @@
 *.wwopenclick.space
 *.wwopenclick.vip
 *.wwsercher.biz
+*.www-paypal.us
 *.www-searching.com
 *.www3secure.com
 *.wwwomen.ru
@@ -32187,6 +32214,7 @@
 *.zlink6.com
 *.s.zlink9.com
 *.s.zlinkb.com
+*.zlinkm.com
 *.zlinkv.com
 *.zlp6s.pw
 *.creator.zmags.com
