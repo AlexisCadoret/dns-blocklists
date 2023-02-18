@@ -4,10 +4,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 12 Feb 2023 22:02 UTC
-! Version: 2023.0212.2202.49
+! Last modified: 18 Feb 2023 23:13 UTC
+! Version: 2023.0218.2313.56
 ! Syntax: AdBlock
-! Domains: 252
+! Domains: 253
 !
 ||cdnlog-va-useast2a.byteoversea.com^
 ||frontier.byteoversea.com^
@@ -235,6 +235,7 @@
 ||rtlog19-applog-useast1a.tiktokv.com^
 ||rtlog19-normal-alisg.tiktokv.com^
 ||rtlog19-normal-useast1a.tiktokv.com^
+||rtlog19-normal-useast2a.tiktokv.com^
 ||rtlog22-normal.tiktokv.com^
 ||rtlog22-normal-alisg.tiktokv.com^
 ||rtlog22-normal-useast1a.tiktokv.com^
