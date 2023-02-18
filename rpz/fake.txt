@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.fake. hostmaster.hagezi.fake. 1676674800 86400 3600 604800 30
+@ SOA rpz.hagezi.fake. hostmaster.hagezi.fake. 1676761200 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 30
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ; Expires: Updated regularly
-; Last modified: 17 Feb 2023 23:21 UTC
-; Version: 2023.0217.2321.41
+; Last modified: 18 Feb 2023 23:15 UTC
+; Version: 2023.0218.2315.00
 ; Syntax: RPZ
-; Domains: 5340
+; Domains: 5322
 ;
 1euro.at CNAME .
 *.1euro.at CNAME .
@@ -125,8 +125,6 @@ aufsperrdienst-24.at CNAME .
 *.aufsperrdienst-24.at CNAME .
 aufsperrhilfe.at CNAME .
 *.aufsperrhilfe.at CNAME .
-aufsperrhilfe-24.at CNAME .
-*.aufsperrhilfe-24.at CNAME .
 autohobby.at CNAME .
 *.autohobby.at CNAME .
 az-finanzmanagement.at CNAME .
@@ -153,8 +151,6 @@ bergmannsschach.at CNAME .
 *.bergmannsschach.at CNAME .
 besser-gesund.at CNAME .
 *.besser-gesund.at CNAME .
-bestermarkt.at CNAME .
-*.bestermarkt.at CNAME .
 betterse.at CNAME .
 *.betterse.at CNAME .
 bettinakreativ.at CNAME .
@@ -1317,8 +1313,6 @@ shop.askdrkan.com CNAME .
 *.shop.askdrkan.com CNAME .
 asta-barka.com CNAME .
 *.asta-barka.com CNAME .
-atelier-schnelle.com CNAME .
-*.atelier-schnelle.com CNAME .
 atlasortopedica.com CNAME .
 *.atlasortopedica.com CNAME .
 atleanta.com CNAME .
@@ -1377,8 +1371,6 @@ axelarigatowien.com CNAME .
 *.axelarigatowien.com CNAME .
 axialgeo.com CNAME .
 *.axialgeo.com CNAME .
-axorisshop.com CNAME .
-*.axorisshop.com CNAME .
 ayurreadpro.com CNAME .
 *.ayurreadpro.com CNAME .
 aztitanium.com CNAME .
@@ -1445,8 +1437,6 @@ beastelektroroller.com CNAME .
 *.beastelektroroller.com CNAME .
 beathel.com CNAME .
 *.beathel.com CNAME .
-beauteousu.com CNAME .
-*.beauteousu.com CNAME .
 beauttyan.com CNAME .
 *.beauttyan.com CNAME .
 beautypassword.com CNAME .
@@ -1571,8 +1561,6 @@ bocceli.com CNAME .
 *.bocceli.com CNAME .
 bogdanski-salonbau.com CNAME .
 *.bogdanski-salonbau.com CNAME .
-bogneronlineshop.com CNAME .
-*.bogneronlineshop.com CNAME .
 bognerproductions.com CNAME .
 *.bognerproductions.com CNAME .
 bohmischesglas.com CNAME .
@@ -2911,8 +2899,6 @@ homedepart.com CNAME .
 *.homedepart.com CNAME .
 homeinw.com CNAME .
 *.homeinw.com CNAME .
-homelieferant.com CNAME .
-*.homelieferant.com CNAME .
 homepetd.com CNAME .
 *.homepetd.com CNAME .
 homesweetlaud.com CNAME .
@@ -5893,8 +5879,6 @@ bau-profis24.de CNAME .
 *.bau-profis24.de CNAME .
 baumarkt-spahn.de CNAME .
 *.baumarkt-spahn.de CNAME .
-baumarktguenstiger.de CNAME .
-*.baumarktguenstiger.de CNAME .
 baumpflege-spoerl.de CNAME .
 *.baumpflege-spoerl.de CNAME .
 bauzeug.de CNAME .
@@ -5963,10 +5947,6 @@ bhechler.de CNAME .
 *.bhechler.de CNAME .
 biabe.de CNAME .
 *.biabe.de CNAME .
-bigpizza-fuerth.de CNAME .
-*.bigpizza-fuerth.de CNAME .
-bikerspoint-riedstadt.de CNAME .
-*.bikerspoint-riedstadt.de CNAME .
 bikesporthauf.de CNAME .
 *.bikesporthauf.de CNAME .
 bikexschool.de CNAME .
@@ -6011,8 +5991,6 @@ blum-film.de CNAME .
 *.blum-film.de CNAME .
 blunada.de CNAME .
 *.blunada.de CNAME .
-bntol-mietwagen.de CNAME .
-*.bntol-mietwagen.de CNAME .
 boardss.de CNAME .
 *.boardss.de CNAME .
 boho-and-chic.de CNAME .
@@ -6341,8 +6319,6 @@ deinetierliebe.de CNAME .
 *.deinetierliebe.de CNAME .
 deinhandwerkershop.de CNAME .
 *.deinhandwerkershop.de CNAME .
-deinschuhtempel.de CNAME .
-*.deinschuhtempel.de CNAME .
 deinschuhwerk.de CNAME .
 *.deinschuhwerk.de CNAME .
 delikatessen-band.de CNAME .
@@ -6885,8 +6861,6 @@ freemobile24.de CNAME .
 *.freemobile24.de CNAME .
 freetitties.de CNAME .
 *.freetitties.de CNAME .
-freietaube.de CNAME .
-*.freietaube.de CNAME .
 freilandsysteme.de CNAME .
 *.freilandsysteme.de CNAME .
 freiwing.de CNAME .
@@ -7663,8 +7637,6 @@ lava-muc.de CNAME .
 *.lava-muc.de CNAME .
 lavers.de CNAME .
 *.lavers.de CNAME .
-lavonde.de CNAME .
-*.lavonde.de CNAME .
 lcc-allgaeu.de CNAME .
 *.lcc-allgaeu.de CNAME .
 learn-german-faster.de CNAME .
@@ -7741,8 +7713,6 @@ livingluxe.de CNAME .
 *.livingluxe.de CNAME .
 livoda.de CNAME .
 *.livoda.de CNAME .
-livsy.de CNAME .
-*.livsy.de CNAME .
 lizandtaylor.de CNAME .
 *.lizandtaylor.de CNAME .
 lizenzdeal.de CNAME .
@@ -8203,6 +8173,8 @@ ostergartenhermesdorf.de CNAME .
 *.ostergartenhermesdorf.de CNAME .
 otto-angebote.de CNAME .
 *.otto-angebote.de CNAME .
+ouraltis.de CNAME .
+*.ouraltis.de CNAME .
 outdoor-repel.de CNAME .
 *.outdoor-repel.de CNAME .
 owlkaminholz.de CNAME .
@@ -8465,8 +8437,6 @@ rhein-trends24.de CNAME .
 *.rhein-trends24.de CNAME .
 rheintulpen.de CNAME .
 *.rheintulpen.de CNAME .
-rheinwing.de CNAME .
-*.rheinwing.de CNAME .
 rheumatopia.de CNAME .
 *.rheumatopia.de CNAME .
 richtigwillig.de CNAME .
@@ -8609,8 +8579,6 @@ schwaarm.de CNAME .
 *.schwaarm.de CNAME .
 schwab-outlet.de CNAME .
 *.schwab-outlet.de CNAME .
-schwanhaus.de CNAME .
-*.schwanhaus.de CNAME .
 sebastiankoth.de CNAME .
 *.sebastiankoth.de CNAME .
 secretcasual.de CNAME .
@@ -8845,8 +8813,6 @@ sunny-kids.de CNAME .
 *.sunny-kids.de CNAME .
 sup-cube.de CNAME .
 *.sup-cube.de CNAME .
-superie.de CNAME .
-*.superie.de CNAME .
 supernele.de CNAME .
 *.supernele.de CNAME .
 supersocken.de CNAME .
