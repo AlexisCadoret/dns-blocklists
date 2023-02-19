@@ -34,7 +34,7 @@
 #### ***Multi blocklist version and size overview:***
 | Version | Hosts | Pro++ | Pro | Normal | Light | [Fake](#fake) | [TIF](#tif) | [Personal](#personal) | 
 |:--------|---:|:---:|:------:|:-----:|:----:|:---:|:------:|:----------:|
-| [Light](#light)             | 500911<br>79370     | |   |   | = | X | P | X |
+| [Light](#light)             | 517967<br>80440     | |   |   | = | X | P | X |
 | [Normal](#normal)       | 922748<br>293710     | |   | = | X | X | P | X |
 | [Pro](#pro)              | 1249188<br>449760         | | = | X | X | X | P | X |
 | [Pro++](#proplus)    | 1372419<br>482913 | | ++ | X | X | X | P |  X |
@@ -50,7 +50,7 @@
       
 *Hand brush - Cleans the Internet and protects your privacy! Blocks Ads, Tracking, Metrics, some Malware and Fake.*
           
-**Entries:** *500911 domains/hosts - 79370 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#light)         
+**Entries:** *517967 domains/hosts - 80440 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#light)         
          
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -367,7 +367,7 @@ Therefore, I* ***additionally*** *recommend the use of a browser content blocker
 |:---------|
 | Phishing URL Blocklist + DS's Anti-Malware List + Scam Blocklist by DurableNapkin + Malicoious URL Blocklist (URLHaus) |
 
-*Black & White includes: [Personal](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/personal.txt) + [Wildcard Rules](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/personal-wildcard-rules.txt) + [Spam TLDs](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/spam-tlds.txt) + [Personal TIF](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/personal-tif.txt) + [Fake](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/fake.txt) + [Whitelist](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/whitelist.txt) + [Whitelist Referral](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/personal-referral-white.txt)*
+*Black & White includes: [Personal](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/personal.txt) + [Wildcard Rules](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/personal-wildcard-rules.txt) + [Personal TIF](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/personal-tif.txt) + [Fake](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/fake.txt) + [Whitelist](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/whitelist.txt) + [Whitelist Referral](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/personal-referral-white.txt)*
 
 *You can also import my [server settings](https://github.com/hagezi/files/blob/main/adguarddns/hagezi_dns_server_settings.json). Follow these [download instructions](https://www.howtogeek.com/devops/how-to-download-single-files-from-a-github-repository/) to save the file in the correct format!*
             
