@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.fake. hostmaster.hagezi.fake. 1676761200 86400 3600 604800 30
+@ SOA rpz.hagezi.fake. hostmaster.hagezi.fake. 1676847600 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 30
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ; Expires: Updated regularly
-; Last modified: 19 Feb 2023 20:31 UTC
-; Version: 2023.0219.2031.22
+; Last modified: 19 Feb 2023 23:19 UTC
+; Version: 2023.0219.2319.28
 ; Syntax: RPZ
-; Domains: 5185
+; Domains: 5172
 ;
 1euro.at CNAME .
 *.1euro.at CNAME .
@@ -2007,8 +2007,6 @@ dhe-logistics.com CNAME .
 *.dhe-logistics.com CNAME .
 dhk-transport.com CNAME .
 *.dhk-transport.com CNAME .
-dibluco.com CNAME .
-*.dibluco.com CNAME .
 didikkirwanto.com CNAME .
 *.didikkirwanto.com CNAME .
 diesel-osterreich.com CNAME .
@@ -2065,8 +2063,6 @@ dragoneyetattoos.com CNAME .
 *.dragoneyetattoos.com CNAME .
 shop.drcherylkam.com CNAME .
 *.shop.drcherylkam.com CNAME .
-dreammerdre.com CNAME .
-*.dreammerdre.com CNAME .
 dreamoco.com CNAME .
 *.dreamoco.com CNAME .
 dreamsparfum.com CNAME .
@@ -2159,8 +2155,6 @@ electro-oase.com CNAME .
 *.electro-oase.com CNAME .
 electro-onlinemarket.com CNAME .
 *.electro-onlinemarket.com CNAME .
-elegantst.com CNAME .
-*.elegantst.com CNAME .
 eleinen.com CNAME .
 *.eleinen.com CNAME .
 elektro-rock.com CNAME .
@@ -2285,8 +2279,6 @@ euroadmaps.com CNAME .
 *.euroadmaps.com CNAME .
 euromarketdirect.com CNAME .
 *.euromarketdirect.com CNAME .
-euromarketshop.com CNAME .
-*.euromarketshop.com CNAME .
 europatradecapital.com CNAME .
 *.europatradecapital.com CNAME .
 eurshopping.com CNAME .
@@ -2345,8 +2337,6 @@ fahrradmarkise.com CNAME .
 *.fahrradmarkise.com CNAME .
 failux.com CNAME .
 *.failux.com CNAME .
-fairyta.com CNAME .
-*.fairyta.com CNAME .
 fairytalecreators.com CNAME .
 *.fairytalecreators.com CNAME .
 farazero.com CNAME .
@@ -2359,8 +2349,6 @@ faseut.com CNAME .
 *.faseut.com CNAME .
 fashincs.com CNAME .
 *.fashincs.com CNAME .
-fashion-traum.com CNAME .
-*.fashion-traum.com CNAME .
 fashionders.com CNAME .
 *.fashionders.com CNAME .
 fashioned-events.com CNAME .
@@ -6403,8 +6391,6 @@ elektrono24.de CNAME .
 *.elektrono24.de CNAME .
 elektropanda.de CNAME .
 *.elektropanda.de CNAME .
-elenetzteil.de CNAME .
-*.elenetzteil.de CNAME .
 elipolyse.de CNAME .
 *.elipolyse.de CNAME .
 elisabethfrick.de CNAME .
@@ -6565,14 +6551,10 @@ feher-buch.de CNAME .
 *.feher-buch.de CNAME .
 felgenonkel.de CNAME .
 *.felgenonkel.de CNAME .
-felicites-gbr.de CNAME .
-*.felicites-gbr.de CNAME .
 felivoo.de CNAME .
 *.felivoo.de CNAME .
 fellowship-clan.de CNAME .
 *.fellowship-clan.de CNAME .
-ferienvilla-mv.de CNAME .
-*.ferienvilla-mv.de CNAME .
 ferienwohnung-gudow.de CNAME .
 *.ferienwohnung-gudow.de CNAME .
 fernbedienung-schalter.de CNAME .
@@ -8405,8 +8387,6 @@ seronia.de CNAME .
 *.seronia.de CNAME .
 service-dathe.de CNAME .
 *.service-dathe.de CNAME .
-service-standesamt.de CNAME .
-*.service-standesamt.de CNAME .
 sfzev.de CNAME .
 *.sfzev.de CNAME .
 shatech.de CNAME .
@@ -9737,8 +9717,6 @@ colegiocaaso.org CNAME .
 *.colegiocaaso.org CNAME .
 cydiajailbreak.org CNAME .
 *.cydiajailbreak.org CNAME .
-designersofas.org CNAME .
-*.designersofas.org CNAME .
 downloadpangu.org CNAME .
 *.downloadpangu.org CNAME .
 euthanint.org CNAME .
@@ -9853,8 +9831,6 @@ brendmsk.ru CNAME .
 *.brendmsk.ru CNAME .
 cheap123.ru CNAME .
 *.cheap123.ru CNAME .
-discount.cheapsalesstore2022.ru CNAME .
-*.discount.cheapsalesstore2022.ru CNAME .
 dresscodoff.ru CNAME .
 *.dresscodoff.ru CNAME .
 gut-mag.ru CNAME .
@@ -10157,8 +10133,6 @@ divceb.top CNAME .
 *.divceb.top CNAME .
 dvsongrlf.top CNAME .
 *.dvsongrlf.top CNAME .
-eeewwe.top CNAME .
-*.eeewwe.top CNAME .
 eikz.top CNAME .
 *.eikz.top CNAME .
 ejrjx.top CNAME .
