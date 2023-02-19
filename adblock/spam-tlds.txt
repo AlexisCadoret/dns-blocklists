@@ -7,11 +7,11 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 17 Feb 2023 23:19 UTC
-! Version: 2023.0217.2319.00
+! Last modified: 19 Feb 2023 18:02 UTC
+! Version: 2023.0219.1802.02
 ! Syntax: AdGuard
 !
-|*.agency^$denyallow=battlefield.agency|shortcut.agency
+|*.agency^$denyallow=battlefield.agency|baam.agency|uphotel.agency
 |*.beauty^$denyallow=vipbj.beauty
 |*.bid^
 |*.cf^$denyallow=google.cf|rths.cf|acap.cf
@@ -21,14 +21,14 @@
 |*.fit^$denyallow=appetit.fit|clubb.fit|justget.fit|pridegym.fit
 |*.fun^$denyallow=155.fun|20anime.fun|355.fun|955.fun|98e.fun|apkmody.fun|applemc.fun|bc.fun|bestgore.fun|bqg.fun|cdn.fun|d21.fun|dedmoroz.fun|dramaserial.fun|dy18.fun|egybist.fun|enza.fun|enza.fun|filmapik21.fun|gaggle.fun|isohunt.fun|klik.fun|libgen.fun|likenews.fun|lordserial.fun|luotphim.fun|memesoundboard.fun|mh18.fun|movies21.fun|moviesdada.fun|neal.fun|oldmovies.fun|plutonews.fun|porncum.fun|sexhd.fun|solarmovie.fun|streampiay.fun|team1x1.fun|terbit21.fun|thepiratebay-plus.strem.fun|tideswing.fun|uploding.fun|videosxxx.fun|vigoo.fun|www.wondertrip.fun|x-videos.fun|xxx-sex.fun|xxxmovies.fun
 |*.fyi^
-|*.ga^$denyallow=google.ga|filtri-dns.ga|dgdi.ga|9191.ga|animevsub.ga
+|*.ga^$denyallow=google.ga|filtri-dns.ga|dgdi.ga|9191.ga|animevsub.ga|my.ga
 |*.gdn^
 |*.gq^$denyallow=inege.gq|tvgelive.gq
 |*.loan^
 |*.loans^
 |*.ml^$denyallow=amap.ml|beatbump.ml|biblioreads.ml|ghostcloud.ml|google.ml|info-matin.ml|lemmy.ml|lingva.ml|mastodon.ml|melody.ml|nothingprivate.ml|prompt.ml
 |*.monster^$denyallow=egybest.monster|yts.monster|cloudcdn.monster|fedi.monster|rollenspiel.monster
-|*.okinawa^
+|*.okinawa^$denyallow=aclub.okinawa|activity.okinawa|aquadrop.okinawa|asatoyasuba.okinawa|beachboys.okinawa|churaumi.okinawa|dancestudioon.okinawa|diver.okinawa|ecco.okinawa|eight.okinawa|emoh.okinawa|fidelity.okinawa|gukuru.okinawa|holdbyhand.okinawa|jupiter.okinawa|kanoa.okinawa|kerouac.okinawa|kimishimagroup.okinawa|kokorononekko.okinawa|makeman.okinawa|mansaku.okinawa|minsyo.okinawa|morinaga.okinawa|naminouta.okinawa|nanaironote.okinawa|okmarine.okinawa|pacificview.okinawa|rentakun.okinawa|retime.okinawa|ryukyugobyou.okinawa|saya.okinawa|seek.okinawa|seitai.okinawa|selfstorage.okinawa|sgt.okinawa|shigaku.okinawa|simplelife.okinawa|sir.okinawa|sisei.okinawa|soilcure.okinawa|strawberry.okinawa|suba.okinawa|suncoast.okinawa|takakogyo.okinawa|thekucha.okinawa|tsukishiro.okinawa|yamabuki.okinawa|yorozu.okinawa|zwwa.okinawa
 |*.online^$denyallow=allhen.online|amedia.online|chainsaw-man-manga.online|ero-labs.online|manga1st.online
 |*.ooo^
 |*.pw^$denyallow=libgen.pw|petridish.pw|palaugov.pw|dpc.pw|buttercup.pw|rezka.pw|darkcrystal.pw|xor.pw|fullhdfilmizlesene.pw|gopass.pw|vost.pw|core.pw|bittor.pw
@@ -38,6 +38,6 @@
 |*.site^$denyallow=anitube.site|blocklist.site|business.site|cdmstudy.site|first-party.site|fitgirl-repacks.site|fmoviesto.site|heimdall.site|metrolagu.site|notube.site|secreto.site|third-party.site|wuxiaworld.site
 |*.surf^$denyallow=kayaking.surf|quran.surf|s-wings.surf|surfstation.surf
 |*.tk^$denyallow=bstweaker.tk|bonzibuddy.tk|budterence.tk|c0d3c.tk|coolcmd.tk|coppersurfer.tk|fakaofo.tk|google.tk|goshujin.tk|gotofap.tk|graph.tk|loljp-wiki.tk|nbd-media.tk|ninetail.tk|nolfrevival.tk|tokelau-info.tk|transportnews.tk
-|*.top^$denyallow=caitlin.top|corriente.top|gdtot.top|nicenature.top|reminder.top|magocoro.top|castlevania.top|suiten.top|shucks.top|1stream.top|ambr.top|techblog.top|changlam10.top|changlam11.top|pdcdn1.top|mastodon.top|pressplay.top|chillx.top
+|*.top^$denyallow=caitlin.top|corriente.top|gdtot.top|nicenature.top|reminder.top|magocoro.top|castlevania.top|suiten.top|shucks.top|1stream.top|ambr.top|techblog.top|changlam10.top|changlam11.top|pdcdn1.top|mastodon.top|pressplay.top|chillx.top|strims.top
 |*.uno^
 |*.zone^$denyallow=itsm.zone|kidtopia.zone|kinogo.zone|martech.zone|myhome.zone|thekitty.zone|typinggames.zone
