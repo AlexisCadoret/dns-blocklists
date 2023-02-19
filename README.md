@@ -34,11 +34,11 @@
 #### ***Multi blocklist version and size overview:***
 | Version | Hosts | Pro++ | Pro | Normal | Light | [Fake](#fake) | [TIF](#tif) | [Personal](#personal) | 
 |:--------|---:|:---:|:------:|:-----:|:----:|:---:|:------:|:----------:|
-| [Light](#light)             | 500913<br>79372     | |   |   | = | X | P | X |
-| [Normal](#normal)       | 922752<br>293713     | |   | = | X | X | P | X |
-| [Pro](#pro)              | 1249192<br>449763         | | = | X | X | X | P | X |
-| [Pro++](#proplus)    | 1372422<br>482912 | | ++ | X | X | X | P |  X |
-| [Ultimate](#ultimate)    | 2129107<br>864371 | ++ | X | X | X | X | X |  X |
+| [Light](#light)             | 500911<br>79370     | |   |   | = | X | P | X |
+| [Normal](#normal)       | 922748<br>293710     | |   | = | X | X | P | X |
+| [Pro](#pro)              | 1249188<br>449760         | | = | X | X | X | P | X |
+| [Pro++](#proplus)    | 1372421<br>482914 | | ++ | X | X | X | P |  X |
+| [Ultimate](#ultimate)    | 2129099<br>864368 | ++ | X | X | X | X | X |  X |
            
 *X = contains the named lists in the column header*       
 *P = partially contains the named list in the column header*       
@@ -50,7 +50,7 @@
       
 *Hand brush - Cleans the Internet and protects your privacy! Blocks Ads, Tracking, Metrics, some Malware and Fake.*
           
-**Entries:** *500913 domains/hosts - 79372 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#light)         
+**Entries:** *500911 domains/hosts - 79370 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#light)         
          
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -66,7 +66,7 @@
       
 *Broom - Cleans the Internet and protects your privacy! Blocks Ads, Affiliate, Tracking, Metrics, Telemetry, Phishing, Malware, Scam, Fake, Coins and other "Crap".*
          
-**Entries:** *922752 domains/hosts - 293713 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#multi)        
+**Entries:** *922748 domains/hosts - 293710 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#multi)        
           
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -82,7 +82,7 @@
       
 *Big broom - Cleans the Internet and protects your privacy! Blocks Ads, Affiliate, Tracking, Metrics, Telemetry, Phishing, Malware, Scam, Fake, Coins and other "Crap".*
          
-**Entries:** *1249192 domains/hosts - 449763 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#pro)        
+**Entries:** *1249188 domains/hosts - 449760 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#pro)        
            
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -100,7 +100,7 @@
          
 *More aggressive version of the Multi PRO blocklist. It may contain few false positive domains that limit functionality. Therefore it should only be used by experienced users. Furthermore, an admin should be available to unblock incorrectly blocked domains. Reported false positive domains will be removed from the list!*
 
-**Entries:** *1372422 domains/hosts - 482912 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#proplus)    
+**Entries:** *1372421 domains/hosts - 482914 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#proplus)    
                                                 
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -118,7 +118,7 @@
          
 *Stricter version of the Multi PRO++ blocklist. It may contain false positive domains that limit functionality. Therefore it should only be used by experienced users. Furthermore, an admin should be available to unblock incorrectly blocked domains. Reported false positive domains will be removed from the list!*
 
-**Entries:** *2129107 domains/hosts - 864371 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#ultimate)    
+**Entries:** *2129099 domains/hosts - 864368 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#ultimate)    
                                                 
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -156,7 +156,7 @@
 ### ***Threat Intelligence Feeds - Increases security significantly!*** <a name="tif"></a>
 *An blocklist for blocking malware, crypto, coin, scam, spam and phishing. Blocks domains known to spread malware, launch phishing attacks and host command-and-control servers.*         
         
-**Entries:** *1133353 domains/hosts - 631481 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#tif)
+**Entries:** *1133351 domains/hosts - 631480 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#tif)
          
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -280,7 +280,7 @@
 ### ***Personal - My manually maintained blacklist*** <a name="personal"></a>
 *My personal blocklist, an extension for known blocklists. Blocks ads, trackers, native device trackers, badware and more. Not intended to be used as a standalone blocklist, it serves as a addition for other blocklists!*         
         
-**Entries:** *88867 domains/hosts - 31297 compressed domains*
+**Entries:** *88865 domains/hosts - 31295 compressed domains*
        
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -359,13 +359,16 @@ Therefore, I* ***additionally*** *recommend the use of a browser content blocker
           
 *My blocklist recommendations for [AdGuardDNS](https://adguard-dns.io) are:*          
 
-| Profile    | Blocklists                                                                                    |
-|:-----------|:----------------------------------------------------------------------------------------------|
-| Pro | 1Hosts (Lite) + AdGuard DNS + [HaGeZi Personal Black & White](https://raw.githubusercontent.com/AdguardTeam/HostlistsRegistry/main/filters/general/filter_34_HageziPersonal/filter.txt) + OISD full + NoTracking + StevenBlack |
-           
-*Black & White includes: [Personal](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/personal.txt) + [Wildcard Rules](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/personal-wildcard-rules.txt) + [Personal TIF](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/personal-tif.txt) + [Fake](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/fake.txt) + [Whitelist](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/whitelist.txt) + [Whitelist Referral](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/personal-referral-white.txt)*
+| General  |
+|:---------|
+| AdGuardDNS filter + [HaGeZi Personal Black & White](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/personal-blackwhite.txt) + OISD Blocklist full |
+| Security |
+|:---------|
+| Phishing URL Blocklist + DS's Anti-Malware List + Scam Blocklist by DurableNapkin + Malicoious URL Blocklist (URLHaus) |
 
-*You can also import my [server settings](https://github.com/hagezi/files/blob/main/adguarddns/hagezi_dns_server_settings.json), it contains - under the user rules - also my [RegEx rules](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/personal-regex.txt). Follow these [download instructions](https://www.howtogeek.com/devops/how-to-download-single-files-from-a-github-repository/) to save the file in the correct format!*
+*Black & White includes: [Personal](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/personal.txt) + [Wildcard Rules](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/personal-wildcard-rules.txt) + [Spam TLDs](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/spam-tlds.txt) + [Personal TIF](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/personal-tif.txt) + [Fake](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/fake.txt) + [Whitelist](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/whitelist.txt) + [Whitelist Referral](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/personal-referral-white.txt)*
+
+*You can also import my [server settings](https://github.com/hagezi/files/blob/main/adguarddns/hagezi_dns_server_settings.json). Follow these [download instructions](https://www.howtogeek.com/devops/how-to-download-single-files-from-a-github-repository/) to save the file in the correct format!*
             
 ### ***ControlD - free/paid*** <a name="controld"></a>
 
