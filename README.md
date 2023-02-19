@@ -362,6 +362,7 @@ Therefore, I* ***additionally*** *recommend the use of a browser content blocker
 | General  |
 |:---------|
 | AdGuardDNS filter + [HaGeZi Personal Black & White](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/personal-blackwhite.txt) + OISD Blocklist full |
+
 | Security |
 |:---------|
 | Phishing URL Blocklist + DS's Anti-Malware List + Scam Blocklist by DurableNapkin + Malicoious URL Blocklist (URLHaus) |
