@@ -349,7 +349,7 @@
 ! https://github.com/hagezi/dns-blocklists/issues/309
 @@||info.lgsmartad.com^
 @@|aic-ngfts.lge.com^
-@@|aic-op-lss.lgthinq.com ^
+@@|aic-op-lss.lgthinq.com^
 @@|aic.cdpsvc.lgtvcommon.com^
 @@|aic.service.lgtvcommon.com^
 @@|common.lgthinq.com^
@@ -375,7 +375,7 @@
 @@|d2cttawv9fdszz.cloudfront.net^
 @@|na.albtls.t.co^
 @@|dlp3zj68t5lvh.cloudfront.net^
-@@| ^
+
 ! Youtube
 @@||googlevideo.com^
 @@||ytimg.com^
@@ -2856,4 +2856,8 @@
 @@|www.myfed.space^
 @@|meneer.space^
 @@|www.meneer.space^
+
+! https://github.com/hagezi/dns-blocklists/issues/483
+@@|community.finanzguru.de^
+@@|finanzguru.userecho.com^
 

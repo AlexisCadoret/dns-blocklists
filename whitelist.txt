@@ -340,7 +340,7 @@ webapp-prod.cloud.remarkable.engineering
 # https://github.com/hagezi/dns-blocklists/issues/309
 *.info.lgsmartad.com
 aic-ngfts.lge.com
-aic-op-lss.lgthinq.com 
+aic-op-lss.lgthinq.com
 aic.cdpsvc.lgtvcommon.com
 aic.service.lgtvcommon.com
 common.lgthinq.com
@@ -365,7 +365,7 @@ global.albtls.t.co
 d2cttawv9fdszz.cloudfront.net
 na.albtls.t.co
 dlp3zj68t5lvh.cloudfront.net
- 
+
 # Youtube
 *.googlevideo.com
 *.ytimg.com
@@ -2596,4 +2596,8 @@ tili.sanoma.fi
 # https://github.com/hagezi/dns-blocklists/discussions/482#discussioncomment-5025232
 myfed.space
 meneer.space
+
+# https://github.com/hagezi/dns-blocklists/issues/483
+community.finanzguru.de
+finanzguru.userecho.com
 
