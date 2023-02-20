@@ -577,8 +577,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 20 Feb 2023 06:10 UTC
-! Version: 2023.0220.0610.34
+! Last modified: 20 Feb 2023 16:44 UTC
+! Version: 2023.0220.1644.31
 ! Syntax: AdBlock
 ! Domains: 28881
 !
@@ -69184,7 +69184,6 @@
 ||escalanteoutlet.de^
 ||esmeraldaworld.com^
 ||espace-cluny.com^
-||shop.espruino.com^
 ||estrategen.de^
 ||etniesosterreich.at^
 ||etr-karlsruhe.de^
@@ -75734,6 +75733,17 @@
 ! https://github.com/hagezi/dns-blocklists/issues/483
 @@|community.finanzguru.de^
 @@|finanzguru.userecho.com^
+
+! https://github.com/hagezi/dns-blocklists/issues/486
+@@|track.gojek.com^
+
+! https://github.com/hagezi/dns-blocklists/issues/487
+@@|firehose.eu-west-1.amazonaws.com^
+@@|youexec-resources-down.s3.us-west-2.amazonaws.com^
+
+! https://github.com/hagezi/dns-blocklists/issues/489
+@@|hopp.to^
+@@|www.hopp.to^
 
 
 ! Title: HaGeZi's White-/Allowlist Referral for Black & White list
