@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.fake. hostmaster.hagezi.fake. 1676934000 86400 3600 604800 30
+@ SOA rpz.hagezi.fake. hostmaster.hagezi.fake. 1677020400 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 30
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ; Expires: Updated regularly
-; Last modified: 21 Feb 2023 09:55 UTC
-; Version: 2023.0221.0955.45
+; Last modified: 21 Feb 2023 23:23 UTC
+; Version: 2023.0221.2323.20
 ; Syntax: RPZ
-; Domains: 5135
+; Domains: 5128
 ;
 1euro.at CNAME .
 *.1euro.at CNAME .
@@ -919,8 +919,6 @@ ourclothes.club CNAME .
 *.ourclothes.club CNAME .
 ourjewellery.club CNAME .
 *.ourjewellery.club CNAME .
-outsidelife.club CNAME .
-*.outsidelife.club CNAME .
 pets4ever.club CNAME .
 *.pets4ever.club CNAME .
 raealed.club CNAME .
@@ -959,6 +957,8 @@ eshop.sintech.cn CNAME .
 *.eshop.sintech.cn CNAME .
 alleygh.co CNAME .
 *.alleygh.co CNAME .
+allsoccer.co CNAME .
+*.allsoccer.co CNAME .
 alpha-killaz.co CNAME .
 *.alpha-killaz.co CNAME .
 autostyles.co CNAME .
@@ -1951,8 +1951,6 @@ deluxevillefx.com CNAME .
 *.deluxevillefx.com CNAME .
 den-danske.com CNAME .
 *.den-danske.com CNAME .
-pro.den-home.com CNAME .
-*.pro.den-home.com CNAME .
 denaked.com CNAME .
 *.denaked.com CNAME .
 deplacer.com CNAME .
@@ -2039,6 +2037,8 @@ docsvaporsupply.com CNAME .
 *.docsvaporsupply.com CNAME .
 dohahotel24.com CNAME .
 *.dohahotel24.com CNAME .
+doktor-potenzmittel.com CNAME .
+*.doktor-potenzmittel.com CNAME .
 donifly.com CNAME .
 *.donifly.com CNAME .
 doris-monika.com CNAME .
@@ -4037,8 +4037,6 @@ pinkkola.com CNAME .
 *.pinkkola.com CNAME .
 pinkni.com CNAME .
 *.pinkni.com CNAME .
-pipscryptofx.com CNAME .
-*.pipscryptofx.com CNAME .
 pismaprawne.com CNAME .
 *.pismaprawne.com CNAME .
 pitviperaustrias.com CNAME .
@@ -4103,8 +4101,6 @@ us.preerve.com CNAME .
 *.us.preerve.com CNAME .
 preisschock.com CNAME .
 *.preisschock.com CNAME .
-premium-garderobe.com CNAME .
-*.premium-garderobe.com CNAME .
 premiumpartnersuche.com CNAME .
 *.premiumpartnersuche.com CNAME .
 prepabtsl.com CNAME .
@@ -4123,8 +4119,6 @@ privatecustomart.com CNAME .
 *.privatecustomart.com CNAME .
 de.privatefloor.com CNAME .
 *.de.privatefloor.com CNAME .
-proelectroniks.com CNAME .
-*.proelectroniks.com CNAME .
 proevery.com CNAME .
 *.proevery.com CNAME .
 profayansy.com CNAME .
@@ -4143,8 +4137,6 @@ prubicyclepart.com CNAME .
 *.prubicyclepart.com CNAME .
 pthipv.com CNAME .
 *.pthipv.com CNAME .
-punchbaglite.com CNAME .
-*.punchbaglite.com CNAME .
 puntdatac.com CNAME .
 *.puntdatac.com CNAME .
 puntoblancoshop.com CNAME .
@@ -4185,8 +4177,6 @@ queensgaa.com CNAME .
 *.queensgaa.com CNAME .
 quicketss.com CNAME .
 *.quicketss.com CNAME .
-quickiex.com CNAME .
-*.quickiex.com CNAME .
 quillingx.com CNAME .
 *.quillingx.com CNAME .
 radbekleidung4u.com CNAME .
@@ -5851,6 +5841,8 @@ bundeszentralregisterwegweiser.de CNAME .
 *.bundeszentralregisterwegweiser.de CNAME .
 buntage.de CNAME .
 *.buntage.de CNAME .
+burberryonlineshop.de CNAME .
+*.burberryonlineshop.de CNAME .
 burnout-cockpit.de CNAME .
 *.burnout-cockpit.de CNAME .
 busblech-shop.de CNAME .
@@ -7903,8 +7895,6 @@ orizo.de CNAME .
 *.orizo.de CNAME .
 ortaklar.de CNAME .
 *.ortaklar.de CNAME .
-oscara.de CNAME .
-*.oscara.de CNAME .
 ostergartenhermesdorf.de CNAME .
 *.ostergartenhermesdorf.de CNAME .
 otto-angebote.de CNAME .
@@ -7945,8 +7935,6 @@ pearlfeet.de CNAME .
 *.pearlfeet.de CNAME .
 pearlyo.de CNAME .
 *.pearlyo.de CNAME .
-pegnitzratzen.de CNAME .
-*.pegnitzratzen.de CNAME .
 pen-bella.de CNAME .
 *.pen-bella.de CNAME .
 pension-heuhexe.de CNAME .
@@ -9901,8 +9889,6 @@ officialrebrand.shop CNAME .
 *.officialrebrand.shop CNAME .
 point-x.shop CNAME .
 *.point-x.shop CNAME .
-qepmtn.shop CNAME .
-*.qepmtn.shop CNAME .
 rentitoutw.shop CNAME .
 *.rentitoutw.shop CNAME .
 royalbrands.shop CNAME .

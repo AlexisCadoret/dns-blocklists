@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 21 Feb 2023 09:55 UTC
-# Version: 2023.0221.0955.45
+# Last modified: 21 Feb 2023 23:23 UTC
+# Version: 2023.0221.2323.20
 # Syntax: Hosts
-# Domains: 9867
+# Domains: 9856
 #
 0.0.0.0 willhaben.at.04300.id
 0.0.0.0 11trikots.com
@@ -339,6 +339,7 @@
 0.0.0.0 www.allhotelsmorocco.com
 0.0.0.0 allincosmetics.club
 0.0.0.0 www.allincosmetics.club
+0.0.0.0 allsoccer.co
 0.0.0.0 alltech-de.com
 0.0.0.0 www.alltech-de.com
 0.0.0.0 alltogether.shop
@@ -1343,6 +1344,8 @@
 0.0.0.0 www.buntage.de
 0.0.0.0 burberryfactoryoutlet.com
 0.0.0.0 www.burberryfactoryoutlet.com
+0.0.0.0 burberryonlineshop.de
+0.0.0.0 www.burberryonlineshop.de
 0.0.0.0 burberryoutlet-online.net
 0.0.0.0 www.burberryoutlet-online.net
 0.0.0.0 burberryoutlet-sale.com
@@ -2142,7 +2145,6 @@
 0.0.0.0 www.demoniaschuhe.de
 0.0.0.0 den-danske.com
 0.0.0.0 www.den-danske.com
-0.0.0.0 pro.den-home.com
 0.0.0.0 denaked.com
 0.0.0.0 www.denaked.com
 0.0.0.0 dendelberg-kr.de
@@ -2351,6 +2353,7 @@
 0.0.0.0 www.dogsdreamaustria.at
 0.0.0.0 dohahotel24.com
 0.0.0.0 www.dohahotel24.com
+0.0.0.0 doktor-potenzmittel.com
 0.0.0.0 domako.de
 0.0.0.0 www.domako.de
 0.0.0.0 domel-us.de
@@ -6617,8 +6620,6 @@
 0.0.0.0 www.oryfahrrad.com
 0.0.0.0 orzsay.com
 0.0.0.0 www.orzsay.com
-0.0.0.0 oscara.de
-0.0.0.0 www.oscara.de
 0.0.0.0 osecrobotics.com
 0.0.0.0 www.osecrobotics.com
 0.0.0.0 osotic.com
@@ -6652,7 +6653,6 @@
 0.0.0.0 www.outletcowboy.com
 0.0.0.0 outletuggoutletuk.com
 0.0.0.0 www.outletuggoutletuk.com
-0.0.0.0 outsidelife.club
 0.0.0.0 ovhpharam.eu
 0.0.0.0 www.ovhpharam.eu
 0.0.0.0 ovura-store.com
@@ -6736,7 +6736,6 @@
 0.0.0.0 www.pearlyo.de
 0.0.0.0 pebasic.com
 0.0.0.0 www.pebasic.com
-0.0.0.0 pegnitzratzen.de
 0.0.0.0 peiaoa.com
 0.0.0.0 www.peiaoa.com
 0.0.0.0 pellet-holz.com
@@ -6826,7 +6825,6 @@
 0.0.0.0 www.pinoplay.de
 0.0.0.0 pintrentz.de
 0.0.0.0 www.pintrentz.de
-0.0.0.0 pipscryptofx.com
 0.0.0.0 pipz.xyz
 0.0.0.0 www.pipz.xyz
 0.0.0.0 pismaprawne.com
@@ -6953,8 +6951,6 @@
 0.0.0.0 www.preisschock.com
 0.0.0.0 premium-date.net
 0.0.0.0 www.premium-date.net
-0.0.0.0 premium-garderobe.com
-0.0.0.0 www.premium-garderobe.com
 0.0.0.0 premium-mode.de
 0.0.0.0 www.premium-mode.de
 0.0.0.0 premiumcasualdating.at
@@ -7007,7 +7003,6 @@
 0.0.0.0 problembaum.at
 0.0.0.0 processus-online.de
 0.0.0.0 www.processus-online.de
-0.0.0.0 proelectroniks.com
 0.0.0.0 proevery.com
 0.0.0.0 www.proevery.com
 0.0.0.0 profayansy.com
@@ -7050,8 +7045,6 @@
 0.0.0.0 www.pumacredit.de
 0.0.0.0 pumadeutschland.de
 0.0.0.0 www.pumadeutschland.de
-0.0.0.0 punchbaglite.com
-0.0.0.0 www.punchbaglite.com
 0.0.0.0 puniatory.top
 0.0.0.0 www.puniatory.top
 0.0.0.0 puntdatac.com
@@ -7085,8 +7078,6 @@
 0.0.0.0 www.qakppo.top
 0.0.0.0 qenova.com
 0.0.0.0 www.qenova.com
-0.0.0.0 qepmtn.shop
-0.0.0.0 www.qepmtn.shop
 0.0.0.0 qeridoo-kids.de
 0.0.0.0 www.qeridoo-kids.de
 0.0.0.0 qgripsearwax.com
@@ -7110,8 +7101,6 @@
 0.0.0.0 www.queensgaa.com
 0.0.0.0 quicketss.com
 0.0.0.0 www.quicketss.com
-0.0.0.0 quickiex.com
-0.0.0.0 www.quickiex.com
 0.0.0.0 quickymarket-de.store
 0.0.0.0 www.quickymarket-de.store
 0.0.0.0 quift.de
