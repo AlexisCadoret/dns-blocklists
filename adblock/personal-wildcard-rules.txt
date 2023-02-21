@@ -156,11 +156,12 @@
 @@||track.shoparize.com^
 @@||track.webgains.com^
 ! Parcel tracking
+@@||track.amazon.*^
 @@||track.aliexpress.*^
 @@||track.customer.io^
 @@||track.effiliation.com^
 @@||track.goshippo.com^
-@@||track.dhlparcel.co.uk^
+@@||track.dhlparcel.*^
 ! Tracking application status of https://ceac.state.gov/ceac/
 @@||track.moyu.ac.cn^
 ! Breaks nzz.ch
@@ -177,7 +178,7 @@
 @@||tracking.magnetmail.net^
 @@||tracking.ubisoft.com^
 ! Parcel tracking
-@@||tracking.dpd.de^
+@@||tracking.dpd.*^
 ! Purchase games on Epic Game Store
 @@||tracking.epicgames.com^
 ! Tools to uncover how tracking and profiling have an impact on society 
