@@ -356,6 +356,16 @@ us.rdx2.lgtvsdp.com
 # IKEA Tradfri
 webhook.logentries.com
 
+# Spotify
+# Prevent problems with Spotify Premium
+*.scdn.co
+*.spotify.com.akahost.net
+*.spotify.com.edgesuite.net
+*spotify-com.akamaized.net
+heads*.spotify.com
+audio*.spotify.com
+wl.spotify.com
+
 # Twitter
 ads.twitter.com
 analytics.twitter.com
@@ -2610,4 +2620,7 @@ youexec-resources-down.s3.us-west-2.amazonaws.com
 
 # https://github.com/hagezi/dns-blocklists/issues/489
 hopp.to
+
+# https://github.com/hagezi/dns-blocklists/issues/495
+k.apiairasia.com
 

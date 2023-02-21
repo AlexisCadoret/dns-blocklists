@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 21 Feb 2023 09:15 UTC
-# Version: 2023.0221.0915.31
+# Last modified: 21 Feb 2023 09:55 UTC
+# Version: 2023.0221.0955.45
 # Syntax: DNSMasq
-# Domains: 5136
+# Domains: 5135
 #
 address=/willhaben.at.04300.id/#
 address=/11trikots.com/#
@@ -3295,7 +3295,6 @@ address=/nicht-von-heise-kopieren.de/#
 address=/nicolajimmy.club/#
 address=/nicoll.at/#
 address=/nidworkers.com/#
-address=/niebullfahrschule.com/#
 address=/nigger.ch/#
 address=/nikebillig.com/#
 address=/nikefreernoutlet.com/#

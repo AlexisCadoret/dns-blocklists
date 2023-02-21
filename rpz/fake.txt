@@ -8,10 +8,10 @@ $TTL 30
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ; Expires: Updated regularly
-; Last modified: 21 Feb 2023 09:15 UTC
-; Version: 2023.0221.0915.31
+; Last modified: 21 Feb 2023 09:55 UTC
+; Version: 2023.0221.0955.45
 ; Syntax: RPZ
-; Domains: 5136
+; Domains: 5135
 ;
 1euro.at CNAME .
 *.1euro.at CNAME .
@@ -3807,8 +3807,6 @@ nicheten.com CNAME .
 *.nicheten.com CNAME .
 nidworkers.com CNAME .
 *.nidworkers.com CNAME .
-niebullfahrschule.com CNAME .
-*.niebullfahrschule.com CNAME .
 nikebillig.com CNAME .
 *.nikebillig.com CNAME .
 nikefreernoutlet.com CNAME .

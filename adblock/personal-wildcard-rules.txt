@@ -351,7 +351,8 @@
 ||app-measurement.com^
 ||beacons*.gvt*.com^
 ||crashlyticsreports-pa.googleapis.com^
-||firebaselogging-pa.googleapis.com^
+! Chormecast devices (connection, groups)
+@@||firebaselogging-pa.googleapis.com^
 ! BBC Videos
 @@||fundingchoicesmessages.google.com^
 ||google-analytics.com^
