@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 21 Feb 2023 23:23 UTC
-# Version: 2023.0221.2323.20
+# Last modified: 22 Feb 2023 23:26 UTC
+# Version: 2023.0222.2326.49
 # Syntax: Hosts
-# Domains: 9856
+# Domains: 9823
 #
 0.0.0.0 willhaben.at.04300.id
 0.0.0.0 11trikots.com
@@ -339,7 +339,6 @@
 0.0.0.0 www.allhotelsmorocco.com
 0.0.0.0 allincosmetics.club
 0.0.0.0 www.allincosmetics.club
-0.0.0.0 allsoccer.co
 0.0.0.0 alltech-de.com
 0.0.0.0 www.alltech-de.com
 0.0.0.0 alltogether.shop
@@ -844,6 +843,7 @@
 0.0.0.0 www.barytabzug.de
 0.0.0.0 baseballsupplys.com
 0.0.0.0 www.baseballsupplys.com
+0.0.0.0 basefinex.com
 0.0.0.0 bass8.store
 0.0.0.0 www.bass8.store
 0.0.0.0 bau-profis24.de
@@ -2116,6 +2116,8 @@
 0.0.0.0 www.deinhandwerkershop.de
 0.0.0.0 deinlieblingstier.com
 0.0.0.0 www.deinlieblingstier.com
+0.0.0.0 deinschuhtempel.de
+0.0.0.0 www.deinschuhtempel.de
 0.0.0.0 dekopause.at
 0.0.0.0 www.dekopause.at
 0.0.0.0 deleju.info
@@ -2353,7 +2355,6 @@
 0.0.0.0 www.dogsdreamaustria.at
 0.0.0.0 dohahotel24.com
 0.0.0.0 www.dohahotel24.com
-0.0.0.0 doktor-potenzmittel.com
 0.0.0.0 domako.de
 0.0.0.0 www.domako.de
 0.0.0.0 domel-us.de
@@ -3941,7 +3942,6 @@
 0.0.0.0 www.hanse-bird.de
 0.0.0.0 hanwagrabatt.de
 0.0.0.0 www.hanwagrabatt.de
-0.0.0.0 shop.happy-shopping.co
 0.0.0.0 happy-shopy.de
 0.0.0.0 www.happy-shopy.de
 0.0.0.0 happybelle.de
@@ -7360,7 +7360,6 @@
 0.0.0.0 www.rhodeshotel24.com
 0.0.0.0 ricadihotelspage.com
 0.0.0.0 www.ricadihotelspage.com
-0.0.0.0 ricasrucksack.com
 0.0.0.0 richardtea.eu
 0.0.0.0 www.richardtea.eu
 0.0.0.0 richmondlx.com
@@ -7593,8 +7592,6 @@
 0.0.0.0 www.samuna.net
 0.0.0.0 sandabody.com
 0.0.0.0 www.sandabody.com
-0.0.0.0 sandkproject.com
-0.0.0.0 www.sandkproject.com
 0.0.0.0 sandoroelektro.com
 0.0.0.0 www.sandoroelektro.com
 0.0.0.0 sandra-schwarz.de
@@ -7633,8 +7630,6 @@
 0.0.0.0 www.sauconyaustria.at
 0.0.0.0 sauconydeutschland.com
 0.0.0.0 www.sauconydeutschland.com
-0.0.0.0 sauconylaufschuhe.com
-0.0.0.0 www.sauconylaufschuhe.com
 0.0.0.0 savela.de
 0.0.0.0 www.savela.de
 0.0.0.0 scarpaschuheoutlet.at
@@ -7737,7 +7732,6 @@
 0.0.0.0 www.schwaarm.de
 0.0.0.0 schwab-outlet.de
 0.0.0.0 www.schwab-outlet.de
-0.0.0.0 schwabler.com
 0.0.0.0 scientificentre.com
 0.0.0.0 www.scientificentre.com
 0.0.0.0 screenacy.co
@@ -7878,8 +7872,6 @@
 0.0.0.0 www.shopabnm.space
 0.0.0.0 shopaove.space
 0.0.0.0 www.shopaove.space
-0.0.0.0 shopbackhelper.com
-0.0.0.0 www.shopbackhelper.com
 0.0.0.0 shopbillig.com
 0.0.0.0 www.shopbillig.com
 0.0.0.0 shop.shopcider.com
@@ -7953,8 +7945,6 @@
 0.0.0.0 www.simulward.top
 0.0.0.0 sinaracorp.com
 0.0.0.0 www.sinaracorp.com
-0.0.0.0 singatwork.de
-0.0.0.0 www.singatwork.de
 0.0.0.0 singor.org
 0.0.0.0 www.singor.org
 0.0.0.0 sinhala.de
@@ -7964,8 +7954,6 @@
 0.0.0.0 www.sinnlichedates.ch
 0.0.0.0 www.sinnlichedates.com
 0.0.0.0 eshop.sintech.cn
-0.0.0.0 sinustores.com
-0.0.0.0 www.sinustores.com
 0.0.0.0 sirius-versand.com
 0.0.0.0 www.sirius-versand.com
 0.0.0.0 sisalu.de
@@ -8219,7 +8207,6 @@
 0.0.0.0 www.staturebags.com
 0.0.0.0 statuskelidmode.de
 0.0.0.0 www.statuskelidmode.de
-0.0.0.0 staubsauger-testsieger.net
 0.0.0.0 stdodo.com
 0.0.0.0 www.stdodo.com
 0.0.0.0 stefanieschwarz.at
@@ -8260,7 +8247,6 @@
 0.0.0.0 www.stock-market.ltd
 0.0.0.0 stockcoinplus.com
 0.0.0.0 www.stockcoinplus.com
-0.0.0.0 stocks-views.com
 0.0.0.0 stoeberlaedele.de
 0.0.0.0 www.stoeberlaedele.de
 0.0.0.0 stoersender24.com
@@ -8332,8 +8318,6 @@
 0.0.0.0 stylewe.biz
 0.0.0.0 subhmobiles.com
 0.0.0.0 www.subhmobiles.com
-0.0.0.0 success-minds.com
-0.0.0.0 www.success-minds.com
 0.0.0.0 sufira.de
 0.0.0.0 www.sufira.de
 0.0.0.0 sugarmama24.com
@@ -8418,7 +8402,6 @@
 0.0.0.0 www.syousefii.com
 0.0.0.0 systanz.de
 0.0.0.0 www.systanz.de
-0.0.0.0 sz-fishing.de
 0.0.0.0 szdafanl.com
 0.0.0.0 www.szdafanl.com
 0.0.0.0 szzving.shop
@@ -8511,8 +8494,6 @@
 0.0.0.0 www.techswap.de
 0.0.0.0 teichmann-fashion.de
 0.0.0.0 www.teichmann-fashion.de
-0.0.0.0 tekhnostore.com
-0.0.0.0 www.tekhnostore.com
 0.0.0.0 tekonta.de
 0.0.0.0 www.tekonta.de
 0.0.0.0 telefonbieten.de
@@ -8532,8 +8513,6 @@
 0.0.0.0 www.teras.at
 0.0.0.0 terkos.de
 0.0.0.0 www.terkos.de
-0.0.0.0 term-re.com
-0.0.0.0 www.term-re.com
 0.0.0.0 ternsome.top
 0.0.0.0 www.ternsome.top
 0.0.0.0 tesdola.com
@@ -8606,7 +8585,6 @@
 0.0.0.0 www.thecheapest.club
 0.0.0.0 thecraftssewing.com
 0.0.0.0 www.thecraftssewing.com
-0.0.0.0 thefacejacketbest.de
 0.0.0.0 thefraks.de
 0.0.0.0 www.thefraks.de
 0.0.0.0 thefunnysouls.com
@@ -8694,8 +8672,6 @@
 0.0.0.0 www.thielebuch.de
 0.0.0.0 thinkfast.games
 0.0.0.0 www.thinkfast.games
-0.0.0.0 thomassabo-deutschland.com
-0.0.0.0 www.thomassabo-deutschland.com
 0.0.0.0 thomassaboonline.de
 0.0.0.0 www.thomassaboonline.de
 0.0.0.0 thomassabos-onlineshop.com
@@ -8704,8 +8680,6 @@
 0.0.0.0 www.thomassabosalede.com
 0.0.0.0 thomassabosales.com
 0.0.0.0 www.thomassabosales.com
-0.0.0.0 thul-christensen.de
-0.0.0.0 www.thul-christensen.de
 0.0.0.0 thunderissa.com
 0.0.0.0 www.thunderissa.com
 0.0.0.0 thursdayboots.de
@@ -8841,7 +8815,6 @@
 0.0.0.0 www.tradeinvestigate.uno
 0.0.0.0 tradingfxunipremier.com
 0.0.0.0 www.tradingfxunipremier.com
-0.0.0.0 tradingminingcoin.com
 0.0.0.0 trainer-cube.de
 0.0.0.0 www.trainer-cube.de
 0.0.0.0 tralingo.de
@@ -9035,8 +9008,6 @@
 0.0.0.0 www.unique-print.de
 0.0.0.0 unitedseniors.de
 0.0.0.0 www.unitedseniors.de
-0.0.0.0 unity-real.com
-0.0.0.0 www.unity-real.com
 0.0.0.0 universalbundle.com
 0.0.0.0 www.universalbundle.com
 0.0.0.0 universalprotection.de
@@ -9095,10 +9066,6 @@
 0.0.0.0 www.usualjeans.com
 0.0.0.0 uvernier.com
 0.0.0.0 www.uvernier.com
-0.0.0.0 uwzrxu.top
-0.0.0.0 www.uwzrxu.top
-0.0.0.0 uyqwb.com
-0.0.0.0 www.uyqwb.com
 0.0.0.0 vaggv.com
 0.0.0.0 www.vaggv.com
 0.0.0.0 vagomarkt.com
