@@ -330,6 +330,7 @@
 ||metrics*.icloud.com^
 ||securemvt.apple.com^
 ! It's app store tracking, but sometimes it breaks Apple watch/i/mac/tv OS updates!
+! Homepod reports "no internet connection"
 @@||xp.apple.com^
 
 ! Bugtracker
