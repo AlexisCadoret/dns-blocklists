@@ -84,6 +84,7 @@
 @@||safebrowsing.apple^
 @@||smoot.apple.com^
 ! Breaks Apple Watch update, stucks on "Search for update"
+! Homepod reports "no internet connection"
 @@||xp.apple.com^
 @@|apple-dns.net^
 @@|www.apple-dns.net^
@@ -2886,5 +2887,5 @@
 @@|k.apiairasia.com^
 
 ! https://github.com/hagezi/dns-blocklists/issues/498
-@@||cdn*.optimizely.com^
+@@|cdn.optimizely.com^
 
