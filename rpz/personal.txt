@@ -29991,10 +29991,6 @@ api.optimizely.com CNAME .
 *.api.optimizely.com CNAME .
 app.optimizely.com CNAME .
 *.app.optimizely.com CNAME .
-cdn-pci.optimizely.com CNAME .
-*.cdn-pci.optimizely.com CNAME .
-cdn-s-optional.optimizely.com CNAME .
-*.cdn-s-optional.optimizely.com CNAME .
 client.optimizely.com CNAME .
 *.client.optimizely.com CNAME .
 log.optimizely.com CNAME .

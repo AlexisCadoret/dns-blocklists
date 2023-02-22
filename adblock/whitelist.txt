@@ -2885,3 +2885,6 @@
 ! https://github.com/hagezi/dns-blocklists/issues/495
 @@|k.apiairasia.com^
 
+! https://github.com/hagezi/dns-blocklists/issues/498
+@@||cdn*.optimizely.com^
+

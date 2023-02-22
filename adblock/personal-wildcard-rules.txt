@@ -230,7 +230,9 @@
 @@||webhook.logentries.com^
 ||api*.mixpanel.com^
 ||newrelic.com^
-||cdn*.optimizely.com^
+! Nike-Shop payment (#498)
+! Used by Origin for content delivery and others
+@@||cdn*.optimizely.com^
 ||log*.optimizely.com^
 ||tagger.opecloud.com^
 ||realytics.io^
