@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 22 Feb 2023 23:26 UTC
-# Version: 2023.0222.2326.49
+# Last modified: 23 Feb 2023 16:35 UTC
+# Version: 2023.0223.1635.36
 # Syntax: Hosts
-# Domains: 9823
+# Domains: 9825
 #
 0.0.0.0 willhaben.at.04300.id
 0.0.0.0 11trikots.com
@@ -266,6 +266,8 @@
 0.0.0.0 www.aktienpros.com
 0.0.0.0 aku-vital.de
 0.0.0.0 www.aku-vital.de
+0.0.0.0 akulaku.me
+0.0.0.0 www.akulaku.me
 0.0.0.0 alakar.de
 0.0.0.0 www.alakar.de
 0.0.0.0 alamode.ru
@@ -6594,6 +6596,12 @@
 0.0.0.0 www.optimafx.net
 0.0.0.0 orajalifei.com
 0.0.0.0 www.orajalifei.com
+0.0.0.0 orami.cloud
+0.0.0.0 orami.life
+0.0.0.0 orami.one
+0.0.0.0 www.orami.cloud
+0.0.0.0 www.orami.life
+0.0.0.0 www.orami.one
 0.0.0.0 ordernow24.de
 0.0.0.0 www.ordernow24.de
 0.0.0.0 ordritnow.com
@@ -6705,6 +6713,8 @@
 0.0.0.0 www.parisinpink.com
 0.0.0.0 partnerimwald.ch
 0.0.0.0 www.partnerimwald.ch
+0.0.0.0 pasarbali-malls.com
+0.0.0.0 www.pasarbali-malls.com
 0.0.0.0 pascher.top
 0.0.0.0 www.pascher.top
 0.0.0.0 passamera.de
@@ -8739,6 +8749,8 @@
 0.0.0.0 www.tobiflix.de
 0.0.0.0 todayil.com
 0.0.0.0 www.todayil.com
+0.0.0.0 toko999.net
+0.0.0.0 www.toko999.net
 0.0.0.0 tolosix.com
 0.0.0.0 www.tolosix.com
 0.0.0.0 toms-schweiz.com
@@ -9212,10 +9224,8 @@
 0.0.0.0 www.vimosa.se
 0.0.0.0 vincentteh.com
 0.0.0.0 www.vincentteh.com
-0.0.0.0 vinemos.de
 0.0.0.0 vinusnow.com
 0.0.0.0 www.vinusnow.com
-0.0.0.0 violetluck.com
 0.0.0.0 vip-cigarette.com
 0.0.0.0 www.vip-cigarette.com
 0.0.0.0 vipkickz.com
@@ -9235,8 +9245,6 @@
 0.0.0.0 visse.top
 0.0.0.0 www.visse.top
 0.0.0.0 vitacola-gratis.de
-0.0.0.0 vital-rezeptfrei.de
-0.0.0.0 www.vital-rezeptfrei.de
 0.0.0.0 vitalis-pankratius.de
 0.0.0.0 www.vitalis-pankratius.de
 0.0.0.0 vitalitiesdeluxe.com
@@ -9249,8 +9257,6 @@
 0.0.0.0 www.vivianelektro.de
 0.0.0.0 vividpretty.com
 0.0.0.0 www.vividpretty.com
-0.0.0.0 vivieann.de
-0.0.0.0 www.vivieann.de
 0.0.0.0 vivilass.com
 0.0.0.0 www.vivilass.com
 0.0.0.0 vivirsc.com
@@ -9345,7 +9351,6 @@
 0.0.0.0 www.vuigodeutschland.de
 0.0.0.0 vukv-mitterfels.de
 0.0.0.0 www.vukv-mitterfels.de
-0.0.0.0 vvshopping.top
 0.0.0.0 vzafiradev.shop
 0.0.0.0 www.vzafiradev.shop
 0.0.0.0 waganu.de
@@ -9466,7 +9471,6 @@
 0.0.0.0 www.wemidwestkids.com
 0.0.0.0 wenaviety.com
 0.0.0.0 www.wenaviety.com
-0.0.0.0 wennlicht.com
 0.0.0.0 werino.de
 0.0.0.0 www.werino.de
 0.0.0.0 werisee.com
@@ -9514,8 +9518,6 @@
 0.0.0.0 www.wholesale-burberry.com
 0.0.0.0 whs-shop.ru
 0.0.0.0 www.whs-shop.ru
-0.0.0.0 whsyspa.top
-0.0.0.0 www.whsyspa.top
 0.0.0.0 wi-pm.de
 0.0.0.0 www.wi-pm.de
 0.0.0.0 wibois.com

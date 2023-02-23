@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 22 Feb 2023 23:26 UTC
-# Version: 2023.0222.2326.49
+# Last modified: 23 Feb 2023 16:35 UTC
+# Version: 2023.0223.1635.36
 # Syntax: DNSMasq
-# Domains: 5107
+# Domains: 5106
 #
 address=/willhaben.at.04300.id/#
 address=/11trikots.com/#
@@ -141,6 +141,7 @@ address=/akkusmir.de/#
 address=/akrostichon.at/#
 address=/aktienpros.com/#
 address=/aku-vital.de/#
+address=/akulaku.me/#
 address=/alakar.de/#
 address=/alamode.ru/#
 address=/alanmarshelt.com/#
@@ -3434,6 +3435,9 @@ address=/oolongtime.com/#
 address=/openuplife.com/#
 address=/optimafx.net/#
 address=/orajalifei.com/#
+address=/orami.cloud/#
+address=/orami.life/#
+address=/orami.one/#
 address=/ordernow24.de/#
 address=/ordritnow.com/#
 address=/ordtic.top/#
@@ -3491,6 +3495,7 @@ address=/de2.parazax.com/#
 address=/parfumly.com/#
 address=/parisinpink.com/#
 address=/partnerimwald.ch/#
+address=/pasarbali-malls.com/#
 address=/pascher.top/#
 address=/passamera.de/#
 address=/passion-fotos.de/#
@@ -4536,6 +4541,7 @@ address=/tnr-home.com/#
 address=/tobiasliegl.de/#
 address=/tobiflix.de/#
 address=/todayil.com/#
+address=/toko999.net/#
 address=/tolosix.com/#
 address=/toms-schweiz.com/#
 address=/tomsdeutschland.com/#
@@ -4794,9 +4800,7 @@ address=/villena.de/#
 address=/vilow.de/#
 address=/vimosa.se/#
 address=/vincentteh.com/#
-address=/vinemos.de/#
 address=/vinusnow.com/#
-address=/violetluck.com/#
 address=/vip-cigarette.com/#
 address=/vipkickz.com/#
 address=/vipmakeup.club/#
@@ -4807,14 +4811,12 @@ address=/vischer-gmbh.de/#
 address=/visionfancyclothing.com/#
 address=/visse.top/#
 address=/vitacola-gratis.de/#
-address=/vital-rezeptfrei.de/#
 address=/vitalis-pankratius.de/#
 address=/vitalitiesdeluxe.com/#
 address=/vitev.net/#
 address=/viva-med.de/#
 address=/vivianelektro.de/#
 address=/vividpretty.com/#
-address=/vivieann.de/#
 address=/vivilass.com/#
 address=/vivirsc.com/#
 address=/vivishop.de/#
@@ -4864,7 +4866,6 @@ address=/vtecnokar.com/#
 address=/vtg-elektronik.de/#
 address=/vuigodeutschland.de/#
 address=/vukv-mitterfels.de/#
-address=/vvshopping.top/#
 address=/vzafiradev.shop/#
 address=/waganu.de/#
 address=/waifairy.com/#
@@ -4928,7 +4929,6 @@ address=/weltex.co/#
 address=/weltweit-akkus.de/#
 address=/wemidwestkids.com/#
 address=/wenaviety.com/#
-address=/wennlicht.com/#
 address=/werino.de/#
 address=/werisee.com/#
 address=/werkolindo.com/#
@@ -4953,7 +4953,6 @@ address=/whecler.top/#
 address=/whiindia.org/#
 address=/wholesale-burberry.com/#
 address=/whs-shop.ru/#
-address=/whsyspa.top/#
 address=/wi-pm.de/#
 address=/wibois.com/#
 address=/wicha-gmbh.de/#
