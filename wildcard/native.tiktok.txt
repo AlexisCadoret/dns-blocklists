@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 21 Feb 2023 09:54 UTC
-# Version: 2023.0221.0954.48
+# Last modified: 23 Feb 2023 23:32 UTC
+# Version: 2023.0223.2332.54
 # Syntax: Domains Wildcard (DNSCrypt/YogaDNS/...)
-# Domains: 255
+# Domains: 256
 #
 *.cdnlog-va-useast2a.byteoversea.com
 *.frontier.byteoversea.com
@@ -76,6 +76,7 @@
 *.analytics-exp-sg.tiktok.com
 *.analytics-sg.tiktok.com
 *.analytics-test.tiktok.com
+*.analytics-useast2a.tiktok.com
 *.mcs-i18n.tiktok.com
 *.mcs-sg.tiktok.com
 *.mssdk-sg.tiktok.com

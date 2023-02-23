@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.native.tiktok. hostmaster.hagezi.native.tiktok. 1677106800 86400 3600 604800 30
+@ SOA rpz.hagezi.native.tiktok. hostmaster.hagezi.native.tiktok. 1677193200 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's TikTok Fingerprinting DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 30
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ; Expires: Updated regularly
-; Last modified: 21 Feb 2023 09:54 UTC
-; Version: 2023.0221.0954.48
+; Last modified: 23 Feb 2023 23:32 UTC
+; Version: 2023.0223.2332.54
 ; Syntax: RPZ
-; Domains: 255
+; Domains: 256
 ;
 cdnlog-va-useast2a.byteoversea.com CNAME .
 *.cdnlog-va-useast2a.byteoversea.com CNAME .
@@ -147,6 +147,8 @@ analytics-sg.tiktok.com CNAME .
 *.analytics-sg.tiktok.com CNAME .
 analytics-test.tiktok.com CNAME .
 *.analytics-test.tiktok.com CNAME .
+analytics-useast2a.tiktok.com CNAME .
+*.analytics-useast2a.tiktok.com CNAME .
 mcs-i18n.tiktok.com CNAME .
 *.mcs-i18n.tiktok.com CNAME .
 mcs-sg.tiktok.com CNAME .
