@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 23 Feb 2023 16:35 UTC
-# Version: 2023.0223.1635.36
+# Last modified: 23 Feb 2023 23:34 UTC
+# Version: 2023.0223.2334.03
 # Syntax: Hosts
-# Domains: 9825
+# Domains: 9827
 #
 0.0.0.0 willhaben.at.04300.id
 0.0.0.0 11trikots.com
@@ -305,7 +305,6 @@
 0.0.0.0 alienoa.de
 0.0.0.0 www.alienoa.de
 0.0.0.0 all-est.com
-0.0.0.0 www.all-est.com
 0.0.0.0 all4you-fashion.com
 0.0.0.0 allbuy.com
 0.0.0.0 www.allbuy.com
@@ -1048,7 +1047,6 @@
 0.0.0.0 biabe.de
 0.0.0.0 www.biabe.de
 0.0.0.0 bicycleshopsonline.com
-0.0.0.0 www.bicycleshopsonline.com
 0.0.0.0 bieyt.com
 0.0.0.0 www.bieyt.com
 0.0.0.0 bigostream.com
@@ -2770,6 +2768,8 @@
 0.0.0.0 www.engelhardt-ses.de
 0.0.0.0 engelhardtwelpenzuhause.de
 0.0.0.0 www.engelhardtwelpenzuhause.de
+0.0.0.0 engeliebe.de
+0.0.0.0 www.engeliebe.de
 0.0.0.0 enginelover.com
 0.0.0.0 www.enginelover.com
 0.0.0.0 engins-siebenraben.de
@@ -9183,8 +9183,10 @@
 0.0.0.0 www.vertow.com
 0.0.0.0 vertrauenwin.de
 0.0.0.0 www.vertrauenwin.de
+0.0.0.0 veryvoga.com
 0.0.0.0 veryvoga.es
 0.0.0.0 veryvoga.fr
+0.0.0.0 www.veryvoga.com
 0.0.0.0 www.veryvoga.es
 0.0.0.0 www.veryvoga.fr
 0.0.0.0 vesinhhoatam.com

@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 23 Feb 2023 16:35 UTC
-# Version: 2023.0223.1635.36
+# Last modified: 23 Feb 2023 23:34 UTC
+# Version: 2023.0223.2334.03
 # Syntax: DNSMasq
-# Domains: 5106
+# Domains: 5108
 #
 address=/willhaben.at.04300.id/#
 address=/11trikots.com/#
@@ -1443,6 +1443,7 @@ address=/energfahrrad.com/#
 address=/energfahrrad.de/#
 address=/engelhardt-ses.de/#
 address=/engelhardtwelpenzuhause.de/#
+address=/engeliebe.de/#
 address=/enginelover.com/#
 address=/engins-siebenraben.de/#
 address=/englle.com/#
@@ -4779,6 +4780,7 @@ address=/versilia-electromarkt.com/#
 address=/vertexoptiontrading.com/#
 address=/vertow.com/#
 address=/vertrauenwin.de/#
+address=/veryvoga.com/#
 address=/veryvoga.es/#
 address=/veryvoga.fr/#
 address=/vesinhhoatam.com/#

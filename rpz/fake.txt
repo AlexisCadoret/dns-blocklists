@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.fake. hostmaster.hagezi.fake. 1677106800 86400 3600 604800 30
+@ SOA rpz.hagezi.fake. hostmaster.hagezi.fake. 1677193200 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 30
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ; Expires: Updated regularly
-; Last modified: 22 Feb 2023 23:26 UTC
-; Version: 2023.0222.2326.49
+; Last modified: 23 Feb 2023 23:34 UTC
+; Version: 2023.0223.2334.03
 ; Syntax: RPZ
-; Domains: 5107
+; Domains: 5108
 ;
 1euro.at CNAME .
 *.1euro.at CNAME .
@@ -881,6 +881,8 @@ whatsaffair.ch CNAME .
 *.whatsaffair.ch CNAME .
 zentraleck.ch CNAME .
 *.zentraleck.ch CNAME .
+orami.cloud CNAME .
+*.orami.cloud CNAME .
 allincosmetics.club CNAME .
 *.allincosmetics.club CNAME .
 anthead.club CNAME .
@@ -3981,6 +3983,8 @@ parfumly.com CNAME .
 *.parfumly.com CNAME .
 parisinpink.com CNAME .
 *.parisinpink.com CNAME .
+pasarbali-malls.com CNAME .
+*.pasarbali-malls.com CNAME .
 pawppithouse.com CNAME .
 *.pawppithouse.com CNAME .
 paxosgloballogistics.com CNAME .
@@ -5093,6 +5097,8 @@ vertexoptiontrading.com CNAME .
 *.vertexoptiontrading.com CNAME .
 vertow.com CNAME .
 *.vertow.com CNAME .
+veryvoga.com CNAME .
+*.veryvoga.com CNAME .
 vesinhhoatam.com CNAME .
 *.vesinhhoatam.com CNAME .
 vgr8.com CNAME .
@@ -5107,8 +5113,6 @@ vincentteh.com CNAME .
 *.vincentteh.com CNAME .
 vinusnow.com CNAME .
 *.vinusnow.com CNAME .
-violetluck.com CNAME .
-*.violetluck.com CNAME .
 vip-cigarette.com CNAME .
 *.vip-cigarette.com CNAME .
 vipkickz.com CNAME .
@@ -5211,8 +5215,6 @@ wemidwestkids.com CNAME .
 *.wemidwestkids.com CNAME .
 wenaviety.com CNAME .
 *.wenaviety.com CNAME .
-wennlicht.com CNAME .
-*.wennlicht.com CNAME .
 werisee.com CNAME .
 *.werisee.com CNAME .
 werkolindo.com CNAME .
@@ -6343,6 +6345,8 @@ engelhardt-ses.de CNAME .
 *.engelhardt-ses.de CNAME .
 engelhardtwelpenzuhause.de CNAME .
 *.engelhardtwelpenzuhause.de CNAME .
+engeliebe.de CNAME .
+*.engeliebe.de CNAME .
 engins-siebenraben.de CNAME .
 *.engins-siebenraben.de CNAME .
 entscheider-messe.de CNAME .
@@ -8789,8 +8793,6 @@ villena.de CNAME .
 *.villena.de CNAME .
 vilow.de CNAME .
 *.vilow.de CNAME .
-vinemos.de CNAME .
-*.vinemos.de CNAME .
 virany.de CNAME .
 *.virany.de CNAME .
 virdigo-reifen.de CNAME .
@@ -8799,16 +8801,12 @@ vischer-gmbh.de CNAME .
 *.vischer-gmbh.de CNAME .
 vitacola-gratis.de CNAME .
 *.vitacola-gratis.de CNAME .
-vital-rezeptfrei.de CNAME .
-*.vital-rezeptfrei.de CNAME .
 vitalis-pankratius.de CNAME .
 *.vitalis-pankratius.de CNAME .
 viva-med.de CNAME .
 *.viva-med.de CNAME .
 vivianelektro.de CNAME .
 *.vivianelektro.de CNAME .
-vivieann.de CNAME .
-*.vivieann.de CNAME .
 vivishop.de CNAME .
 *.vivishop.de CNAME .
 vivobarefootsaleoutlet.de CNAME .
@@ -9301,6 +9299,8 @@ euromango.co.kr CNAME .
 *.euromango.co.kr CNAME .
 littlecow.co.kr CNAME .
 *.littlecow.co.kr CNAME .
+orami.life CNAME .
+*.orami.life CNAME .
 petsupply.life CNAME .
 *.petsupply.life CNAME .
 webestry.life CNAME .
@@ -9323,6 +9323,8 @@ stock-market.ltd CNAME .
 *.stock-market.ltd CNAME .
 shop.electro-center.lu CNAME .
 *.shop.electro-center.lu CNAME .
+akulaku.me CNAME .
+*.akulaku.me CNAME .
 nobuldeutschland.me CNAME .
 *.nobuldeutschland.me CNAME .
 nobulosterreich.me CNAME .
@@ -9499,6 +9501,8 @@ thamaro.net CNAME .
 *.thamaro.net CNAME .
 thephones.net CNAME .
 *.thephones.net CNAME .
+toko999.net CNAME .
+*.toko999.net CNAME .
 traumland24.net CNAME .
 *.traumland24.net CNAME .
 trend-shop.net CNAME .
@@ -9539,6 +9543,8 @@ vero-mode.nl CNAME .
 *.vero-mode.nl CNAME .
 raiment.nyc CNAME .
 *.raiment.nyc CNAME .
+orami.one CNAME .
+*.orami.one CNAME .
 alongsideert.online CNAME .
 *.alongsideert.online CNAME .
 awfulert.online CNAME .
@@ -10127,14 +10133,10 @@ vmegarexs.top CNAME .
 *.vmegarexs.top CNAME .
 vphami.top CNAME .
 *.vphami.top CNAME .
-vvshopping.top CNAME .
-*.vvshopping.top CNAME .
 webarchx.top CNAME .
 *.webarchx.top CNAME .
 whecler.top CNAME .
 *.whecler.top CNAME .
-whsyspa.top CNAME .
-*.whsyspa.top CNAME .
 wrongian.top CNAME .
 *.wrongian.top CNAME .
 zdcome.top CNAME .
