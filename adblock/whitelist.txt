@@ -2884,3 +2884,16 @@
 ! https://github.com/hagezi/dns-blocklists/issues/498
 @@|cdn.optimizely.com^
 
+! https://github.com/hagezi/dns-blocklists/issues/539
+@@|baixaki.com.br^
+
+! https://github.com/hagezi/dns-blocklists/issues/539
+@@|api*.spot.im^
+
+! https://github.com/hagezi/dns-blocklists/issues/540
+@@|cdn1.affirm.com^
+@@|api-cf.affirm.com^
+
+! https://github.com/hagezi/dns-blocklists/issues/541
+@@|agave.myanalytics.cdn.office.net^
+

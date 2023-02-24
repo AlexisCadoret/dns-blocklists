@@ -582,10 +582,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 24 Feb 2023 00:46 UTC
-! Version: 2023.0224.0046.25
+! Last modified: 24 Feb 2023 06:29 UTC
+! Version: 2023.0224.0629.26
 ! Syntax: AdBlock
-! Domains: 29382
+! Domains: 29380
 !
 ||003store.com^
 ||007sites.com^
@@ -8323,7 +8323,6 @@
 ||applogapi.autohome.com.cn^
 ||rd.autohome.com.cn^
 ||ayanpleasea.com.ua^
-||baixaki.com.br^
 ||n.baminw.com.cn^
 ||berthformttet.com.ua^
 ||www.bodybrite.com.co^
@@ -24870,7 +24869,6 @@
 ||sportsextral.com^
 ||saa.sportsline.com^
 ||oms1.sportsnet.ca^
-||api-2-0.spot.im^
 ||direct-events-collector.spot.im^
 ||event-stream.spot.im^
 ||events-collector.spot.im^
@@ -76033,6 +76031,19 @@
 
 ! https://github.com/hagezi/dns-blocklists/issues/498
 @@|cdn.optimizely.com^
+
+! https://github.com/hagezi/dns-blocklists/issues/539
+@@|baixaki.com.br^
+
+! https://github.com/hagezi/dns-blocklists/issues/539
+@@|api*.spot.im^
+
+! https://github.com/hagezi/dns-blocklists/issues/540
+@@|cdn1.affirm.com^
+@@|api-cf.affirm.com^
+
+! https://github.com/hagezi/dns-blocklists/issues/541
+@@|agave.myanalytics.cdn.office.net^
 
 
 ! Title: HaGeZi's White-/Allowlist Referral for Black & White list
