@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 23 Feb 2023 23:34 UTC
-# Version: 2023.0223.2334.03
+# Last modified: 24 Feb 2023 14:15 UTC
+# Version: 2023.0224.1415.22
 # Syntax: DNSMasq
-# Domains: 5108
+# Domains: 5104
 #
 address=/willhaben.at.04300.id/#
 address=/11trikots.com/#
@@ -439,7 +439,6 @@ address=/barth24.com/#
 address=/bartomuk.de/#
 address=/barytabzug.de/#
 address=/baseballsupplys.com/#
-address=/basefinex.com/#
 address=/bass8.store/#
 address=/bau-profis24.de/#
 address=/bauelemente-altotec.at/#
@@ -1107,7 +1106,6 @@ address=/deine-modewelt.com/#
 address=/deinetierliebe.de/#
 address=/deinhandwerkershop.de/#
 address=/deinlieblingstier.com/#
-address=/deinschuhtempel.de/#
 address=/dekopause.at/#
 address=/deleju.info/#
 address=/delhihurricanes.com/#
@@ -1739,7 +1737,6 @@ address=/fourer.online/#
 address=/foxflix.de/#
 address=/foxrm.fr/#
 address=/foxusenet.de/#
-address=/foxxum.com/#
 address=/fpjollet.com/#
 address=/fr-c.de/#
 address=/fraktion-bfz-gruene.de/#
@@ -4780,7 +4777,6 @@ address=/versilia-electromarkt.com/#
 address=/vertexoptiontrading.com/#
 address=/vertow.com/#
 address=/vertrauenwin.de/#
-address=/veryvoga.com/#
 address=/veryvoga.es/#
 address=/veryvoga.fr/#
 address=/vesinhhoatam.com/#

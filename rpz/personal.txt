@@ -8,10 +8,10 @@ $TTL 30
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ; Expires: Updated regularly
-; Last modified: 24 Feb 2023 10:58 UTC
-; Version: 2023.0224.1058.59
+; Last modified: 24 Feb 2023 19:26 UTC
+; Version: 2023.0224.1926.50
 ; Syntax: RPZ
-; Domains: 34946
+; Domains: 34935
 ;
 marketing.globalpointofcare.abbott CNAME .
 *.marketing.globalpointofcare.abbott CNAME .
@@ -7105,8 +7105,6 @@ ampxchange.com CNAME .
 *.ampxchange.com CNAME .
 amrjcad.com CNAME .
 *.amrjcad.com CNAME .
-amrszxrx.com CNAME .
-*.amrszxrx.com CNAME .
 amsamex.com CNAME .
 *.amsamex.com CNAME .
 somni.amsurg.com CNAME .
@@ -8983,6 +8981,8 @@ tao.barstoolsports.com CNAME .
 *.tao.barstoolsports.com CNAME .
 bartinkizogrenciyurdu.com CNAME .
 *.bartinkizogrenciyurdu.com CNAME .
+basebanner.com CNAME .
+*.basebanner.com CNAME .
 basecamp-shop.com CNAME .
 *.basecamp-shop.com CNAME .
 basedcloudata.com CNAME .
@@ -11697,8 +11697,6 @@ oms.chatelaine.com CNAME .
 *.oms.chatelaine.com CNAME .
 chatgigi2.com CNAME .
 *.chatgigi2.com CNAME .
-chatgpt-forwindows.com CNAME .
-*.chatgpt-forwindows.com CNAME .
 chatintr.com CNAME .
 *.chatintr.com CNAME .
 w.chatlio.com CNAME .
@@ -15927,8 +15925,6 @@ ejyymghi.com CNAME .
 *.ejyymghi.com CNAME .
 eu.ekatox.com CNAME .
 *.eu.ekatox.com CNAME .
-ekomi-us.com CNAME .
-*.ekomi-us.com CNAME .
 upeayz.eksisozluk.com CNAME .
 *.upeayz.eksisozluk.com CNAME .
 cdn.eksiup.com CNAME .
@@ -17909,8 +17905,6 @@ feedage.com CNAME .
 *.feedage.com CNAME .
 a.feedblitz.com CNAME .
 *.a.feedblitz.com CNAME .
-assets.feedblitz.com CNAME .
-*.assets.feedblitz.com CNAME .
 feedads.feedblitz.com CNAME .
 *.feedads.feedblitz.com CNAME .
 forms.feedblitz.com CNAME .
@@ -28215,8 +28209,6 @@ mxzijg.com CNAME .
 *.mxzijg.com CNAME .
 r.my.com CNAME .
 *.r.my.com CNAME .
-tracker.my.com CNAME .
-*.tracker.my.com CNAME .
 tracker-api.my.com CNAME .
 *.tracker-api.my.com CNAME .
 my-promo7.com CNAME .
@@ -28453,8 +28445,6 @@ naggingirresponsible.com CNAME .
 *.naggingirresponsible.com CNAME .
 nahccnovft.com CNAME .
 *.nahccnovft.com CNAME .
-naiadsystems.com CNAME .
-*.naiadsystems.com CNAME .
 naijabuzz300.com CNAME .
 *.naijabuzz300.com CNAME .
 najva.com CNAME .
@@ -30591,6 +30581,8 @@ painfulpropaganda.com CNAME .
 *.painfulpropaganda.com CNAME .
 painsdire.com CNAME .
 *.painsdire.com CNAME .
+painstakingpickle.com CNAME .
+*.painstakingpickle.com CNAME .
 promote.pair.com CNAME .
 *.promote.pair.com CNAME .
 paitoucaum.com CNAME .
@@ -44815,8 +44807,6 @@ statics.woozooo.com CNAME .
 *.statics.woozooo.com CNAME .
 word-meaning.com CNAME .
 *.word-meaning.com CNAME .
-tracking.wordfly.com CNAME .
-*.tracking.wordfly.com CNAME .
 wordlockdown.com CNAME .
 *.wordlockdown.com CNAME .
 wordmonetize.com CNAME .
@@ -49045,8 +49035,6 @@ tikstok.fun CNAME .
 *.tikstok.fun CNAME .
 timefeathered.fun CNAME .
 *.timefeathered.fun CNAME .
-waymon.fun CNAME .
-*.waymon.fun CNAME .
 zabawkowo.fun CNAME .
 *.zabawkowo.fun CNAME .
 enot.fyi CNAME .
@@ -52669,8 +52657,6 @@ smetrics.lifetime.life CNAME .
 *.smetrics.lifetime.life CNAME .
 stats.myangular.life CNAME .
 *.stats.myangular.life CNAME .
-airbnb.info.booking.new-street-f92038.life CNAME .
-*.airbnb.info.booking.new-street-f92038.life CNAME .
 nuggetscrore.life CNAME .
 *.nuggetscrore.life CNAME .
 p-analytics.life CNAME .
@@ -64315,8 +64301,6 @@ lyjegushe.pro CNAME .
 *.lyjegushe.pro CNAME .
 makemehappy.pro CNAME .
 *.makemehappy.pro CNAME .
-thumbs.masterbate.pro CNAME .
-*.thumbs.masterbate.pro CNAME .
 mellow-game.pro CNAME .
 *.mellow-game.pro CNAME .
 milfxv.pro CNAME .
@@ -65985,8 +65969,6 @@ news.income.com.sg CNAME .
 *.news.income.com.sg CNAME .
 smetrics.m1.com.sg CNAME .
 *.smetrics.m1.com.sg CNAME .
-www.srx.com.sg CNAME .
-*.www.srx.com.sg CNAME .
 superad2.com.sg CNAME .
 *.superad2.com.sg CNAME .
 stats.ibtimes.sg CNAME .
@@ -66105,8 +66087,6 @@ mavijo.site CNAME .
 *.mavijo.site CNAME .
 metaversn.site CNAME .
 *.metaversn.site CNAME .
-my-gardens.site CNAME .
-*.my-gardens.site CNAME .
 outsimfat.site CNAME .
 *.outsimfat.site CNAME .
 red12flyw2.site CNAME .
@@ -66277,8 +66257,6 @@ rhoeomanid.space CNAME .
 *.rhoeomanid.space CNAME .
 rivne.space CNAME .
 *.rivne.space CNAME .
-rocketgame.space CNAME .
-*.rocketgame.space CNAME .
 starwars-game.space CNAME .
 *.starwars-game.space CNAME .
 teslacars.space CNAME .

@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 24 Feb 2023 10:58 UTC
-# Version: 2023.0224.1058.59
+# Last modified: 24 Feb 2023 19:26 UTC
+# Version: 2023.0224.1926.50
 # Syntax: DNSMasq
-# Domains: 34946
+# Domains: 34935
 #
 address=/003store.com/#
 address=/007sites.com/#
@@ -3294,7 +3294,6 @@ address=/ampush.io/#
 address=/amputeeinvenit.space/#
 address=/ampxchange.com/#
 address=/amrjcad.com/#
-address=/amrszxrx.com/#
 address=/plausible.ams.to/#
 address=/amsamex.com/#
 address=/amshirethfne.xyz/#
@@ -4618,6 +4617,7 @@ address=/tao.barstoolsports.com/#
 address=/bartinkizogrenciyurdu.com/#
 address=/barzantravel.iq/#
 address=/smetrics.base.be/#
+address=/basebanner.com/#
 address=/basecamp-shop.com/#
 address=/basedcloudata.com/#
 address=/basepush.com/#
@@ -6601,7 +6601,6 @@ address=/sinmo.chasecenter.com/#
 address=/chat24.io/#
 address=/oms.chatelaine.com/#
 address=/chatgigi2.com/#
-address=/chatgpt-forwindows.com/#
 address=/chatintr.com/#
 address=/w.chatlio.com/#
 address=/chatntr.com/#
@@ -9169,7 +9168,6 @@ address=/aip-cdn.sozcu.com.tr/#
 address=/aip2.sozcu.com.tr/#
 address=/xenaly.sozcu.com.tr/#
 address=/spiidgas.com.br/#
-address=/www.srx.com.sg/#
 address=/statesports.com.au/#
 address=/streem.com.au/#
 address=/studiomovil.com.mx/#
@@ -12593,7 +12591,6 @@ address=/eu.ekatox.com/#
 address=/ekkpaxli.xyz/#
 address=/ekl1-neettv.top/#
 address=/connect.ekomi.de/#
-address=/ekomi-us.com/#
 address=/smart-widget-assets.ekomiapps.de/#
 address=/ekqfkk.xyz/#
 address=/ekramco.ir/#
@@ -13894,7 +13891,6 @@ address=/feed5mown.com/#
 address=/feedad.com/#
 address=/feedage.com/#
 address=/a.feedblitz.com/#
-address=/assets.feedblitz.com/#
 address=/feedads.feedblitz.com/#
 address=/forms.feedblitz.com/#
 address=/litags.feedblitz.com/#
@@ -20449,7 +20445,6 @@ address=/massariuscdn.com/#
 address=/massivewebtech.com/#
 address=/mastamilanzipdownload.com/#
 address=/wsapi.master.live/#
-address=/thumbs.masterbate.pro/#
 address=/metrics.mastercard.com/#
 address=/smetrics.mastercard.com/#
 address=/masterfornews.com/#
@@ -21726,9 +21721,7 @@ address=/r.my.com/#
 address=/smknbancak.my.id/#
 address=/t.my.jobs/#
 address=/top-js-metrics.top.my.ua/#
-address=/tracker.my.com/#
 address=/tracker-api.my.com/#
-address=/my-gardens.site/#
 address=/my-promo7.com/#
 address=/my-tracking.info/#
 address=/my-traffic7.com/#
@@ -21938,7 +21931,6 @@ address=/naggingirresponsible.com/#
 address=/nagornaya17.ru/#
 address=/nahccnovft.com/#
 address=/nahnoji.cz/#
-address=/naiadsystems.com/#
 address=/naijabuzz300.com/#
 address=/naj.sk/#
 address=/najva.com/#
@@ -22339,7 +22331,6 @@ address=/new-click.ru/#
 address=/new-corona-virus.homes/#
 address=/new-incoming.email/#
 address=/new-rutor.eu/#
-address=/airbnb.info.booking.new-street-f92038.life/#
 address=/new22bet.com/#
 address=/newadsshop.com/#
 address=/smetrics.newark.com/#
@@ -23694,6 +23685,7 @@ address=/paifi.net/#
 address=/paikaufy.com/#
 address=/painfulpropaganda.com/#
 address=/painsdire.com/#
+address=/painstakingpickle.com/#
 address=/promote.pair.com/#
 address=/pair55call.net/#
 address=/paitoucaum.com/#
@@ -27274,7 +27266,6 @@ address=/rocket-push.com/#
 address=/somni.rocketaccount.com/#
 address=/rocketbagger.com/#
 address=/rocketfuel.com/#
-address=/rocketgame.space/#
 address=/somni.rockethomes.com/#
 address=/rocketme.top/#
 address=/somni.rocketmortgage.com/#
@@ -33177,7 +33168,6 @@ address=/t.wayfair.de/#
 address=/waygatecrowbar.com/#
 address=/track.wayin.com/#
 address=/us-track.wayin.com/#
-address=/waymon.fun/#
 address=/waytogrow.eu/#
 address=/agnes.waz.de/#
 address=/data-ee807be806.waz.de/#
@@ -33766,7 +33756,6 @@ address=/woopra.com/#
 address=/wootric.com/#
 address=/statics.woozooo.com/#
 address=/word-meaning.com/#
-address=/tracking.wordfly.com/#
 address=/wordlockdown.com/#
 address=/wordmonetize.com/#
 address=/refer.wordpress.com/#
