@@ -4,10 +4,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 23 Feb 2023 10:16 UTC
-! Version: 2023.0223.1016.40
+! Last modified: 24 Feb 2023 00:43 UTC
+! Version: 2023.0224.0043.33
 ! Syntax: AdBlock
-! Domains: 34808
+! Domains: 34825
 !
 ||003store.com^
 ||007sites.com^
@@ -671,6 +671,7 @@
 ||3841f4b0c4.com^
 ||3b0df911a8.com^
 ||3c22db1a50.com^
+||3c5.com^
 ||3cinteractive.com^
 ||jwz.3conline.com^
 ||3d2f.com^
@@ -2764,7 +2765,6 @@
 ||resources.aldec.com^
 ||statistics.aldi-international.com^
 ||tracking.aldi-international.com^
-||aldialogistica.com^
 ||aldogallery.ir^
 ||aldridge-electric.co^
 ||alea6badb.com^
@@ -2840,13 +2840,13 @@
 ||optimus-ads.amap.com.w.alikunlun.com^
 ||alilaguna.it^
 ||alimama.com^
-||alimco.in^
 ||tr.news.alinea.com^
 ||alintibaha.net^
 ||collect.alipay.com^
 ||tracert.alipay.com^
 ||alipaylog.com^
 ||alisa-blog.com^
+||alishabrindeader.com^
 ||alitems.site^
 ||alittlecrunchy.net^
 ||alive-ua.com^
@@ -3650,7 +3650,6 @@
 ||appsshi.com^
 ||appstrackinger.com^
 ||apptap.com^
-||apptds.com^
 ||apptentive.com^
 ||mapi.apptimize.com^
 ||md-a-c.apptimize.com^
@@ -4643,7 +4642,6 @@
 ||bbdbwom.com^
 ||bbelements.com^
 ||draftkings.bbgi.com^
-||bbhonline.in^
 ||adserver.bbibiofuels.com^
 ||tshuxi.bbqguys.com^
 ||sstats.bbt.com^
@@ -5425,6 +5423,7 @@
 ||bntech.io^
 ||bnwqcxl.com^
 ||smetrics.bnymellon.com^
+||plx.boafoda.com^
 ||boahoupi.com^
 ||boardmystery.com^
 ||residentevilmodding.boards.net^
@@ -6563,7 +6562,6 @@
 ||analytics.chase.com^
 ||midas.chase.com^
 ||sinmo.chasecenter.com^
-||chaseseccount02sec.com^
 ||chat24.io^
 ||oms.chatelaine.com^
 ||chatgigi2.com^
@@ -10268,6 +10266,7 @@
 ||deep.bi^
 ||deep-content.io^
 ||deepc.cc^
+||deeperhustlesaucer.com^
 ||deepikarai.com^
 ||deepintent.com^
 ||errortracking.deepl.com^
@@ -10292,6 +10291,7 @@
 ||delegatediscussion.com^
 ||ajbeqy.delfi.lt^
 ||ts.delfi.lt^
+||deli.bz^
 ||delightfulsensitive.pro^
 ||cdn1.delii2.art^
 ||delikatsov.com^
@@ -12091,6 +12091,7 @@
 ||dzrs3yuexz.com^
 ||dzutwirmet.com^
 ||dzypro.xyz^
+||e.vg^
 ||e-cigler.pl^
 ||e-click.jp^
 ||e-contenta.com^
@@ -12274,7 +12275,6 @@
 ||ecorph.com^
 ||analytics.ecosia.org^
 ||ecotrackings.com^
-||ecotraff.online^
 ||kf.ecqun.com^
 ||ecs-org.eu^
 ||ecsnmgj.com^
@@ -13601,7 +13601,6 @@
 ||videosvc.ezoic.com^
 ||ezojs.com^
 ||ezrkghn.com^
-||ezstat.ru^
 ||eztexting.com^
 ||ezthemes.com^
 ||ezua.com^
@@ -15883,7 +15882,6 @@
 ||gypsieblu.com^
 ||gypsouspatron.com^
 ||gyro-n.com^
-||gytujflc.biz^
 ||gz-data.com^
 ||gzankeb.com^
 ||gzqgaq.xyz^
@@ -19452,6 +19450,7 @@
 ||fkdaik.lightinthebox.com^
 ||lightminer.co^
 ||somni.lightstream.com^
+||lihi2.cc^
 ||lijit.com^
 ||likebtn.com^
 ||likechat33.net^
@@ -20483,6 +20482,7 @@
 ||track.mdrctr.com^
 ||metrics.mdstrm.com^
 ||me2.do^
+||me2.kr^
 ||casino-ad-mediation.me2zengame.com^
 ||mealiertins.com^
 ||mean8sigh.com^
@@ -20704,7 +20704,6 @@
 ||mesallyrewoke.com^
 ||mesalplayboy.com^
 ||mesangefanwise.tech^
-||mesepices.com^
 ||mesharepoint.com^
 ||meshzxe.com^
 ||livechat-metrics.messagebird.com^
@@ -21741,6 +21740,7 @@
 ||somni.myrocket.com^
 ||myrrhisunition.store^
 ||d810.mysanantonio.com^
+||mysaysapp.com^
 ||mysearch.com^
 ||find.mysearches.online^
 ||mysecurify.com^
@@ -22009,6 +22009,7 @@
 ||nbedwwb.in^
 ||nbnxlgf.net^
 ||nbottkauyy.com^
+||nbr9.xyz^
 ||nbryb.com^
 ||nbwwzxe.com^
 ||sanalytics.ncaa.com^
@@ -23093,6 +23094,7 @@
 ||online-casino.de^
 ||online812.ru^
 ||onlinecaclasses.com^
+||onlinecinema.eu^
 ||onlinefinanceworld.com^
 ||s15342144.onlinehome-server.info^
 ||onlinepharmacywithoutaprescription.ru^
@@ -24366,6 +24368,7 @@
 ||aa-metrics.ponparemall.com^
 ||ponpoco.net^
 ||poodledopas.cam^
+||pookapsa.net^
 ||poor5zero.com^
 ||pop6.com^
 ||popads.media^
@@ -25091,6 +25094,7 @@
 ||pxi.pub^
 ||pxl.host^
 ||pxl-mailtracker.com^
+||pxlme.me^
 ||ml-attr.com.pxlsrv.net^
 ||pxltgr.com^
 ||pxpfnbe1t1.com^
@@ -29385,6 +29389,7 @@
 ||staggeredravehospitality.com^
 ||stagingjobshq.com^
 ||staitchu.com^
+||staiwiru.xyz^
 ||stake7.com^
 ||stakingsmile.com^
 ||stalesummer.com^
@@ -29558,6 +29563,7 @@
 ||storagelassitudeblend.com^
 ||store-mix.com^
 ||store-notifications.online^
+||stoready.in^
 ||storetail.io^
 ||storj.cloud^
 ||storkxzsvc.com^
@@ -29630,6 +29636,7 @@
 ||www2.studentreasures.com^
 ||analytics.studiodesignapp.com^
 ||studiostack.com^
+||studyandworkabroad.in^
 ||gdpr.studybreakmedia.com^
 ||stuffed.ru^
 ||stugsoda.com^
@@ -29662,6 +29669,7 @@
 ||styrianauf.com^
 ||su6t2a0v1cbj6fu8o2cjdo1dx0oxdm6kgl6f7zdjxt6aqxjlwrt7cu2r5g2d.me^
 ||sub2tech.com^
+||subamuhurtham.in^
 ||s1.subaru.com^
 ||subduedbulks.com^
 ||subgitrelais.com^
@@ -30477,6 +30485,7 @@
 ||tfosrv.com^
 ||tftpd.net^
 ||tfzozf.xyz^
+||tg.pe^
 ||tglyr.co^
 ||tgmcn.com^
 ||tgpsew.com^
@@ -31611,6 +31620,7 @@
 ||twlcyc.cn^
 ||twpasol.com^
 ||twrank.com^
+||twtr.to^
 ||vpn.twttr.com^
 ||twyn.com^
 ||txtrek.net^
@@ -31912,6 +31922,7 @@
 ||unitedctc.com^
 ||uniteddatabase.net^
 ||unitedshoes.in^
+||unitedsol.net^
 ||unitmal.xyz^
 ||eloqua-tracking.unity.com^
 ||eloqua-trackings.unity.com^
@@ -32078,6 +32089,7 @@
 ||urlcash.net^
 ||urldelivery.com^
 ||urlhausa.com^
+||urlzs.com^
 ||urmilan.info^
 ||tm.urssaf.fr^
 ||urtirepor.com^
@@ -32282,6 +32294,7 @@
 ||vaugroar.com^
 ||my.vaven.co^
 ||vazypteke.pro^
+||vb17121coramclean.pw^
 ||track.vbet.am^
 ||track.vbetua.com^
 ||vboro.de^
@@ -32692,6 +32705,7 @@
 ||vizzit.se^
 ||vjdciu.com^
 ||vjzlgtnaov.com^
+||vk.sv^
 ||prod.html5-ads.vk-apps.com^
 ||stats.vk-portal.net^
 ||vkanalytics.net^
@@ -32873,6 +32887,7 @@
 ||vulkan-vegas.pl^
 ||vulkan7.bet^
 ||vulkanvegas.com^
+||vulkanvegas-hazardowe.com^
 ||vulkanvegas-pl.com^
 ||vulkanvegas1.com^
 ||vulkanvegas100.pl^
@@ -32880,6 +32895,7 @@
 ||vulkanvegas23.com^
 ||vulkanvegas3.com^
 ||vulkanvegas301.com^
+||vulkanvegas36.com^
 ||vulkanvegas47.com^
 ||vulkanvegas8.com^
 ||vulkanvegas9.com^
@@ -33347,6 +33363,7 @@
 ||whatosgoingon.biz^
 ||crashlogs.whatsapp.net^
 ||dit.whatsapp.net^
+||whatsappweb.net^
 ||whatsbroadcast.com^
 ||whatshelp.io^
 ||whatstheword.co^
