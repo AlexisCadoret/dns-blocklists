@@ -1965,7 +1965,6 @@ mandrillapp.com
 
 # https://github.com/hagezi/dns-blocklists/issues/136
 amazonforum.com
-d1bd3wxsyuz0t7.cloudfront.net
 
 # verifying student status in YT Music or YT
 *.sheerid.net
@@ -2639,3 +2638,5 @@ api-cf.affirm.com
 # https://github.com/hagezi/dns-blocklists/issues/541
 agave.myanalytics.cdn.office.net
 
+# https://github.com/hagezi/dns-blocklists/issues/543
+onmilwaukee.com
