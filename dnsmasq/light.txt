@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day (update frequency)
-# Last modified: 24 Feb 2023 08:27 UTC
-# Version: 2023.0224.0827.44
+# Last modified: 24 Feb 2023 11:01 UTC
+# Version: 2023.0224.1101.57
 # Syntax: DNSMasq
-# Domains: 78102
+# Domains: 78103
 #
 address=/eerier-safety.000webhostapp.com/#
 address=/fenrir-ransomware.000webhostapp.com/#
@@ -19912,7 +19912,7 @@ address=/spiidgas.com.br/#
 address=/spiritwriter.com.au/#
 address=/sppc.com.sa/#
 address=/srmviajes.com.ar/#
-address=/srx.com.sg/#
+address=/www.srx.com.sg/#
 address=/sseingenieria.com.mx/#
 address=/sspmcnp.com.br/#
 address=/stagaluminium.com.au/#
@@ -49117,7 +49117,8 @@ address=/waldundfeld.myshopify.com/#
 address=/warmshopper.myshopify.com/#
 address=/westchili.myshopify.com/#
 address=/xfgsdhgxg.myshopify.com/#
-address=/myshoplaza.com/#
+address=/674985034.myshoplaza.com/#
+address=/weekendlily.myshoplaza.com/#
 address=/myshopwala.com/#
 address=/myshortbio.com/#
 address=/mysi-sas.com/#
