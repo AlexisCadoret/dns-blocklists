@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.fake. hostmaster.hagezi.fake. 1677193200 86400 3600 604800 30
+@ SOA rpz.hagezi.fake. hostmaster.hagezi.fake. 1677279600 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 30
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ; Expires: Updated regularly
-; Last modified: 24 Feb 2023 14:15 UTC
-; Version: 2023.0224.1415.22
+; Last modified: 24 Feb 2023 23:30 UTC
+; Version: 2023.0224.2330.35
 ; Syntax: RPZ
-; Domains: 5104
+; Domains: 5116
 ;
 1euro.at CNAME .
 *.1euro.at CNAME .
@@ -431,6 +431,8 @@ keenschuhewien.at CNAME .
 *.keenschuhewien.at CNAME .
 kirchenaustritt24.at CNAME .
 *.kirchenaustritt24.at CNAME .
+kitchenware.at CNAME .
+*.kitchenware.at CNAME .
 kochsalon.at CNAME .
 *.kochsalon.at CNAME .
 kredit-ohne-auskunft.at CNAME .
@@ -2437,6 +2439,8 @@ forever-rock.com CNAME .
 *.forever-rock.com CNAME .
 forextradefds.com CNAME .
 *.forextradefds.com CNAME .
+formanacupuncture.com CNAME .
+*.formanacupuncture.com CNAME .
 forsalejerseycity.com CNAME .
 *.forsalejerseycity.com CNAME .
 forstbetriebbernhardt-gmbh.com CNAME .
@@ -2491,12 +2495,16 @@ fxtfinanceportfolio.com CNAME .
 *.fxtfinanceportfolio.com CNAME .
 gadgetlupe.com CNAME .
 *.gadgetlupe.com CNAME .
+game-adventures.com CNAME .
+*.game-adventures.com CNAME .
 game-stopdeutschland.com CNAME .
 *.game-stopdeutschland.com CNAME .
 gamebasic-de.com CNAME .
 *.gamebasic-de.com CNAME .
 gamesstudionuernberg.com CNAME .
 *.gamesstudionuernberg.com CNAME .
+gamestop-deutscheland.com CNAME .
+*.gamestop-deutscheland.com CNAME .
 gamestopde.com CNAME .
 *.gamestopde.com CNAME .
 gamestopshopde.com CNAME .
@@ -2593,6 +2601,8 @@ global-expressdelivery.com CNAME .
 *.global-expressdelivery.com CNAME .
 globallogisticltd.com CNAME .
 *.globallogisticltd.com CNAME .
+globmedcent.com CNAME .
+*.globmedcent.com CNAME .
 gmethopoth.com CNAME .
 *.gmethopoth.com CNAME .
 gmixnchic.com CNAME .
@@ -2815,6 +2825,8 @@ hotelsofmenorca.com CNAME .
 *.hotelsofmenorca.com CNAME .
 hotideabuy.com CNAME .
 *.hotideabuy.com CNAME .
+hounony.com CNAME .
+*.hounony.com CNAME .
 hoverboard-time.com CNAME .
 *.hoverboard-time.com CNAME .
 hr2021.com CNAME .
@@ -6531,6 +6543,8 @@ flaviorossi.de CNAME .
 *.flaviorossi.de CNAME .
 fleezie.de CNAME .
 *.fleezie.de CNAME .
+fleisch-paradies.de CNAME .
+*.fleisch-paradies.de CNAME .
 fliegen-de.de CNAME .
 *.fliegen-de.de CNAME .
 flipflix.de CNAME .
@@ -7093,6 +7107,8 @@ irishteddy.de CNAME .
 *.irishteddy.de CNAME .
 isabelhumpert.de CNAME .
 *.isabelhumpert.de CNAME .
+isosmart.de CNAME .
+*.isosmart.de CNAME .
 itc-schwarz.de CNAME .
 *.itc-schwarz.de CNAME .
 itcon-engineering.de CNAME .
@@ -8497,6 +8513,8 @@ sylviamartens.de CNAME .
 *.sylviamartens.de CNAME .
 systanz.de CNAME .
 *.systanz.de CNAME .
+the-garden-pavilions-of-sobranie-russian.eshop.t-online.de CNAME .
+*.the-garden-pavilions-of-sobranie-russian.eshop.t-online.de CNAME .
 t7cafe.de CNAME .
 *.t7cafe.de CNAME .
 tabakshop2000.de CNAME .
@@ -9761,6 +9779,8 @@ bbvipanswer.shop CNAME .
 *.bbvipanswer.shop CNAME .
 bedsonmall.shop CNAME .
 *.bedsonmall.shop CNAME .
+best24rxonline.shop CNAME .
+*.best24rxonline.shop CNAME .
 betterinbed.shop CNAME .
 *.betterinbed.shop CNAME .
 bingoblitz.shop CNAME .
@@ -9893,6 +9913,8 @@ myscreen.site CNAME .
 *.myscreen.site CNAME .
 netselect.site CNAME .
 *.netselect.site CNAME .
+prednisone-buyonline.site CNAME .
+*.prednisone-buyonline.site CNAME .
 southeastern.site CNAME .
 *.southeastern.site CNAME .
 toystory.site CNAME .
@@ -10085,6 +10107,8 @@ pkuctg.top CNAME .
 *.pkuctg.top CNAME .
 precless.top CNAME .
 *.precless.top CNAME .
+psumerman.top CNAME .
+*.psumerman.top CNAME .
 puniatory.top CNAME .
 *.puniatory.top CNAME .
 qakppo.top CNAME .
