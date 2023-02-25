@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.personal. hostmaster.hagezi.personal. 1677193200 86400 3600 604800 30
+@ SOA rpz.hagezi.personal. hostmaster.hagezi.personal. 1677279600 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Personal DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 30
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ; Expires: Updated regularly
-; Last modified: 24 Feb 2023 19:26 UTC
-; Version: 2023.0224.1926.50
+; Last modified: 25 Feb 2023 00:31 UTC
+; Version: 2023.0225.0031.24
 ; Syntax: RPZ
-; Domains: 34935
+; Domains: 34993
 ;
 marketing.globalpointofcare.abbott CNAME .
 *.marketing.globalpointofcare.abbott CNAME .
@@ -1075,6 +1075,8 @@ immoinvest.com.br CNAME .
 *.immoinvest.com.br CNAME .
 labonni.com.br CNAME .
 *.labonni.com.br CNAME .
+lafaweb.com.br CNAME .
+*.lafaweb.com.br CNAME .
 lantai.com.br CNAME .
 *.lantai.com.br CNAME .
 larissalinhares.com.br CNAME .
@@ -15273,6 +15275,8 @@ dtiserv2.com CNAME .
 *.dtiserv2.com CNAME .
 dtmpub.com CNAME .
 *.dtmpub.com CNAME .
+dtprofit.com CNAME .
+*.dtprofit.com CNAME .
 t.dtscdn.com CNAME .
 *.t.dtscdn.com CNAME .
 dtscout.com CNAME .
@@ -26009,6 +26013,8 @@ iazwzp.lyst.com CNAME .
 *.iazwzp.lyst.com CNAME .
 lythonefa.com CNAME .
 *.lythonefa.com CNAME .
+lz-pub-ads.com CNAME .
+*.lz-pub-ads.com CNAME .
 lzcxzes.com CNAME .
 *.lzcxzes.com CNAME .
 lzxdx24yib.com CNAME .
@@ -26773,6 +26779,8 @@ meenetiy.com CNAME .
 *.meenetiy.com CNAME .
 meet3monk.com CNAME .
 *.meet3monk.com CNAME .
+meetinsrilanka.com CNAME .
+*.meetinsrilanka.com CNAME .
 meetrics.com CNAME .
 *.meetrics.com CNAME .
 analytics-tracking.meetup.com CNAME .
@@ -28471,6 +28479,8 @@ search64.namequery.com CNAME .
 *.search64.namequery.com CNAME .
 search.us.namequery.com CNAME .
 *.search.us.namequery.com CNAME .
+namesakeoscilloscopemarquis.com CNAME .
+*.namesakeoscilloscopemarquis.com CNAME .
 namesexual.com CNAME .
 *.namesexual.com CNAME .
 nan46ysangt28eec.com CNAME .
@@ -28769,6 +28779,8 @@ nefdcnmvbt.com CNAME .
 *.nefdcnmvbt.com CNAME .
 nefies.com CNAME .
 *.nefies.com CNAME .
+negahpub.com CNAME .
+*.negahpub.com CNAME .
 negotiationmajestic.com CNAME .
 *.negotiationmajestic.com CNAME .
 negrineoakwood.com CNAME .
@@ -29073,6 +29085,8 @@ us-tracking.nextdoor.com CNAME .
 *.us-tracking.nextdoor.com CNAME .
 nextgencounter.com CNAME .
 *.nextgencounter.com CNAME .
+nextleveldm.com CNAME .
+*.nextleveldm.com CNAME .
 affiliatetxt.nextmediaweb.com CNAME .
 *.affiliatetxt.nextmediaweb.com CNAME .
 nextmillmedia.com CNAME .
@@ -30007,6 +30021,8 @@ forms.ontraport.com CNAME .
 *.forms.ontraport.com CNAME .
 onvictinitor.com CNAME .
 *.onvictinitor.com CNAME .
+onzlzyf.com CNAME .
+*.onzlzyf.com CNAME .
 oodrampi.com CNAME .
 *.oodrampi.com CNAME .
 oogala.com CNAME .
@@ -30149,6 +30165,92 @@ api.optimizely.com CNAME .
 *.api.optimizely.com CNAME .
 app.optimizely.com CNAME .
 *.app.optimizely.com CNAME .
+a10453949094.cdn.optimizely.com CNAME .
+*.a10453949094.cdn.optimizely.com CNAME .
+a10681260716.cdn.optimizely.com CNAME .
+*.a10681260716.cdn.optimizely.com CNAME .
+a10829270344.cdn.optimizely.com CNAME .
+*.a10829270344.cdn.optimizely.com CNAME .
+a1096093.cdn.optimizely.com CNAME .
+*.a1096093.cdn.optimizely.com CNAME .
+a11000223989.cdn.optimizely.com CNAME .
+*.a11000223989.cdn.optimizely.com CNAME .
+a11085769837.cdn.optimizely.com CNAME .
+*.a11085769837.cdn.optimizely.com CNAME .
+a11179690159.cdn.optimizely.com CNAME .
+*.a11179690159.cdn.optimizely.com CNAME .
+a11347113422.cdn.optimizely.com CNAME .
+*.a11347113422.cdn.optimizely.com CNAME .
+a11391265293.cdn.optimizely.com CNAME .
+*.a11391265293.cdn.optimizely.com CNAME .
+a125375509.cdn.optimizely.com CNAME .
+*.a125375509.cdn.optimizely.com CNAME .
+a12600010354.cdn.optimizely.com CNAME .
+*.a12600010354.cdn.optimizely.com CNAME .
+a14069890047.cdn.optimizely.com CNAME .
+*.a14069890047.cdn.optimizely.com CNAME .
+a14738960062.cdn.optimizely.com CNAME .
+*.a14738960062.cdn.optimizely.com CNAME .
+a14932920627.cdn.optimizely.com CNAME .
+*.a14932920627.cdn.optimizely.com CNAME .
+a16488430484.cdn.optimizely.com CNAME .
+*.a16488430484.cdn.optimizely.com CNAME .
+a166211981.cdn.optimizely.com CNAME .
+*.a166211981.cdn.optimizely.com CNAME .
+a166688199.cdn.optimizely.com CNAME .
+*.a166688199.cdn.optimizely.com CNAME .
+a1706490390.cdn.optimizely.com CNAME .
+*.a1706490390.cdn.optimizely.com CNAME .
+a17126690382.cdn.optimizely.com CNAME .
+*.a17126690382.cdn.optimizely.com CNAME .
+a1719570453.cdn.optimizely.com CNAME .
+*.a1719570453.cdn.optimizely.com CNAME .
+a17957420003.cdn.optimizely.com CNAME .
+*.a17957420003.cdn.optimizely.com CNAME .
+a1859010085.cdn.optimizely.com CNAME .
+*.a1859010085.cdn.optimizely.com CNAME .
+a2129670914.cdn.optimizely.com CNAME .
+*.a2129670914.cdn.optimizely.com CNAME .
+a234628017.cdn.optimizely.com CNAME .
+*.a234628017.cdn.optimizely.com CNAME .
+a275532918.cdn.optimizely.com CNAME .
+*.a275532918.cdn.optimizely.com CNAME .
+a2972860641.cdn.optimizely.com CNAME .
+*.a2972860641.cdn.optimizely.com CNAME .
+a3013110282.cdn.optimizely.com CNAME .
+*.a3013110282.cdn.optimizely.com CNAME .
+a304207300.cdn.optimizely.com CNAME .
+*.a304207300.cdn.optimizely.com CNAME .
+a3580442334.cdn.optimizely.com CNAME .
+*.a3580442334.cdn.optimizely.com CNAME .
+a3698060313.cdn.optimizely.com CNAME .
+*.a3698060313.cdn.optimizely.com CNAME .
+a4621041136.cdn.optimizely.com CNAME .
+*.a4621041136.cdn.optimizely.com CNAME .
+a5090114122.cdn.optimizely.com CNAME .
+*.a5090114122.cdn.optimizely.com CNAME .
+a523170811.cdn.optimizely.com CNAME .
+*.a523170811.cdn.optimizely.com CNAME .
+a553480116.cdn.optimizely.com CNAME .
+*.a553480116.cdn.optimizely.com CNAME .
+a6529002483.cdn.optimizely.com CNAME .
+*.a6529002483.cdn.optimizely.com CNAME .
+a745050198.cdn.optimizely.com CNAME .
+*.a745050198.cdn.optimizely.com CNAME .
+a752092193.cdn.optimizely.com CNAME .
+*.a752092193.cdn.optimizely.com CNAME .
+a7544042.cdn.optimizely.com CNAME .
+*.a7544042.cdn.optimizely.com CNAME .
+a7871036.cdn.optimizely.com CNAME .
+*.a7871036.cdn.optimizely.com CNAME .
+a8571253058.cdn.optimizely.com CNAME .
+*.a8571253058.cdn.optimizely.com CNAME .
+a989617545.cdn.optimizely.com CNAME .
+*.a989617545.cdn.optimizely.com CNAME .
+cdn-pci.optimizely.com CNAME .
+*.cdn-pci.optimizely.com CNAME .
+cdn-s-optional.optimizely.com CNAME .
+*.cdn-s-optional.optimizely.com CNAME .
 client.optimizely.com CNAME .
 *.client.optimizely.com CNAME .
 log.optimizely.com CNAME .
@@ -30291,6 +30393,8 @@ ostlon.com CNAME .
 *.ostlon.com CNAME .
 ostrichesica.com CNAME .
 *.ostrichesica.com CNAME .
+otbrana.com CNAME .
+*.otbrana.com CNAME .
 otc-manila.com CNAME .
 *.otc-manila.com CNAME .
 otelloexactor.com CNAME .
@@ -35491,6 +35595,8 @@ solutions.refinitiv.com CNAME .
 *.solutions.refinitiv.com CNAME .
 prod.tracking.refinitiv.com CNAME .
 *.prod.tracking.refinitiv.com CNAME .
+refitaus.com CNAME .
+*.refitaus.com CNAME .
 refl3alea.com CNAME .
 *.refl3alea.com CNAME .
 refoldbyrlaw.com CNAME .
@@ -37025,6 +37131,8 @@ seapolo.com CNAME .
 *.seapolo.com CNAME .
 search-results.com CNAME .
 *.search-results.com CNAME .
+search4y.com CNAME .
+*.search4y.com CNAME .
 searchdconvertnow.com CNAME .
 *.searchdconvertnow.com CNAME .
 searchdiscovered.com CNAME .
@@ -40921,6 +41029,8 @@ tidebuy.com CNAME .
 *.tidebuy.com CNAME .
 static.tidiochat.com CNAME .
 *.static.tidiochat.com CNAME .
+tidy-mark.com CNAME .
+*.tidy-mark.com CNAME .
 smetrics.tiendamonge.com CNAME .
 *.smetrics.tiendamonge.com CNAME .
 tierbignews.com CNAME .
@@ -50111,6 +50221,8 @@ sighash.info CNAME .
 *.sighash.info CNAME .
 simpliftsbefore.info CNAME .
 *.simpliftsbefore.info CNAME .
+skalk.info CNAME .
+*.skalk.info CNAME .
 spotscenered.info CNAME .
 *.spotscenered.info CNAME .
 ssun.info CNAME .
@@ -54433,6 +54545,8 @@ admission.net CNAME .
 *.admission.net CNAME .
 admixer.net CNAME .
 *.admixer.net CNAME .
+adnegah.net CNAME .
+*.adnegah.net CNAME .
 adnexus.net CNAME .
 *.adnexus.net CNAME .
 adnxs.net CNAME .
@@ -59381,6 +59495,8 @@ cdn-akamai.mookie1.com.edgekey.net CNAME .
 *.cdn-akamai.mookie1.com.edgekey.net CNAME .
 gd1.mookie1.com.edgekey.net CNAME .
 *.gd1.mookie1.com.edgekey.net CNAME .
+cdn-pci.optimizely.com.edgekey.net CNAME .
+*.cdn-pci.optimizely.com.edgekey.net CNAME .
 vastcdn.outbrain.com.edgekey.net CNAME .
 *.vastcdn.outbrain.com.edgekey.net CNAME .
 outbrainimg.com.edgekey.net CNAME .
@@ -63633,8 +63749,8 @@ zonasegura.mibanco.com.pe CNAME .
 *.zonasegura.mibanco.com.pe CNAME .
 cuadros.pe CNAME .
 *.cuadros.pe CNAME .
-www.ugelcrucero.edu.pe CNAME .
-*.www.ugelcrucero.edu.pe CNAME .
+ugelcrucero.edu.pe CNAME .
+*.ugelcrucero.edu.pe CNAME .
 www.hospitalvitarte.gob.pe CNAME .
 *.www.hospitalvitarte.gob.pe CNAME .
 smetrics.interbank.pe CNAME .

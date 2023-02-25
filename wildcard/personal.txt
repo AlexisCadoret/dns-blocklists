@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 24 Feb 2023 19:26 UTC
-# Version: 2023.0224.1926.50
+# Last modified: 25 Feb 2023 00:31 UTC
+# Version: 2023.0225.0031.24
 # Syntax: Domains Wildcard (DNSCrypt/YogaDNS/...)
-# Domains: 34935
+# Domains: 34993
 #
 *.003store.com
 *.007sites.com
@@ -1813,6 +1813,7 @@
 *.admysports.com
 *.adnami.io
 *.adne.info
+*.adnegah.net
 *.adnet.de
 *.adnet.lt
 *.adnetasia.com
@@ -9013,6 +9014,7 @@
 *.ad.kissanime.com.ru
 *.eum.kuveytturk.com.tr
 *.labonni.com.br
+*.lafaweb.com.br
 *.lahudseguros.com.mx
 *.landupoatour.com.ua
 *.lantai.com.br
@@ -12003,6 +12005,7 @@
 *.dtljuqw.net
 *.dtmpub.com
 *.dtoottuleringwe.xyz
+*.dtprofit.com
 *.t.dtscdn.com
 *.dtscout.com
 *.dtsedge.com
@@ -12390,6 +12393,7 @@
 *.cdn.mookie1.com.edgekey.net
 *.cdn-akamai.mookie1.com.edgekey.net
 *.gd1.mookie1.com.edgekey.net
+*.cdn-pci.optimizely.com.edgekey.net
 *.vastcdn.outbrain.com.edgekey.net
 *.outbrainimg.com.edgekey.net
 *.image5.pubmatic.com.edgekey.net
@@ -12466,7 +12470,7 @@
 *.sanalytics.sydney.edu.au
 *.www.terras.edu.ar
 *.counter.theconversation.edu.au
-*.www.ugelcrucero.edu.pe
+*.ugelcrucero.edu.pe
 *.unicomfacauca.edu.co
 *.engage.uq.edu.au
 *.ust.edu.ye
@@ -20140,6 +20144,7 @@
 *.iazwzp.lyst.com
 *.lythonefa.com
 *.lytics.io
+*.lz-pub-ads.com
 *.lzcxzes.com
 *.lzxdx24yib.com
 *.lzxemfc.com
@@ -20702,6 +20707,7 @@
 *.meenetiy.com
 *.meet3monk.com
 *.meet4you.net
+*.meetinsrilanka.com
 *.meetrics.com
 *.meetrics.net
 *.report-ps.meettech.net
@@ -21949,6 +21955,7 @@
 *.search2.namequery.com
 *.search64.namequery.com
 *.search.us.namequery.com
+*.namesakeoscilloscopemarquis.com
 *.namesexual.com
 *.namikos.top
 *.nan46ysangt28eec.com
@@ -22172,6 +22179,7 @@
 *.neeladou.net
 *.nefdcnmvbt.com
 *.nefies.com
+*.negahpub.com
 *.negotiatefoam.cn
 *.negotiationmajestic.com
 *.negrineoakwood.com
@@ -22424,6 +22432,7 @@
 *.nextclick.pl
 *.us-tracking.nextdoor.com
 *.nextgencounter.com
+*.nextleveldm.com
 *.nextleveltracking.eu
 *.affiliatetxt.nextmediaweb.com
 *.nextmillennium.io
@@ -23224,6 +23233,7 @@
 *.forms.ontraport.com
 *.onvictinitor.com
 *.data-49dc40e643.onvista.de
+*.onzlzyf.com
 *.oo00.biz
 *.oodnaturedf.xyz
 *.oodrampi.com
@@ -23335,6 +23345,49 @@
 *.optimix.cn
 *.api.optimizely.com
 *.app.optimizely.com
+*.a10453949094.cdn.optimizely.com
+*.a10681260716.cdn.optimizely.com
+*.a10829270344.cdn.optimizely.com
+*.a1096093.cdn.optimizely.com
+*.a11000223989.cdn.optimizely.com
+*.a11085769837.cdn.optimizely.com
+*.a11179690159.cdn.optimizely.com
+*.a11347113422.cdn.optimizely.com
+*.a11391265293.cdn.optimizely.com
+*.a125375509.cdn.optimizely.com
+*.a12600010354.cdn.optimizely.com
+*.a14069890047.cdn.optimizely.com
+*.a14738960062.cdn.optimizely.com
+*.a14932920627.cdn.optimizely.com
+*.a16488430484.cdn.optimizely.com
+*.a166211981.cdn.optimizely.com
+*.a166688199.cdn.optimizely.com
+*.a1706490390.cdn.optimizely.com
+*.a17126690382.cdn.optimizely.com
+*.a1719570453.cdn.optimizely.com
+*.a17957420003.cdn.optimizely.com
+*.a1859010085.cdn.optimizely.com
+*.a2129670914.cdn.optimizely.com
+*.a234628017.cdn.optimizely.com
+*.a275532918.cdn.optimizely.com
+*.a2972860641.cdn.optimizely.com
+*.a3013110282.cdn.optimizely.com
+*.a304207300.cdn.optimizely.com
+*.a3580442334.cdn.optimizely.com
+*.a3698060313.cdn.optimizely.com
+*.a4621041136.cdn.optimizely.com
+*.a5090114122.cdn.optimizely.com
+*.a523170811.cdn.optimizely.com
+*.a553480116.cdn.optimizely.com
+*.a6529002483.cdn.optimizely.com
+*.a745050198.cdn.optimizely.com
+*.a752092193.cdn.optimizely.com
+*.a7544042.cdn.optimizely.com
+*.a7871036.cdn.optimizely.com
+*.a8571253058.cdn.optimizely.com
+*.a989617545.cdn.optimizely.com
+*.cdn-pci.optimizely.com
+*.cdn-s-optional.optimizely.com
 *.client.optimizely.com
 *.log.optimizely.com
 *.logx.optimizely.com
@@ -23456,6 +23509,7 @@
 *.ostlon.com
 *.ostrichesica.com
 *.otaserve.net
+*.otbrana.com
 *.otc-manila.com
 *.otclick-adv.ru
 *.otelloexactor.com
@@ -26850,6 +26904,7 @@
 *.metrics.refinitiv.com
 *.solutions.refinitiv.com
 *.prod.tracking.refinitiv.com
+*.refitaus.com
 *.refl3alea.com
 *.bmrg.reflected.net
 *.sys.refocus.ru
@@ -27976,6 +28031,7 @@
 *.track.seanear.com
 *.seapolo.com
 *.search-results.com
+*.search4y.com
 *.searchdconvertnow.com
 *.searchdiscovered.com
 *.searchenginegenie.com
@@ -28694,6 +28750,7 @@
 *.sjpf.io
 *.sjsmartcontent.org
 *.events.sk.ht
+*.skalk.info
 *.skanpiskar.one
 *.skarbnicanarodowa.pl
 *.skassets.com
@@ -30825,6 +30882,7 @@
 *.tidebuy.com
 *.tideya.net
 *.static.tidiochat.com
+*.tidy-mark.com
 *.smetrics.tiendamonge.com
 *.log.tienphong.vn
 *.tierbignews.com

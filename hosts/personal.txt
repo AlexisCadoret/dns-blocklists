@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 24 Feb 2023 19:26 UTC
-# Version: 2023.0224.1926.50
+# Last modified: 25 Feb 2023 00:31 UTC
+# Version: 2023.0225.0031.24
 # Syntax: Hosts
-# Domains: 101822
+# Domains: 101900
 #
 0.0.0.0 003store.com
 0.0.0.0 www.003store.com
@@ -9465,6 +9465,8 @@
 0.0.0.0 www.adnami.io
 0.0.0.0 adne.info
 0.0.0.0 www.adne.info
+0.0.0.0 adnegah.net
+0.0.0.0 www.adnegah.net
 0.0.0.0 adnet.de
 0.0.0.0 adnet.lt
 0.0.0.0 ad.adnet.de
@@ -31790,6 +31792,7 @@
 0.0.0.0 ad.kissanime.com.ru
 0.0.0.0 eum.kuveytturk.com.tr
 0.0.0.0 labonni.com.br
+0.0.0.0 lafaweb.com.br
 0.0.0.0 lahudseguros.com.mx
 0.0.0.0 landupoatour.com.ua
 0.0.0.0 lantai.com.br
@@ -43306,6 +43309,8 @@
 0.0.0.0 dtmpub.com
 0.0.0.0 secure.dtmpub.com
 0.0.0.0 dtoottuleringwe.xyz
+0.0.0.0 dtprofit.com
+0.0.0.0 www.dtprofit.com
 0.0.0.0 t.dtscdn.com
 0.0.0.0 dtscout.com
 0.0.0.0 e.dtscout.com
@@ -44097,6 +44102,8 @@
 0.0.0.0 cdn-akamai.mookie1.com.edgekey.net
 0.0.0.0 gd1.mookie1.com.edgekey.net
 0.0.0.0 static-tagr.gd1.mookie1.com.edgekey.net
+0.0.0.0 cdn-pci.optimizely.com.edgekey.net
+0.0.0.0 star2.cdn-pci.optimizely.com.edgekey.net
 0.0.0.0 vastcdn.outbrain.com.edgekey.net
 0.0.0.0 outbrainimg.com.edgekey.net
 0.0.0.0 wildcard.outbrainimg.com.edgekey.net
@@ -44224,6 +44231,7 @@
 0.0.0.0 sanalytics.sydney.edu.au
 0.0.0.0 www.terras.edu.ar
 0.0.0.0 counter.theconversation.edu.au
+0.0.0.0 ugelcrucero.edu.pe
 0.0.0.0 www.ugelcrucero.edu.pe
 0.0.0.0 unicomfacauca.edu.co
 0.0.0.0 siga.unicomfacauca.edu.co
@@ -54590,7 +54598,6 @@
 0.0.0.0 js.hull.io
 0.0.0.0 www.hull.io
 0.0.0.0 hullapp.io
-0.0.0.0 www.hullapp.io
 0.0.0.0 api.distribution.hulu.com
 0.0.0.0 metcon.hulu.com
 0.0.0.0 t2.hulu.com
@@ -55754,7 +55761,6 @@
 0.0.0.0 uktc.ijento.com
 0.0.0.0 ijfksdwe.xyz
 0.0.0.0 hnrtgv.ijfksdwe.xyz
-0.0.0.0 www.ijfksdwe.xyz
 0.0.0.0 dcys.ijinshan.com
 0.0.0.0 zj.dcys.ijinshan.com
 0.0.0.0 did.ijinshan.com
@@ -56382,7 +56388,6 @@
 0.0.0.0 inetlog.ru
 0.0.0.0 www.inetlog.ru
 0.0.0.0 ineuntkilnman.digital
-0.0.0.0 www.ineuntkilnman.digital
 0.0.0.0 infamouslimit.pro
 0.0.0.0 www.infamouslimit.pro
 0.0.0.0 infectedrepentearl.com
@@ -57432,7 +57437,6 @@
 0.0.0.0 ioi3.com
 0.0.0.0 www.ioi3.com
 0.0.0.0 iokenattharmiinl.xyz
-0.0.0.0 www.iokenattharmiinl.xyz
 0.0.0.0 iol.io
 0.0.0.0 ai.iol.io
 0.0.0.0 cnt.iol.it
@@ -57831,7 +57835,6 @@
 0.0.0.0 ws.istripper.com
 0.0.0.0 www.istripper.com
 0.0.0.0 istsldaheh.com
-0.0.0.0 www.istsldaheh.com
 0.0.0.0 iswhatappyouneed.net
 0.0.0.0 www.iswhatappyouneed.net
 0.0.0.0 168.it168.com
@@ -57854,7 +57857,6 @@
 0.0.0.0 js.iterable.com
 0.0.0.0 platform.iteratehq.com
 0.0.0.0 itespurrom.com
-0.0.0.0 www.itespurrom.com
 0.0.0.0 rabc1.iteye.com
 0.0.0.0 itgear.jp
 0.0.0.0 www.itgear.jp
@@ -57906,7 +57908,6 @@
 0.0.0.0 b.itvnet.lv
 0.0.0.0 h.itvnet.lv
 0.0.0.0 itwasbrghttohwe.xyz
-0.0.0.0 www.itwasbrghttohwe.xyz
 0.0.0.0 itweepinbelltor.com
 0.0.0.0 www.itweepinbelltor.com
 0.0.0.0 itxwspz.net
@@ -58136,7 +58137,6 @@
 0.0.0.0 jandaqwe.com
 0.0.0.0 cdn.jandaqwe.com
 0.0.0.0 p.jandaqwe.com
-0.0.0.0 www.jandaqwe.com
 0.0.0.0 jandin.gq
 0.0.0.0 www.jandin.gq
 0.0.0.0 rhxkzd.jane.com
@@ -58519,7 +58519,6 @@
 0.0.0.0 fculcz.joann.com
 0.0.0.0 joapsiro.com
 0.0.0.0 joathihandsr.xyz
-0.0.0.0 www.joathihandsr.xyz
 0.0.0.0 jobbio.com
 0.0.0.0 partner-api.jobbio.com
 0.0.0.0 pp.jobbio.com
@@ -58566,7 +58565,6 @@
 0.0.0.0 jojog.com
 0.0.0.0 www.jojog.com
 0.0.0.0 jokebided.space
-0.0.0.0 www.jokebided.space
 0.0.0.0 jokeroo.com
 0.0.0.0 www.jokeroo.com
 0.0.0.0 jolien-paris.nl
@@ -58738,7 +58736,6 @@
 0.0.0.0 www.jtumdod.com
 0.0.0.0 www15.jtv.com
 0.0.0.0 jubhahsfurzier.digital
-0.0.0.0 www.jubhahsfurzier.digital
 0.0.0.0 jubilantenterprise.com
 0.0.0.0 www.jubilantenterprise.com
 0.0.0.0 jubna.com
@@ -59496,7 +59493,6 @@
 0.0.0.0 display-ad-rgt0me85.kgslb.com
 0.0.0.0 kgu.lol
 0.0.0.0 d.kgu.lol
-0.0.0.0 www.kgu.lol
 0.0.0.0 ywrcqa.kgw.com
 0.0.0.0 khalidit.store
 0.0.0.0 www.khalidit.store
@@ -59617,7 +59613,6 @@
 0.0.0.0 woodbook.kir.jp
 0.0.0.0 www.kir.jp
 0.0.0.0 kirchenaustritt24.de
-0.0.0.0 www.kirchenaustritt24.de
 0.0.0.0 metrics.kirklands.com
 0.0.0.0 xqtcur.kirklands.com
 0.0.0.0 analytics.services.kirra.nl
@@ -59633,7 +59628,6 @@
 0.0.0.0 www.kissmetrics.com
 0.0.0.0 www.kissmetrics.io
 0.0.0.0 kistfulmapach.life
-0.0.0.0 www.kistfulmapach.life
 0.0.0.0 kit.net
 0.0.0.0 www.kit.net
 0.0.0.0 kitbit.net
@@ -59768,7 +59762,6 @@
 0.0.0.0 knowctr.com
 0.0.0.0 www.knowctr.com
 0.0.0.0 knr1.xyz
-0.0.0.0 www.knr1.xyz
 0.0.0.0 knutenegros.pro
 0.0.0.0 www.knutenegros.pro
 0.0.0.0 ads1.knxs.net
@@ -60177,7 +60170,6 @@
 0.0.0.0 kundvisaren.se
 0.0.0.0 www.kundvisaren.se
 0.0.0.0 kunidaotno.xyz
-0.0.0.0 www.kunidaotno.xyz
 0.0.0.0 kuno-gae.com
 0.0.0.0 www.kuno-gae.com
 0.0.0.0 stat.kununu.cz
@@ -60314,7 +60306,6 @@
 0.0.0.0 www.kzemm.com
 0.0.0.0 kzepp.com
 0.0.0.0 kzeqq.com
-0.0.0.0 www.kzeqq.com
 0.0.0.0 kzerr.com
 0.0.0.0 www.kzerr.com
 0.0.0.0 kzett.com
@@ -60442,7 +60433,6 @@
 0.0.0.0 smetrics.landolakesinc.com
 0.0.0.0 smetrics.landrover.com
 0.0.0.0 landupoatouwe.xyz
-0.0.0.0 www.landupoatouwe.xyz
 0.0.0.0 landyab.com
 0.0.0.0 www.landyab.com
 0.0.0.0 lane5down.com
@@ -60598,7 +60588,6 @@
 0.0.0.0 lcwfabt1.com
 0.0.0.0 www.lcwfabt1.com
 0.0.0.0 ldimnveryldgitwe.xyz
-0.0.0.0 www.ldimnveryldgitwe.xyz
 0.0.0.0 ldjfifi.com
 0.0.0.0 www.ldjfifi.com
 0.0.0.0 storeen.ldmnq.com
@@ -60784,7 +60773,6 @@
 0.0.0.0 learnpace.com
 0.0.0.0 www.learnpace.com
 0.0.0.0 learntech2earn.com
-0.0.0.0 www.learntech2earn.com
 0.0.0.0 leasemyproperty.ca
 0.0.0.0 www.leasemyproperty.ca
 0.0.0.0 leaseville.com
@@ -61178,7 +61166,6 @@
 0.0.0.0 www.lifelongkick.live
 0.0.0.0 pixel.ad.lifesight.io
 0.0.0.0 lifesoonersoar.org
-0.0.0.0 www.lifesoonersoar.org
 0.0.0.0 lifestreet.com
 0.0.0.0 www.lifestreet.com
 0.0.0.0 smetrics.lifestride.com
@@ -61449,7 +61436,6 @@
 0.0.0.0 www.linktech.cn
 0.0.0.0 ingress.linktr.ee
 0.0.0.0 linkunder.ru
-0.0.0.0 www.linkunder.ru
 0.0.0.0 linkury.com
 0.0.0.0 www.linkury.com
 0.0.0.0 linkwarkop4d.com
@@ -61618,7 +61604,6 @@
 0.0.0.0 www.littlmarsnews22.com
 0.0.0.0 adsv.svc.litv.tv
 0.0.0.0 liutou20230203.live
-0.0.0.0 www.liutou20230203.live
 0.0.0.0 liuyongming.net
 0.0.0.0 www.liuyongming.net
 0.0.0.0 excel-telemetry.officeapps.live.com
@@ -62029,7 +62014,6 @@
 0.0.0.0 members.lonelywifehookup.com
 0.0.0.0 www.lonelywifehookup.com
 0.0.0.0 lonfilliongin.com
-0.0.0.0 www.lonfilliongin.com
 0.0.0.0 longchampsacpascher.fr
 0.0.0.0 www.longchampsacpascher.fr
 0.0.0.0 longchampsacsoldes.fr
@@ -62061,7 +62045,6 @@
 0.0.0.0 secure.loom3otto.com
 0.0.0.0 www.loom3otto.com
 0.0.0.0 loomlarynx.com
-0.0.0.0 www.loomlarynx.com
 0.0.0.0 loonquan.com
 0.0.0.0 loopaautomate.com
 0.0.0.0 ads-cdn.loopaautomate.com
@@ -62416,6 +62399,10 @@
 0.0.0.0 c.lytics.io
 0.0.0.0 gcevpclb.lytics.io
 0.0.0.0 www.lytics.io
+0.0.0.0 lz-pub-ads.com
+0.0.0.0 img.lz-pub-ads.com
+0.0.0.0 play.lz-pub-ads.com
+0.0.0.0 www.lz-pub-ads.com
 0.0.0.0 lzcxzes.com
 0.0.0.0 www.lzcxzes.com
 0.0.0.0 lzxdx24yib.com
@@ -63906,6 +63893,8 @@
 0.0.0.0 www.meet3monk.com
 0.0.0.0 meet4you.net
 0.0.0.0 www.meet4you.net
+0.0.0.0 meetinsrilanka.com
+0.0.0.0 www.meetinsrilanka.com
 0.0.0.0 meetrics.com
 0.0.0.0 meetrics.net
 0.0.0.0 dbg01.meetrics.net
@@ -67920,6 +67909,8 @@
 0.0.0.0 search2.namequery.com
 0.0.0.0 search64.namequery.com
 0.0.0.0 search.us.namequery.com
+0.0.0.0 namesakeoscilloscopemarquis.com
+0.0.0.0 www.namesakeoscilloscopemarquis.com
 0.0.0.0 namesexual.com
 0.0.0.0 www.namesexual.com
 0.0.0.0 namikos.top
@@ -68328,6 +68319,8 @@
 0.0.0.0 nefdcnmvbt.com
 0.0.0.0 nefies.com
 0.0.0.0 www.nefies.com
+0.0.0.0 negahpub.com
+0.0.0.0 www.negahpub.com
 0.0.0.0 negotiatefoam.cn
 0.0.0.0 www.negotiatefoam.cn
 0.0.0.0 negotiationmajestic.com
@@ -68962,6 +68955,8 @@
 0.0.0.0 us-tracking.nextdoor.com
 0.0.0.0 nextgencounter.com
 0.0.0.0 www.nextgencounter.com
+0.0.0.0 nextleveldm.com
+0.0.0.0 www.nextleveldm.com
 0.0.0.0 nextleveltracking.eu
 0.0.0.0 tag.nextleveltracking.eu
 0.0.0.0 www.nextleveltracking.eu
@@ -70685,6 +70680,7 @@
 0.0.0.0 forms.ontraport.com
 0.0.0.0 onvictinitor.com
 0.0.0.0 data-49dc40e643.onvista.de
+0.0.0.0 onzlzyf.com
 0.0.0.0 oo00.biz
 0.0.0.0 oodnaturedf.xyz
 0.0.0.0 oodrampi.com
@@ -71551,6 +71547,79 @@
 0.0.0.0 lb.z.optimix.asia
 0.0.0.0 api.optimizely.com
 0.0.0.0 app.optimizely.com
+0.0.0.0 a10453949094.cdn.optimizely.com
+0.0.0.0 a10681260716.cdn.optimizely.com
+0.0.0.0 a10829270344.cdn.optimizely.com
+0.0.0.0 a1096093.cdn.optimizely.com
+0.0.0.0 a11000223989.cdn.optimizely.com
+0.0.0.0 a11085769837.cdn.optimizely.com
+0.0.0.0 a11179690159.cdn.optimizely.com
+0.0.0.0 a11347113422.cdn.optimizely.com
+0.0.0.0 a11391265293.cdn.optimizely.com
+0.0.0.0 a125375509.cdn.optimizely.com
+0.0.0.0 a12600010354.cdn.optimizely.com
+0.0.0.0 a14069890047.cdn.optimizely.com
+0.0.0.0 a14738960062.cdn.optimizely.com
+0.0.0.0 a14932920627.cdn.optimizely.com
+0.0.0.0 a16488430484.cdn.optimizely.com
+0.0.0.0 a166211981.cdn.optimizely.com
+0.0.0.0 a166688199.cdn.optimizely.com
+0.0.0.0 a1706490390.cdn.optimizely.com
+0.0.0.0 a17126690382.cdn.optimizely.com
+0.0.0.0 a1719570453.cdn.optimizely.com
+0.0.0.0 a17957420003.cdn.optimizely.com
+0.0.0.0 a1859010085.cdn.optimizely.com
+0.0.0.0 a2129670914.cdn.optimizely.com
+0.0.0.0 a234628017.cdn.optimizely.com
+0.0.0.0 a275532918.cdn.optimizely.com
+0.0.0.0 a2972860641.cdn.optimizely.com
+0.0.0.0 a3013110282.cdn.optimizely.com
+0.0.0.0 a304207300.cdn.optimizely.com
+0.0.0.0 a3580442334.cdn.optimizely.com
+0.0.0.0 a3698060313.cdn.optimizely.com
+0.0.0.0 a4621041136.cdn.optimizely.com
+0.0.0.0 a5090114122.cdn.optimizely.com
+0.0.0.0 a523170811.cdn.optimizely.com
+0.0.0.0 a553480116.cdn.optimizely.com
+0.0.0.0 a6529002483.cdn.optimizely.com
+0.0.0.0 a745050198.cdn.optimizely.com
+0.0.0.0 a752092193.cdn.optimizely.com
+0.0.0.0 a7544042.cdn.optimizely.com
+0.0.0.0 a7871036.cdn.optimizely.com
+0.0.0.0 a8571253058.cdn.optimizely.com
+0.0.0.0 a989617545.cdn.optimizely.com
+0.0.0.0 cdn-pci.optimizely.com
+0.0.0.0 a10198241005.cdn-pci.optimizely.com
+0.0.0.0 a11678830245.cdn-pci.optimizely.com
+0.0.0.0 a11701662245.cdn-pci.optimizely.com
+0.0.0.0 a11952274121.cdn-pci.optimizely.com
+0.0.0.0 a12524730382.cdn-pci.optimizely.com
+0.0.0.0 a13265720009.cdn-pci.optimizely.com
+0.0.0.0 a14687740654.cdn-pci.optimizely.com
+0.0.0.0 a15116900535.cdn-pci.optimizely.com
+0.0.0.0 a15304250335.cdn-pci.optimizely.com
+0.0.0.0 a15853140465.cdn-pci.optimizely.com
+0.0.0.0 a16865312328.cdn-pci.optimizely.com
+0.0.0.0 a17489381590.cdn-pci.optimizely.com
+0.0.0.0 a17910580195.cdn-pci.optimizely.com
+0.0.0.0 a18203511709.cdn-pci.optimizely.com
+0.0.0.0 a18852920489.cdn-pci.optimizely.com
+0.0.0.0 a19189620243.cdn-pci.optimizely.com
+0.0.0.0 a20228762925.cdn-pci.optimizely.com
+0.0.0.0 a20350670850.cdn-pci.optimizely.com
+0.0.0.0 a20391842497.cdn-pci.optimizely.com
+0.0.0.0 a21119720093.cdn-pci.optimizely.com
+0.0.0.0 a281343732.cdn-pci.optimizely.com
+0.0.0.0 a3533800155.cdn-pci.optimizely.com
+0.0.0.0 a440690335.cdn-pci.optimizely.com
+0.0.0.0 a8200950428.cdn-pci.optimizely.com
+0.0.0.0 a8367280580.cdn-pci.optimizely.com
+0.0.0.0 a8416096648.cdn-pci.optimizely.com
+0.0.0.0 a8447815042.cdn-pci.optimizely.com
+0.0.0.0 a8447843426.cdn-pci.optimizely.com
+0.0.0.0 a8781043284.cdn-pci.optimizely.com
+0.0.0.0 a8894411182.cdn-pci.optimizely.com
+0.0.0.0 cdn-s-optional.optimizely.com
 0.0.0.0 client.optimizely.com
 0.0.0.0 errors.client.optimizely.com
 0.0.0.0 log.optimizely.com
@@ -71866,6 +71935,8 @@
 0.0.0.0 otaserve.net
 0.0.0.0 d.otaserve.net
 0.0.0.0 www.otaserve.net
+0.0.0.0 otbrana.com
+0.0.0.0 www.otbrana.com
 0.0.0.0 otc-manila.com
 0.0.0.0 www.otc-manila.com
 0.0.0.0 otclick-adv.ru
@@ -79074,6 +79145,8 @@
 0.0.0.0 metrics.refinitiv.com
 0.0.0.0 solutions.refinitiv.com
 0.0.0.0 prod.tracking.refinitiv.com
+0.0.0.0 refitaus.com
+0.0.0.0 www.refitaus.com
 0.0.0.0 refl3alea.com
 0.0.0.0 secure.refl3alea.com
 0.0.0.0 www.refl3alea.com
@@ -82200,6 +82273,8 @@
 0.0.0.0 www.seapolo.com
 0.0.0.0 search-results.com
 0.0.0.0 www.search-results.com
+0.0.0.0 search4y.com
+0.0.0.0 www.search4y.com
 0.0.0.0 searchdconvertnow.com
 0.0.0.0 www.searchdconvertnow.com
 0.0.0.0 searchdiscovered.com
@@ -86621,6 +86696,7 @@
 0.0.0.0 t5.sjsmartcontent.org
 0.0.0.0 www.sjsmartcontent.org
 0.0.0.0 events.sk.ht
+0.0.0.0 skalk.info
 0.0.0.0 skanpiskar.one
 0.0.0.0 skarbnicanarodowa.pl
 0.0.0.0 www.skarbnicanarodowa.pl
@@ -91521,6 +91597,8 @@
 0.0.0.0 www.tidebuy.com
 0.0.0.0 tideya.net
 0.0.0.0 static.tidiochat.com
+0.0.0.0 tidy-mark.com
+0.0.0.0 www.tidy-mark.com
 0.0.0.0 smetrics.tiendamonge.com
 0.0.0.0 log.tienphong.vn
 0.0.0.0 tierbignews.com
