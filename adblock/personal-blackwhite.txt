@@ -582,10 +582,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 25 Feb 2023 14:22 UTC
-! Version: 2023.0225.1422.14
+! Last modified: 25 Feb 2023 20:01 UTC
+! Version: 2023.0225.2001.34
 ! Syntax: AdBlock
-! Domains: 29502
+! Domains: 29501
 !
 ||003store.com^
 ||007sites.com^
@@ -127510,6 +127510,7 @@
 
 ! Videos on theguardian.com
 @@|interactive.guim.co.uk^
+@@|sourcepoint.theguardian.com^
 
 ! Breaks site layout chaturbate
 @@|static-assets.highwebmedia.com^
