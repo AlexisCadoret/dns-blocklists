@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 24 Feb 2023 23:30 UTC
-# Version: 2023.0224.2330.35
+# Last modified: 25 Feb 2023 23:31 UTC
+# Version: 2023.0225.2331.37
 # Syntax: Hosts
-# Domains: 9833
+# Domains: 9825
 #
 0.0.0.0 willhaben.at.04300.id
 0.0.0.0 11trikots.com
@@ -3333,6 +3333,8 @@
 0.0.0.0 foxrm.fr
 0.0.0.0 www.foxrm.fr
 0.0.0.0 foxusenet.de
+0.0.0.0 foxxum.com
+0.0.0.0 www.foxxum.com
 0.0.0.0 fpjollet.com
 0.0.0.0 www.fpjollet.com
 0.0.0.0 fr-c.de
@@ -5452,7 +5454,6 @@
 0.0.0.0 maclakshmeshwar.com
 0.0.0.0 www.maclakshmeshwar.com
 0.0.0.0 macschritte.de
-0.0.0.0 www.macschritte.de
 0.0.0.0 mad-max-vd-brunnengaerten.de
 0.0.0.0 www.mad-max-vd-brunnengaerten.de
 0.0.0.0 maehercenter.de
@@ -5993,7 +5994,6 @@
 0.0.0.0 monclershop.us
 0.0.0.0 www.monclershop.us
 0.0.0.0 monclershopping.cn
-0.0.0.0 www.monclershopping.cn
 0.0.0.0 monclerwomen.top
 0.0.0.0 www.monclerwomen.top
 0.0.0.0 mondycar.de
@@ -6331,7 +6331,6 @@
 0.0.0.0 nicoll.at
 0.0.0.0 www.nicoll.at
 0.0.0.0 nidworkers.com
-0.0.0.0 www.nidworkers.com
 0.0.0.0 nigger.ch
 0.0.0.0 www.nigger.ch
 0.0.0.0 nikebillig.com
@@ -6811,7 +6810,6 @@
 0.0.0.0 pic-place.de
 0.0.0.0 www.pic-place.de
 0.0.0.0 picatrawler.com
-0.0.0.0 www.picatrawler.com
 0.0.0.0 picknick-liebe.de
 0.0.0.0 www.picknick-liebe.de
 0.0.0.0 pierrebuy.com
@@ -7248,7 +7246,6 @@
 0.0.0.0 reel-market.de
 0.0.0.0 www.reel-market.de
 0.0.0.0 ref-immo.com
-0.0.0.0 www.ref-immo.com
 0.0.0.0 refreshedts.online
 0.0.0.0 www.refreshedts.online
 0.0.0.0 regenmantel24.de
@@ -7284,7 +7281,6 @@
 0.0.0.0 reisebuero-fuchs.com
 0.0.0.0 www.reisebuero-fuchs.com
 0.0.0.0 reisebuero-kirsch.com
-0.0.0.0 www.reisebuero-kirsch.com
 0.0.0.0 reiterhof-geidner.de
 0.0.0.0 www.reiterhof-geidner.de
 0.0.0.0 reiterstueberl.net
@@ -7422,7 +7418,6 @@
 0.0.0.0 riverfront.at
 0.0.0.0 www.riverfront.at
 0.0.0.0 robbylake.com
-0.0.0.0 www.robbylake.com
 0.0.0.0 robuxforyou.info
 0.0.0.0 www.robuxforyou.info
 0.0.0.0 rockule.top
@@ -7466,7 +7461,6 @@
 0.0.0.0 ronain.com
 0.0.0.0 www.ronain.com
 0.0.0.0 ronald-schminke.de
-0.0.0.0 www.ronald-schminke.de
 0.0.0.0 roncartoons.de
 0.0.0.0 www.roncartoons.de
 0.0.0.0 rontis.de
@@ -7817,7 +7811,6 @@
 0.0.0.0 serafine.dk
 0.0.0.0 www.serafine.dk
 0.0.0.0 serendipity-parties.com
-0.0.0.0 www.serendipity-parties.com
 0.0.0.0 serienwelt.to
 0.0.0.0 www.serienwelt.to
 0.0.0.0 serishirts.com
@@ -8488,7 +8481,6 @@
 0.0.0.0 tech-land.de
 0.0.0.0 www.tech-land.de
 0.0.0.0 techdevices.club
-0.0.0.0 www.techdevices.club
 0.0.0.0 techerado.com
 0.0.0.0 www.techerado.com
 0.0.0.0 technik-chef.de
@@ -8560,7 +8552,6 @@
 0.0.0.0 texasdreamdolls.com
 0.0.0.0 www.texasdreamdolls.com
 0.0.0.0 thaisawadee.de
-0.0.0.0 www.thaisawadee.de
 0.0.0.0 thamaro.net
 0.0.0.0 www.thamaro.net
 0.0.0.0 that-first.de
@@ -8627,7 +8618,6 @@
 0.0.0.0 www.thehuggy.de
 0.0.0.0 pact.theicoin.com
 0.0.0.0 theinfinitylight.com
-0.0.0.0 www.theinfinitylight.com
 0.0.0.0 thejaycoclub.com
 0.0.0.0 www.thejaycoclub.com
 0.0.0.0 thejbweld.com
@@ -9191,8 +9181,10 @@
 0.0.0.0 www.vertow.com
 0.0.0.0 vertrauenwin.de
 0.0.0.0 www.vertrauenwin.de
+0.0.0.0 veryvoga.com
 0.0.0.0 veryvoga.es
 0.0.0.0 veryvoga.fr
+0.0.0.0 www.veryvoga.com
 0.0.0.0 www.veryvoga.es
 0.0.0.0 www.veryvoga.fr
 0.0.0.0 vesinhhoatam.com
