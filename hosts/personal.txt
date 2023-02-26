@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 26 Feb 2023 15:21 UTC
-# Version: 2023.0226.1521.54
+# Last modified: 26 Feb 2023 18:43 UTC
+# Version: 2023.0226.1843.22
 # Syntax: Hosts
-# Domains: 100944
+# Domains: 100848
 #
 0.0.0.0 003store.com
 0.0.0.0 www.003store.com
@@ -6928,7 +6928,6 @@
 0.0.0.0 ad.a-ads.com
 0.0.0.0 static.a-ads.com
 0.0.0.0 www.a-ads.com
-0.0.0.0 a-affiliate.net
 0.0.0.0 a-bring.com
 0.0.0.0 www.a-bring.com
 0.0.0.0 a-cast.jp
@@ -6969,7 +6968,6 @@
 0.0.0.0 a2dfp.net
 0.0.0.0 fr.a2dfp.net
 0.0.0.0 a2g-secure.com
-0.0.0.0 affiliates.a2hosting.com
 0.0.0.0 a2nn5eri7ce.com
 0.0.0.0 a2tw6yoodsag.com
 0.0.0.0 prod.cm.publishers.advertising.a2z.com
@@ -10651,8 +10649,6 @@
 0.0.0.0 www.adstatic.com
 0.0.0.0 adsterra.com
 0.0.0.0 ads.adsterra.com
-0.0.0.0 affiliates.adsterra.com
-0.0.0.0 beta.affiliates.adsterra.com
 0.0.0.0 np.adsterra.com
 0.0.0.0 publishers.adsterra.com
 0.0.0.0 beta.publishers.adsterra.com
@@ -11818,20 +11814,6 @@
 0.0.0.0 www.affili.ir
 0.0.0.0 www.affili.net
 0.0.0.0 cdn.affiliatable.io
-0.0.0.0 tr.affiliate.hu
-0.0.0.0 affiliate-b.com
-0.0.0.0 www.affiliate-b.com
-0.0.0.0 tracking.affiliateclub.cz
-0.0.0.0 affiliateedge.com
-0.0.0.0 www.affiliateedge.com
-0.0.0.0 affiliategroove.com
-0.0.0.0 www.affiliategroove.com
-0.0.0.0 affiliatelounge.com
-0.0.0.0 affiliateprom.day
-0.0.0.0 affiliateshop.com
-0.0.0.0 www.affiliateshop.com
-0.0.0.0 affiliatewindow.com
-0.0.0.0 www.affiliatewindow.com
 0.0.0.0 affiliation.software
 0.0.0.0 www.affiliation.software
 0.0.0.0 static.affiliatly.com
@@ -13396,8 +13378,6 @@
 0.0.0.0 alooma.com
 0.0.0.0 www.alooma.com
 0.0.0.0 ats.alot.com
-0.0.0.0 alpha-affiliates.com
-0.0.0.0 www.alpha-affiliates.com
 0.0.0.0 collect.alphastream.io
 0.0.0.0 alphonso.tv
 0.0.0.0 acrdb.alphonso.tv
@@ -14593,8 +14573,6 @@
 0.0.0.0 www.analyzz.com
 0.0.0.0 anapa-zarya.ru
 0.0.0.0 www.anapa-zarya.ru
-0.0.0.0 anastasiasaffiliate.com
-0.0.0.0 www.anastasiasaffiliate.com
 0.0.0.0 360.anatic.net
 0.0.0.0 anaxialaphonia.com
 0.0.0.0 anbuifoenbi.com
@@ -14966,7 +14944,6 @@
 0.0.0.0 admin1pcanywheretestsitev0-git.app-measurement.com
 0.0.0.0 adserver.app-measurement.com
 0.0.0.0 adservernovelltestsitev1testsitev1-gitforums-win10v2beta.app-measurement.com
-0.0.0.0 affiliate-novelltestsitev1testsitev1-gitforums-win10v2beta.app-measurement.com
 0.0.0.0 apis.app-measurement.com
 0.0.0.0 assets.app-measurement.com
 0.0.0.0 assetssharepoint-vnc-1rer-11a6614chp18n448epz-ipv1accesstravel.app-measurement.com
@@ -18934,10 +18911,6 @@
 0.0.0.0 ssc.bet.plus
 0.0.0.0 bet-at-home.com
 0.0.0.0 www.bet-at-home.com
-0.0.0.0 bet365affiliates.com
-0.0.0.0 imstore.bet365affiliates.com
-0.0.0.0 wsbanpush.bet365affiliates.com
-0.0.0.0 www.bet365affiliates.com
 0.0.0.0 betads.xyz
 0.0.0.0 beterrakionan.com
 0.0.0.0 ak.beterrakionan.com
@@ -19091,7 +19064,6 @@
 0.0.0.0 bhoroshasthol.com
 0.0.0.0 www.bhoroshasthol.com
 0.0.0.0 ensighten.bhphoto.com
-0.0.0.0 affiliates.bhphotovideo.com
 0.0.0.0 bhpprfk.cn
 0.0.0.0 fc.bhpprfk.cn
 0.0.0.0 bhs4.com
@@ -26617,8 +26589,6 @@
 0.0.0.0 ausclh.castlery.com
 0.0.0.0 casualscollection.com
 0.0.0.0 www.casualscollection.com
-0.0.0.0 casumoaffiliates.com
-0.0.0.0 www.casumoaffiliates.com
 0.0.0.0 catad5959.com
 0.0.0.0 wr.catad5959.com
 0.0.0.0 wr-im.catad5959.com
@@ -26781,7 +26751,6 @@
 0.0.0.0 cdtm.cdiscount.com
 0.0.0.0 smetrics.cdiscount.com
 0.0.0.0 tracking.cdiscount.com
-0.0.0.0 affiliates.cdkeys.com
 0.0.0.0 cdn.house
 0.0.0.0 analytics.cdn.live
 0.0.0.0 b.cdn.md
@@ -28186,7 +28155,6 @@
 0.0.0.0 chewcoat.com
 0.0.0.0 chewsrompedhemp.com
 0.0.0.0 chfpgcbe.com
-0.0.0.0 affiliate.chiaki.vn
 0.0.0.0 clicker.chiaki.vn
 0.0.0.0 chibaigo.com
 0.0.0.0 chibchasuffete.com
@@ -30207,7 +30175,6 @@
 0.0.0.0 dzupi9b81okew.cloudfront.net
 0.0.0.0 dzv1ekshu2vbs.cloudfront.net
 0.0.0.0 dzxr711a4yw31.cloudfront.net
-0.0.0.0 asia-northeast1-affiliate-pr.cloudfunctions.net
 0.0.0.0 asia-northeast3-kmplex-905ad.cloudfunctions.net
 0.0.0.0 europe-west1-bonnier-big-data.cloudfunctions.net
 0.0.0.0 us-central1-adaptive-growth.cloudfunctions.net
@@ -30539,7 +30506,6 @@
 0.0.0.0 servicer.adskeeper.co.uk
 0.0.0.0 tracking.adweb.co.kr
 0.0.0.0 tracking02.adweb.co.kr
-0.0.0.0 affiliatefuture.co.uk
 0.0.0.0 aica.co.jp
 0.0.0.0 www.aica.co.jp
 0.0.0.0 ws-adv.ais.co.th
@@ -30824,7 +30790,6 @@
 0.0.0.0 smetrics.jewson.co.uk
 0.0.0.0 email-em.jll.co.uk
 0.0.0.0 tracker.joongang.co.kr
-0.0.0.0 affiliate.juno.co.uk
 0.0.0.0 k-h.co.il
 0.0.0.0 stat.kbs.co.kr
 0.0.0.0 dynamics.kent.co.in
@@ -30954,18 +30919,10 @@
 0.0.0.0 smetrics.pwc.co.uk
 0.0.0.0 pulse.rac.co.uk
 0.0.0.0 smetrics.rac.co.uk
-0.0.0.0 affiliate.rakuten.co.jp
-0.0.0.0 log.affiliate.rakuten.co.jp
-0.0.0.0 mtwidget04.affiliate.rakuten.co.jp
-0.0.0.0 static.affiliate.rakuten.co.jp
-0.0.0.0 xml.affiliate.rakuten.co.jp
 0.0.0.0 ba.afl.rakuten.co.jp
 0.0.0.0 hb.afl.rakuten.co.jp
 0.0.0.0 hbb.afl.rakuten.co.jp
 0.0.0.0 ashiato.rakuten.co.jp
-0.0.0.0 affiliate.ashiato.rakuten.co.jp
-0.0.0.0 mtwidget03.affiliate.ashiato.rakuten.co.jp
-0.0.0.0 mtwidget05.affiliate.ashiato.rakuten.co.jp
 0.0.0.0 grp01.ashiato.rakuten.co.jp
 0.0.0.0 mall.ashiato.rakuten.co.jp
 0.0.0.0 api.bookmark.rakuten.co.jp
@@ -31732,7 +31689,6 @@
 0.0.0.0 reporteplatense.com.ar
 0.0.0.0 retargeter.com.br
 0.0.0.0 roblox.com.et
-0.0.0.0 affiliates.rozetka.com.ua
 0.0.0.0 api-analytics.rozetka.com.ua
 0.0.0.0 rtb.com.ru
 0.0.0.0 cdn.rtb.com.ru
@@ -35226,7 +35182,6 @@
 0.0.0.0 firstbankdatacorporation.demdex.net
 0.0.0.0 firstcitizens.demdex.net
 0.0.0.0 firstfinancialbank.demdex.net
-0.0.0.0 firstnationalbankofomahaandaffiliates.demdex.net
 0.0.0.0 firstrepublicbank.demdex.net
 0.0.0.0 fitbit.demdex.net
 0.0.0.0 flagstar.demdex.net
@@ -36144,7 +36099,6 @@
 0.0.0.0 difies.com
 0.0.0.0 www.difies.com
 0.0.0.0 static.digidip.net
-0.0.0.0 affiliate.digikala.com
 0.0.0.0 affstat.digikala.com
 0.0.0.0 new-sentry.digikala.com
 0.0.0.0 tracker.digikala.com
@@ -36528,7 +36482,6 @@
 0.0.0.0 www.dmhzqokylmkc.com
 0.0.0.0 advantage.dmi.com
 0.0.0.0 stlog.d.dmkt-sp.jp
-0.0.0.0 ip.affiliate.dmm.com
 0.0.0.0 stat.i3.dmm.com
 0.0.0.0 trac.i3.dmm.com
 0.0.0.0 ssgtm.trac.i3.dmm.com
@@ -43119,7 +43072,6 @@
 0.0.0.0 dthvdr9.com
 0.0.0.0 www.dthvdr9.com
 0.0.0.0 dtiserv.com
-0.0.0.0 affiliate.dtiserv.com
 0.0.0.0 www.dtiserv.com
 0.0.0.0 dtiserv2.com
 0.0.0.0 www.dtiserv2.com
@@ -43260,8 +43212,6 @@
 0.0.0.0 www.duncanllc.com
 0.0.0.0 dunct.com
 0.0.0.0 www.dunct.com
-0.0.0.0 dunderaffiliates.com
-0.0.0.0 www.dunderaffiliates.com
 0.0.0.0 dwglgp.dunelm.com
 0.0.0.0 dunganof.com
 0.0.0.0 qo.dunganof.com
@@ -43559,7 +43509,6 @@
 0.0.0.0 wlpinnacle.adsrv.eacdn.com
 0.0.0.0 wlpixbet.adsrv.eacdn.com
 0.0.0.0 wlskybet2.adsrv.eacdn.com
-0.0.0.0 wlsugarhouseaffiliates.adsrv.eacdn.com
 0.0.0.0 wlsuperbet.adsrv.eacdn.com
 0.0.0.0 wlwowvegas.adsrv.eacdn.com
 0.0.0.0 wlwsiusllcwynnbet.adsrv.eacdn.com
@@ -48012,7 +47961,6 @@
 0.0.0.0 www.fioressence.com
 0.0.0.0 firearmtire.com
 0.0.0.0 www.firearmtire.com
-0.0.0.0 affiliate-script-pr.firebaseapp.com
 0.0.0.0 fireflyengagement.com
 0.0.0.0 fa.fireflyengagement.com
 0.0.0.0 rs-stripe.fireflyengagement.com
@@ -49865,7 +49813,6 @@
 0.0.0.0 trackon.g2afse.com
 0.0.0.0 tsmedia.g2afse.com
 0.0.0.0 valuadle.g2afse.com
-0.0.0.0 wargaming-affiliate.g2afse.com
 0.0.0.0 whaaatads.g2afse.com
 0.0.0.0 wildbearads.g2afse.com
 0.0.0.0 wisdommobile.g2afse.com
@@ -50382,7 +50329,6 @@
 0.0.0.0 gencid.com
 0.0.0.0 www.gencid.com
 0.0.0.0 t-s.gene.com
-0.0.0.0 affiliates.genealogybank.com
 0.0.0.0 smetrics.generac.com
 0.0.0.0 generalizeruffleembroidery.com
 0.0.0.0 www.generalizeruffleembroidery.com
@@ -52394,8 +52340,6 @@
 0.0.0.0 guyyil.store
 0.0.0.0 www.guyyil.store
 0.0.0.0 waatch.gva.be
-0.0.0.0 gvcaffiliates.com
-0.0.0.0 www.gvcaffiliates.com
 0.0.0.0 gvt2.com
 0.0.0.0 beacons.gvt2.com
 0.0.0.0 beacons2.gvt2.com
@@ -53075,8 +53019,6 @@
 0.0.0.0 www.hermichermicbroadcastinglifting.com
 0.0.0.0 heroadmissionfinalize.com
 0.0.0.0 www.heroadmissionfinalize.com
-0.0.0.0 heroaffiliates.com
-0.0.0.0 www.heroaffiliates.com
 0.0.0.0 adv.herocraft.com
 0.0.0.0 herodiessujed.org
 0.0.0.0 herodqa.com
@@ -53121,8 +53063,6 @@
 0.0.0.0 hethisisath.xyz
 0.0.0.0 heugeqm.com
 0.0.0.0 www.heugeqm.com
-0.0.0.0 affiliate.heureka.cz
-0.0.0.0 serve.affiliate.heureka.cz
 0.0.0.0 hexagon-analytics.com
 0.0.0.0 connect.hexagongeosystems.com
 0.0.0.0 hexinfotraders.com
@@ -53763,7 +53703,6 @@
 0.0.0.0 om.hotels.com
 0.0.0.0 oms.hotels.com
 0.0.0.0 som.hotels.com
-0.0.0.0 affiliates.hotelscombined.com
 0.0.0.0 hothomefuck.com
 0.0.0.0 hazicu.hothomefuck.com
 0.0.0.0 www.hothomefuck.com
@@ -54790,8 +54729,6 @@
 0.0.0.0 system-lexoffice.identify-cmd.de
 0.0.0.0 identity-x.io
 0.0.0.0 www.identity-x.io
-0.0.0.0 idevaffiliate.com
-0.0.0.0 www.idevaffiliate.com
 0.0.0.0 idevdirect.com
 0.0.0.0 www.idevdirect.com
 0.0.0.0 analytics.idfnet.net
@@ -57237,7 +57174,6 @@
 0.0.0.0 iptrack.io
 0.0.0.0 www.iptrack.io
 0.0.0.0 ibd-as-api.iq.com
-0.0.0.0 tracker.affiliate.iqbroker.com
 0.0.0.0 iqcontentplatform.de
 0.0.0.0 cdn.iqcontentplatform.de
 0.0.0.0 d.iqcontentplatform.de
@@ -57293,7 +57229,6 @@
 0.0.0.0 iqncjxw.com
 0.0.0.0 www.iqncjxw.com
 0.0.0.0 iqoption.com
-0.0.0.0 affiliate.iqoption.com
 0.0.0.0 api.iqoption.com
 0.0.0.0 auth.iqoption.com
 0.0.0.0 avatars.iqoption.com
@@ -59313,7 +59248,6 @@
 0.0.0.0 www.kliksaya.com
 0.0.0.0 kliqz.com
 0.0.0.0 hearob.klix.ba
-0.0.0.0 affiliate.klook.com
 0.0.0.0 log.klook.com
 0.0.0.0 kloperd.com
 0.0.0.0 kloshgriffe.com
@@ -61016,7 +60950,6 @@
 0.0.0.0 linkwarkop4d.com
 0.0.0.0 www.linkwarkop4d.com
 0.0.0.0 linkwi.se
-0.0.0.0 affiliate.linkwi.se
 0.0.0.0 gr.linkwi.se
 0.0.0.0 www.linkwi.se
 0.0.0.0 linkwithin.com
@@ -62017,7 +61950,6 @@
 0.0.0.0 www.maccms.com
 0.0.0.0 event.mackeeper.com
 0.0.0.0 rdt.mackeeper.com
-0.0.0.0 mackeeperaffiliates.com
 0.0.0.0 api-lytics.macpaw.com
 0.0.0.0 img.macromill.com
 0.0.0.0 elq.macu.com
@@ -62843,7 +62775,6 @@
 0.0.0.0 www.mavexport.com
 0.0.0.0 maw5r7y9s9helley.com
 0.0.0.0 maxbounty.com
-0.0.0.0 affiliates.maxbounty.com
 0.0.0.0 www.maxbounty.com
 0.0.0.0 maxcache.ml
 0.0.0.0 maxetise.net
@@ -66944,14 +66875,6 @@
 0.0.0.0 banners.myads.ge
 0.0.0.0 myadx.net
 0.0.0.0 r.myadx.net
-0.0.0.0 myaffiliateprogram.com
-0.0.0.0 www.myaffiliateprogram.com
-0.0.0.0 myaffiliates.com
-0.0.0.0 elb.myaffiliates.com
-0.0.0.0 cbz.elb.myaffiliates.com
-0.0.0.0 revenuenetwork.elb.myaffiliates.com
-0.0.0.0 revmasters.elb.myaffiliates.com
-0.0.0.0 www.myaffiliates.com
 0.0.0.0 cookie.myamerigas.com
 0.0.0.0 stats.myangular.life
 0.0.0.0 rqyxdk.myanimelist.net
@@ -68391,7 +68314,6 @@
 0.0.0.0 nextleveltracking.eu
 0.0.0.0 tag.nextleveltracking.eu
 0.0.0.0 www.nextleveltracking.eu
-0.0.0.0 affiliatetxt.nextmediaweb.com
 0.0.0.0 nextmillennium.io
 0.0.0.0 pp2-api.nextmillennium.io
 0.0.0.0 www.nextmillennium.io
@@ -69014,8 +68936,6 @@
 0.0.0.0 nscontext.com
 0.0.0.0 nsfwadds.com
 0.0.0.0 loc.nsfwadds.com
-0.0.0.0 nsfxaffiliates.com
-0.0.0.0 www.nsfxaffiliates.com
 0.0.0.0 nsgalleries.com
 0.0.0.0 www.nsgalleries.com
 0.0.0.0 cdn.nsimg.net
@@ -71331,8 +71251,6 @@
 0.0.0.0 osdoshcwyaev.xyz
 0.0.0.0 www.osdoshcwyaev.xyz
 0.0.0.0 osfjiqj.com
-0.0.0.0 osiaffiliate.com
-0.0.0.0 www.osiaffiliate.com
 0.0.0.0 osiextantly.com
 0.0.0.0 osifelanseante.lol
 0.0.0.0 ositracker.com
@@ -72046,6 +71964,8 @@
 0.0.0.0 pas-rahav.com
 0.0.0.0 bkcdn.pas-rahav.com
 0.0.0.0 www.pas-rahav.com
+0.0.0.0 pasadok.com
+0.0.0.0 www.pasadok.com
 0.0.0.0 pasangiklan.com
 0.0.0.0 static.pasangiklan.com
 0.0.0.0 www.pasangiklan.com
@@ -73162,7 +73082,6 @@
 0.0.0.0 pioneersuspectedjury.com
 0.0.0.0 www.pioneersuspectedjury.com
 0.0.0.0 pionwaney.com
-0.0.0.0 ads.pipaffiliates.com
 0.0.0.0 pipizhanzhang.com
 0.0.0.0 www.pipizhanzhang.com
 0.0.0.0 pippio.com
@@ -73184,6 +73103,8 @@
 0.0.0.0 pisism.com
 0.0.0.0 pistolsizehoe.com
 0.0.0.0 www.pistolsizehoe.com
+0.0.0.0 pitapbzumvwa.com
+0.0.0.0 www.pitapbzumvwa.com
 0.0.0.0 sstats.pitchfork.com
 0.0.0.0 t.pittsburghpanthers.com
 0.0.0.0 pivotdesignmedia.com
@@ -73712,7 +73633,6 @@
 0.0.0.0 loteria.pocketads.pl
 0.0.0.0 pocketfaucet.com
 0.0.0.0 pocketoption.com
-0.0.0.0 affiliate.pocketoption.com
 0.0.0.0 m.pocketoption.com
 0.0.0.0 www.pocketoption.com
 0.0.0.0 pocketstay.com
@@ -79106,8 +79026,6 @@
 0.0.0.0 iwin.rewardsadvisor.com
 0.0.0.0 win.rewardsadvisor.com
 0.0.0.0 www.rewardsadvisor.com
-0.0.0.0 rewardsaffiliates.com
-0.0.0.0 www.rewardsaffiliates.com
 0.0.0.0 rewardsavenue.net
 0.0.0.0 www.rewardsavenue.net
 0.0.0.0 rewardsgiantusa.com
@@ -80389,8 +80307,6 @@
 0.0.0.0 app.roximity.com
 0.0.0.0 roxot-panel.com
 0.0.0.0 cdn-plus.roxot-panel.com
-0.0.0.0 roxyaffiliates.com
-0.0.0.0 www.roxyaffiliates.com
 0.0.0.0 royal-trades.com
 0.0.0.0 www.royal-trades.com
 0.0.0.0 royalcactus.com
@@ -81256,8 +81172,6 @@
 0.0.0.0 api.saypromo.net
 0.0.0.0 botnet.sayto1k.ru
 0.0.0.0 sb89347.com
-0.0.0.0 sbaffiliates.com
-0.0.0.0 www.sbaffiliates.com
 0.0.0.0 zug.sbb.ch
 0.0.0.0 sbbanner.com
 0.0.0.0 www.sbbanner.com
@@ -81840,7 +81754,6 @@
 0.0.0.0 www.selfcontrolenquirytyran.com
 0.0.0.0 selfishsnake.com
 0.0.0.0 sellhealth.com
-0.0.0.0 affiliates.sellhealth.com
 0.0.0.0 www.sellhealth.com
 0.0.0.0 amd.sellingsimplified.net
 0.0.0.0 sellpoint.net
@@ -88786,6 +88699,8 @@
 0.0.0.0 swamissou.com
 0.0.0.0 swampgillspersonnel.com
 0.0.0.0 www.swampgillspersonnel.com
+0.0.0.0 swanbxca.com
+0.0.0.0 www.swanbxca.com
 0.0.0.0 swankysquare.com
 0.0.0.0 www.swankysquare.com
 0.0.0.0 swaptrap.live
@@ -90780,8 +90695,6 @@
 0.0.0.0 url4077.ads-service.tiktok.com
 0.0.0.0 ads-sg.tiktok.com
 0.0.0.0 ads-va.tiktok.com
-0.0.0.0 affiliate.tiktok.com
-0.0.0.0 affiliate-id.tiktok.com
 0.0.0.0 analytics.tiktok.com
 0.0.0.0 analytics-sg.tiktok.com
 0.0.0.0 business-api.tiktok.com
@@ -91447,8 +91360,6 @@
 0.0.0.0 www.trackerhqu.com
 0.0.0.0 trackerrr.com
 0.0.0.0 www.trackerrr.com
-0.0.0.0 tracking-genesisaffiliates.com
-0.0.0.0 www.tracking-genesisaffiliates.com
 0.0.0.0 tracking101.com
 0.0.0.0 www.tracking101.com
 0.0.0.0 tracking202.com
@@ -96604,8 +96515,6 @@
 0.0.0.0 www.vpn-content.net
 0.0.0.0 vpn1.cfd
 0.0.0.0 www.vpn1.cfd
-0.0.0.0 vpnaffiliates.com
-0.0.0.0 www.vpnaffiliates.com
 0.0.0.0 vpnclick.biz
 0.0.0.0 vpnmightberequired.xyz
 0.0.0.0 www.vpnmightberequired.xyz
@@ -98076,8 +97985,6 @@
 0.0.0.0 www.win-crack.com
 0.0.0.0 win-spy.com
 0.0.0.0 www.win-spy.com
-0.0.0.0 winaffiliates.com
-0.0.0.0 www.winaffiliates.com
 0.0.0.0 winbaicai.com
 0.0.0.0 www.winbaicai.com
 0.0.0.0 winbestprizess.info
@@ -100293,7 +100200,6 @@
 0.0.0.0 api.sdk.zadn.vn
 0.0.0.0 log.sdk.zadn.vn
 0.0.0.0 zaful.com
-0.0.0.0 affiliate.zaful.com
 0.0.0.0 app.zaful.com
 0.0.0.0 au.zaful.com
 0.0.0.0 cart.zaful.com
@@ -100362,8 +100268,6 @@
 0.0.0.0 api.zanox.ws
 0.0.0.0 static.zanox.com
 0.0.0.0 www.zanox.com
-0.0.0.0 zanox-affiliate.de
-0.0.0.0 www.zanox-affiliate.de
 0.0.0.0 zap.buzz
 0.0.0.0 www.zap.buzz
 0.0.0.0 zapakapl.com
@@ -100953,7 +100857,3 @@
 0.0.0.0 trk67.zzzperform.com
 0.0.0.0 trk82.zzzperform.com
 0.0.0.0 trk85.zzzperform.com
-0.0.0.0 pitapbzumvwa.com
-0.0.0.0 strettechoco.com
-0.0.0.0 swanbxca.com
-0.0.0.0 pasadok.com
