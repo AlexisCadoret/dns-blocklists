@@ -582,10 +582,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 26 Feb 2023 17:34 UTC
-! Version: 2023.0226.1734.24
+! Last modified: 26 Feb 2023 18:10 UTC
+! Version: 2023.0226.1810.13
 ! Syntax: AdBlock
-! Domains: 36057
+! Domains: 36063
 !
 ||00-tv.com^
 ||003store.com^
@@ -735,6 +735,7 @@
 ||yaolu.yuedu.163.com^
 ||vmonitor.ws.netease.com.163jiasu.com^
 ||shared.youdao.com.163jiasu.com^
+||m.analytics.126.net.163jiasu.com^
 ||iadmusicmat.music.126.net.163jiasu.com^
 ||pg-ad-b1.ws.126.net.163jiasu.com^
 ||yt-adp.ws.126.net.163jiasu.com^
@@ -3114,6 +3115,7 @@
 ||track-eu.adformnet.akadns.net^
 ||pangle.io.bytewlb.akadns.net^
 ||iadsdk.apple.com.akadns.net^
+||gtm.analytics.chase.com.akadns.net^
 ||metcon.hulu.com.akadns.net^
 ||vortex.hulu.com.akadns.net^
 ||indexww.com.akadns.net^
@@ -25320,6 +25322,7 @@
 ||partypoker.com^
 ||parvamusic.ir^
 ||pas-rahav.com^
+||pasadok.com^
 ||pasangiklan.com^
 ||pasbstbovc.com^
 ||ma.pasco.com^
@@ -25804,6 +25807,7 @@
 ||pirsch.io^
 ||pisism.com^
 ||pistolsizehoe.com^
+||pitapbzumvwa.com^
 ||sstats.pitchfork.com^
 ||t.pittsburghpanthers.com^
 ||pivotdesignmedia.com^
@@ -30824,6 +30828,7 @@
 ||stretchedcreepy.com^
 ||stretchsister.com^
 ||stretchsquirrel.com^
+||strettechoco.com^
 ||strewjaunty.com^
 ||strictgrittwine.com^
 ||strike.coop^
@@ -31072,6 +31077,7 @@
 ||swallowseafood.com^
 ||swamissou.com^
 ||swampgillspersonnel.com^
+||swanbxca.com^
 ||swankysquare.com^
 ||swaptrap.live^
 ||ybswii.swarovski.com^
