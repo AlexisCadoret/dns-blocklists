@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 26 Feb 2023 18:43 UTC
-# Version: 2023.0226.1843.22
+# Last modified: 26 Feb 2023 20:04 UTC
+# Version: 2023.0226.2004.25
 # Syntax: Domains
-# Domains: 100848
+# Domains: 100831
 #
 003store.com
 www.003store.com
@@ -5994,6 +5994,8 @@ ns7.322ffbbc7c1b312c2f9d942f20422f8d.com
 ns8.322ffbbc7c1b312c2f9d942f20422f8d.com
 ns9.322ffbbc7c1b312c2f9d942f20422f8d.com
 www.322ffbbc7c1b312c2f9d942f20422f8d.com
+328888.xyz
+i.328888.xyz
 331hwh.com
 3322.org
 aa0533.3322.org
@@ -6221,8 +6223,6 @@ gostat.3g.cn
 goupdate.3g.cn
 imupdate.3g.cn
 launchermsg.3g.cn
-3g2upl4pq6kufc4m.tk
-www.3g2upl4pq6kufc4m.tk
 3gl.net
 autopub.3gl.net
 c04a.3gl.net
@@ -8016,7 +8016,6 @@ adap.tv
 cdn.adap.tv
 control.adap.tv
 control-geo.adap.tv
-redir.adap.tv
 sync-geo.adap.tv
 uplynk-geo.adap.tv
 vssp-ads-geo.adap.tv
@@ -8127,7 +8126,6 @@ adbutler.com
 www.adbutler.com
 adbutler-fermion.com
 adbutter.net
-redir.adbutter.net
 static.adbutter.net
 trk.adbutter.net
 www.adbutter.net
@@ -9999,7 +9997,6 @@ assets.adpushup.com
 campaign.adpushup.com
 cdn.adpushup.com
 e3.adpushup.com
-feedback.adpushup.com
 geo.adpushup.com
 public-webservice.geo.adpushup.com
 staging5.adpushup.com
@@ -10039,7 +10036,6 @@ adrecord.com
 www.adrecord.com
 adrecover.com
 delivery.adrecover.com
-feedback.adrecover.com
 www.adrecover.com
 adrek-lgbt.org
 speedtest.adrek-lgbt.org
@@ -15004,7 +15000,6 @@ euwe.app-measurement.com
 events.app-measurement.com
 exchange.app-measurement.com
 facebook.app-measurement.com
-feedback.app-measurement.com
 file.app-measurement.com
 firewall.app-measurement.com
 g-conf-i5-srxhvdfrlpgryztbvoiuqnnhodkfsc-t4tv-pcanywhere-hwcdn.app-measurement.com
@@ -20500,15 +20495,9 @@ www.bravetense.com
 bravospots.com
 www.bravospots.com
 ijaabm.bravotv.com
-braze.com
 braze.eu
-cdn.braze.com
 cdn.braze.eu
-confluence.braze.com
-dashboard.braze.com
 dashboard-01.braze.eu
-dashboard-03.braze.com
-dashboard-05.braze.com
 fra-01.braze.eu
 blink.fra-01.braze.eu
 clusava.fra-01.braze.eu
@@ -20582,11 +20571,6 @@ rest.iad-06.braze.com
 sdk.iad-06.braze.com
 iad-08.braze.com
 sdk.iad-08.braze.com
-info.braze.com
-investors.braze.com
-jfk.braze.com
-learning.braze.com
-www.braze.com
 www.braze.eu
 landing1.brazzersnetwork.com
 brazzerssurvey.com
@@ -26802,6 +26786,8 @@ reporting.cdndex.io
 cdnfreemalva.com
 cdngain.com
 media.cdngain.com
+cdngcloud.com
+www.cdngcloud.com
 e.cdngeek.com
 stat.cdngeek.com
 cdnhst.xyz
@@ -28644,6 +28630,13 @@ clean-1-clean.club
 sg.clean-1-clean.club
 us.clean-1-clean.club
 www.clean-1-clean.club
+clean-2-clean.club
+de.clean-2-clean.club
+in.clean-2-clean.club
+sg.clean-2-clean.club
+uk.clean-2-clean.club
+us.clean-2-clean.club
+www.clean-2-clean.club
 clean-blocker.com
 api.clean-blocker.com
 cleaneffectivedevicerisk.autos
@@ -48273,7 +48266,6 @@ www.flowgo.com
 flowpubdom.info
 www.flowpubdom.info
 flowwiththetide.xyz
-redir.flowwiththetide.xyz
 www.flowwiththetide.xyz
 flpscuolafoggia.it
 www.flpscuolafoggia.it
@@ -53299,7 +53291,6 @@ www.highrevenuecpm.com
 highrevenuecpmnetwork.com
 www.highrevenuecpmnetwork.com
 filter.highsea.fun
-redir.hightid.xyz
 marketing.highwoods.com
 hihrfxy.com
 www.hihrfxy.com
@@ -53638,6 +53629,8 @@ da.hornbach.at
 da.hornbach.de
 da.hornbach.nl
 da.hornbach.ro
+hornygirlsinapp.com
+www.hornygirlsinapp.com
 horzrb.com
 hosaur.com
 www.hosaur.com
@@ -54528,6 +54521,8 @@ i2idata.com
 adsp.i2idata.com
 www.i2idata.com
 geoinfo.i2w.io
+i305175.net
+www.i305175.net
 ios.pclog.i4.cn
 i8xkjci7nd.com
 safetyandclientcontrol.i989.net
@@ -57672,7 +57667,6 @@ jads.co
 ck.jads.co
 i.jads.co
 poweredby.jads.co
-redir.jads.co
 www.jads.co
 jadspro.live
 click-eu.jadspro.live
@@ -63847,12 +63841,9 @@ fpt.microsoft.com
 merchantpool1.fpt.microsoft.com
 ieonline.microsoft.com
 ieonlinews.microsoft.com
-redir.metaservices.microsoft.com
 geover-prod.do.dsp.mp.microsoft.com
 watson.officeint.microsoft.com
 irving.msftvpn.ras.microsoft.com
-feedback.search.microsoft.com
-share.microsoft.com
 i1.services.social.microsoft.com
 spynet2.microsoft.com
 spynetalt.microsoft.com
@@ -63878,7 +63869,6 @@ statsfe1.ws.microsoft.com
 statsfe2.ws.microsoft.com
 microsoft-cnd.com
 www.microsoft-cnd.com
-feedback.microsoft-hohm.com
 microsoft-notifcation.com
 www.microsoft-notifcation.com
 microsoft-support.net
@@ -71606,7 +71596,6 @@ api.ownpage.fr
 assets.ownpage.fr
 production.ownpage.fr
 api.production.ownpage.fr
-redir.ownpage.fr
 script.ownpage.fr
 www.ownpage.fr
 ox-bio.com
@@ -72452,7 +72441,6 @@ eu.pendo.io
 app.eu.pendo.io
 cdn.eu.pendo.io
 data.eu.pendo.io
-feedback.eu.pendo.io
 api.feedback.eu.pendo.io
 mobile.pendo.io
 us.data2.mobile.pendo.io
@@ -72465,7 +72453,6 @@ pendo-internal.pendo.io
 content.pendo-internal.pendo.io
 data.pendo-internal.pendo.io
 us.pendo.io
-feedback.us.pendo.io
 api.feedback.us.pendo.io
 www.pendo.io
 sjourney.penfed.org
@@ -74410,6 +74397,7 @@ pl17792298.profitablegatetocontent.com
 www.profitablegatetocontent.com
 profitabletrustednetwork.com
 www.profitabletrustednetwork.com
+cdn1.profitmetrics.io
 profitshare.bg
 profitshare.ro
 app.profitshare.ro
@@ -80210,7 +80198,6 @@ romivapsi.com
 www.romivapsi.com
 rompercava.com
 cb.rompercava.com
-feedback.cn.ronghub.com
 stats.cn.ronghub.com
 statssg01.cn.ronghub.com
 roniashop.com
@@ -83637,9 +83624,7 @@ www.serviciar.com
 pub.servidoresge.com
 serving-passthrough.com
 xml.serving-passthrough.com
-serving-sys.com
 ads-dv.serving-sys.com
-bs.serving-sys.com
 ds.serving-sys.com
 gizmo.serving-sys.com
 lm.serving-sys.com
@@ -83647,7 +83632,6 @@ msntest.serving-sys.com
 oo.serving-sys.com
 secure-ds.serving-sys.com
 services.serving-sys.com
-www.serving-sys.com
 servingcdn.net
 www.servingcdn.net
 hitcounter.servmetric.com
@@ -88121,6 +88105,8 @@ stretchedcreepy.com
 www.stretchedcreepy.com
 stretchsister.com
 stretchsquirrel.com
+strettechoco.com
+www.strettechoco.com
 strewjaunty.com
 www.strewjaunty.com
 strictgrittwine.com
@@ -91218,6 +91204,8 @@ touchstoneresearch.com
 www.touchstoneresearch.com
 touchtacchi.net
 www.touchtacchi.net
+tourburlington.com
+www.tourburlington.com
 plus.tourispo.com
 analytics.tout.com
 platform.tout.com
@@ -94583,7 +94571,6 @@ usa.cc
 www.usa.cc
 usabilla.com
 api.usabilla.com
-feedback.usabilla.com
 w.usabilla.com
 www.usabilla.com
 usadba-anosino.ru
@@ -95271,8 +95258,6 @@ vefbordi.is
 www.vefbordi.is
 vegamovies.wtf
 www.vegamovies.wtf
-feedback.vegasgoldenknights.com
-app.feedback.vegasgoldenknights.com
 vehavings.biz
 www.vehavings.biz
 vehead.com
@@ -98016,7 +98001,6 @@ tenmaxsgads.blob.core.windows.net
 weus2watcab01.blob.core.windows.net
 weus2watcab02.blob.core.windows.net
 z1.web.core.windows.net
-feedback.windows.com
 sa.windows.com
 ffg-analyticsk3nvxfne4dp4s.servicebus.windows.net
 nexxtv-events.servicebus.windows.net
@@ -99917,7 +99901,6 @@ impservice.dictword.youdao.com
 dsp.youdao.com
 dsp-impr2.youdao.com
 fanyiegg.youdao.com
-feedback.youdao.com
 foundation.youdao.com
 gorgon.youdao.com
 impservice.youdao.com

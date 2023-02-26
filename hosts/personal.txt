@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 26 Feb 2023 18:43 UTC
-# Version: 2023.0226.1843.22
+# Last modified: 26 Feb 2023 20:04 UTC
+# Version: 2023.0226.2004.25
 # Syntax: Hosts
-# Domains: 100848
+# Domains: 100831
 #
 0.0.0.0 003store.com
 0.0.0.0 www.003store.com
@@ -5994,6 +5994,8 @@
 0.0.0.0 ns8.322ffbbc7c1b312c2f9d942f20422f8d.com
 0.0.0.0 ns9.322ffbbc7c1b312c2f9d942f20422f8d.com
 0.0.0.0 www.322ffbbc7c1b312c2f9d942f20422f8d.com
+0.0.0.0 328888.xyz
+0.0.0.0 i.328888.xyz
 0.0.0.0 331hwh.com
 0.0.0.0 3322.org
 0.0.0.0 aa0533.3322.org
@@ -6221,8 +6223,6 @@
 0.0.0.0 goupdate.3g.cn
 0.0.0.0 imupdate.3g.cn
 0.0.0.0 launchermsg.3g.cn
-0.0.0.0 3g2upl4pq6kufc4m.tk
-0.0.0.0 www.3g2upl4pq6kufc4m.tk
 0.0.0.0 3gl.net
 0.0.0.0 autopub.3gl.net
 0.0.0.0 c04a.3gl.net
@@ -8016,7 +8016,6 @@
 0.0.0.0 cdn.adap.tv
 0.0.0.0 control.adap.tv
 0.0.0.0 control-geo.adap.tv
-0.0.0.0 redir.adap.tv
 0.0.0.0 sync-geo.adap.tv
 0.0.0.0 uplynk-geo.adap.tv
 0.0.0.0 vssp-ads-geo.adap.tv
@@ -8127,7 +8126,6 @@
 0.0.0.0 www.adbutler.com
 0.0.0.0 adbutler-fermion.com
 0.0.0.0 adbutter.net
-0.0.0.0 redir.adbutter.net
 0.0.0.0 static.adbutter.net
 0.0.0.0 trk.adbutter.net
 0.0.0.0 www.adbutter.net
@@ -9999,7 +9997,6 @@
 0.0.0.0 campaign.adpushup.com
 0.0.0.0 cdn.adpushup.com
 0.0.0.0 e3.adpushup.com
-0.0.0.0 feedback.adpushup.com
 0.0.0.0 geo.adpushup.com
 0.0.0.0 public-webservice.geo.adpushup.com
 0.0.0.0 staging5.adpushup.com
@@ -10039,7 +10036,6 @@
 0.0.0.0 www.adrecord.com
 0.0.0.0 adrecover.com
 0.0.0.0 delivery.adrecover.com
-0.0.0.0 feedback.adrecover.com
 0.0.0.0 www.adrecover.com
 0.0.0.0 adrek-lgbt.org
 0.0.0.0 speedtest.adrek-lgbt.org
@@ -15004,7 +15000,6 @@
 0.0.0.0 events.app-measurement.com
 0.0.0.0 exchange.app-measurement.com
 0.0.0.0 facebook.app-measurement.com
-0.0.0.0 feedback.app-measurement.com
 0.0.0.0 file.app-measurement.com
 0.0.0.0 firewall.app-measurement.com
 0.0.0.0 g-conf-i5-srxhvdfrlpgryztbvoiuqnnhodkfsc-t4tv-pcanywhere-hwcdn.app-measurement.com
@@ -20500,15 +20495,9 @@
 0.0.0.0 bravospots.com
 0.0.0.0 www.bravospots.com
 0.0.0.0 ijaabm.bravotv.com
-0.0.0.0 braze.com
 0.0.0.0 braze.eu
-0.0.0.0 cdn.braze.com
 0.0.0.0 cdn.braze.eu
-0.0.0.0 confluence.braze.com
-0.0.0.0 dashboard.braze.com
 0.0.0.0 dashboard-01.braze.eu
-0.0.0.0 dashboard-03.braze.com
-0.0.0.0 dashboard-05.braze.com
 0.0.0.0 fra-01.braze.eu
 0.0.0.0 blink.fra-01.braze.eu
 0.0.0.0 clusava.fra-01.braze.eu
@@ -20582,11 +20571,6 @@
 0.0.0.0 sdk.iad-06.braze.com
 0.0.0.0 iad-08.braze.com
 0.0.0.0 sdk.iad-08.braze.com
-0.0.0.0 info.braze.com
-0.0.0.0 investors.braze.com
-0.0.0.0 jfk.braze.com
-0.0.0.0 learning.braze.com
-0.0.0.0 www.braze.com
 0.0.0.0 www.braze.eu
 0.0.0.0 landing1.brazzersnetwork.com
 0.0.0.0 brazzerssurvey.com
@@ -26802,6 +26786,8 @@
 0.0.0.0 cdnfreemalva.com
 0.0.0.0 cdngain.com
 0.0.0.0 media.cdngain.com
+0.0.0.0 cdngcloud.com
+0.0.0.0 www.cdngcloud.com
 0.0.0.0 e.cdngeek.com
 0.0.0.0 stat.cdngeek.com
 0.0.0.0 cdnhst.xyz
@@ -28644,6 +28630,13 @@
 0.0.0.0 sg.clean-1-clean.club
 0.0.0.0 us.clean-1-clean.club
 0.0.0.0 www.clean-1-clean.club
+0.0.0.0 clean-2-clean.club
+0.0.0.0 de.clean-2-clean.club
+0.0.0.0 in.clean-2-clean.club
+0.0.0.0 sg.clean-2-clean.club
+0.0.0.0 uk.clean-2-clean.club
+0.0.0.0 us.clean-2-clean.club
+0.0.0.0 www.clean-2-clean.club
 0.0.0.0 clean-blocker.com
 0.0.0.0 api.clean-blocker.com
 0.0.0.0 cleaneffectivedevicerisk.autos
@@ -48273,7 +48266,6 @@
 0.0.0.0 flowpubdom.info
 0.0.0.0 www.flowpubdom.info
 0.0.0.0 flowwiththetide.xyz
-0.0.0.0 redir.flowwiththetide.xyz
 0.0.0.0 www.flowwiththetide.xyz
 0.0.0.0 flpscuolafoggia.it
 0.0.0.0 www.flpscuolafoggia.it
@@ -53299,7 +53291,6 @@
 0.0.0.0 highrevenuecpmnetwork.com
 0.0.0.0 www.highrevenuecpmnetwork.com
 0.0.0.0 filter.highsea.fun
-0.0.0.0 redir.hightid.xyz
 0.0.0.0 marketing.highwoods.com
 0.0.0.0 hihrfxy.com
 0.0.0.0 www.hihrfxy.com
@@ -53638,6 +53629,8 @@
 0.0.0.0 da.hornbach.de
 0.0.0.0 da.hornbach.nl
 0.0.0.0 da.hornbach.ro
+0.0.0.0 hornygirlsinapp.com
+0.0.0.0 www.hornygirlsinapp.com
 0.0.0.0 horzrb.com
 0.0.0.0 hosaur.com
 0.0.0.0 www.hosaur.com
@@ -54528,6 +54521,8 @@
 0.0.0.0 adsp.i2idata.com
 0.0.0.0 www.i2idata.com
 0.0.0.0 geoinfo.i2w.io
+0.0.0.0 i305175.net
+0.0.0.0 www.i305175.net
 0.0.0.0 ios.pclog.i4.cn
 0.0.0.0 i8xkjci7nd.com
 0.0.0.0 safetyandclientcontrol.i989.net
@@ -57672,7 +57667,6 @@
 0.0.0.0 ck.jads.co
 0.0.0.0 i.jads.co
 0.0.0.0 poweredby.jads.co
-0.0.0.0 redir.jads.co
 0.0.0.0 www.jads.co
 0.0.0.0 jadspro.live
 0.0.0.0 click-eu.jadspro.live
@@ -63847,12 +63841,9 @@
 0.0.0.0 merchantpool1.fpt.microsoft.com
 0.0.0.0 ieonline.microsoft.com
 0.0.0.0 ieonlinews.microsoft.com
-0.0.0.0 redir.metaservices.microsoft.com
 0.0.0.0 geover-prod.do.dsp.mp.microsoft.com
 0.0.0.0 watson.officeint.microsoft.com
 0.0.0.0 irving.msftvpn.ras.microsoft.com
-0.0.0.0 feedback.search.microsoft.com
-0.0.0.0 share.microsoft.com
 0.0.0.0 i1.services.social.microsoft.com
 0.0.0.0 spynet2.microsoft.com
 0.0.0.0 spynetalt.microsoft.com
@@ -63878,7 +63869,6 @@
 0.0.0.0 statsfe2.ws.microsoft.com
 0.0.0.0 microsoft-cnd.com
 0.0.0.0 www.microsoft-cnd.com
-0.0.0.0 feedback.microsoft-hohm.com
 0.0.0.0 microsoft-notifcation.com
 0.0.0.0 www.microsoft-notifcation.com
 0.0.0.0 microsoft-support.net
@@ -71606,7 +71596,6 @@
 0.0.0.0 assets.ownpage.fr
 0.0.0.0 production.ownpage.fr
 0.0.0.0 api.production.ownpage.fr
-0.0.0.0 redir.ownpage.fr
 0.0.0.0 script.ownpage.fr
 0.0.0.0 www.ownpage.fr
 0.0.0.0 ox-bio.com
@@ -72452,7 +72441,6 @@
 0.0.0.0 app.eu.pendo.io
 0.0.0.0 cdn.eu.pendo.io
 0.0.0.0 data.eu.pendo.io
-0.0.0.0 feedback.eu.pendo.io
 0.0.0.0 api.feedback.eu.pendo.io
 0.0.0.0 mobile.pendo.io
 0.0.0.0 us.data2.mobile.pendo.io
@@ -72465,7 +72453,6 @@
 0.0.0.0 content.pendo-internal.pendo.io
 0.0.0.0 data.pendo-internal.pendo.io
 0.0.0.0 us.pendo.io
-0.0.0.0 feedback.us.pendo.io
 0.0.0.0 api.feedback.us.pendo.io
 0.0.0.0 www.pendo.io
 0.0.0.0 sjourney.penfed.org
@@ -74410,6 +74397,7 @@
 0.0.0.0 www.profitablegatetocontent.com
 0.0.0.0 profitabletrustednetwork.com
 0.0.0.0 www.profitabletrustednetwork.com
+0.0.0.0 cdn1.profitmetrics.io
 0.0.0.0 profitshare.bg
 0.0.0.0 profitshare.ro
 0.0.0.0 app.profitshare.ro
@@ -80210,7 +80198,6 @@
 0.0.0.0 www.romivapsi.com
 0.0.0.0 rompercava.com
 0.0.0.0 cb.rompercava.com
-0.0.0.0 feedback.cn.ronghub.com
 0.0.0.0 stats.cn.ronghub.com
 0.0.0.0 statssg01.cn.ronghub.com
 0.0.0.0 roniashop.com
@@ -83637,9 +83624,7 @@
 0.0.0.0 pub.servidoresge.com
 0.0.0.0 serving-passthrough.com
 0.0.0.0 xml.serving-passthrough.com
-0.0.0.0 serving-sys.com
 0.0.0.0 ads-dv.serving-sys.com
-0.0.0.0 bs.serving-sys.com
 0.0.0.0 ds.serving-sys.com
 0.0.0.0 gizmo.serving-sys.com
 0.0.0.0 lm.serving-sys.com
@@ -83647,7 +83632,6 @@
 0.0.0.0 oo.serving-sys.com
 0.0.0.0 secure-ds.serving-sys.com
 0.0.0.0 services.serving-sys.com
-0.0.0.0 www.serving-sys.com
 0.0.0.0 servingcdn.net
 0.0.0.0 www.servingcdn.net
 0.0.0.0 hitcounter.servmetric.com
@@ -88121,6 +88105,8 @@
 0.0.0.0 www.stretchedcreepy.com
 0.0.0.0 stretchsister.com
 0.0.0.0 stretchsquirrel.com
+0.0.0.0 strettechoco.com
+0.0.0.0 www.strettechoco.com
 0.0.0.0 strewjaunty.com
 0.0.0.0 www.strewjaunty.com
 0.0.0.0 strictgrittwine.com
@@ -91218,6 +91204,8 @@
 0.0.0.0 www.touchstoneresearch.com
 0.0.0.0 touchtacchi.net
 0.0.0.0 www.touchtacchi.net
+0.0.0.0 tourburlington.com
+0.0.0.0 www.tourburlington.com
 0.0.0.0 plus.tourispo.com
 0.0.0.0 analytics.tout.com
 0.0.0.0 platform.tout.com
@@ -94583,7 +94571,6 @@
 0.0.0.0 www.usa.cc
 0.0.0.0 usabilla.com
 0.0.0.0 api.usabilla.com
-0.0.0.0 feedback.usabilla.com
 0.0.0.0 w.usabilla.com
 0.0.0.0 www.usabilla.com
 0.0.0.0 usadba-anosino.ru
@@ -95271,8 +95258,6 @@
 0.0.0.0 www.vefbordi.is
 0.0.0.0 vegamovies.wtf
 0.0.0.0 www.vegamovies.wtf
-0.0.0.0 feedback.vegasgoldenknights.com
-0.0.0.0 app.feedback.vegasgoldenknights.com
 0.0.0.0 vehavings.biz
 0.0.0.0 www.vehavings.biz
 0.0.0.0 vehead.com
@@ -98016,7 +98001,6 @@
 0.0.0.0 weus2watcab01.blob.core.windows.net
 0.0.0.0 weus2watcab02.blob.core.windows.net
 0.0.0.0 z1.web.core.windows.net
-0.0.0.0 feedback.windows.com
 0.0.0.0 sa.windows.com
 0.0.0.0 ffg-analyticsk3nvxfne4dp4s.servicebus.windows.net
 0.0.0.0 nexxtv-events.servicebus.windows.net
@@ -99917,7 +99901,6 @@
 0.0.0.0 dsp.youdao.com
 0.0.0.0 dsp-impr2.youdao.com
 0.0.0.0 fanyiegg.youdao.com
-0.0.0.0 feedback.youdao.com
 0.0.0.0 foundation.youdao.com
 0.0.0.0 gorgon.youdao.com
 0.0.0.0 impservice.youdao.com

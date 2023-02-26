@@ -190,9 +190,12 @@
 ! Microsoft
 ! https://docs.microsoft.com/en-us/windows/privacy/manage-windows-11-endpoints
 ! https://docs.microsoft.com/en-us/microsoft-365/enterprise/microsoft-365-endpoints?view=o365-worldwide
+@@||activity.windows.com^
 @@||dds.microsoft.com^
 @@||msftconnecttest.com^
+@@||search.microsoft.com^
 @@||services.microsoft.com^
+@@||share.microsoft.com^
 @@||smartscreen-prod.microsoft.com^
 @@||update.microsoft.com^
 @@|*api.*.microsoft.com^
@@ -204,7 +207,6 @@
 @@|*v10.vortex-win.data.microsoft.com^
 @@|*v20.events.data.microsoft.com^
 @@|*v20.vortex-win.data.microsoft.com^
-@@||activity.windows.com^
 @@|arc.msn.com^
 @@|assets.activity.windows.com^
 @@|atm-settingsfe-prod-geo*.trafficmanager.net^
@@ -237,6 +239,7 @@
 @@|vlscppe.microsoft.com^
 @@|wcpstatic.microsoft.com^
 @@|windowsupdate.s.llnwi.net^
+
 ! Office Forms
 @@||forms.office.com^
 @@|browser.pipe.aria.microsoft.com^

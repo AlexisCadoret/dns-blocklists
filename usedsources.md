@@ -3,41 +3,42 @@
 #### LIGHT
 [whitelisted domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/light-removed-white.txt) | [whitelisted referral domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/light-removed-referral.txt) | [dead domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/light-removed-dead.txt)
 ```
-720357 total unique domains | 685445 (95%) included | 736 (0%) removed | 34176 (5%) dead
+620927 total unique domains | 594511 (96%) included | 647 (0%) removed | 25769 (4%) dead
 
  Nr | Included | Dead | Removed |   Count | URL/File
-  1 |      99% |   1% |      0% |   72209 | https://raw.githubusercontent.com/sjhgvr/oisd/main/abp_small.txt
-  2 |     100% |   0% |      0% |  100944 | personal.txt
-  3 |      64% |   1% |     35% |     141 | personal-wildcard-rules.txt
-  4 |     100% |   0% |      0% |  105811 | personal-tif.txt
-  5 |     100% |   0% |      0% |    9825 | fake.txt
-  6 |      84% |   1% |     15% |    2878 | black.list
+  1 |     100% |   0% |      0% |  100831 | personal.txt
+  2 |      62% |   1% |     37% |     141 | personal-wildcard-rules.txt
+  3 |     100% |   0% |      0% |  105811 | personal-tif.txt
+  4 |     100% |   0% |      0% |    9825 | fake.txt
+  5 |      84% |   1% |     15% |    2883 | black.list
 
 For domain and host lists, additionally: matching/missing subdomains (see at the bottom)
 ```
 #### MULTI
 [whitelisted domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/multi-removed-white.txt) | [whitelisted referral domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/multi-removed-referral.txt) | [dead domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/multi-removed-dead.txt)
 ```
-1073959 total unique domains | 1008630 (94%) included | 10176 (1%) removed | 55153 (5%) dead
+1091487 total unique domains | 1023299 (94%) included | 10242 (1%) removed | 57946 (5%) dead
 
  Nr | Included | Dead | Removed |   Count | URL/File
-  1 |     100% |   0% |      0% |  595642 | light.txt
+  1 |     100% |   0% |      0% |  594511 | light.txt
   2 |      96% |   1% |      3% |  102062 | https://o0.pages.dev/Lite/hosts.txt
-  3 |      92% |   8% |      0% |   49041 | https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-  4 |      97% |   2% |      1% |  862782 | oisd.domains.txt
+  3 |      94% |   6% |      0% |   82322 | adguarddns.domains.txt
+  4 |      97% |   2% |      1% |  862781 | oisd.domains.txt
+  5 |      97% |   2% |      1% |      95 | https://raw.githubusercontent.com/manic-code/Emerging-Malicious-Domain-Blocklist/main/hosts.txt
 
 For domain and host lists, additionally: matching/missing subdomains (see at the bottom)
 ```
 #### PRO
 [whitelisted domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/pro-removed-white.txt) | [whitelisted referral domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/pro-removed-referral.txt) | [dead domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/pro-removed-dead.txt)
 ```
-1607911 total unique domains | 1286512 (80%) included | 23970 (1%) removed | 297429 (18%) dead
+1613762 total unique domains | 1286346 (80%) included | 26741 (2%) removed | 300675 (19%) dead
 
  Nr | Included | Dead | Removed |   Count | URL/File
-  1 |     100% |   0% |      0% | 1008630 | multi.txt
+  1 |     100% |   0% |      0% | 1023299 | multi.txt
   2 |      54% |  34% |     12% |  184020 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
-  3 |      75% |  25% |      0% |  415874 | https://raw.githubusercontent.com/notracking/hosts-blocklists/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt
-  4 |      96% |   1% |      3% |      95 | https://raw.githubusercontent.com/manic-code/Emerging-Malicious-Domain-Blocklist/main/hosts.txt
+  3 |      75% |  24% |      1% |  421095 | notracking.domains.txt
+  4 |      91% |   7% |      2% |   56861 | easylist.domains.txt
+  5 |      97% |   3% |      0% |    1247 | ublock.domains.txt
 
 For domain and host lists, additionally: matching/missing subdomains (see at the bottom)
 ```
