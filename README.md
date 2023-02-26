@@ -23,7 +23,7 @@
 17. [Supporter](https://github.com/hagezi/dns-blocklists/stargazers) - *Leave a star (top right)!*
 18. [Recommendation](#recommendation)
 19. [Online DNS Services](#dnsservices): [RethinkDNS](#rethinkdns) / [DNSforge](#dnsforge) / [DNSwarden](#dnswarden) / [AdGuardDNS](#adguarddns) / [ControlD](#controld) / [NextDNS](#nextdns)
-20. [About](#about) / [Referral Domains](#referral) / [Support Me](#support)
+20. [About](#about) / [Contact](#contact) / [Groups](#groups) / [Referral Domains](#referral) / [Support Me](#support)
 21. [Sources/Statistics](usedsources.md)
 22. [Raw data collection](https://github.com/hagezi/dns-data-collection) - *Data collection to generate the DNS blocklists*
 23. [Mirror](https://gitlab.com/hagezi/mirror/-/tree/main/dns-blocklists) - *Mirrored files of the block lists on GitLab*
@@ -403,6 +403,18 @@ Test them and give [feedback](https://github.com/hagezi/dns-blocklists/discussio
                 
 *Please [report false positive](https://github.com/hagezi/dns-blocklists/issues) domains.*
 
+#### Contact <a name="contact"></a>
+
+| Telegram | Matrix | Discord | Reddit | NextDNS | Mail |
+|:---------:|:-------:|:--------:|:------:|:-------:|:-----:|
+| [@hagezi](https://t.me/hagezi)  | @hagezi:matrix.org | HaGeZi#7513 | [u/hagezi](https://www.reddit.com/user/hagezi) | [@hagezi](https://help.nextdns.io/profile/x2hylgc) | hagezi@protonmail.com |
+
+#### Groups <a name="groups"></a>
+
+| Telegram | Matrix | Discord |
+|:---------:|:-------:|:-----:|
+[Link](https://t.me/hagezi_g) | [Link](https://matrix.to/#/#hagezi:matrix.org) | [CipherOps' Pi-hole & AdGuard Home](https://discord.gg/jg9CKkhC7M) |
+
 #### Referral Domains <a name="referral"></a>
 
 *Affiliate and tracking links (referral domains) that appear frequently on offer web pages, in emails or in search results are allowed in my lists. These are mostly called only after manual clicking on a link and are not used to display advertising.
@@ -429,6 +441,6 @@ This list can then be used as a blocklist to "undo" the whitelisting of referral
 
 ---
 
-### ***Keep the internet clean!*** - Join the Matrix: [#dnsblocklists:matrix.org](https://matrix.to/#/#hagezi:matrix.org)
+### ***Keep the internet clean!*** - Groups: [Matrix](https://matrix.to/#/#hagezi:matrix.org) / [Telegram](https://t.me/hagezi_g) / [Discord - CipherOps'](https://discord.gg/jg9CKkhC7M)
 
 ---
