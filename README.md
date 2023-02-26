@@ -34,7 +34,7 @@
 #### ***Multi blocklist version and size overview:***
 | Version | Hosts | Pro++ | Pro | Normal | Light | [Fake](#fake) | [TIF](#tif) | [Personal](#personal) | 
 |:--------|---:|:---:|:------:|:-----:|:----:|:---:|:------:|:----------:|
-| [Light](#light)             | 595642<br>129796     | |   |   | = | X | P | X |
+| [Light](#light)             | 685445<br>167600     | |   |   | = | X | P | X |
 | [Normal](#normal)       | 1008630<br>336945     | |   | = | X | X | P | X |
 | [Pro](#pro)              | 1286512<br>485105         | | = | X | X | X | P | X |
 | [Pro++](#proplus)    | 1421033<br>510582 | | ++ | X | X | X | P |  X |
@@ -50,7 +50,7 @@
       
 *Hand brush - Cleans the Internet and protects your privacy! Blocks Ads, Tracking, Metrics, some Malware and Fake.*
           
-**Entries:** *595642 domains/hosts - 129796 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#light)         
+**Entries:** *685445 domains/hosts - 167600 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#light)         
          
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|

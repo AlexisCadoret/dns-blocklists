@@ -3,14 +3,15 @@
 #### LIGHT
 [whitelisted domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/light-removed-white.txt) | [whitelisted referral domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/light-removed-referral.txt) | [dead domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/light-removed-dead.txt)
 ```
-621877 total unique domains | 595642 (96%) included | 646 (0%) removed | 25589 (4%) dead
+720357 total unique domains | 685445 (95%) included | 736 (0%) removed | 34176 (5%) dead
 
  Nr | Included | Dead | Removed |   Count | URL/File
-  1 |     100% |   0% |      0% |  100944 | personal.txt
-  2 |      64% |   1% |     35% |     141 | personal-wildcard-rules.txt
-  3 |     100% |   0% |      0% |  105811 | personal-tif.txt
-  4 |     100% |   0% |      0% |    9825 | fake.txt
-  5 |      84% |   1% |     15% |    2878 | black.list
+  1 |      99% |   1% |      0% |   72209 | https://raw.githubusercontent.com/sjhgvr/oisd/main/abp_small.txt
+  2 |     100% |   0% |      0% |  100944 | personal.txt
+  3 |      64% |   1% |     35% |     141 | personal-wildcard-rules.txt
+  4 |     100% |   0% |      0% |  105811 | personal-tif.txt
+  5 |     100% |   0% |      0% |    9825 | fake.txt
+  6 |      84% |   1% |     15% |    2878 | black.list
 
 For domain and host lists, additionally: matching/missing subdomains (see at the bottom)
 ```
