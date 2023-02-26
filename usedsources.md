@@ -3,12 +3,12 @@
 #### LIGHT
 [whitelisted domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/light-removed-white.txt) | [whitelisted referral domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/light-removed-referral.txt) | [dead domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/light-removed-dead.txt)
 ```
-620301 total unique domains | 593662 (96%) included | 628 (0%) removed | 26011 (4%) dead
+621877 total unique domains | 595642 (96%) included | 646 (0%) removed | 25589 (4%) dead
 
  Nr | Included | Dead | Removed |   Count | URL/File
-  1 |     100% |   0% |      0% |  100506 | personal.txt
+  1 |     100% |   0% |      0% |  100944 | personal.txt
   2 |      64% |   1% |     35% |     141 | personal-wildcard-rules.txt
-  3 |     100% |   0% |      0% |  104911 | personal-tif.txt
+  3 |     100% |   0% |      0% |  105811 | personal-tif.txt
   4 |     100% |   0% |      0% |    9825 | fake.txt
   5 |      84% |   1% |     15% |    2878 | black.list
 
@@ -17,26 +17,26 @@ For domain and host lists, additionally: matching/missing subdomains (see at the
 #### MULTI
 [whitelisted domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/multi-removed-white.txt) | [whitelisted referral domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/multi-removed-referral.txt) | [dead domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/multi-removed-dead.txt)
 ```
-1071398 total unique domains | 1004526 (94%) included | 10238 (1%) removed | 56634 (5%) dead
+1073959 total unique domains | 1008630 (94%) included | 10176 (1%) removed | 55153 (5%) dead
 
  Nr | Included | Dead | Removed |   Count | URL/File
-  1 |     100% |   0% |      0% |  593662 | light.txt
+  1 |     100% |   0% |      0% |  595642 | light.txt
   2 |      96% |   1% |      3% |  102062 | https://o0.pages.dev/Lite/hosts.txt
-  3 |      91% |   8% |      1% |   49033 | https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-  4 |      97% |   2% |      1% |  862812 | oisd.domains.txt
+  3 |      92% |   8% |      0% |   49041 | https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
+  4 |      97% |   2% |      1% |  862782 | oisd.domains.txt
 
 For domain and host lists, additionally: matching/missing subdomains (see at the bottom)
 ```
 #### PRO
 [whitelisted domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/pro-removed-white.txt) | [whitelisted referral domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/pro-removed-referral.txt) | [dead domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/pro-removed-dead.txt)
 ```
-1609830 total unique domains | 1283610 (80%) included | 23979 (1%) removed | 302241 (19%) dead
+1607911 total unique domains | 1286512 (80%) included | 23970 (1%) removed | 297429 (18%) dead
 
  Nr | Included | Dead | Removed |   Count | URL/File
-  1 |     100% |   0% |      0% | 1004526 | multi.txt
+  1 |     100% |   0% |      0% | 1008630 | multi.txt
   2 |      54% |  34% |     12% |  184020 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
-  3 |      75% |  25% |      0% |  416323 | https://raw.githubusercontent.com/notracking/hosts-blocklists/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt
-  4 |      94% |   1% |      5% |      92 | https://raw.githubusercontent.com/manic-code/Emerging-Malicious-Domain-Blocklist/main/hosts.txt
+  3 |      75% |  25% |      0% |  415874 | https://raw.githubusercontent.com/notracking/hosts-blocklists/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt
+  4 |      96% |   1% |      3% |      95 | https://raw.githubusercontent.com/manic-code/Emerging-Malicious-Domain-Blocklist/main/hosts.txt
 
 For domain and host lists, additionally: matching/missing subdomains (see at the bottom)
 ```
