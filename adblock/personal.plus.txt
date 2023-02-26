@@ -1,13 +1,13 @@
 ! Title: HaGeZi's Personal PLUS DNS Blocklist
-! Description: My personal blocklist, an extension for known blocklists. Blocks ads, trackers, native device trackers, badware and more. Not intended to be used as a standalone blocklist, it serves as a addition for other blocklists!
+! Description: My personal plus blocklist, an extension for known blocklists. Blocks ads, trackers, native device trackers, badware and more. Not intended to be used as a standalone blocklist, it serves as a addition for other blocklists!
 ! Homepage: https://github.com/hagezi/dns-blocklists
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 26 Feb 2023 08:33 UTC
-! Version: 2023.0226.0833.18
+! Last modified: 26 Feb 2023 09:55 UTC
+! Version: 2023.0226.0955.16
 ! Syntax: AdBlock
-! Domains: 58422
+! Domains: 58551
 !
 ||00-tv.com^
 ||000space.com^
@@ -202,6 +202,7 @@
 ||match.p4p.1688.com^
 ||17tahun.com^
 ||17u.cn^
+||18-teen-tube.com^
 ||18-u.com^
 ||smetrics.1800contacts.com^
 ||wt.1800petmeds.com^
@@ -211,6 +212,7 @@
 ||card.e.189.cn^
 ||18bca7c5fd709ac468ba148c590ef6bf.net^
 ||18plus-online.com^
+||18teen-tube.com^
 ||18video-on.com^
 ||18yearsold.com^
 ||192yuanma.com^
@@ -1665,19 +1667,16 @@
 ||siakad.iakntoraja.ac.id^
 ||kalskala.ac.ug^
 ||www.kanlayanee.ac.th^
-||elearning.kibu.ac.ke^
-||portal.kibu.ac.ke^
+||kibu.ac.ke^
 ||autodiscover.live.mdx.ac.uk^
-||portal.mmarau.ac.ke^
-||www.mmarau.ac.ke^
+||mmarau.ac.ke^
 ||mut.ac.ke^
 ||nikahuve.ac.ug^
 ||smetrics.nottingham.ac.uk^
 ||www.ntsc.ac.cn^
 ||roshdiyeh.ac.ir^
 ||sipinter.stialan.ac.id^
-||portal.stiedewantara.ac.id^
-||spada.stiedewantara.ac.id^
+||stiedewantara.ac.id^
 ||elearning.stiepancasetia.ac.id^
 ||fdikom.uinjkt.ac.id^
 ||cso.vokasi.undip.ac.id^
@@ -1710,8 +1709,19 @@
 ||starbreeze.accelbyte.io^
 ||acceleratedrummer.com^
 ||accelerating-success.com^
-||accengage.com^
 ||accengage.net^
+||api.accengage.com^
+||api1.accengage.com^
+||api10.accengage.com^
+||api2.accengage.com^
+||api3.accengage.com^
+||api4.accengage.com^
+||api5.accengage.com^
+||api6.accengage.com^
+||api7.accengage.com^
+||api8.accengage.com^
+||api9.accengage.com^
+||pingapi.accengage.com^
 ||somni.accenture.com^
 ||trackingmms.accenture.com^
 ||acceptww.com^
@@ -1850,7 +1860,29 @@
 ||activexsoftwares.com^
 ||prod-data-energon.infra-ext.activision.com^
 ||activitystream.com^
-||actonservice.com^
+||a16537.actonservice.com^
+||a17292.actonservice.com^
+||a17455.actonservice.com^
+||a37518.actonservice.com^
+||a39780.actonservice.com^
+||a42920.actonservice.com^
+||a43317.actonservice.com^
+||a43527.actonservice.com^
+||a43672.actonservice.com^
+||a43869.actonservice.com^
+||a44195.actonservice.com^
+||a44293.actonservice.com^
+||a44320.actonservice.com^
+||a44370.actonservice.com^
+||a44529.actonservice.com^
+||a44833.actonservice.com^
+||a45230.actonservice.com^
+||horacemann.actonservice.com^
+||mediasource.actonservice.com^
+||mortgagefamily.actonservice.com^
+||msufcu.actonservice.com^
+||nccer.actonservice.com^
+||towerfcu.actonservice.com^
 ||actonsoftware.com^
 ||actoramusement.com^
 ||actsus.email^
@@ -2664,6 +2696,7 @@
 ||ads-secured.com^
 ||ads-target.com^
 ||ads-tracking.com^
+||ads-tube.com^
 ||ads-twitter.com^
 ||ads1-adnow.com^
 ||ads2.bid^
@@ -2910,7 +2943,9 @@
 ||adtz.com^
 ||adukwai.com^
 ||adult.xyz^
+||adult-fuck-tube.com^
 ||adult-plus.com^
+||adult-xxx-tube.com^
 ||adultadvertising.com^
 ||adultadworld.com^
 ||adultblogtoplist.com^
@@ -5255,7 +5290,7 @@
 ||appboy.com^
 ||appboy.eu^
 ||appboycdn.com^
-||appbrain.com^
+||sdk.appbrain.com^
 ||ads.appbundledownload.com^
 ||appcdn01.xyz^
 ||appcelerator.com^
@@ -8398,6 +8433,7 @@
 ||bigsport.today^
 ||bigspyglass.com^
 ||bigstat.net^
+||bigtitsporn-tube.com^
 ||bigtus.com^
 ||bigwww.com^
 ||bihnxhkl.ru^
@@ -8955,6 +8991,7 @@
 ||boldsmtrk.com^
 ||boletuso.ru^
 ||by.bollore-logistics.com^
+||bolly-tube.com^
 ||bollywood-fashion-online.com^
 ||stat4.bollywoodhungama.in^
 ||stat5.bollywoodhungama.in^
@@ -9954,8 +9991,7 @@
 ||campongprecant.com^
 ||camponovo.it^
 ||analytics.campsaver.com^
-||cdmx.campusfmm.org^
-||gene16.campusfmm.org^
+||campusfmm.org^
 ||banners.cams.com^
 ||camschat.net^
 ||media.camsoda.com^
@@ -10274,6 +10310,7 @@
 ||casselini-online.com^
 ||x.castanet.net^
 ||castcloudywhereby.com^
+||casting-porno-tube.com^
 ||castle.io^
 ||ausclh.castlery.com^
 ||casualdating.com^
@@ -10369,7 +10406,6 @@
 ||rev.cbsi.com^
 ||saa.cbsi.com^
 ||som.cbsi.com^
-||cbsinteractive.com^
 ||dns-clientinfo.cbsivideo.com^
 ||doppler-beacons.cbsivideo.com^
 ||doppler-error.cbsivideo.com^
@@ -11155,6 +11191,7 @@
 ||oe.cinchespols.com^
 ||analytics.cincopa.com^
 ||cindelia.com^
+||cine-tube.com^
 ||cineinc.biz^
 ||cinemaflixs.xyz^
 ||cinemak.pl^
@@ -12918,7 +12955,26 @@
 ||track-latency.cmcassets.com^
 ||stats.cmcigroup.com^
 ||cmclean.club^
-||cmcm.com^
+||cloud.cmcm.com^
+||pc001.update.cmpc.cmcm.com^
+||rq.upgrade.cmpc.cmcm.com^
+||lcf.cmplay.cmcm.com^
+||cmprs.cmcm.com^
+||dbsu.cmcm.com^
+||gdcasapi.cmcm.com^
+||pc001.update.lbmini.cmcm.com^
+||rq.upgrade.lbmini.cmcm.com^
+||locker.cmcm.com^
+||magic.cmcm.com^
+||pianotiles2.cmcm.com^
+||rs.cmcm.com^
+||tileswan.cmcm.com^
+||weather2db.cmcm.com^
+||pc001.download.wh.cmcm.com^
+||rq.wh.cmcm.com^
+||whitetilecn.cmcm.com^
+||whitetileos.cmcm.com^
+||pc001.update.www.cmcm.com^
 ||cmcore.com^
 ||cmdspassets.com^
 ||appconfig.cmgdigital.com^
@@ -14292,8 +14348,7 @@
 ||mst.com.ua^
 ||mta.com.mt^
 ||mycounter.com.ua^
-||sales.myhomes.com.tw^
-||www.myhomes.com.tw^
+||myhomes.com.tw^
 ||api.mypurecloud.com.au^
 ||www.n-age.com.tw^
 ||na.com.au^
@@ -15079,10 +15134,13 @@
 ||cws-app1-eu-west-1.conviva.com^
 ||cws-app1-us-west-2.conviva.com^
 ||cws-cloud-only.conviva.com^
+||cws-eu.conviva.com^
 ||cws-hulu.conviva.com^
+||cws-iad1.conviva.com^
 ||cws-iad4.conviva.com^
 ||cws-iad4-slb9.conviva.com^
 ||cws-lgi.conviva.com^
+||cws-sjc2.conviva.com^
 ||cws-sjc2-rdc2.conviva.com^
 ||cws-us-east.conviva.com^
 ||cws-usw1.conviva.com^
@@ -18421,7 +18479,8 @@
 ||digitalpush.org^
 ||matomo.digitalrecruiters.com^
 ||digitalreflectionpanel.com^
-||digitalsmiths.net^
+||dish-prod2-elb.digitalsmiths.net^
+||sharp-prod-elb.digitalsmiths.net^
 ||digitaltarget.ru^
 ||digitalthrottle.com^
 ||ccp.digitaltrends.com^
@@ -19193,6 +19252,7 @@
 ||live.dragaoconnect.net^
 ||dragon-models.com^
 ||dragonawaken.com^
+||dragonball-tube.com^
 ||dragonblogger.com^
 ||sample.dragonforms.com^
 ||ads.dragonfru.it^
@@ -19631,6 +19691,7 @@
 ||content.ea.com^
 ||pin-river.data.ea.com^
 ||stats.gameservices.ea.com^
+||ea-tube.com^
 ||eabids.com^
 ||eacdn.com^
 ||eacla.com^
@@ -21389,7 +21450,8 @@
 ||english-learn-online.com^
 ||app-config.enhance.co^
 ||enhencer.com^
-||enigmasoftware.com^
+||installer.enigmasoftware.com^
+||myaccount.enigmasoftware.com^
 ||eniqdix.icu^
 ||enjoy-eldos.xyz^
 ||ads.enjoy4fun.com^
@@ -22269,6 +22331,7 @@
 ||fantasticdating.life^
 ||fantasticdatings.life^
 ||fanza.cc^
+||fap-wap-tube.com^
 ||a.fapcat.com^
 ||api.faphouse.com^
 ||cnt.faphouse.com^
@@ -22637,8 +22700,7 @@
 ||filman-pl.pl^
 ||ematrix.filmipop.com^
 ||filmkachat.ru^
-||ekino.filmovnia.pl^
-||zalukaj.filmovnia.pl^
+||filmovnia.pl^
 ||data-e627e4d475.filmstarts.de^
 ||filmstokk.com^
 ||filmstreamingonline.eu^
@@ -23351,11 +23413,15 @@
 ||free-cosmetics-online.com^
 ||free-datings.com^
 ||free-ethereum.io^
+||free-fap-tube.com^
 ||free-german-lessons-online.com^
+||free-hardcore-tube.com^
+||free-hd-tube.com^
 ||free-lesbian-pic.in^
 ||free-money-to.shop^
 ||free-red-tube.com^
 ||free-roulette-online.com^
+||free-wap-tube.com^
 ||free2game.xyz^
 ||free2games.xyz^
 ||free2topgames.xyz^
@@ -23591,6 +23657,7 @@
 ||fuck-me.io^
 ||fuckablelovers.com^
 ||hello.fuckbook.tv^
+||fucked-tube.com^
 ||fucking-girls-tube.com^
 ||fuckmore.com^
 ||fuckthat.xyz^
@@ -24264,6 +24331,7 @@
 ||app392.gerberlife.com^
 ||gerchikco-trading.com^
 ||gerepa.com^
+||german-porn-tube.com^
 ||germaniavid.com^
 ||germanplumpcries.com^
 ||germany-info.org^
@@ -24530,6 +24598,7 @@
 ||ulog-sdk.gifshow.com^
 ||gifsmakerpro.com^
 ||whatsapp.gift-out.com^
+||gift-tube.com^
 ||gift2pair.com^
 ||gifthandymanshortage.com^
 ||giftplaza-online.com^
@@ -26127,7 +26196,15 @@
 ||ujm.hansel.io^
 ||info.hansonwade.com^
 ||hantana.org^
-||hao123.com^
+||en.hao123.com^
+||id.hao123.com^
+||jp.hao123.com^
+||m.hao123.com^
+||shield.hao123.com^
+||th.hao123.com^
+||tw.hao123.com^
+||user.hao123.com^
+||vn.hao123.com^
 ||s0.hao123img.com^
 ||haoduofangs.com^
 ||haogo.cc^
@@ -26160,6 +26237,10 @@
 ||facebookinbox-omni-onapp.haravan.com^
 ||onapp.haravan.com^
 ||product-reviews-apps.haravan.com^
+||hard-fuck-tube.com^
+||hard-hd-tube.com^
+||hard-video-tube.com^
+||hard-xxx-tube.com^
 ||hardalqos.com^
 ||hardboiledraspexisting.com^
 ||harddagger.com^
@@ -26195,7 +26276,6 @@
 ||hashminer.live^
 ||hashsrv.com^
 ||hasmobi.net^
-||hasoffers.com^
 ||hassarexurbs.com^
 ||hasslesneatly.com^
 ||telemetry.hasura.io^
@@ -26266,6 +26346,10 @@
 ||hcss.nl^
 ||learn.hcss.com^
 ||smetrics.hctra.org^
+||hd-adult-tube.com^
+||hd-fuck-tube.com^
+||hd-porno-tube.com^
+||hd-video-tube.com^
 ||hd1080film.ru^
 ||stats.hd24.watch^
 ||hd5.lol^
@@ -26371,8 +26455,7 @@
 ||hecherthepa.xyz^
 ||hecoinfo.com^
 ||hedahinneaning.online^
-||ar.hedarea.top^
-||fa.hedarea.top^
+||hedarea.top^
 ||hedgehogexquisitechess.com^
 ||hedgehoghugsyou.com^
 ||hedgehogpoachsay.com^
@@ -27066,7 +27149,7 @@
 ||hot-list.ru^
 ||hot-mob.com^
 ||hot-pussy.org^
-||tn.hot-sex-tube.com^
+||hot-sex-tube.com^
 ||hot4k.org^
 ||hotbar.com^
 ||hotblognetwork.com^
@@ -27154,6 +27237,7 @@
 ||plausible.hptronic.cz^
 ||hpyjmp.com^
 ||hpyrdr.com^
+||hq-sex-tube.com^
 ||hq3x.com^
 ||hqgmbh.eu^
 ||hqrsuxsjqycv.info^
@@ -28189,6 +28273,8 @@
 ||india-server.com^
 ||india-visa-online.com^
 ||indiakino.net^
+||indian-porn-tube.com^
+||indian-sex-tube.com^
 ||ua.indianexpress.com^
 ||indianloves.com^
 ||stats.indianpornempire.com^
@@ -29415,6 +29501,7 @@
 ||jav.re^
 ||jav-7mmtv.top^
 ||jav-fetish.site^
+||jav-porn-tube.com^
 ||sjremetrics.java.com^
 ||javascriptobfuscator.com^
 ||cdn.javbabe.net^
@@ -30546,6 +30633,7 @@
 ||knyjes.xyz^
 ||knzuwpl.com^
 ||ko-racingshop.com^
+||ko-tube.com^
 ||koabouch.net^
 ||reports.koalametrics.com^
 ||koalaups.com^
@@ -31691,7 +31779,13 @@
 ||liganews.gr^
 ||ligatus.com^
 ||ligeia-gip.com^
-||lightboxcdn.com^
+||api.lightboxcdn.com^
+||api1.lightboxcdn.com^
+||coupon.lightboxcdn.com^
+||jsapi.lightboxcdn.com^
+||s3.lightboxcdn.com^
+||submit.lightboxcdn.com^
+||submitcus.lightboxcdn.com^
 ||lightcast.com^
 ||lightenacquired.xyz^
 ||lightfoot.top^
@@ -33362,9 +33456,11 @@
 ||matterlytics.com^
 ||events.matterport.com^
 ||mattingsolutions.co^
+||mature-porn-tube.com^
 ||maturecodes.com^
 ||maturecodes-ip.com^
 ||maturerussia.com^
+||matures-tube.com^
 ||mauchopt.net^
 ||activate.maurices.com^
 ||smetrics.maurices.com^
@@ -33635,7 +33731,6 @@
 ||mediapalmtree.com^
 ||mediapass.com^
 ||mediapays.info^
-||mediaplayercodecpack.com^
 ||mediaplazza.com^
 ||mediaplex.com^
 ||mediaport.ua^
@@ -34884,8 +34979,7 @@
 ||moontontech.com^
 ||moontrkr.com^
 ||moovaush.com^
-||jambret.mopiex.com^
-||kendew.mopiex.com^
+||mopiex.com^
 ||mopinion.com^
 ||mopnatrestriction.com^
 ||mopo.jp^
@@ -35356,7 +35450,15 @@
 ||stats.myangular.life^
 ||rqyxdk.myanimelist.net^
 ||myanmarlegalservices.com^
-||myapp.com^
+||cms.myapp.com^
+||dd.myapp.com^
+||dlied5sdk.myapp.com^
+||mmgr.myapp.com^
+||pp.myapp.com^
+||qd.myapp.com^
+||resource.myapp.com^
+||sqdd.myapp.com^
+||wecar.myapp.com^
 ||adcs.myappsget.com^
 ||adcs-ue.myappsget.com^
 ||myaudience.de^
@@ -36345,6 +36447,8 @@
 ||new-programmatic.com^
 ||new-psh.com^
 ||new-rutor.eu^
+||new-sex-tube.com^
+||new-xxx-tube.com^
 ||new22bet.com^
 ||new23tesla.com^
 ||new2sportnews.com^
@@ -39278,6 +39382,7 @@
 ||on-push.com^
 ||on-rev.com^
 ||on-series.com^
+||on-shemale-tube.com^
 ||on2url.com^
 ||onandeggsiswel.xyz^
 ||onanistbrawns.store^
@@ -39361,6 +39466,7 @@
 ||onenotegem.com^
 ||oneotheacon.cc^
 ||api-telemetry.prod.k8s.onepeloton.com^
+||onepiece-tube.com^
 ||gateway-eu.oneplus.net^
 ||mdm.oneplus.net^
 ||router.oneplus.com^
@@ -39548,6 +39654,7 @@
 ||ookroush.com^
 ||ooliticcabbler.com^
 ||oomsoapt.net^
+||ooo-tube.com^
 ||oopt.fr^
 ||oorwithabitofst.info^
 ||oostotsu.com^
@@ -40683,6 +40790,7 @@
 ||analytics.pampers.com^
 ||sgw-analytics.panasonic.com^
 ||cli.pancafepro.com^
+||panchira-tube.com^
 ||analytics.pandadoc.com^
 ||edmanalytics.pandahall.com^
 ||pandalboranes.tech^
@@ -41990,6 +42098,8 @@
 ||ra.poringa.net^
 ||porkinconceivable.com^
 ||delivery.porn.com^
+||porn-video-tube.com^
+||porn-xxx-tube.com^
 ||tn.porn13.com^
 ||porn2012.com^
 ||pics99.porn300.com^
@@ -44594,7 +44704,9 @@
 ||dm.toutiao.com.queniuyk.com^
 ||querulous-type.com^
 ||querulouscharacter.com^
-||queryly.com^
+||api.queryly.com^
+||data.queryly.com^
+||related.queryly.com^
 ||tor-exit-at-the.quesadilla.party^
 ||quesid.com^
 ||eloqua.quest.com^
@@ -45077,6 +45189,7 @@
 ||stats.rebrickable.com^
 ||rebrn.com^
 ||rebunb.xyz^
+||rec-tube.com^
 ||recableuprear.com^
 ||recapture.io^
 ||analytics.recastsoftware.com^
@@ -46656,7 +46769,15 @@
 ||noticefile.samsungcloudsolution.com^
 ||diagmon-policy.samsungdm.com^
 ||diagmon-serviceapi.samsungdm.com^
-||samsungelectronics.com^
+||apu.samsungelectronics.com^
+||bpu.samsungelectronics.com^
+||cpu.samsungelectronics.com^
+||dpu.samsungelectronics.com^
+||kpu.samsungelectronics.com^
+||upu.samsungelectronics.com^
+||xpu.samsungelectronics.com^
+||ypu.samsungelectronics.com^
+||zpu.samsungelectronics.com^
 ||samsunggeopush.com^
 ||shealth-analytics-api.samsunghealth.com^
 ||analytics-api.samsunghealthcn.com^
@@ -46887,8 +47008,7 @@
 ||rt.scg-data.de^
 ||belajar.sman12bandung.sch.id^
 ||sis.smtijogja.sch.id^
-||sma.ypnwahidin.sch.id^
-||smp.ypnwahidin.sch.id^
+||ypnwahidin.sch.id^
 ||secmetrics.schaefer-shop.de^
 ||schemeza.com^
 ||schibsted.se^
@@ -47239,6 +47359,7 @@
 ||marketing.sedgwick.com^
 ||sedodna.com^
 ||sedoparking.com^
+||see-tube.com^
 ||seed-media.net^
 ||seedr.ru^
 ||seedtag.com^
@@ -47585,6 +47706,7 @@
 ||sexflirtbook.com^
 ||sexgangsters.com^
 ||x.sexhd.pics^
+||sexi-tube.com^
 ||sexidude.com^
 ||sexier.com^
 ||sexkontakt.com^
@@ -47602,6 +47724,7 @@
 ||sexuria.net^
 ||b.sexvids.cc^
 ||sexwithsister.com^
+||sexx-tube.com^
 ||sexxxy.biz^
 ||sexy-dating.site^
 ||sexy-egirls-leaked.com^
@@ -48322,7 +48445,7 @@
 ||skiingsettling.com^
 ||skillfuldrop.com^
 ||ads.skillz.com^
-||skimlinks.com^
+||sl-sentry.skimlinks.com^
 ||assistjs.skimresources.com^
 ||i.skimresources.com^
 ||incentive.skimresources.com^
@@ -48704,6 +48827,7 @@
 ||eimg.smzdm.com^
 ||shence-import.smzdm.com^
 ||behave.sn.at^
+||sn-kiddies-tube.com^
 ||snack-media.com^
 ||snackly.co^
 ||ak-static.snackvideo.in^
@@ -50236,11 +50360,6 @@
 ||ads.supplyframe.com^
 ||analytics.supplyframe.com^
 ||search.supplyframe.com^
-||topbuzzcdn.com.dob.sibl.support-intelligence.net^
-||turn.com.dob.sibl.support-intelligence.net^
-||crdl.io.dob.sibl.support-intelligence.net^
-||qgraph.io.dob.sibl.support-intelligence.net^
-||walmartsurvys.us.dob.sibl.support-intelligence.net^
 ||support-link.net^
 ||supportgm.com^
 ||supportwaves.com^
@@ -51136,15 +51255,19 @@
 ||teemo.co^
 ||teemooge.net^
 ||teen-hd-tube.com^
+||teen-pussy-tube.com^
+||teen-xxx-tube.com^
 ||teenbookmark.com^
 ||teengirl-pics.com^
 ||teenhost.net^
+||teens-tube.com^
 ||teensexgif.com^
 ||teensextumblr.com^
 ||teenskitten.com^
 ||sstats.teenvogue.com^
 ||teenwebcamnude.com^
 ||teenwolf-online.com^
+||teenxxx-tube.com^
 ||teenytinyshirt.com^
 ||teenywax.xyz^
 ||analytics.teepublic.com^
@@ -52149,8 +52272,7 @@
 ||tokenlon.im^
 ||tokenvolatilebreaker.com^
 ||toknowall.com^
-||app.toko999.shop^
-||seller.toko999.shop^
+||toko999.shop^
 ||tokofyttes.com^
 ||tokyo-hot.com^
 ||tokyo-porn-tube.com^
@@ -52172,6 +52294,7 @@
 ||toncooperateapologise.com^
 ||tonefuse.com^
 ||tonemedia.com^
+||tonganserried.life^
 ||tongbu.com^
 ||tongdun.cn^
 ||tongdun.net^
@@ -53402,8 +53525,7 @@
 ||ublock.org^
 ||ubm-us.net^
 ||unifi-report.ubnt.com^
-||enterprise.ubona.com^
-||hdfccreditcontrol.ubona.com^
+||ubona.com^
 ||analytics.ubs.com^
 ||tt.ubs.com^
 ||ubuntu.org^
@@ -55452,6 +55574,7 @@
 ||want7feed.com^
 ||conf-dg-dc-test.wanyol.com^
 ||waoeou.xyz^
+||wap-xxx-tube.com^
 ||lgs-log.wapcar.com^
 ||wapfmkmi.ru^
 ||wapforum.org^
@@ -57080,8 +57203,7 @@
 ||adv.xmmku.com^
 ||xmmnsl.com^
 ||njump.xmobistein.com^
-||jp.xmorex.com^
-||tw.xmorex.com^
+||xmorex.com^
 ||xmr.cool^
 ||xmrpool.net^
 ||xmsflzmygw.com^
@@ -57107,6 +57229,7 @@
 ||xnrdezutnd.com^
 ||xnxvnn.biz^
 ||multi.xnxx.com^
+||xnxx-sex-tube.com^
 ||xnxx-xx.com^
 ||xnxx4porn.com^
 ||xnxxfullhd.com^
@@ -57224,12 +57347,17 @@
 ||xwuad.com^
 ||xx.com^
 ||xxacpreh.ru^
+||xxl-tube.com^
 ||xxlargepop.com^
 ||xxsweety.com^
 ||xxuz.com^
+||xxx-free-tube.com^
+||xxx-fuck-tube.com^
+||xxx-hd-tube.com^
 ||xxx-mom.com^
 ||xxx-offers.com^
 ||xxx-porn-tube.com^
+||xxx-video-tube.com^
 ||xxxblackbook.com^
 ||xxxconent.biz^
 ||xxxcounter.com^
@@ -57237,6 +57365,7 @@
 ||xxxijmp.com^
 ||xxxivjmp.com^
 ||creative.xxxjmp.com^
+||xxxl-tube.com^
 ||xxxlov.online^
 ||xxxmatch.com^
 ||xxxmyself.com^
