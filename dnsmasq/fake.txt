@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 25 Feb 2023 23:31 UTC
-# Version: 2023.0225.2331.37
+# Last modified: 26 Feb 2023 23:29 UTC
+# Version: 2023.0226.2329.45
 # Syntax: DNSMasq
-# Domains: 5118
+# Domains: 5116
 #
 address=/willhaben.at.04300.id/#
 address=/11trikots.com/#
@@ -294,6 +294,7 @@ address=/arcaktuell.de/#
 address=/arcazhmanj.com/#
 address=/architectes-fr.com/#
 address=/architectlyy.site/#
+address=/archouston.com/#
 address=/arcteryxcanada.com/#
 address=/arcteryxoutlet.at/#
 address=/ardivine.com/#
@@ -704,6 +705,7 @@ address=/bussler-rasenmaher.com/#
 address=/buttons-shop.de/#
 address=/buucklebrand.com/#
 address=/buxtownbeacher.de/#
+address=/buydax.xyz/#
 address=/buyheatcore.com/#
 address=/buyldoram.com/#
 address=/buyneckrelaxofficial.com/#
@@ -3338,7 +3340,6 @@ address=/nobulosterreich.me/#
 address=/nohrak.com/#
 address=/nolimitsound.de/#
 address=/nomaw.de/#
-address=/nootica.de/#
 address=/nordfertm.com/#
 address=/shop.nordic-electronics.de/#
 address=/nordischesdesign.com/#
@@ -3658,7 +3659,6 @@ address=/privatpraxis-gyn.de/#
 address=/pro-trends.co/#
 address=/problembaum.at/#
 address=/processus-online.de/#
-address=/proevery.com/#
 address=/profayansy.com/#
 address=/profimatics.de/#
 address=/profiservice-24.info/#
@@ -5061,8 +5061,6 @@ address=/ybcladmetal.com/#
 address=/yellowpost.de/#
 address=/yenisei-sport.ru/#
 address=/yivette.com/#
-address=/yiyter.com/#
-address=/ynnter.com/#
 address=/yogabaum.at/#
 address=/yogakrokodil.de/#
 address=/yogashapenow.com/#

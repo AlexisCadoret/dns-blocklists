@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 25 Feb 2023 23:31 UTC
-# Version: 2023.0225.2331.37
+# Last modified: 26 Feb 2023 23:29 UTC
+# Version: 2023.0226.2329.45
 # Syntax: Hosts
-# Domains: 9825
+# Domains: 9830
 #
 0.0.0.0 willhaben.at.04300.id
 0.0.0.0 11trikots.com
@@ -395,6 +395,7 @@
 0.0.0.0 amarego.com
 0.0.0.0 www.amarego.com
 0.0.0.0 amazonboxus.com
+0.0.0.0 www.amazonboxus.com
 0.0.0.0 amazonspallet.com
 0.0.0.0 www.amazonspallet.com
 0.0.0.0 ambiar.de
@@ -563,6 +564,8 @@
 0.0.0.0 www.architectes-fr.com
 0.0.0.0 architectlyy.site
 0.0.0.0 www.architectlyy.site
+0.0.0.0 archouston.com
+0.0.0.0 www.archouston.com
 0.0.0.0 arcteryxcanada.com
 0.0.0.0 www.arcteryxcanada.com
 0.0.0.0 arcteryxoutlet.at
@@ -763,6 +766,7 @@
 0.0.0.0 www.babaroni.de
 0.0.0.0 babbien.com
 0.0.0.0 babycarriagemall.com
+0.0.0.0 www.babycarriagemall.com
 0.0.0.0 bach24.net
 0.0.0.0 www.bach24.net
 0.0.0.0 back-attack.de
@@ -926,6 +930,7 @@
 0.0.0.0 bellelora.com
 0.0.0.0 www.bellelora.com
 0.0.0.0 belletaka.com
+0.0.0.0 www.belletaka.com
 0.0.0.0 bellissimoo.de
 0.0.0.0 www.bellissimoo.de
 0.0.0.0 belmarkt.net
@@ -1365,6 +1370,8 @@
 0.0.0.0 www.buucklebrand.com
 0.0.0.0 buxtownbeacher.de
 0.0.0.0 www.buxtownbeacher.de
+0.0.0.0 buydax.xyz
+0.0.0.0 www.buydax.xyz
 0.0.0.0 buyheatcore.com
 0.0.0.0 www.buyheatcore.com
 0.0.0.0 buyldoram.com
@@ -2318,6 +2325,7 @@
 0.0.0.0 dius-institut.de
 0.0.0.0 www.dius-institut.de
 0.0.0.0 divceb.top
+0.0.0.0 www.divceb.top
 0.0.0.0 dividano.de
 0.0.0.0 www.dividano.de
 0.0.0.0 djabcu.com
@@ -3696,6 +3704,7 @@
 0.0.0.0 gold-handel-24.de
 0.0.0.0 www.gold-handel-24.de
 0.0.0.0 gold-handel-n.de
+0.0.0.0 www.gold-handel-n.de
 0.0.0.0 gold-handel-sofort.de
 0.0.0.0 www.gold-handel-sofort.de
 0.0.0.0 gold-handel-testsieger.de
@@ -3740,6 +3749,7 @@
 0.0.0.0 goldhandel-punkt.de
 0.0.0.0 www.goldhandel-punkt.de
 0.0.0.0 goldhandel-test-sieger-2022.de
+0.0.0.0 www.goldhandel-test-sieger-2022.de
 0.0.0.0 goldhandel-testsieger.de
 0.0.0.0 www.goldhandel-testsieger.de
 0.0.0.0 goldhandel-testsieger-shop.de
@@ -4041,6 +4051,7 @@
 0.0.0.0 heimatrad.de
 0.0.0.0 www.heimatrad.de
 0.0.0.0 heimfroh.com
+0.0.0.0 www.heimfroh.com
 0.0.0.0 heimprofis.de
 0.0.0.0 www.heimprofis.de
 0.0.0.0 heinrich-essing.de
@@ -5242,6 +5253,7 @@
 0.0.0.0 limassolrealestate.com
 0.0.0.0 www.limassolrealestate.com
 0.0.0.0 limebrandco.com
+0.0.0.0 www.limebrandco.com
 0.0.0.0 limitedscollectibles.com
 0.0.0.0 www.limitedscollectibles.com
 0.0.0.0 limitgreen.com
@@ -6394,8 +6406,6 @@
 0.0.0.0 www.nolimitsound.de
 0.0.0.0 nomaw.de
 0.0.0.0 www.nomaw.de
-0.0.0.0 nootica.de
-0.0.0.0 www.nootica.de
 0.0.0.0 nordfertm.com
 0.0.0.0 www.nordfertm.com
 0.0.0.0 shop.nordic-electronics.de
@@ -6807,6 +6817,7 @@
 0.0.0.0 phonekong.com
 0.0.0.0 www.phonekong.com
 0.0.0.0 photovoltaik-green.com
+0.0.0.0 www.photovoltaik-green.com
 0.0.0.0 pic-place.de
 0.0.0.0 www.pic-place.de
 0.0.0.0 picatrawler.com
@@ -7016,8 +7027,6 @@
 0.0.0.0 problembaum.at
 0.0.0.0 processus-online.de
 0.0.0.0 www.processus-online.de
-0.0.0.0 proevery.com
-0.0.0.0 www.proevery.com
 0.0.0.0 profayansy.com
 0.0.0.0 www.profayansy.com
 0.0.0.0 profimatics.de
@@ -8492,6 +8501,7 @@
 0.0.0.0 technik-schnaeppchen-shop.de
 0.0.0.0 www.technik-schnaeppchen-shop.de
 0.0.0.0 technikcenter24.com
+0.0.0.0 www.technikcenter24.com
 0.0.0.0 technikkirchner.de
 0.0.0.0 www.technikkirchner.de
 0.0.0.0 technikschaefer.de
@@ -8903,6 +8913,7 @@
 0.0.0.0 trusted-shop-nr8160.de
 0.0.0.0 www.trusted-shop-nr8160.de
 0.0.0.0 trusted-shop-nr8391.de
+0.0.0.0 www.trusted-shop-nr8391.de
 0.0.0.0 trusted-shop-nr8392.de
 0.0.0.0 trustedmedstore24.com
 0.0.0.0 www.trustedmedstore24.com
@@ -8966,7 +8977,6 @@
 0.0.0.0 uggbootsbilliger.org
 0.0.0.0 www.uggbootsbilliger.org
 0.0.0.0 uggbootsforsale.top
-0.0.0.0 www.uggbootsforsale.top
 0.0.0.0 uggbootssale-deutschland.net
 0.0.0.0 www.uggbootssale-deutschland.net
 0.0.0.0 uggcp.com
@@ -9009,7 +9019,6 @@
 0.0.0.0 www.unconstituted.com
 0.0.0.0 unibail-assets.com
 0.0.0.0 unikstors.com
-0.0.0.0 www.unikstors.com
 0.0.0.0 unionsmarket.group
 0.0.0.0 www.unionsmarket.group
 0.0.0.0 uniqdsn.com
@@ -9088,6 +9097,7 @@
 0.0.0.0 www.valurabeauty.com
 0.0.0.0 vandado.de
 0.0.0.0 vandder.store
+0.0.0.0 www.vandder.store
 0.0.0.0 vanitycosmetics.us
 0.0.0.0 www.vanitycosmetics.us
 0.0.0.0 vansesshop.store
@@ -9652,7 +9662,6 @@
 0.0.0.0 wunschfans.de
 0.0.0.0 www.wunschfans.de
 0.0.0.0 wv-langen.de
-0.0.0.0 www.wv-langen.de
 0.0.0.0 wwwhamsterkiste.de
 0.0.0.0 www.wwwhamsterkiste.de
 0.0.0.0 wynajemwroclaw.com
@@ -9706,10 +9715,6 @@
 0.0.0.0 www.yenisei-sport.ru
 0.0.0.0 yivette.com
 0.0.0.0 www.yivette.com
-0.0.0.0 yiyter.com
-0.0.0.0 www.yiyter.com
-0.0.0.0 ynnter.com
-0.0.0.0 www.ynnter.com
 0.0.0.0 yogabaum.at
 0.0.0.0 www.yogabaum.at
 0.0.0.0 yogakrokodil.de
