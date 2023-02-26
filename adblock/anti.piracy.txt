@@ -4,8 +4,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 24 Feb 2023 23:39 UTC
-! Version: 2023.0224.2339.53
+! Last modified: 26 Feb 2023 23:26 UTC
+! Version: 2023.0226.2326.15
 ! Syntax: AdBlock
 ! Domains: 7264
 !
@@ -185,7 +185,6 @@
 ||3dmgame.com^
 ||bt.3kb.xyz^
 ||3movierulz.sc^
-||3netbd.com^
 ||3rcommunications.com^
 ||3stekla.ru^
 ||subs.3wanime.org^
@@ -6252,6 +6251,7 @@
 ||torrenty.org^
 ||torrentyorg.pl^
 ||torrentz.com^
+||torrentz.eu^
 ||torrentz.io^
 ||torrentz.nu^
 ||torrentz.pl^

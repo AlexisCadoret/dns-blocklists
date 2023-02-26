@@ -4,8 +4,8 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 24 Feb 2023 23:39 UTC
-# Version: 2023.0224.2339.53
+# Last modified: 26 Feb 2023 23:26 UTC
+# Version: 2023.0226.2326.15
 # Syntax: DNSMasq
 # Domains: 7264
 #
@@ -185,7 +185,6 @@ address=/tracker.3arbya.com/#
 address=/3dmgame.com/#
 address=/bt.3kb.xyz/#
 address=/3movierulz.sc/#
-address=/3netbd.com/#
 address=/3rcommunications.com/#
 address=/3stekla.ru/#
 address=/subs.3wanime.org/#
@@ -6252,6 +6251,7 @@ address=/torrentx.one/#
 address=/torrenty.org/#
 address=/torrentyorg.pl/#
 address=/torrentz.com/#
+address=/torrentz.eu/#
 address=/torrentz.io/#
 address=/torrentz.nu/#
 address=/torrentz.pl/#
