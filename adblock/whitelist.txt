@@ -247,6 +247,7 @@
 @@|browser.events.data.trafficmanager.net^
 @@|c.msn.com^
 @@|c.office.com^
+
 ! Office 365 online
 @@||teams.live.com^
 @@||teams.microsoft.com^
@@ -254,14 +255,26 @@
 @@||nexusrules.live.com^
 @@||nexusrules.live.com.akadns.net^
 @@||nexusrules.officeapps.live.com^
+@@|office.events.data.microsoft.com^
+@@|office-events-data.trafficmanager.net^
 @@|self-events-data.trafficmanager.net^
 @@|self.events.data.microsoft.com^
+
 ! Outlook mobile app
 ! https://github.com/hagezi/dns-blocklists/issues/233
 @@|mobile.pipe.aria.microsoft.com^
 @@|mobile.events.data.microsoft.com^
-@@|*-mobile.events.data.microsoft.com^
+@@|eu-mobile.events.data.microsoft.com^
 @@|mobile.events.data.trafficmanager.net^
+@@|eu.events.data.trafficmanager.net^
+! Outlook - link to new outlook e-Mail address
+@@|eu-office.events.data.microsoft.com^
+@@|eu.aria.events.data.trafficmanager.net^
+
+! Microsoft Teams Events
+@@|ic3.events.data.microsoft.com^
+@@|teams.events.data.microsoft.com^
+@@|teams-events-data.trafficmanager.net^
 
 ! NVidia
 @@|activation.gfe.nvidia.com^
@@ -272,6 +285,7 @@
 @@|services.gfe.nvidia.com^
 
 ! SmartTVs
+! osb*.samsungqbe.com
 @@|acr*.samsungcloudsolution.com^
 @@|announcements.vizio.com^
 @@|api*.sony.tv^
@@ -316,7 +330,14 @@
 @@|ns11.whois.co.kr^
 @@|oempprd.samsungcloudsolution.com^
 @@|oempprd.samsungcloudsolution.net^
-@@|osb*.samsungqbe.com^
+@@|osb-apps-v2.samsungqbe.com^
+@@|osb-apps.samsungqbe.com^
+@@|osb-appsorsay.samsungqbe.com^
+@@|osb-eusvc.samsungqbe.com^
+@@|osb-internetattv.samsungqbe.com^
+@@|osb-sscscom.samsungqbe.com^
+@@|osb-ussvc.samsungqbe.com^
+@@|osb-v2.samsungqbe.com^
 @@|otn.samsungcloudcdn.com^
 @@|otnprd*.samsungcloudsolution.net^
 @@|ping.remarkable.com^
