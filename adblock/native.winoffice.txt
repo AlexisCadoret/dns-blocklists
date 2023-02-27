@@ -4,10 +4,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 24 Feb 2023 14:12 UTC
-! Version: 2023.0224.1412.54
+! Last modified: 27 Feb 2023 23:28 UTC
+! Version: 2023.0227.2328.14
 ! Syntax: AdBlock
-! Domains: 81
+! Domains: 77
 !
 ||asimov-win.settings.data.microsoft.com.akadns.net^
 ||cy2.vortex.data.microsoft.com.akadns.net^
@@ -30,11 +30,9 @@
 ||apac.events.data.microsoft.com^
 ||au-v10c.events.data.microsoft.com^
 ||emea.events.data.microsoft.com^
-||eu-office.events.data.microsoft.com^
 ||eu-teams.events.data.microsoft.com^
 ||eu-v10c.events.data.microsoft.com^
 ||functional.events.data.microsoft.com^
-||ic3.events.data.microsoft.com^
 ||jp-v10c.events.data.microsoft.com^
 ||kmwatson.events.data.microsoft.com^
 ||kmwatsonc.events.data.microsoft.com^
@@ -45,9 +43,9 @@
 ||pf.events.data.microsoft.com^
 ||server.events.data.microsoft.com^
 ||tb.events.data.microsoft.com^
-||teams.events.data.microsoft.com^
 ||umwatson.events.data.microsoft.com^
 ||umwatsonc.events.data.microsoft.com^
+||us-mobile.events.data.microsoft.com^
 ||us-v10c.events.data.microsoft.com^
 ||v10c.events.data.microsoft.com^
 ||watson.events.data.microsoft.com^
@@ -69,10 +67,10 @@
 ||events-sandbox.data.msn.com^
 ||fp.measure.office.com^
 ||apac.events.data.trafficmanager.net^
-||aria.events.data.trafficmanager.net^
+||global.aria.events.data.trafficmanager.net^
+||us.aria.events.data.trafficmanager.net^
 ||blobcollector.events.data.trafficmanager.net^
 ||emea.events.data.trafficmanager.net^
-||eu.events.data.trafficmanager.net^
 ||jp.events.data.trafficmanager.net^
 ||noam.events.data.trafficmanager.net^
 ||pf.events.data.trafficmanager.net^
@@ -82,8 +80,6 @@
 ||us.events.data.trafficmanager.net^
 ||legacywatson.trafficmanager.net^
 ||o365diagtelemetry.trafficmanager.net^
-||office-events-data.trafficmanager.net^
-||teams-events-data.trafficmanager.net^
 ||ceuswatcab01.blob.core.windows.net^
 ||ceuswatcab02.blob.core.windows.net^
 ||eaus2watcab01.blob.core.windows.net^
