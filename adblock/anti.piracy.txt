@@ -4,10 +4,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 26 Feb 2023 23:26 UTC
-! Version: 2023.0226.2326.15
+! Last modified: 27 Feb 2023 23:26 UTC
+! Version: 2023.0227.2326.34
 ! Syntax: AdBlock
-! Domains: 7264
+! Domains: 7265
 !
 ||00-torrnets.com^
 ||zer0day.000webhostapp.com^
@@ -6302,6 +6302,7 @@
 ||tpbproxy.click^
 ||tpbproxypirate.com^
 ||337hhh.tpddns.cn^
+||opentracker.trabus322.tk^
 ||tracker.army^
 ||tracker.bz^
 ||nyaa.tracker.wf^
