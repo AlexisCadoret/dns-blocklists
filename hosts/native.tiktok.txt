@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 24 Feb 2023 14:14 UTC
-# Version: 2023.0224.1414.25
+# Last modified: 27 Feb 2023 16:49 UTC
+# Version: 2023.0227.1649.58
 # Syntax: Hosts
-# Domains: 256
+# Domains: 257
 #
 0.0.0.0 cdnlog-va-useast2a.byteoversea.com
 0.0.0.0 frontier.byteoversea.com
@@ -58,6 +58,7 @@
 0.0.0.0 gecko-pangle-lq.snssdk.com
 0.0.0.0 log.snssdk.com
 0.0.0.0 log-hl.snssdk.com
+0.0.0.0 log-lf.snssdk.com
 0.0.0.0 log-lq.snssdk.com
 0.0.0.0 mcs.snssdk.com
 0.0.0.0 mon.snssdk.com

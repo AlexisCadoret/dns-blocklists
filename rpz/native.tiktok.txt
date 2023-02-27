@@ -8,10 +8,10 @@ $TTL 30
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ; Expires: Updated regularly
-; Last modified: 24 Feb 2023 14:14 UTC
-; Version: 2023.0224.1414.25
+; Last modified: 27 Feb 2023 16:49 UTC
+; Version: 2023.0227.1649.58
 ; Syntax: RPZ
-; Domains: 256
+; Domains: 257
 ;
 cdnlog-va-useast2a.byteoversea.com CNAME .
 *.cdnlog-va-useast2a.byteoversea.com CNAME .
@@ -111,6 +111,8 @@ log.snssdk.com CNAME .
 *.log.snssdk.com CNAME .
 log-hl.snssdk.com CNAME .
 *.log-hl.snssdk.com CNAME .
+log-lf.snssdk.com CNAME .
+*.log-lf.snssdk.com CNAME .
 log-lq.snssdk.com CNAME .
 *.log-lq.snssdk.com CNAME .
 mcs.snssdk.com CNAME .

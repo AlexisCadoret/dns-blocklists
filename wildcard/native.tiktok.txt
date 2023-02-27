@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 24 Feb 2023 14:14 UTC
-# Version: 2023.0224.1414.25
+# Last modified: 27 Feb 2023 16:49 UTC
+# Version: 2023.0227.1649.58
 # Syntax: Domains Wildcard (DNSCrypt/YogaDNS/...)
-# Domains: 256
+# Domains: 257
 #
 *.cdnlog-va-useast2a.byteoversea.com
 *.frontier.byteoversea.com
@@ -58,6 +58,7 @@
 *.gecko-pangle-lq.snssdk.com
 *.log.snssdk.com
 *.log-hl.snssdk.com
+*.log-lf.snssdk.com
 *.log-lq.snssdk.com
 *.mcs.snssdk.com
 *.mon.snssdk.com
