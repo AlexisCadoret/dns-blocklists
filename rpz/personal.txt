@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.personal. hostmaster.hagezi.personal. 1677366000 86400 3600 604800 30
+@ SOA rpz.hagezi.personal. hostmaster.hagezi.personal. 1677452400 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Personal DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 30
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ; Expires: Updated regularly
-; Last modified: 26 Feb 2023 20:04 UTC
-; Version: 2023.0226.2004.25
+; Last modified: 27 Feb 2023 00:33 UTC
+; Version: 2023.0227.0033.12
 ; Syntax: RPZ
-; Domains: 34477
+; Domains: 34493
 ;
 marketing.globalpointofcare.abbott CNAME .
 *.marketing.globalpointofcare.abbott CNAME .
@@ -6505,6 +6505,8 @@ smetrics.ally.com CNAME .
 *.smetrics.ally.com CNAME .
 allyes.com CNAME .
 *.allyes.com CNAME .
+allyos.com CNAME .
+*.allyos.com CNAME .
 almaei-hr.com CNAME .
 *.almaei-hr.com CNAME .
 almightypush.com CNAME .
@@ -7303,6 +7305,8 @@ analytics.apnewsregistry.com CNAME .
 *.analytics.apnewsregistry.com CNAME .
 apollohq.com CNAME .
 *.apollohq.com CNAME .
+apolloprogram.com CNAME .
+*.apolloprogram.com CNAME .
 apologizingrigorousmorally.com CNAME .
 *.apologizingrigorousmorally.com CNAME .
 aponiaonmarch.com CNAME .
@@ -11567,6 +11571,8 @@ chavoads.com CNAME .
 *.chavoads.com CNAME .
 chbzsem.com CNAME .
 *.chbzsem.com CNAME .
+cheap-jewelry-online.com CNAME .
+*.cheap-jewelry-online.com CNAME .
 fqppgv.cheapoair.com CNAME .
 *.fqppgv.cheapoair.com CNAME .
 cheaterboss.com CNAME .
@@ -15225,6 +15231,8 @@ dvnfo.com CNAME .
 *.dvnfo.com CNAME .
 dvrlists.com CNAME .
 *.dvrlists.com CNAME .
+dvsdvsdvsdva.com CNAME .
+*.dvsdvsdvsdva.com CNAME .
 dvypar.com CNAME .
 *.dvypar.com CNAME .
 dwaktyqa.com CNAME .
@@ -20979,8 +20987,8 @@ hiconversion.com CNAME .
 *.hiconversion.com CNAME .
 hicpm5.com CNAME .
 *.hicpm5.com CNAME .
-fogplix.hiddenpirates.com CNAME .
-*.fogplix.hiddenpirates.com CNAME .
+hiddenpirates.com CNAME .
+*.hiddenpirates.com CNAME .
 higedgene.com CNAME .
 *.higedgene.com CNAME .
 highav.com CNAME .
@@ -25039,6 +25047,8 @@ licasd.com CNAME .
 *.licasd.com CNAME .
 licenseapps.com CNAME .
 *.licenseapps.com CNAME .
+lickingimprovementpropulsion.com CNAME .
+*.lickingimprovementpropulsion.com CNAME .
 lidertakipci.com CNAME .
 *.lidertakipci.com CNAME .
 create.lidstatic.com CNAME .
@@ -32171,6 +32181,8 @@ pugsgivehugs.com CNAME .
 *.pugsgivehugs.com CNAME .
 puhtml.com CNAME .
 *.puhtml.com CNAME .
+puitaexb.com CNAME .
+*.puitaexb.com CNAME .
 puleynoomiac.com CNAME .
 *.puleynoomiac.com CNAME .
 pulpower.com CNAME .
@@ -40831,6 +40843,8 @@ analytics.tmonews.com CNAME .
 *.analytics.tmonews.com CNAME .
 tmrjmp.com CNAME .
 *.tmrjmp.com CNAME .
+tmtrck.com CNAME .
+*.tmtrck.com CNAME .
 tmyzer.com CNAME .
 *.tmyzer.com CNAME .
 smetrics.tmz.com CNAME .
@@ -48649,6 +48663,8 @@ smetrics.sfr.fr CNAME .
 *.smetrics.sfr.fr CNAME .
 1bva.societegenerale.fr CNAME .
 *.1bva.societegenerale.fr CNAME .
+starseed.fr CNAME .
+*.starseed.fr CNAME .
 tag.statshop.fr CNAME .
 *.tag.statshop.fr CNAME .
 stylee.fr CNAME .
@@ -48817,6 +48833,8 @@ cookiemon.atcom.gr CNAME .
 *.cookiemon.atcom.gr CNAME .
 scripts.bestprice.gr CNAME .
 *.scripts.bestprice.gr CNAME .
+connect-line.gr CNAME .
+*.connect-line.gr CNAME .
 dramitinos.gr CNAME .
 *.dramitinos.gr CNAME .
 e-skafos.gr CNAME .
@@ -50017,6 +50035,8 @@ bigpicture.io CNAME .
 *.bigpicture.io CNAME .
 bitcoadz.io CNAME .
 *.bitcoadz.io CNAME .
+bitcoin-up.io CNAME .
+*.bitcoin-up.io CNAME .
 bitcoinprime.io CNAME .
 *.bitcoinprime.io CNAME .
 bitcoins-era.io CNAME .
@@ -52415,6 +52435,8 @@ tatleadlam.live CNAME .
 *.tatleadlam.live CNAME .
 trackmwsg.live CNAME .
 *.trackmwsg.live CNAME .
+unhideme.live CNAME .
+*.unhideme.live CNAME .
 usedpaby.live CNAME .
 *.usedpaby.live CNAME .
 video-call.live CNAME .
@@ -61363,6 +61385,8 @@ core-api-frontendlogger.front.vpgrp.net CNAME .
 *.core-api-frontendlogger.front.vpgrp.net CNAME .
 vpn-content.net CNAME .
 *.vpn-content.net CNAME .
+vqdn.net CNAME .
+*.vqdn.net CNAME .
 cpm.vuukle.net CNAME .
 *.cpm.vuukle.net CNAME .
 rtb-useast-v4.vuukle.net CNAME .
@@ -61775,6 +61799,8 @@ adb-secured.kijk.nl CNAME .
 *.adb-secured.kijk.nl CNAME .
 analytics.services.kirra.nl CNAME .
 *.analytics.services.kirra.nl CNAME .
+klikklik.nl CNAME .
+*.klikklik.nl CNAME .
 tdep.kvk.nl CNAME .
 *.tdep.kvk.nl CNAME .
 ed.large.nl CNAME .
@@ -65915,6 +65941,8 @@ fikccnef.top CNAME .
 *.fikccnef.top CNAME .
 findyourhalf.top CNAME .
 *.findyourhalf.top CNAME .
+fjszwbb85d5o.top CNAME .
+*.fjszwbb85d5o.top CNAME .
 flying-bird.top CNAME .
 *.flying-bird.top CNAME .
 gahuiio.top CNAME .
@@ -67207,6 +67235,8 @@ smetrics.smartmove.us CNAME .
 *.smetrics.smartmove.us CNAME .
 tdmd.us CNAME .
 *.tdmd.us CNAME .
+theflixplay.us CNAME .
+*.theflixplay.us CNAME .
 data-1c0a3d83e3.transfermarkt.us CNAME .
 *.data-1c0a3d83e3.transfermarkt.us CNAME .
 data-84a0f3455d.transfermarkt.us CNAME .
@@ -67825,6 +67855,8 @@ argxdhrjhett.xyz CNAME .
 *.argxdhrjhett.xyz CNAME .
 arikhwglvc.xyz CNAME .
 *.arikhwglvc.xyz CNAME .
+arkt.xyz CNAME .
+*.arkt.xyz CNAME .
 arriedand.xyz CNAME .
 *.arriedand.xyz CNAME .
 arthurscan.xyz CNAME .

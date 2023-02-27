@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 26 Feb 2023 20:04 UTC
-# Version: 2023.0226.2004.25
+# Last modified: 27 Feb 2023 00:33 UTC
+# Version: 2023.0227.0033.12
 # Syntax: Hosts
-# Domains: 100831
+# Domains: 100863
 #
 0.0.0.0 003store.com
 0.0.0.0 www.003store.com
@@ -13351,6 +13351,8 @@
 0.0.0.0 metrics.ally.com
 0.0.0.0 smetrics.ally.com
 0.0.0.0 allyes.com
+0.0.0.0 allyos.com
+0.0.0.0 www.allyos.com
 0.0.0.0 almaei-hr.com
 0.0.0.0 www.almaei-hr.com
 0.0.0.0 almightypush.com
@@ -14917,7 +14919,9 @@
 0.0.0.0 analytics.apnewsregistry.com
 0.0.0.0 apollohq.com
 0.0.0.0 www.apollohq.com
+0.0.0.0 apolloprogram.com
 0.0.0.0 apolloprogram.io
+0.0.0.0 www.apolloprogram.com
 0.0.0.0 apologizingrigorousmorally.com
 0.0.0.0 www.apologizingrigorousmorally.com
 0.0.0.0 data-be9b6161bf.aponet.de
@@ -16733,6 +16737,8 @@
 0.0.0.0 t.arkansasrazorbacks.com
 0.0.0.0 arkentechsolutions.com
 0.0.0.0 www.arkentechsolutions.com
+0.0.0.0 arkt.xyz
+0.0.0.0 www.arkt.xyz
 0.0.0.0 arlento.pl
 0.0.0.0 www.arlento.pl
 0.0.0.0 armahouse.com
@@ -19454,6 +19460,8 @@
 0.0.0.0 www.bitcoin-prime.app
 0.0.0.0 bitcoin-profit.org
 0.0.0.0 www.bitcoin-profit.org
+0.0.0.0 bitcoin-up.io
+0.0.0.0 www.bitcoin-up.io
 0.0.0.0 bitcoinera.app
 0.0.0.0 www.bitcoinera.app
 0.0.0.0 bitcoineranew.com
@@ -28054,6 +28062,8 @@
 0.0.0.0 www.chavosh.org
 0.0.0.0 chbzsem.com
 0.0.0.0 www.chbzsem.com
+0.0.0.0 cheap-jewelry-online.com
+0.0.0.0 www.cheap-jewelry-online.com
 0.0.0.0 cheap-result.pro
 0.0.0.0 www.cheap-result.pro
 0.0.0.0 fqppgv.cheapoair.com
@@ -32071,6 +32081,8 @@
 0.0.0.0 cks.connatix.com
 0.0.0.0 data-b640a0ce46.connect.de
 0.0.0.0 share.connect.aig
+0.0.0.0 connect-line.gr
+0.0.0.0 www.connect-line.gr
 0.0.0.0 connectad.io
 0.0.0.0 cdn.connectad.io
 0.0.0.0 connected-by.connectad.io
@@ -43252,6 +43264,8 @@
 0.0.0.0 dvrlists.com
 0.0.0.0 ns1.dvrlists.com
 0.0.0.0 www.dvrlists.com
+0.0.0.0 dvsdvsdvsdva.com
+0.0.0.0 www.dvsdvsdvsdva.com
 0.0.0.0 dvypar.com
 0.0.0.0 dwaktyqa.com
 0.0.0.0 www.dwaktyqa.com
@@ -48072,6 +48086,8 @@
 0.0.0.0 www.fixx.sbs
 0.0.0.0 fjijxch.com
 0.0.0.0 www.fjijxch.com
+0.0.0.0 fjszwbb85d5o.top
+0.0.0.0 www.fjszwbb85d5o.top
 0.0.0.0 desa.fkapi.net
 0.0.0.0 desb.fkapi.net
 0.0.0.0 desr.fkapi.net
@@ -53231,7 +53247,9 @@
 0.0.0.0 www.hiconversion.com
 0.0.0.0 hicpm5.com
 0.0.0.0 www.hicpm5.com
+0.0.0.0 hiddenpirates.com
 0.0.0.0 fogplix.hiddenpirates.com
+0.0.0.0 www.hiddenpirates.com
 0.0.0.0 hif.to
 0.0.0.0 hifimarket.cl
 0.0.0.0 www.hifimarket.cl
@@ -59238,6 +59256,8 @@
 0.0.0.0 track.klickly.com
 0.0.0.0 widget-promotions-api.klickly.com
 0.0.0.0 www.klickly.com
+0.0.0.0 klikklik.nl
+0.0.0.0 www.klikklik.nl
 0.0.0.0 kliksaya.com
 0.0.0.0 www.kliksaya.com
 0.0.0.0 kliqz.com
@@ -60654,6 +60674,8 @@
 0.0.0.0 c.licasd.com
 0.0.0.0 licenseapps.com
 0.0.0.0 www.licenseapps.com
+0.0.0.0 lickingimprovementpropulsion.com
+0.0.0.0 www.lickingimprovementpropulsion.com
 0.0.0.0 liddenlywilli.org
 0.0.0.0 www.liddenlywilli.org
 0.0.0.0 lidertakipci.com
@@ -74993,6 +75015,7 @@
 0.0.0.0 pugsgivehugs.com
 0.0.0.0 puhtml.com
 0.0.0.0 www.puhtml.com
+0.0.0.0 puitaexb.com
 0.0.0.0 puleynoomiac.com
 0.0.0.0 ds.puleynoomiac.com
 0.0.0.0 pulpower.com
@@ -87729,6 +87752,8 @@
 0.0.0.0 analytics.starmakerstudios.com
 0.0.0.0 track.starmakerstudios.com
 0.0.0.0 starsearchtool.com
+0.0.0.0 starseed.fr
+0.0.0.0 www.starseed.fr
 0.0.0.0 start-xyz.com
 0.0.0.0 www.start-xyz.com
 0.0.0.0 start3dfile33.com
@@ -90337,6 +90362,8 @@
 0.0.0.0 thefilter.com
 0.0.0.0 eeee7491a9c34dd9b2f2daa63dc09b96-rest.thefilter.com
 0.0.0.0 www.thefilter.com
+0.0.0.0 theflixplay.us
+0.0.0.0 www.theflixplay.us
 0.0.0.0 thefontzone.com
 0.0.0.0 thefortunatenutrition.com
 0.0.0.0 www.thefortunatenutrition.com
@@ -90832,6 +90859,8 @@
 0.0.0.0 trusted-collector-bk.tmocce.com
 0.0.0.0 analytics.tmonews.com
 0.0.0.0 tmrjmp.com
+0.0.0.0 tmtrck.com
+0.0.0.0 www.tmtrck.com
 0.0.0.0 tmyzer.com
 0.0.0.0 c.tmyzer.com
 0.0.0.0 g.tmyzer.com
@@ -94057,6 +94086,8 @@
 0.0.0.0 www.unhappyporkform.com
 0.0.0.0 unhatedprotei.com
 0.0.0.0 www.unhatedprotei.com
+0.0.0.0 unhideme.live
+0.0.0.0 www.unhideme.live
 0.0.0.0 analytics.rz.uni-osnabrueck.de
 0.0.0.0 ads.unibet.com
 0.0.0.0 adserving.unibet.com
@@ -96525,6 +96556,7 @@
 0.0.0.0 www.vpscash.nl
 0.0.0.0 vptadv.com
 0.0.0.0 www.vptadv.com
+0.0.0.0 vqdn.net
 0.0.0.0 tracker.pre.vr-tb.com
 0.0.0.0 vraatdwugla.com
 0.0.0.0 om.vrbo.com
