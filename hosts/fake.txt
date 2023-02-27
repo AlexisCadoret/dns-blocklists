@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 26 Feb 2023 23:29 UTC
-# Version: 2023.0226.2329.45
+# Last modified: 27 Feb 2023 16:50 UTC
+# Version: 2023.0227.1650.53
 # Syntax: Hosts
-# Domains: 9830
+# Domains: 9828
 #
 0.0.0.0 willhaben.at.04300.id
 0.0.0.0 11trikots.com
@@ -1437,6 +1437,7 @@
 0.0.0.0 www.camhamster.at
 0.0.0.0 cami-handel.de
 0.0.0.0 www.cami-handel.de
+0.0.0.0 camperberlin.com
 0.0.0.0 canadarx24h.com
 0.0.0.0 www.canadarx24h.com
 0.0.0.0 canbrace.com
@@ -4243,8 +4244,6 @@
 0.0.0.0 www.hotels-colorado.net
 0.0.0.0 hotels-in-riga.de
 0.0.0.0 www.hotels-in-riga.de
-0.0.0.0 hotels-in-tyrol.com
-0.0.0.0 www.hotels-in-tyrol.com
 0.0.0.0 hotelsinperm.ru
 0.0.0.0 www.hotelsinperm.ru
 0.0.0.0 hotelsofmenorca.com
@@ -7289,7 +7288,6 @@
 0.0.0.0 www.reise-tipps.at
 0.0.0.0 reisebuero-fuchs.com
 0.0.0.0 www.reisebuero-fuchs.com
-0.0.0.0 reisebuero-kirsch.com
 0.0.0.0 reiterhof-geidner.de
 0.0.0.0 www.reiterhof-geidner.de
 0.0.0.0 reiterstueberl.net

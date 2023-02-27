@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 26 Feb 2023 23:29 UTC
-# Version: 2023.0226.2329.45
+# Last modified: 27 Feb 2023 16:50 UTC
+# Version: 2023.0227.1650.53
 # Syntax: DNSMasq
-# Domains: 5116
+# Domains: 5115
 #
 address=/willhaben.at.04300.id/#
 address=/11trikots.com/#
@@ -739,6 +739,7 @@ address=/cambuyg.top/#
 address=/camgem.de/#
 address=/camhamster.at/#
 address=/cami-handel.de/#
+address=/camperberlin.com/#
 address=/canadarx24h.com/#
 address=/canbrace.com/#
 address=/canizaresarchitects.com/#
@@ -2213,7 +2214,6 @@ address=/hotelinphuket.net/#
 address=/hotels-colombo.com/#
 address=/hotels-colorado.net/#
 address=/hotels-in-riga.de/#
-address=/hotels-in-tyrol.com/#
 address=/hotelsinperm.ru/#
 address=/hotelsofmenorca.com/#
 address=/hotelsofnewyorkcity.net/#
@@ -3796,7 +3796,6 @@ address=/reinekedesign.com/#
 address=/reinhardorense.at/#
 address=/reise-tipps.at/#
 address=/reisebuero-fuchs.com/#
-address=/reisebuero-kirsch.com/#
 address=/reiterhof-geidner.de/#
 address=/reiterstueberl.net/#
 address=/relaxify.de/#

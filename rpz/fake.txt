@@ -8,10 +8,10 @@ $TTL 30
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ; Expires: Updated regularly
-; Last modified: 26 Feb 2023 23:29 UTC
-; Version: 2023.0226.2329.45
+; Last modified: 27 Feb 2023 16:50 UTC
+; Version: 2023.0227.1650.53
 ; Syntax: RPZ
-; Domains: 5116
+; Domains: 5115
 ;
 1euro.at CNAME .
 *.1euro.at CNAME .
@@ -1623,6 +1623,8 @@ calcaterrachallenge.com CNAME .
 *.calcaterrachallenge.com CNAME .
 calocalsale.com CNAME .
 *.calocalsale.com CNAME .
+camperberlin.com CNAME .
+*.camperberlin.com CNAME .
 canadarx24h.com CNAME .
 *.canadarx24h.com CNAME .
 canbrace.com CNAME .
@@ -2823,8 +2825,6 @@ hotdates18.com CNAME .
 *.hotdates18.com CNAME .
 hotels-colombo.com CNAME .
 *.hotels-colombo.com CNAME .
-hotels-in-tyrol.com CNAME .
-*.hotels-in-tyrol.com CNAME .
 hotelsofmenorca.com CNAME .
 *.hotelsofmenorca.com CNAME .
 hotideabuy.com CNAME .
@@ -4259,8 +4259,6 @@ reinekedesign.com CNAME .
 *.reinekedesign.com CNAME .
 reisebuero-fuchs.com CNAME .
 *.reisebuero-fuchs.com CNAME .
-reisebuero-kirsch.com CNAME .
-*.reisebuero-kirsch.com CNAME .
 remintive.com CNAME .
 *.remintive.com CNAME .
 rennradbekleidung.com CNAME .

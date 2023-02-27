@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 26 Feb 2023 23:29 UTC
-# Version: 2023.0226.2329.45
+# Last modified: 27 Feb 2023 16:50 UTC
+# Version: 2023.0227.1650.53
 # Syntax: Domains Wildcard (DNSCrypt/YogaDNS/...)
-# Domains: 5116
+# Domains: 5115
 #
 *.willhaben.at.04300.id
 *.11trikots.com
@@ -739,6 +739,7 @@
 *.camgem.de
 *.camhamster.at
 *.cami-handel.de
+*.camperberlin.com
 *.canadarx24h.com
 *.canbrace.com
 *.canizaresarchitects.com
@@ -2213,7 +2214,6 @@
 *.hotels-colombo.com
 *.hotels-colorado.net
 *.hotels-in-riga.de
-*.hotels-in-tyrol.com
 *.hotelsinperm.ru
 *.hotelsofmenorca.com
 *.hotelsofnewyorkcity.net
@@ -3796,7 +3796,6 @@
 *.reinhardorense.at
 *.reise-tipps.at
 *.reisebuero-fuchs.com
-*.reisebuero-kirsch.com
 *.reiterhof-geidner.de
 *.reiterstueberl.net
 *.relaxify.de
