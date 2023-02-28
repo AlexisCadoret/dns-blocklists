@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 28 Feb 2023 09:50 UTC
-# Version: 2023.0228.0950.47
+# Last modified: 28 Feb 2023 21:01 UTC
+# Version: 2023.0228.2101.48
 # Syntax: DNSMasq
-# Domains: 8040
+# Domains: 8039
 #
 address=/00-torrnets.com/#
 address=/zer0day.000webhostapp.com/#
@@ -7899,7 +7899,6 @@ address=/yourptflixmovies.com/#
 address=/yoursports.stream/#
 address=/youserials.com/#
 address=/youtorrent.com/#
-address=/youtube.com/#
 address=/youwatch.org/#
 address=/ntorrent.yoyo.pl/#
 address=/yqzuji.com/#
