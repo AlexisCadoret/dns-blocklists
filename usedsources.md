@@ -485,6 +485,58 @@ For domain and host lists, additionally: matching/missing subdomains (see at the
   1 |     100% |   0% |      0% |      51 | black.list.hoster
 ```
 ---
+#### ANTI.PIRACY
+[whitelisted domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/anti.piracy-removed-white.txt) | [whitelisted referral domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/anti.piracy-removed-referral.txt) | [dead domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/anti.piracy-removed-dead.txt)
+```
+10187 total unique domains | 10164 (100%) included | 0 (0%) removed | 23 (0%) dead
+
+ Nr | Included | Dead | Removed |   Count | URL/File
+  1 |     100% |   0% |      0% |       5 | https://raw.githubusercontent.com/nextdns/piracy-blocklists/master/dht-bootstrap-nodes
+  2 |     100% |   0% |      0% |     110 | https://raw.githubusercontent.com/nextdns/piracy-blocklists/master/file-hosting
+  3 |     100% |   0% |      0% |      41 | https://raw.githubusercontent.com/nextdns/piracy-blocklists/master/proxies
+  4 |     100% |   0% |      0% |      65 | https://raw.githubusercontent.com/nextdns/piracy-blocklists/master/streaming-audio
+  5 |     100% |   0% |      0% |    1085 | https://raw.githubusercontent.com/nextdns/piracy-blocklists/master/streaming-video
+  6 |     100% |   0% |      0% |      31 | https://raw.githubusercontent.com/nextdns/piracy-blocklists/master/torrent-clients
+  7 |     100% |   0% |      0% |     351 | https://raw.githubusercontent.com/nextdns/piracy-blocklists/master/torrent-trackers
+  8 |     100% |   0% |      0% |    1266 | https://raw.githubusercontent.com/nextdns/piracy-blocklists/master/torrent-websites
+  9 |     100% |   0% |      0% |      12 | https://raw.githubusercontent.com/nextdns/piracy-blocklists/master/usenet
+ 10 |     100% |   0% |      0% |     133 | https://raw.githubusercontent.com/nextdns/piracy-blocklists/master/warez
+ 11 |     100% |   0% |      0% |    2134 | https://raw.githubusercontent.com/blocklistproject/Lists/master/piracy.txt
+ 12 |     100% |   0% |      0% |     700 | https://raw.githubusercontent.com/SM443/Pi-hole-Torrent-Blocklist/main/all-torrent-trackres.txt
+ 13 |     100% |   0% |      0% |    3814 | https://raw.githubusercontent.com/SM443/Pi-hole-Torrent-Blocklist/main/all-torrent-websites.txt
+ 14 |      99% |   1% |      0% |    1085 | whitelist-torrent_tracker.txt
+ 15 |     100% |   0% |      0% |    2128 | https://raw.githubusercontent.com/Entree3k/Pi-hole-Block-List/master/Piracy%20List
+ 16 |     100% |   0% |      0% |     805 | https://raw.githubusercontent.com/SM443/BDIX-Piracy-Blocklist/main/bdix_piracy_websites_only-domains.txt
+ 17 |     100% |   0% |      0% |      68 | https://github.com/SeppPenner/awesome-german-piracy/blob/master/Pages/AndroidApps.md
+ 18 |     100% |   0% |      0% |      46 | https://github.com/SeppPenner/awesome-german-piracy/blob/master/Pages/AudioBooks.md
+ 19 |     100% |   0% |      0% |     121 | https://github.com/SeppPenner/awesome-german-piracy/blob/master/Pages/eBooks.md
+ 20 |     100% |   0% |      0% |     104 | https://github.com/SeppPenner/awesome-german-piracy/blob/master/Pages/Games.md
+ 21 |     100% |   0% |      0% |      53 | https://github.com/SeppPenner/awesome-german-piracy/blob/master/Pages/iOSApps.md
+ 22 |     100% |   0% |      0% |      29 | https://github.com/SeppPenner/awesome-german-piracy/blob/master/Pages/Keygens.md
+ 23 |     100% |   0% |      0% |      47 | https://github.com/SeppPenner/awesome-german-piracy/blob/master/Pages/Lists.md
+ 24 |     100% |   0% |      0% |      71 | https://github.com/SeppPenner/awesome-german-piracy/blob/master/Pages/macOsSoftware.md
+ 25 |     100% |   0% |      0% |      50 | https://github.com/SeppPenner/awesome-german-piracy/blob/master/Pages/MangaAnime.md
+ 26 |     100% |   0% |      0% |     168 | https://github.com/SeppPenner/awesome-german-piracy/blob/master/Pages/Movies.md
+ 27 |     100% |   0% |      0% |     207 | https://github.com/SeppPenner/awesome-german-piracy/blob/master/Pages/Movies_English.md
+ 28 |     100% |   0% |      0% |      86 | https://github.com/SeppPenner/awesome-german-piracy/blob/master/Pages/Movies_Other.md
+ 29 |     100% |   0% |      0% |     123 | https://github.com/SeppPenner/awesome-german-piracy/blob/master/Pages/Music.md
+ 30 |     100% |   0% |      0% |      23 | https://github.com/SeppPenner/awesome-german-piracy/blob/master/Pages/NavigationSoftware.md
+ 31 |     100% |   0% |      0% |      38 | https://github.com/SeppPenner/awesome-german-piracy/blob/master/Pages/Nfo.md
+ 32 |     100% |   0% |      0% |      38 | https://github.com/SeppPenner/awesome-german-piracy/blob/master/Pages/NulledScripts.md
+ 33 |     100% |   0% |      0% |       2 | https://github.com/SeppPenner/awesome-german-piracy/blob/master/Pages/SearchEngines.md
+ 34 |      99% |   1% |      0% |     193 | https://github.com/SeppPenner/awesome-german-piracy/blob/master/Pages/Series.md
+ 35 |     100% |   0% |      0% |     236 | https://github.com/SeppPenner/awesome-german-piracy/blob/master/Pages/Series_English.md
+ 36 |     100% |   0% |      0% |      81 | https://github.com/SeppPenner/awesome-german-piracy/blob/master/Pages/Series_Other.md
+ 37 |     100% |   0% |      0% |     104 | https://github.com/SeppPenner/awesome-german-piracy/blob/master/Pages/SportStreams.md
+ 38 |     100% |   0% |      0% |      98 | https://github.com/SeppPenner/awesome-german-piracy/blob/master/Pages/Torrents.md
+ 39 |     100% |   0% |      0% |      18 | https://github.com/SeppPenner/awesome-german-piracy/blob/master/Pages/TvSenders.md
+ 40 |     100% |   0% |      0% |      26 | https://github.com/SeppPenner/awesome-german-piracy/blob/master/Pages/UsenetForums.md
+ 41 |     100% |   0% |      0% |      32 | https://github.com/SeppPenner/awesome-german-piracy/blob/master/Pages/UsenetSearchEngines.md
+ 42 |     100% |   0% |      0% |     104 | https://github.com/SeppPenner/awesome-german-piracy/blob/master/Pages/Warez.md
+ 43 |     100% |   0% |      0% |      78 | https://github.com/SeppPenner/awesome-german-piracy/blob/master/Pages/WindowsSoftware.md
+ 44 |     100% |   0% |      0% |       3 | black.list.antipiracy
+```
+---
 ### Subdomains
 *The matching/missing subdomains for domain and hosts lists are extracted from the following lists:*
 ```
@@ -557,6 +609,37 @@ https://fanboy.co.nz/enhancedstats.txt
 https://filters.adavoid.org/ultimate-ad-filter.txt
 https://filters.adavoid.org/ultimate-privacy-filter.txt
 https://github.com/blocklistproject/Lists/blob/master/piracy.txt
+https://github.com/SeppPenner/awesome-german-piracy/blob/master/Pages/AndroidApps.md
+https://github.com/SeppPenner/awesome-german-piracy/blob/master/Pages/AudioBooks.md
+https://github.com/SeppPenner/awesome-german-piracy/blob/master/Pages/CryptoPlaces.md
+https://github.com/SeppPenner/awesome-german-piracy/blob/master/Pages/Documentations.md
+https://github.com/SeppPenner/awesome-german-piracy/blob/master/Pages/eBooks.md
+https://github.com/SeppPenner/awesome-german-piracy/blob/master/Pages/Games.md
+https://github.com/SeppPenner/awesome-german-piracy/blob/master/Pages/iOSApps.md
+https://github.com/SeppPenner/awesome-german-piracy/blob/master/Pages/Keygens.md
+https://github.com/SeppPenner/awesome-german-piracy/blob/master/Pages/Lists.md
+https://github.com/SeppPenner/awesome-german-piracy/blob/master/Pages/macOsSoftware.md
+https://github.com/SeppPenner/awesome-german-piracy/blob/master/Pages/MangaAnime.md
+https://github.com/SeppPenner/awesome-german-piracy/blob/master/Pages/Movies_English.md
+https://github.com/SeppPenner/awesome-german-piracy/blob/master/Pages/Movies.md
+https://github.com/SeppPenner/awesome-german-piracy/blob/master/Pages/Movies_Other.md
+https://github.com/SeppPenner/awesome-german-piracy/blob/master/Pages/Music.md
+https://github.com/SeppPenner/awesome-german-piracy/blob/master/Pages/NavigationSoftware.md
+https://github.com/SeppPenner/awesome-german-piracy/blob/master/Pages/Nfo.md
+https://github.com/SeppPenner/awesome-german-piracy/blob/master/Pages/NulledScripts.md
+https://github.com/SeppPenner/awesome-german-piracy/blob/master/Pages/PortableApps.md
+https://github.com/SeppPenner/awesome-german-piracy/blob/master/Pages/ScienceLibaries.md
+https://github.com/SeppPenner/awesome-german-piracy/blob/master/Pages/SearchEngines.md
+https://github.com/SeppPenner/awesome-german-piracy/blob/master/Pages/Series_English.md
+https://github.com/SeppPenner/awesome-german-piracy/blob/master/Pages/Series.md
+https://github.com/SeppPenner/awesome-german-piracy/blob/master/Pages/Series_Other.md
+https://github.com/SeppPenner/awesome-german-piracy/blob/master/Pages/SportStreams.md
+https://github.com/SeppPenner/awesome-german-piracy/blob/master/Pages/Torrents.md
+https://github.com/SeppPenner/awesome-german-piracy/blob/master/Pages/TvSenders.md
+https://github.com/SeppPenner/awesome-german-piracy/blob/master/Pages/UsenetForums.md
+https://github.com/SeppPenner/awesome-german-piracy/blob/master/Pages/UsenetSearchEngines.md
+https://github.com/SeppPenner/awesome-german-piracy/blob/master/Pages/Warez.md
+https://github.com/SeppPenner/awesome-german-piracy/blob/master/Pages/WindowsSoftware.md
 https://github.com/T145/black-mirror/releases/download/latest/white_domain.txt
 https://github.com/yourduskquibbles/webannoyances/blob/master/ultralist.txt
 https://gitlab.com/cmiksche/blacklists/-/raw/master/hosts
