@@ -8,10 +8,10 @@ $TTL 30
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ; Expires: Updated regularly
-; Last modified: 28 Feb 2023 09:50 UTC
-; Version: 2023.0228.0950.47
+; Last modified: 28 Feb 2023 21:01 UTC
+; Version: 2023.0228.2101.48
 ; Syntax: RPZ
-; Domains: 8040
+; Domains: 8039
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -6019,8 +6019,6 @@ youserials.com CNAME .
 *.youserials.com CNAME .
 youtorrent.com CNAME .
 *.youtorrent.com CNAME .
-youtube.com CNAME .
-*.youtube.com CNAME .
 yqzuji.com CNAME .
 *.yqzuji.com CNAME .
 ytmp3juice.com CNAME .
