@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 24 Feb 2023 14:13 UTC
-# Version: 2023.0224.1413.28
+# Last modified: 28 Feb 2023 23:30 UTC
+# Version: 2023.0228.2330.09
 # Syntax: Hosts
-# Domains: 66
+# Domains: 65
 #
 0.0.0.0 ubacollect-drcn.cloud.dbankcloud.cn
 0.0.0.0 metrics-dre.data.dbankcloud.cn
@@ -45,7 +45,6 @@
 0.0.0.0 metrics1.data.hicloud.com
 0.0.0.0 metrics2.data.hicloud.com
 0.0.0.0 metrics3.data.hicloud.com
-0.0.0.0 metrics4.data.hicloud.com
 0.0.0.0 metrics5.data.hicloud.com
 0.0.0.0 dnkeeper.hicloud.com
 0.0.0.0 datacollector-dra.dt.hicloud.com
