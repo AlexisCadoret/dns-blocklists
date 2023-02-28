@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 28 Feb 2023 21:01 UTC
-# Version: 2023.0228.2101.48
+# Last modified: 28 Feb 2023 21:56 UTC
+# Version: 2023.0228.2156.19
 # Syntax: DNSMasq
-# Domains: 8039
+# Domains: 8033
 #
 address=/00-torrnets.com/#
 address=/zer0day.000webhostapp.com/#
@@ -1348,7 +1348,6 @@ address=/cataz.net/#
 address=/catbox.moe/#
 address=/adm.category5.tv/#
 address=/catherinemacivor.com/#
-address=/cbc.ca/#
 address=/cboku.com/#
 address=/itt.cbr-ro.com/#
 address=/getdstudio.cc1-thepiratebay.org/#
@@ -4490,7 +4489,7 @@ address=/www.tracker.nano-net.ro/#
 address=/nanobits.info/#
 address=/tracker.nanoha.org/#
 address=/tracker.nanyangpt.com/#
-address=/nasa.gov/#
+address=/worldwind.arc.nasa.gov/#
 address=/nastytorrents.net/#
 address=/natorrent.com/#
 address=/natorrente.com/#
@@ -4971,7 +4970,6 @@ address=/pb.wtf/#
 address=/pbcrew.info/#
 address=/tracker.pbits.org/#
 address=/pbnova.org/#
-address=/pbs.org/#
 address=/pc-software.ru/#
 address=/pc-torrent.org/#
 address=/cn.pcfreetime.com/#
@@ -5757,7 +5755,6 @@ address=/scnsrc.me/#
 address=/tracker.score1more4me.com/#
 address=/scr.cr/#
 address=/scrapetorrent.com/#
-address=/scribd.com/#
 address=/scriptdevilz.org/#
 address=/scubenetworkbd.com/#
 address=/sdbits.org/#
@@ -6216,7 +6213,6 @@ address=/startseite.to/#
 address=/starwarez.to/#
 address=/releases.static-subs.com/#
 address=/open.stealth.si/#
-address=/store.steampowered.com/#
 address=/tracker.stfu.ca/#
 address=/tracker.stigalaria.org/#
 address=/stmusic.org/#
@@ -7500,7 +7496,6 @@ address=/collectors.visual-team.ro/#
 address=/vt5.visual-team.ro/#
 address=/vivatv.io/#
 address=/vizjer.pl/#
-address=/vk.com/#
 address=/vkfilms.ru/#
 address=/vkstreaming.org/#
 address=/vmovee.cc/#
@@ -7529,7 +7524,6 @@ address=/tracker.vulnix.sh/#
 address=/vumoo.to/#
 address=/vuze.com/#
 address=/filelocation.vv.si/#
-address=/w3.org/#
 address=/waffles.fm/#
 address=/coalgirls.wakku.to/#
 address=/wambo.club/#

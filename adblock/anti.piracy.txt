@@ -4,10 +4,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 28 Feb 2023 21:01 UTC
-! Version: 2023.0228.2101.48
+! Last modified: 28 Feb 2023 21:56 UTC
+! Version: 2023.0228.2156.19
 ! Syntax: AdBlock
-! Domains: 8039
+! Domains: 8033
 !
 ||00-torrnets.com^
 ||zer0day.000webhostapp.com^
@@ -1348,7 +1348,6 @@
 ||catbox.moe^
 ||adm.category5.tv^
 ||catherinemacivor.com^
-||cbc.ca^
 ||cboku.com^
 ||itt.cbr-ro.com^
 ||getdstudio.cc1-thepiratebay.org^
@@ -4490,7 +4489,7 @@
 ||nanobits.info^
 ||tracker.nanoha.org^
 ||tracker.nanyangpt.com^
-||nasa.gov^
+||worldwind.arc.nasa.gov^
 ||nastytorrents.net^
 ||natorrent.com^
 ||natorrente.com^
@@ -4971,7 +4970,6 @@
 ||pbcrew.info^
 ||tracker.pbits.org^
 ||pbnova.org^
-||pbs.org^
 ||pc-software.ru^
 ||pc-torrent.org^
 ||cn.pcfreetime.com^
@@ -5757,7 +5755,6 @@
 ||tracker.score1more4me.com^
 ||scr.cr^
 ||scrapetorrent.com^
-||scribd.com^
 ||scriptdevilz.org^
 ||scubenetworkbd.com^
 ||sdbits.org^
@@ -6216,7 +6213,6 @@
 ||starwarez.to^
 ||releases.static-subs.com^
 ||open.stealth.si^
-||store.steampowered.com^
 ||tracker.stfu.ca^
 ||tracker.stigalaria.org^
 ||stmusic.org^
@@ -7500,7 +7496,6 @@
 ||vt5.visual-team.ro^
 ||vivatv.io^
 ||vizjer.pl^
-||vk.com^
 ||vkfilms.ru^
 ||vkstreaming.org^
 ||vmovee.cc^
@@ -7529,7 +7524,6 @@
 ||vumoo.to^
 ||vuze.com^
 ||filelocation.vv.si^
-||w3.org^
 ||waffles.fm^
 ||coalgirls.wakku.to^
 ||wambo.club^
