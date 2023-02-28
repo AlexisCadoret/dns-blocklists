@@ -618,11 +618,6 @@
 ! https://github.com/badmojr/1Hosts/issues/581
 @@|clientstream.launchdarkly.com^
 
-! https://github.com/hagezi/dns-blocklists/issues/13
-@@|img.myflixer.to^
-@@|myflixer.to^
-@@|www.myflixer.to^
-
 ! store
 @@|zeelool.com^
 @@|www.zeelool.com^
@@ -763,10 +758,6 @@
 @@|330046.group46.sites.hubspot.net^
 @@|330046g46.secure0032.hubspot.net^
 
-! Anime site
-@@|anime-loads.org^
-@@|www.anime-loads.org^
-
 ! Videos on arstechnica.com
 @@|player.cnevids.com^
 @@|cdn.mediavoice.com^
@@ -889,10 +880,6 @@
 @@|images1.minutemediacdn.com^
 @@|images2.minutemediacdn.com^
 
-! Metal Tracker site
-@@|metal-tracker.com^
-@@|www.metal-tracker.com^
-
 ! mixi site
 @@|mixi.jp^
 @@|www.mixi.jp^
@@ -962,10 +949,6 @@
 ! Images/Content on realclearpolitics.com
 @@|assets.realclear.com^
 
-! ROJADIRECTA
-@@|rojadirecta.me^
-@@|www.rojadirecta.me^
-
 ! Videos on rnd.de
 @@||video-api.arcpublishing.com^
 @@|madsack-prod-cdn.video-api.arcpublishing.com^
@@ -981,10 +964,6 @@
 ! save.tv
 @@|save.tv^
 @@|www.save.tv^
-
-! SCNlog
-@@|scnlog.me^
-@@|www.scnlog.me^
 
 ! Click article Links on scotsman.com
 !+ www.googletagmanager.com
@@ -1037,10 +1016,6 @@
 ! tipico.de
 @@|tipico.de^
 @@|www.tipico.de^
-
-! tracker.gg
-@@|tracker.gg^
-@@|www.tracker.gg^
 
 ! track24.ru
 @@|track24.ru^
@@ -1495,10 +1470,6 @@
 ! OpenJDK
 @@|openjdk.org^
 @@|www.openjdk.org^
-
-! rarbg.to CAPTCHA
-@@|rarbgmirrored.org^
-@@|www.rarbgmirrored.org^
 
 ! WordPress Websites design specialists
 @@|wpbeaches.com^
@@ -2364,9 +2335,6 @@
 @@|fixedfloat.com^
 @@|www.fixedfloat.com^
 
-! https://github.com/hagezi/dns-blocklists/issues/212
-@@|a.apkpure.com^
-
 ! Tweakers AdBlock Detection - some articles are not accessible
 @@|aa.tweakers.nl^
 @@|aa.tweakers.net^
@@ -2481,10 +2449,6 @@
 
 ! https://github.com/hagezi/dns-blocklists/issues/243
 @@|review-rating.mncdn.com^
-
-! https://github.com/hagezi/dns-blocklists/issues/244
-@@|a2zapk.com^
-@@|www.a2zapk.com^
 
 ! privacy-focussed cybersecurity company
 @@|polygraph.net^
@@ -2685,9 +2649,6 @@
 
 ! https://github.com/hagezi/dns-blocklists/issues/292
 @@|email.goodrx.com^
-
-! https://github.com/hagezi/dns-blocklists/issues/294
-@@|tracker.scenetime.com^
 
 ! Customer care of Swiggy Food Delivery App
 @@||pubnub.com^
