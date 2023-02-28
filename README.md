@@ -235,7 +235,7 @@
 ### ***Dynamic DNS blocking - Protects against the malicious use of dynamic DNS services!*** <a name="dyndns"></a>
 *An blocklist for blocking dynamic DNS services to protect against malicious use in phishing campaigns and others.*         
         
-**Entries:** *dyndns_dh domains/hosts - 791 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#dyndns)
+**Entries:** *791 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#dyndns)
             
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -252,7 +252,7 @@
 ### ***Badware Hoster blocking - Protects against the malicious use of free host services!*** <a name="hoster"></a>
 *An blocklist for blocking known free hosters that also host badware via user content to prevent the use of these hosters for malicious purposes.*         
                       
-**Entries:** *hoster_dh domains/hosts - 50 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#hoster)
+**Entries:** *50 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#hoster)
             
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -281,7 +281,7 @@
 ### ***Anti Piracy - Protects against piracy!*** <a name="piracy"></a>
 *Blocks websites and services that are mainly used for illegal distribution of copyrighted content.*         
         
-**Entries:** *piracy_dh domains/hosts - 8040 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#piracy)
+**Entries:** *8040 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#antipiracy)
             
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
