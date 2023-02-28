@@ -4,8 +4,8 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 27 Feb 2023 16:50 UTC
-# Version: 2023.0227.1650.53
+# Last modified: 28 Feb 2023 23:31 UTC
+# Version: 2023.0228.2331.42
 # Syntax: DNSMasq
 # Domains: 5115
 #
@@ -1184,6 +1184,7 @@ address=/dhe-logistics.com/#
 address=/dhineshl.shop/#
 address=/dhk-transport.com/#
 address=/diabohr-tech.de/#
+address=/diaetolin.com/#
 address=/diaetoxil.de/#
 address=/diamant-eventcenter.de/#
 address=/didikkirwanto.com/#
@@ -1826,7 +1827,6 @@ address=/gaming-konsolen.com/#
 address=/gamingmarkt.de/#
 address=/gamingplanet.eu/#
 address=/gamma24.de/#
-address=/gapmislazzz.tk/#
 address=/gardenguru.club/#
 address=/garderobeheuser.de/#
 address=/gardhou.com/#
@@ -2214,6 +2214,7 @@ address=/hotelinphuket.net/#
 address=/hotels-colombo.com/#
 address=/hotels-colorado.net/#
 address=/hotels-in-riga.de/#
+address=/hotels-in-tyrol.com/#
 address=/hotelsinperm.ru/#
 address=/hotelsofmenorca.com/#
 address=/hotelsofnewyorkcity.net/#
@@ -3421,7 +3422,6 @@ address=/omertabike.com/#
 address=/on-switch.com/#
 address=/one-million.at/#
 address=/elegant.onebysales.com/#
-address=/onecozyday.com/#
 address=/oneflix.de/#
 address=/onepolaroid.com/#
 address=/onesystems.de/#

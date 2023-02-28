@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.fake. hostmaster.hagezi.fake. 1677538800 86400 3600 604800 30
+@ SOA rpz.hagezi.fake. hostmaster.hagezi.fake. 1677625200 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -8,8 +8,8 @@ $TTL 30
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ; Expires: Updated regularly
-; Last modified: 27 Feb 2023 16:50 UTC
-; Version: 2023.0227.1650.53
+; Last modified: 28 Feb 2023 23:31 UTC
+; Version: 2023.0228.2331.42
 ; Syntax: RPZ
 ; Domains: 5115
 ;
@@ -2001,6 +2001,8 @@ dhe-logistics.com CNAME .
 *.dhe-logistics.com CNAME .
 dhk-transport.com CNAME .
 *.dhk-transport.com CNAME .
+diaetolin.com CNAME .
+*.diaetolin.com CNAME .
 didikkirwanto.com CNAME .
 *.didikkirwanto.com CNAME .
 diesel-osterreich.com CNAME .
@@ -2825,6 +2827,8 @@ hotdates18.com CNAME .
 *.hotdates18.com CNAME .
 hotels-colombo.com CNAME .
 *.hotels-colombo.com CNAME .
+hotels-in-tyrol.com CNAME .
+*.hotels-in-tyrol.com CNAME .
 hotelsofmenorca.com CNAME .
 *.hotelsofmenorca.com CNAME .
 hotideabuy.com CNAME .
@@ -3913,8 +3917,6 @@ on-switch.com CNAME .
 *.on-switch.com CNAME .
 elegant.onebysales.com CNAME .
 *.elegant.onebysales.com CNAME .
-onecozyday.com CNAME .
-*.onecozyday.com CNAME .
 onepolaroid.com CNAME .
 *.onepolaroid.com CNAME .
 onlinechemicalandpills.com CNAME .
@@ -9997,8 +9999,6 @@ movie4k.su CNAME .
 *.movie4k.su CNAME .
 maxxi.tech CNAME .
 *.maxxi.tech CNAME .
-gapmislazzz.tk CNAME .
-*.gapmislazzz.tk CNAME .
 luxusuhren.to CNAME .
 *.luxusuhren.to CNAME .
 replika-uhr.to CNAME .
