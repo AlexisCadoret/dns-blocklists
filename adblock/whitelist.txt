@@ -2900,3 +2900,6 @@
 ! https://github.com/hagezi/dns-blocklists/issues/552
 @@|ping.ui.com^
 
+! https://github.com/hagezi/dns-blocklists/issues/575
+@@||syn-alias.com^
+

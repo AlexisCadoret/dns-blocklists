@@ -8,10 +8,10 @@ $TTL 30
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ; Expires: Updated regularly
-; Last modified: 01 Mär 2023 00:32 UTC
-; Version: 2023.0301.0032.33
+; Last modified: 01 Mär 2023 06:48 UTC
+; Version: 2023.0301.0648.14
 ; Syntax: RPZ
-; Domains: 35245
+; Domains: 35247
 ;
 marketing.globalpointofcare.abbott CNAME .
 *.marketing.globalpointofcare.abbott CNAME .
@@ -18491,8 +18491,6 @@ tracks.foisonad.com CNAME .
 *.tracks.foisonad.com CNAME .
 dg.folksychapes.com CNAME .
 *.dg.folksychapes.com CNAME .
-auth.follow-apps.com CNAME .
-*.auth.follow-apps.com CNAME .
 sdk.follow-apps.com CNAME .
 *.sdk.follow-apps.com CNAME .
 sor-sdk.follow-apps.com CNAME .
@@ -25803,6 +25801,8 @@ loopaautomate.com CNAME .
 *.loopaautomate.com CNAME .
 loopme.com CNAME .
 *.loopme.com CNAME .
+lootcs.com CNAME .
+*.lootcs.com CNAME .
 lootynews.com CNAME .
 *.lootynews.com CNAME .
 lope4refl.com CNAME .
@@ -26279,8 +26279,6 @@ smetrics.marcus.com CNAME .
 *.smetrics.marcus.com CNAME .
 go2.marcusmillichap.com CNAME .
 *.go2.marcusmillichap.com CNAME .
-auth.marfeel.com CNAME .
-*.auth.marfeel.com CNAME .
 b.marfeel.com CNAME .
 *.b.marfeel.com CNAME .
 cosmos.marfeel.com CNAME .
@@ -27337,8 +27335,6 @@ adv.sec.miui.com CNAME .
 *.adv.sec.miui.com CNAME .
 logupdate.avlyun.sec.miui.com CNAME .
 *.logupdate.avlyun.sec.miui.com CNAME .
-auth.be.sec.miui.com CNAME .
-*.auth.be.sec.miui.com CNAME .
 data.sec.miui.com CNAME .
 *.data.sec.miui.com CNAME .
 mazu.sec.miui.com CNAME .
@@ -28925,6 +28921,8 @@ states.neweggbusiness.com CNAME .
 *.states.neweggbusiness.com CNAME .
 newextra.com CNAME .
 *.newextra.com CNAME .
+newfootwearshop.com CNAME .
+*.newfootwearshop.com CNAME .
 newhin.com CNAME .
 *.newhin.com CNAME .
 newnudecash.com CNAME .
@@ -48155,6 +48153,18 @@ tm.swp.de CNAME .
 *.tm.swp.de CNAME .
 symplr.de CNAME .
 *.symplr.de CNAME .
+data-1df8532686.t-online.de CNAME .
+*.data-1df8532686.t-online.de CNAME .
+data-501446ac98.t-online.de CNAME .
+*.data-501446ac98.t-online.de CNAME .
+homepage.t-online.de CNAME .
+*.homepage.t-online.de CNAME .
+jdgtgb.t-online.de CNAME .
+*.jdgtgb.t-online.de CNAME .
+lokalwerben.t-online.de CNAME .
+*.lokalwerben.t-online.de CNAME .
+rt.t-online.de CNAME .
+*.rt.t-online.de CNAME .
 cl.t3n.de CNAME .
 *.cl.t3n.de CNAME .
 data-f6d2ad6f1b.t3n.de CNAME .
@@ -67705,8 +67715,6 @@ api.fw.tv CNAME .
 *.api.fw.tv CNAME .
 girls-chat.tv CNAME .
 *.girls-chat.tv CNAME .
-auth.api.gitv.tv CNAME .
-*.auth.api.gitv.tv CNAME .
 pb.bi.gitv.tv CNAME .
 *.pb.bi.gitv.tv CNAME .
 appstore.ptmi.gitv.tv CNAME .

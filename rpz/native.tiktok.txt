@@ -8,10 +8,10 @@ $TTL 30
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ; Expires: Updated regularly
-; Last modified: 27 Feb 2023 16:49 UTC
-; Version: 2023.0227.1649.58
+; Last modified: 01 Mär 2023 07:16 UTC
+; Version: 2023.0301.0716.46
 ; Syntax: RPZ
-; Domains: 257
+; Domains: 259
 ;
 cdnlog-va-useast2a.byteoversea.com CNAME .
 *.cdnlog-va-useast2a.byteoversea.com CNAME .
@@ -135,8 +135,12 @@ varticle-frontier-hl.snssdk.com CNAME .
 *.varticle-frontier-hl.snssdk.com CNAME .
 xlog.snssdk.com CNAME .
 *.xlog.snssdk.com CNAME .
+ads.tiktok.com CNAME .
+*.ads.tiktok.com CNAME .
 ads-frontier.tiktok.com CNAME .
 *.ads-frontier.tiktok.com CNAME .
+ads-sg.tiktok.com CNAME .
+*.ads-sg.tiktok.com CNAME .
 analytics.tiktok.com CNAME .
 *.analytics.tiktok.com CNAME .
 analytics-attribution.tiktok.com CNAME .
