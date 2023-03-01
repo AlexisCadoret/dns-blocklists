@@ -572,8 +572,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 01 Mär 2023 15:11 UTC
-! Version: 2023.0301.1511.05
+! Last modified: 01 Mär 2023 19:11 UTC
+! Version: 2023.0301.1911.19
 ! Syntax: AdBlock
 ! Domains: 33723
 !
@@ -134823,6 +134823,13 @@
 
 ! https://github.com/hagezi/dns-blocklists/issues/575
 @@||syn-alias.com^
+
+! About the future of the Sion electro solar car
+@@|go.sonomotors.com^
+
+! https://github.com/hagezi/dns-blocklists/issues/581
+@@|cliqz.com^
+@@|www.cliqz.com^
 
 
 ! Title: HaGeZi's White-/Allowlist Referral for Black & White list
