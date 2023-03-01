@@ -7,11 +7,11 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 28 Feb 2023 23:28 UTC
-! Version: 2023.0228.2328.52
+! Last modified: 01 Mär 2023 23:35 UTC
+! Version: 2023.0301.2335.08
 ! Syntax: uBlock
 !
-||agency^$doc,domain=~battlefield.agency|~baam.agency|~uphotel.agency
+||agency^$doc,domain=~battlefield.agency|~baam.agency|~robotzebra.agency|~uphotel.agency
 ||bar^$doc
 ||beauty^$doc,domain=~nic.beauty|~vipbj.beauty
 ||bid^$doc
