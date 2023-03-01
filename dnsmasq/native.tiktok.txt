@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 27 Feb 2023 16:49 UTC
-# Version: 2023.0227.1649.58
+# Last modified: 01 Mär 2023 07:16 UTC
+# Version: 2023.0301.0716.46
 # Syntax: DNSMasq
-# Domains: 257
+# Domains: 259
 #
 address=/cdnlog-va-useast2a.byteoversea.com/#
 address=/frontier.byteoversea.com/#
@@ -70,7 +70,9 @@ address=/toutiao-frontier.snssdk.com/#
 address=/varticle-frontier.snssdk.com/#
 address=/varticle-frontier-hl.snssdk.com/#
 address=/xlog.snssdk.com/#
+address=/ads.tiktok.com/#
 address=/ads-frontier.tiktok.com/#
+address=/ads-sg.tiktok.com/#
 address=/analytics.tiktok.com/#
 address=/analytics-attribution.tiktok.com/#
 address=/analytics-attribution-va.tiktok.com/#
