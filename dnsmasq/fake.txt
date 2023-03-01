@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 01 Mär 2023 12:01 UTC
-# Version: 2023.0301.1201.00
+# Last modified: 01 Mär 2023 23:37 UTC
+# Version: 2023.0301.2337.59
 # Syntax: DNSMasq
-# Domains: 5253
+# Domains: 5254
 #
 address=/willhaben.at.04300.id/#
 address=/11trikots.com/#
@@ -15,7 +15,6 @@ address=/12-suchen.de/#
 address=/123brennholz.com/#
 address=/veenas.12streetwings.com/#
 address=/1euro.at/#
-address=/1netzteil.de/#
 address=/1zylinder.at/#
 address=/2021bestcheaponline.com/#
 address=/24bitcoinexchange.com/#
@@ -501,6 +500,7 @@ address=/bercasa.de/#
 address=/berghausoutlet.cc/#
 address=/bergmannsschach.at/#
 address=/berindo.de/#
+address=/berlinbeardeal.de/#
 address=/berlinbluebox.de/#
 address=/berliner-laden.de/#
 address=/berlinget.com/#
@@ -1185,6 +1185,7 @@ address=/13de.detoxic.net/#
 address=/deuducht.de/#
 address=/deuhr.de/#
 address=/deutchmarkt.de/#
+address=/deutere.com/#
 address=/deutsch-markt.com/#
 address=/deutschbikes.com/#
 address=/deutsche-bit.de/#

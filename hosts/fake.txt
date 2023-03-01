@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 01 Mär 2023 12:01 UTC
-# Version: 2023.0301.1201.00
+# Last modified: 01 Mär 2023 23:37 UTC
+# Version: 2023.0301.2337.59
 # Syntax: Hosts
-# Domains: 10122
+# Domains: 10124
 #
 0.0.0.0 willhaben.at.04300.id
 0.0.0.0 11trikots.com
@@ -19,8 +19,6 @@
 0.0.0.0 veenas.12streetwings.com
 0.0.0.0 1euro.at
 0.0.0.0 www.1euro.at
-0.0.0.0 1netzteil.de
-0.0.0.0 www.1netzteil.de
 0.0.0.0 1zylinder.at
 0.0.0.0 www.1zylinder.at
 0.0.0.0 2021bestcheaponline.com
@@ -969,6 +967,8 @@
 0.0.0.0 bergmannsschach.at
 0.0.0.0 www.bergmannsschach.at
 0.0.0.0 berindo.de
+0.0.0.0 berlinbeardeal.de
+0.0.0.0 www.berlinbeardeal.de
 0.0.0.0 berlinbluebox.de
 0.0.0.0 www.berlinbluebox.de
 0.0.0.0 berliner-laden.de
@@ -2275,6 +2275,8 @@
 0.0.0.0 www.deuhr.de
 0.0.0.0 deutchmarkt.de
 0.0.0.0 www.deutchmarkt.de
+0.0.0.0 deutere.com
+0.0.0.0 www.deutere.com
 0.0.0.0 deutsch-markt.com
 0.0.0.0 www.deutsch-markt.com
 0.0.0.0 deutschbikes.com
