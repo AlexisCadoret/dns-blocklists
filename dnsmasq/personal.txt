@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 01 Mär 2023 00:32 UTC
-# Version: 2023.0301.0032.33
+# Last modified: 01 Mär 2023 06:48 UTC
+# Version: 2023.0301.0648.14
 # Syntax: DNSMasq
-# Domains: 35245
+# Domains: 35247
 #
 address=/003store.com/#
 address=/007sites.com/#
@@ -14273,7 +14273,6 @@ address=/foigwaq.com/#
 address=/tracks.foisonad.com/#
 address=/facemap.foldlife.net/#
 address=/dg.folksychapes.com/#
-address=/auth.follow-apps.com/#
 address=/sdk.follow-apps.com/#
 address=/sor-sdk.follow-apps.com/#
 address=/sm-sp.followfollow.com/#
@@ -15218,7 +15217,6 @@ address=/weblion777.github.io/#
 address=/collector.githubapp.com/#
 address=/copilot-telemetry.githubusercontent.com/#
 address=/campaign.gitiho.com/#
-address=/auth.api.gitv.tv/#
 address=/pb.bi.gitv.tv/#
 address=/appstore.ptmi.gitv.tv/#
 address=/cupid.ptqy.gitv.tv/#
@@ -20241,7 +20239,6 @@ address=/px.marchex.io/#
 address=/marcofama.it/#
 address=/smetrics.marcus.com/#
 address=/go2.marcusmillichap.com/#
-address=/auth.marfeel.com/#
 address=/b.marfeel.com/#
 address=/cosmos.marfeel.com/#
 address=/hub.marfeel.com/#
@@ -20968,7 +20965,6 @@ address=/tracking.intl.miui.com/#
 address=/tracking.rus.miui.com/#
 address=/adv.sec.miui.com/#
 address=/logupdate.avlyun.sec.miui.com/#
-address=/auth.be.sec.miui.com/#
 address=/data.sec.miui.com/#
 address=/mazu.sec.miui.com/#
 address=/proxy.sec.miui.com/#
@@ -30329,6 +30325,12 @@ address=/t.t-cb-spook.com/#
 address=/now1.t-mobile.com/#
 address=/smetrics.t-mobile.com/#
 address=/smetrics.t-mobilemoney.com/#
+address=/data-1df8532686.t-online.de/#
+address=/data-501446ac98.t-online.de/#
+address=/homepage.t-online.de/#
+address=/jdgtgb.t-online.de/#
+address=/lokalwerben.t-online.de/#
+address=/rt.t-online.de/#
 address=/t13.io/#
 address=/t1bet.net/#
 address=/rtb2-useast.t3dsp.com/#
@@ -35254,3 +35256,5 @@ address=/zz3r0.com/#
 address=/s.zzcdn.me/#
 address=/zzyl.mobi/#
 address=/zzzperform.com/#
+address=/newfootwearshop.com/#
+address=/lootcs.com/#

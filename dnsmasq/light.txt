@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day (update frequency)
-# Last modified: 01 Mär 2023 00:36 UTC
-# Version: 2023.0301.0036.27
+# Last modified: 01 Mär 2023 07:02 UTC
+# Version: 2023.0301.0702.00
 # Syntax: DNSMasq
-# Domains: 133036
+# Domains: 133034
 #
 address=/pushtan2.0-sparkasse.de/#
 address=/0000onlined.art/#
@@ -50423,7 +50423,6 @@ address=/dg.folksychapes.com/#
 address=/follamhotel.com/#
 address=/follesuntr.com/#
 address=/folliculitispedia.com/#
-address=/auth.follow-apps.com/#
 address=/sdk.follow-apps.com/#
 address=/sor-sdk.follow-apps.com/#
 address=/sm-sp.followfollow.com/#
@@ -53662,7 +53661,6 @@ address=/gitnews.in/#
 address=/gitpng.com/#
 address=/gitsponsored.com/#
 address=/gittarsuratgarh.com/#
-address=/auth.api.gitv.tv/#
 address=/pb.bi.gitv.tv/#
 address=/appstore.ptmi.gitv.tv/#
 address=/cupid.ptqy.gitv.tv/#
@@ -72044,6 +72042,7 @@ address=/loopme.com/#
 address=/loopme.me/#
 address=/looskrare.net/#
 address=/lootcodes.com/#
+address=/lootcs.com/#
 address=/lootxcoin.com/#
 address=/lootynews.com/#
 address=/lope4refl.com/#
@@ -73833,7 +73832,6 @@ address=/marczewsksi.pl/#
 address=/mardenda.com/#
 address=/maredes.com/#
 address=/marenberg.com/#
-address=/auth.marfeel.com/#
 address=/b.marfeel.com/#
 address=/cosmos.marfeel.com/#
 address=/hub.marfeel.com/#
@@ -76683,7 +76681,6 @@ address=/tracking.intl.miui.com/#
 address=/tracking.rus.miui.com/#
 address=/adv.sec.miui.com/#
 address=/logupdate.avlyun.sec.miui.com/#
-address=/auth.be.sec.miui.com/#
 address=/data.sec.miui.com/#
 address=/mazu.sec.miui.com/#
 address=/proxy.sec.miui.com/#
@@ -81454,6 +81451,7 @@ address=/newezpo.com/#
 address=/newfilending.com/#
 address=/pancakeswapcode.newfinancialmarketworld.com/#
 address=/newflyerintl.com/#
+address=/newfootwearshop.com/#
 address=/newformedialog.com/#
 address=/hkfihg.newfund.xyz/#
 address=/newgadgetst.com/#
@@ -110563,8 +110561,8 @@ address=/smetrics.t-mobilemoney.com/#
 address=/data-1df8532686.t-online.de/#
 address=/data-501446ac98.t-online.de/#
 address=/the-garden-pavilions-of-sobranie-russian.eshop.t-online.de/#
-address=/tcrwharen.homepage.t-online.de/#
-address=/wc0x83ghk.homepage.t-online.de/#
+address=/homepage.t-online.de/#
+address=/jdgtgb.t-online.de/#
 address=/lokalwerben.t-online.de/#
 address=/rt.t-online.de/#
 address=/t-ticket.al/#

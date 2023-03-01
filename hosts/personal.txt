@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 01 Mär 2023 00:32 UTC
-# Version: 2023.0301.0032.33
+# Last modified: 01 Mär 2023 06:48 UTC
+# Version: 2023.0301.0648.14
 # Syntax: Hosts
-# Domains: 102319
+# Domains: 102317
 #
 0.0.0.0 003store.com
 0.0.0.0 www.003store.com
@@ -12084,7 +12084,6 @@
 0.0.0.0 agilone.com
 0.0.0.0 api6.agilone.com
 0.0.0.0 api8.agilone.com
-0.0.0.0 auth.agilone.com
 0.0.0.0 auth8.agilone.com
 0.0.0.0 awrs.agilone.com
 0.0.0.0 ca-as-1.agilone.com
@@ -15087,7 +15086,6 @@
 0.0.0.0 assets.app-measurement.com
 0.0.0.0 assetssharepoint-vnc-1rer-11a6614chp18n448epz-ipv1accesstravel.app-measurement.com
 0.0.0.0 atlas-novelltestsitev1testsitev1-gitforums-win10v2beta.app-measurement.com
-0.0.0.0 auth.app-measurement.com
 0.0.0.0 autodiscover.app-measurement.com
 0.0.0.0 avnovelltestsitev1testsitev1-gitforums-win10v2beta.app-measurement.com
 0.0.0.0 ayuda-novelltestsitev1testsitev1-gitforums-win10v2beta.app-measurement.com
@@ -46457,7 +46455,6 @@
 0.0.0.0 estaser.xyz
 0.0.0.0 www.estaser.xyz
 0.0.0.0 estat.com
-0.0.0.0 auth.estat.com
 0.0.0.0 js.estat.com
 0.0.0.0 prof.estat.com
 0.0.0.0 streaming.estat.com
@@ -47073,7 +47070,6 @@
 0.0.0.0 exactseek.com
 0.0.0.0 www.exactseek.com
 0.0.0.0 exacttargetapis.com
-0.0.0.0 auth.exacttargetapis.com
 0.0.0.0 auth-mc-s10.exacttargetapis.com
 0.0.0.0 auth-mc-s50.exacttargetapis.com
 0.0.0.0 consumer.exacttargetapis.com
@@ -48976,7 +48972,6 @@
 0.0.0.0 tracks.foisonad.com
 0.0.0.0 facemap.foldlife.net
 0.0.0.0 dg.folksychapes.com
-0.0.0.0 auth.follow-apps.com
 0.0.0.0 sdk.follow-apps.com
 0.0.0.0 sor-sdk.follow-apps.com
 0.0.0.0 sm-sp.followfollow.com
@@ -51460,7 +51455,6 @@
 0.0.0.0 collector.githubapp.com
 0.0.0.0 copilot-telemetry.githubusercontent.com
 0.0.0.0 campaign.gitiho.com
-0.0.0.0 auth.api.gitv.tv
 0.0.0.0 pb.bi.gitv.tv
 0.0.0.0 appstore.ptmi.gitv.tv
 0.0.0.0 cupid.ptqy.gitv.tv
@@ -57821,7 +57815,6 @@
 0.0.0.0 www.iqncjxw.com
 0.0.0.0 iqoption.com
 0.0.0.0 api.iqoption.com
-0.0.0.0 auth.iqoption.com
 0.0.0.0 avatars.iqoption.com
 0.0.0.0 billing.iqoption.com
 0.0.0.0 blog.iqoption.com
@@ -62909,7 +62902,6 @@
 0.0.0.0 www.marcofama.it
 0.0.0.0 smetrics.marcus.com
 0.0.0.0 go2.marcusmillichap.com
-0.0.0.0 auth.marfeel.com
 0.0.0.0 b.marfeel.com
 0.0.0.0 cosmos.marfeel.com
 0.0.0.0 hub.marfeel.com
@@ -64774,7 +64766,6 @@
 0.0.0.0 mitv.tracking.rus.miui.com
 0.0.0.0 adv.sec.miui.com
 0.0.0.0 logupdate.avlyun.sec.miui.com
-0.0.0.0 auth.be.sec.miui.com
 0.0.0.0 data.sec.miui.com
 0.0.0.0 mazu.sec.miui.com
 0.0.0.0 proxy.sec.miui.com
@@ -78854,7 +78845,6 @@
 0.0.0.0 s-imp.rmp.rakuten.com
 0.0.0.0 tag.rmp.rakuten.com
 0.0.0.0 rakutenmarketing.com
-0.0.0.0 auth.rakutenmarketing.com
 0.0.0.0 rapi.rakutenmarketing.com
 0.0.0.0 www.rakutenmarketing.com
 0.0.0.0 beacon.rallydev.com
@@ -81775,7 +81765,6 @@
 0.0.0.0 sync.rubyblu.com
 0.0.0.0 www.rubyblu.com
 0.0.0.0 rubyfortune.com
-0.0.0.0 auth.rubyfortune.com
 0.0.0.0 secure.rubyfortune.com
 0.0.0.0 www.rubyfortune.com
 0.0.0.0 rubymillsnpro.com
@@ -90363,6 +90352,16 @@
 0.0.0.0 now1.t-mobile.com
 0.0.0.0 smetrics.t-mobile.com
 0.0.0.0 smetrics.t-mobilemoney.com
+0.0.0.0 data-1df8532686.t-online.de
+0.0.0.0 data-501446ac98.t-online.de
+0.0.0.0 homepage.t-online.de
+0.0.0.0 jdgtgb.t-online.de
+0.0.0.0 lokalwerben.t-online.de
+0.0.0.0 c.lokalwerben.t-online.de
+0.0.0.0 d.lokalwerben.t-online.de
+0.0.0.0 t.lokalwerben.t-online.de
+0.0.0.0 rt.t-online.de
+0.0.0.0 data.rt.t-online.de
 0.0.0.0 t13.io
 0.0.0.0 s2s.t13.io
 0.0.0.0 cache.s2s.t13.io
@@ -96306,7 +96305,6 @@
 0.0.0.0 xml.userwave.com
 0.0.0.0 userzoom.com
 0.0.0.0 assets-cdn.userzoom.com
-0.0.0.0 auth.userzoom.com
 0.0.0.0 cdn2.userzoom.com
 0.0.0.0 cdn3.userzoom.com
 0.0.0.0 cdn4.userzoom.com
@@ -102328,3 +102326,5 @@
 0.0.0.0 trk67.zzzperform.com
 0.0.0.0 trk82.zzzperform.com
 0.0.0.0 trk85.zzzperform.com
+0.0.0.0 newfootwearshop.com
+0.0.0.0 lootcs.com
