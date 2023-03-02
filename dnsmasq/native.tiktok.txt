@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 01 Mär 2023 07:16 UTC
-# Version: 2023.0301.0716.46
+# Last modified: 02 Mär 2023 08:17 UTC
+# Version: 2023.0302.0817.12
 # Syntax: DNSMasq
-# Domains: 259
+# Domains: 260
 #
 address=/cdnlog-va-useast2a.byteoversea.com/#
 address=/frontier.byteoversea.com/#
@@ -45,6 +45,7 @@ address=/vaali-mcs-useast2a.byteoversea.com/#
 address=/xlog.byteoversea.com/#
 address=/xlog-va.byteoversea.com/#
 address=/xlog-va-useast2a.byteoversea.com/#
+address=/sf16-muse-va.ibytedtos.com/#
 address=/analytics.snssdk.com/#
 address=/applog.snssdk.com/#
 address=/extlog.snssdk.com/#
