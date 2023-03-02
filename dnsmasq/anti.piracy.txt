@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 01 Mär 2023 07:18 UTC
-# Version: 2023.0301.0718.24
+# Last modified: 02 Mär 2023 13:21 UTC
+# Version: 2023.0302.1321.45
 # Syntax: DNSMasq
-# Domains: 8072
+# Domains: 8089
 #
 address=/00-torrnets.com/#
 address=/zer0day.000webhostapp.com/#
@@ -1355,6 +1355,7 @@ address=/getdstudio.cc1-thepiratebay.org/#
 address=/tracker.ccc.de/#
 address=/ccfbits.org/#
 address=/ccmixter.org/#
+address=/tracker.ccp.ovh/#
 address=/cda-hd.cc/#
 address=/cdcovers.cc/#
 address=/a.cdd5090t.tk/#
@@ -6769,8 +6770,24 @@ address=/torrentcounter.to/#
 address=/torrentday.com/#
 address=/torrentdemon.net/#
 address=/torrentdia.com/#
+address=/torrentdia100.com/#
+address=/torrentdia101.com/#
+address=/torrentdia102.com/#
+address=/torrentdia103.com/#
+address=/torrentdia104.com/#
+address=/torrentdia105.com/#
+address=/torrentdia106.com/#
+address=/torrentdia107.com/#
+address=/torrentdia108.com/#
 address=/torrentdia2.com/#
 address=/torrentdia92.com/#
+address=/torrentdia93.com/#
+address=/torrentdia94.com/#
+address=/torrentdia95.com/#
+address=/torrentdia96.com/#
+address=/torrentdia97.com/#
+address=/torrentdia98.com/#
+address=/torrentdia99.com/#
 address=/torrentdosfilmes.tv/#
 address=/torrentdosfilmes2.net/#
 address=/torrentdosfilmeshd2.net/#

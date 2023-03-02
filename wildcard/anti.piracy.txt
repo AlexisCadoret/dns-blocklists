@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 01 Mär 2023 07:18 UTC
-# Version: 2023.0301.0718.24
+# Last modified: 02 Mär 2023 13:21 UTC
+# Version: 2023.0302.1321.45
 # Syntax: Domains Wildcard (DNSCrypt/YogaDNS/...)
-# Domains: 8072
+# Domains: 8089
 #
 *.00-torrnets.com
 *.zer0day.000webhostapp.com
@@ -1355,6 +1355,7 @@
 *.tracker.ccc.de
 *.ccfbits.org
 *.ccmixter.org
+*.tracker.ccp.ovh
 *.cda-hd.cc
 *.cdcovers.cc
 *.a.cdd5090t.tk
@@ -6769,8 +6770,24 @@
 *.torrentday.com
 *.torrentdemon.net
 *.torrentdia.com
+*.torrentdia100.com
+*.torrentdia101.com
+*.torrentdia102.com
+*.torrentdia103.com
+*.torrentdia104.com
+*.torrentdia105.com
+*.torrentdia106.com
+*.torrentdia107.com
+*.torrentdia108.com
 *.torrentdia2.com
 *.torrentdia92.com
+*.torrentdia93.com
+*.torrentdia94.com
+*.torrentdia95.com
+*.torrentdia96.com
+*.torrentdia97.com
+*.torrentdia98.com
+*.torrentdia99.com
 *.torrentdosfilmes.tv
 *.torrentdosfilmes2.net
 *.torrentdosfilmeshd2.net
