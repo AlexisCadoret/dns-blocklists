@@ -4,13 +4,14 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 02 Mär 2023 13:21 UTC
-# Version: 2023.0302.1321.45
+# Last modified: 02 Mär 2023 23:03 UTC
+# Version: 2023.0302.2303.20
 # Syntax: Domains Wildcard (DNSCrypt/YogaDNS/...)
-# Domains: 8089
+# Domains: 8091
 #
 *.00-torrnets.com
 *.zer0day.000webhostapp.com
+*.0123456789nonexistent.com
 *.01234movies.email
 *.0123movie.stream
 *.0123movie.ws
@@ -3784,6 +3785,7 @@
 *.lesbians4u.org
 *.letitbit.net
 *.letiziagolosa.com
+*.bt.letpo.com
 *.bt1.letpo.com
 *.tracker.letpo.com
 *.letsdecentralize.org

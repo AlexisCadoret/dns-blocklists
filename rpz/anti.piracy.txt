@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.anti.piracy. hostmaster.hagezi.anti.piracy. 1677711600 86400 3600 604800 30
+@ SOA rpz.hagezi.anti.piracy. hostmaster.hagezi.anti.piracy. 1677798000 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 30
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ; Expires: Updated regularly
-; Last modified: 01 Mär 2023 07:18 UTC
-; Version: 2023.0301.0718.24
+; Last modified: 02 Mär 2023 23:03 UTC
+; Version: 2023.0302.2303.20
 ; Syntax: RPZ
-; Domains: 8072
+; Domains: 8091
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -1343,6 +1343,8 @@ fmovies.coffee CNAME .
 *.00-torrnets.com CNAME .
 zer0day.000webhostapp.com CNAME .
 *.zer0day.000webhostapp.com CNAME .
+0123456789nonexistent.com CNAME .
+*.0123456789nonexistent.com CNAME .
 0123movies.com CNAME .
 *.0123movies.com CNAME .
 0second.com CNAME .
@@ -3613,6 +3615,8 @@ les-freres-ainsworth.com CNAME .
 *.les-freres-ainsworth.com CNAME .
 letiziagolosa.com CNAME .
 *.letiziagolosa.com CNAME .
+bt.letpo.com CNAME .
+*.bt.letpo.com CNAME .
 bt1.letpo.com CNAME .
 *.bt1.letpo.com CNAME .
 tracker.letpo.com CNAME .
@@ -5253,10 +5257,42 @@ torrentday.com CNAME .
 *.torrentday.com CNAME .
 torrentdia.com CNAME .
 *.torrentdia.com CNAME .
+torrentdia100.com CNAME .
+*.torrentdia100.com CNAME .
+torrentdia101.com CNAME .
+*.torrentdia101.com CNAME .
+torrentdia102.com CNAME .
+*.torrentdia102.com CNAME .
+torrentdia103.com CNAME .
+*.torrentdia103.com CNAME .
+torrentdia104.com CNAME .
+*.torrentdia104.com CNAME .
+torrentdia105.com CNAME .
+*.torrentdia105.com CNAME .
+torrentdia106.com CNAME .
+*.torrentdia106.com CNAME .
+torrentdia107.com CNAME .
+*.torrentdia107.com CNAME .
+torrentdia108.com CNAME .
+*.torrentdia108.com CNAME .
 torrentdia2.com CNAME .
 *.torrentdia2.com CNAME .
 torrentdia92.com CNAME .
 *.torrentdia92.com CNAME .
+torrentdia93.com CNAME .
+*.torrentdia93.com CNAME .
+torrentdia94.com CNAME .
+*.torrentdia94.com CNAME .
+torrentdia95.com CNAME .
+*.torrentdia95.com CNAME .
+torrentdia96.com CNAME .
+*.torrentdia96.com CNAME .
+torrentdia97.com CNAME .
+*.torrentdia97.com CNAME .
+torrentdia98.com CNAME .
+*.torrentdia98.com CNAME .
+torrentdia99.com CNAME .
+*.torrentdia99.com CNAME .
 torrentdream.com CNAME .
 *.torrentdream.com CNAME .
 torrentesx.com CNAME .
@@ -12887,6 +12923,8 @@ zoubhd.org CNAME .
 *.zoubhd.org CNAME .
 zunox.org CNAME .
 *.zunox.org CNAME .
+tracker.ccp.ovh CNAME .
+*.tracker.ccp.ovh CNAME .
 predb.ovh CNAME .
 *.predb.ovh CNAME .
 watchseries.ovh CNAME .
