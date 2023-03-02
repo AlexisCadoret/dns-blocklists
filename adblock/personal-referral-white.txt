@@ -1,4 +1,4 @@
-! Title: HaGeZi's White-/Allowlist Referral for Black & White list
+! Title: HaGeZi's White-/Allowlist Referral
 ! Description: This list unblocks affiliate & tracking referral links that appear in mails, search results etc.
 ! Homepage: https://github.com/hagezi/dns-blocklists
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
@@ -27,6 +27,7 @@
 @@||commander1.com^
 @@||commission-junction.com^
 @@||conversantmedia.com^
+@@||converti.se^
 @@||dpbolvw.net^
 @@||emjcd.com^
 @@||evyy.net^
@@ -40,6 +41,7 @@
 @@||kqzyfj.com^
 @@||lddy.no^
 @@||list-manage.com^
+@@||lt45.net^
 @@||mandrillapp.com^
 @@||media01.eu^
 @@||micpn.com^
@@ -63,6 +65,7 @@
 @@||sailthru.com^
 @@||shareasale.com^
 @@||shareasale-analytics.com^
+@@||shop-links.co^
 @@||t.co^
 @@||tkqlhce.com^
 @@||trackcmp.net^
@@ -151,6 +154,7 @@
 @@||cl.exct.net^
 @@||syndication.exosrv.com^
 @@||click.e.usa.experian.com^
+@@||puc-cdn.exponea.com^
 @@||l.facebook.com^
 @@||click.fidelityinvestments.com^
 @@||ue.flipboard.com^
@@ -228,6 +232,7 @@
 @@||click.redditmail.com^
 @@||go.redirectingat.com^
 @@||newslink.reuters.com^
+@@||adorama.rfvk.net^
 @@||click.royalcaribbeanmarketing.com^
 @@||r20.rs6.net^
 @@||tracking.s24.com^
@@ -254,6 +259,7 @@
 @@||wl.spotify.com^
 @@||link.springer.com^
 @@||r.srvtrck.com^
+@@||partners*.stacksocial.com^
 @@||link.swa.info^
 @@||link.sylikes.com^
 @@||count.shopping.t-online.de^
@@ -280,6 +286,3 @@
 @@||clck.yandex.ru^
 @@||redirect.appmetrica.yandex.*^
 @@||click.zoom.us^
-@@||shop-links.co^
-@@||adorama.rfvk.net^
-@@||partners*.stacksocial.com^
