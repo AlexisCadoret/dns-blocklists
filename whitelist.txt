@@ -2648,3 +2648,6 @@ go.sonomotors.com
 # https://github.com/hagezi/dns-blocklists/issues/581
 cliqz.com
 
+# https://github.com/hagezi/dns-blocklists/issues/586
+*.imgix.datadoghq.com
+

@@ -572,8 +572,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 02 Mär 2023 07:57 UTC
-! Version: 2023.0302.0757.11
+! Last modified: 02 Mär 2023 11:39 UTC
+! Version: 2023.0302.1139.48
 ! Syntax: AdBlock
 ! Domains: 33668
 !
@@ -134807,6 +134807,9 @@
 ! https://github.com/hagezi/dns-blocklists/issues/581
 @@|cliqz.com^
 @@|www.cliqz.com^
+
+! https://github.com/hagezi/dns-blocklists/issues/586
+@@||imgix.datadoghq.com^
 
 
 ! Title: HaGeZi's White-/Allowlist Referral
