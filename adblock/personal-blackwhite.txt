@@ -572,10 +572,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 02 Mär 2023 11:39 UTC
-! Version: 2023.0302.1139.48
+! Last modified: 02 Mär 2023 12:25 UTC
+! Version: 2023.0302.1225.37
 ! Syntax: AdBlock
-! Domains: 33668
+! Domains: 33669
 !
 ||00-tv.com^
 ||003store.com^
@@ -3122,6 +3122,7 @@
 ||ald.aldautomotive.com^
 ||resources.aldec.com^
 ||statistics.aldi-international.com^
+||aldi-life.vip^
 ||aldogallery.ir^
 ||alea6badb.com^
 ||aleapeact.club^
