@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 04 Mar 2023 00:06 UTC
-# Version: 2023.0304.0006.54
+# Last modified: 04 Mar 2023 19:46 UTC
+# Version: 2023.0304.1946.22
 # Syntax: Domains Wildcard (DNSCrypt/YogaDNS/...)
-# Domains: 32944
+# Domains: 33060
 #
 *.003store.com
 *.007sites.com
@@ -28,6 +28,8 @@
 *.076lvo.xyz
 *.0830bbs.com
 *.0843741785.com
+*.0a05d34d6f.com
+*.0b19760679.com
 *.0cdn.xyz
 *.s.0cf.io
 *.0fees.net
@@ -157,6 +159,7 @@
 *.199aaa.us
 *.19turanosephantasia.com
 *.ads.1a-infosysteme.de
+*.1anothetrmoda.com
 *.1aqi93ml4.de
 *.1bet.com
 *.1bm3n8sld.de
@@ -328,7 +331,11 @@
 *.static.2mdn.net
 *.xmr.2miners.com
 *.2no.co
-*.102.112.2o7.net
+*.com.102.112.2o7.net
+*.data.102.112.2o7.net
+*.nissanusa.102.112.2o7.net
+*.org.102.112.2o7.net
+*.uk.102.112.2o7.net
 *.1stcentralinsurancelive.112.2o7.net
 *.aaplepglobal.112.2o7.net
 *.abbottlabs.112.2o7.net
@@ -420,7 +427,6 @@
 *.nike.112.2o7.net
 *.nutanixprod.112.2o7.net
 *.obuengsc.112.2o7.net
-*.oracle.112.2o7.net
 *.paypal.112.2o7.net
 *.pccomponenteses.112.2o7.net
 *.pdrnetwork.112.2o7.net
@@ -448,11 +454,40 @@
 *.winecom.112.2o7.net
 *.wkmedovidsp2017.112.2o7.net
 *.wlgore.112.2o7.net
-*.102.122.2o7.net
+*.cbc.ca.102.122.2o7.net
+*.costco.ca.102.122.2o7.net
+*.active.com.102.122.2o7.net
+*.autozone.com.102.122.2o7.net
+*.cartoonnetwork.com.102.122.2o7.net
+*.cnn.com.102.122.2o7.net
+*.deluxe.com.102.122.2o7.net
+*.digitalinsight.com.102.122.2o7.net
+*.financialengines.com.102.122.2o7.net
+*.harley-davidson.com.102.122.2o7.net
+*.hdsupplysolutions.com.102.122.2o7.net
+*.intervalworld.com.102.122.2o7.net
+*.kohler.com.102.122.2o7.net
+*.lakeshorelearning.com.102.122.2o7.net
+*.meijer.com.102.122.2o7.net
+*.ncaa.com.102.122.2o7.net
+*.northwesternmutual.com.102.122.2o7.net
+*.partycity.com.102.122.2o7.net
+*.plussizetech.com.102.122.2o7.net
+*.randomhouse.com.102.122.2o7.net
+*.sce.com.102.122.2o7.net
+*.sharecare.com.102.122.2o7.net
+*.teambeachbody.com.102.122.2o7.net
+*.tescobank.com.102.122.2o7.net
+*.tgw.com.102.122.2o7.net
+*.ulta.com.102.122.2o7.net
+*.wm.com.102.122.2o7.net
+*.de.102.122.2o7.net
+*.org.102.122.2o7.net
 *.alliancebernstein.122.2o7.net
 *.amazonservices.122.2o7.net
 *.bmwmotor.122.2o7.net
 *.bradycorporation.122.2o7.net
+*.capella.122.2o7.net
 *.cardinalhealth.122.2o7.net
 *.cnn.122.2o7.net
 *.deloitte.122.2o7.net
@@ -1308,6 +1343,7 @@
 *.adarabi.com
 *.adaranth.com
 *.adaround.net
+*.adarutoad.com
 *.adasiaholdings.com
 *.adating.link
 *.adbc.io
@@ -1318,6 +1354,7 @@
 *.adbit.biz
 *.rtb-useast.adbite.com
 *.adblade.com
+*.adblock-one-protection.com
 *.adblock-pro.org
 *.adblock-pro-download.com
 *.adblockanalytics.com
@@ -1334,7 +1371,6 @@
 *.adbr.io
 *.adbrite.com
 *.adbrix.io
-*.sp.adbrn.com
 *.adbro.me
 *.adbuddiz.com
 *.adbutler.com
@@ -1385,6 +1421,7 @@
 *.addict-mobile.net
 *.addictaco.com
 *.additionalmedia.com
+*.additionsmiracle.com
 *.ssl.o.additudemag.com
 *.addme.com
 *.addoer.com
@@ -1719,7 +1756,6 @@
 *.skgde.adocean.pl
 *.thinkdigitalro.adocean.pl
 *.trgde.adocean.pl
-*.tvn.adocean.pl
 *.tvn2.adocean.pl
 *.vbbg.adocean.pl
 *.webgroundbg.adocean.pl
@@ -2179,6 +2215,7 @@
 *.adzxplore.com
 *.aeeg5idiuenbi7erger.com
 *.aeffe3nhrua5hua.com
+*.aefryler.com
 *.tracking.aegpresents.com
 *.aeifpqfijosfd.com
 *.tradeshows.aem.org
@@ -2211,6 +2248,7 @@
 *.aff1xstavka.com
 *.affclkr.com
 *.affec.tv
+*.affectionateselfserviceclothe.com
 *.affelseaeinera.org
 *.affex.org
 *.affforce.com
@@ -2475,6 +2513,7 @@
 *.aj2526.bid
 *.aj2550.bid
 *.ajcryptominer.com
+*.ajdta.com
 *.ajfnee.com
 *.ajirkxs.cc
 *.ajjtfysen.com
@@ -2859,10 +2898,6 @@
 *.unagi-fe.amazon.com
 *.unagi-na.amazon.com
 *.ws.amazon.com
-*.aax.amazon-adsystem.com
-*.aax-cpm.amazon-adsystem.com
-*.aax-us-east.amazon-adsystem.com
-*.aax-us-pdx.amazon-adsystem.com
 *.c.amazon-adsystem.com
 *.cdn-a.amazon-adsystem.com
 *.fls-eu.amazon-adsystem.com
@@ -2876,7 +2911,6 @@
 *.ir-jp.amazon-adsystem.com
 *.ir-na.amazon-adsystem.com
 *.ir-uk.amazon-adsystem.com
-*.mads.amazon-adsystem.com
 *.ps-us.amazon-adsystem.com
 *.rcm-eu.amazon-adsystem.com
 *.rcm-fe.amazon-adsystem.com
@@ -3048,6 +3082,7 @@
 *.api2.amplitude.com
 *.cdn.amplitude.com
 *.api.eu.amplitude.com
+*.api.lab.eu.amplitude.com
 *.info.amplitude.com
 *.api.lab.amplitude.com
 *.profile-api.amplitude.com
@@ -3075,6 +3110,7 @@
 *.amtc.com
 *.amung.us
 *.amunx.de
+*.amused-ground.com
 *.amusive.com
 *.amutheastse.com
 *.amxrtb.com
@@ -3117,6 +3153,7 @@
 *.andersenit.dk
 *.andhttz.com
 *.andlache.com
+*.andmarquez.com
 *.andoldifiscqak.xyz
 *.andomedia.com
 *.android-devs.top
@@ -3643,6 +3680,7 @@
 *.asian-sirens.com
 *.asiatube.pro
 *.collect.asics.com
+*.asifiwoeryesterda.xyz
 *.asimov.academy
 *.askbot.com
 *.askcoefficient.com
@@ -3755,8 +3793,11 @@
 *.digital.att.com
 *.dynatrace.att.com
 *.metrics.att.com
+*.resources.att.com
 *.smetrics.att.com
+*.webinars.att.com
 *.attarbesets.com
+*.attemplate.com
 *.attendanceceasless.com
 *.attenstyle.com
 *.attentioniau.com
@@ -3769,6 +3810,7 @@
 *.attr-2p.com
 *.attracta.com
 *.attractbestbonuses.life
+*.attractbonus.life
 *.attractionbanana.com
 *.collect-ap2.attraqt.io
 *.collect-eu.attraqt.io
@@ -3911,7 +3953,6 @@
 *.avaruaru.com
 *.analytics.ff.avast.com
 *.au.ff.avast.com
-*.ipm-provider.ff.avast.com
 *.streamback.ff.avast.com
 *.uib.ff.avast.com
 *.stats.avast.com
@@ -3997,6 +4038,7 @@
 *.axlokxnm.com
 *.axonix.com
 *.smetrics.axs.com
+*.axungeguying.com
 *.ay.delivery
 *.ayads.co
 *.ayandehit.com
@@ -4087,6 +4129,7 @@
 *.babator.com
 *.marketing-tracker.babbel.com
 *.babesroulette.com
+*.babfdicktnodx.xyz
 *.customfingerprints.bablosoft.com
 *.babssata.com
 *.collect.babybus.com
@@ -4436,6 +4479,7 @@
 *.bclikeqt.com
 *.bcloudhost.com
 *.hlog.bclugu.com
+*.bcm8.shop
 *.bcolyyp.in
 *.bcomb.net
 *.bcpbamn.com
@@ -4613,6 +4657,8 @@
 *.bespokeweddings.ie
 *.best-investment24.pro
 *.best-offer-for-you.com
+*.ipfs.best-practice.se
+*.best-prize.life
 *.best4fuck.com
 *.bestadload.com
 *.bestageoffers22.com
@@ -4921,6 +4967,7 @@
 *.cdn.ap.bittorrent.com
 *.apps.bittorrent.com
 *.bittygravely.com
+*.bityl.co
 *.biwhonypsy.com
 *.bixinlive.com
 *.crm.bizfly.vn
@@ -5020,6 +5067,7 @@
 *.blogtraffic.de
 *.li.blogtrottr.com
 *.blogun.ru
+*.adv.blogupp.com
 *.blok.link
 *.blondeopinion.com
 *.blondhoverhesitation.com
@@ -5072,7 +5120,6 @@
 *.blueseed.tv
 *.blueserving.com
 *.bluesq.com
-*.bluestreak.com
 *.bluesuntourism.com
 *.blueswordksh.com
 *.bluetoad.com
@@ -5086,7 +5133,6 @@
 *.stats.blutv.com
 *.tracker.blutv.com
 *.bluza3d.pl
-*.p.bm23.com
 *.forms.bmc.com
 *.smetrics.bmc.com
 *.bmcdn1.com
@@ -5171,7 +5217,6 @@
 *.bojebd.xyz
 *.bokep.su
 *.bokslink.com
-*.partnerprogramma.bol.com
 *.swa.bol.com
 *.txrx.bol.com
 *.wa.bol.com
@@ -5201,6 +5246,8 @@
 *.nsedgj.bonprix.de
 *.bonuscounter.de
 *.bonusmaniac.com
+*.bonusreward.life
+*.bonusscore.life
 *.bonusshatter.com
 *.boo-box.com
 *.boobi.biz
@@ -5623,6 +5670,7 @@
 *.byinter.net
 *.bymmedya.com
 *.bypass.jp
+*.bypassed.icu
 *.webcare.byside.com
 *.bytecache.ml
 *.s3.bytecdn.cn
@@ -5912,6 +5960,7 @@
 *.casadelfutbol.info
 *.casalemedia.com
 *.analytics.casando.de
+*.cascadewatchful.com
 *.analytics.caseking.de
 *.cash-ads.com
 *.cashbro.net
@@ -6010,7 +6059,6 @@
 *.ccnmbpx.cc
 *.ccnshks.in
 *.ccscserver.com
-*.a.cctv.com
 *.p.data.cctv.com
 *.mtrace.ysp.cctv.cn
 *.adx.cda.pl
@@ -6102,6 +6150,7 @@
 *.celeryisolatedproject.com
 *.cell-phones-tracker.net
 *.cellarpassion.com
+*.cellmaster.com
 *.metricreceiver.cellrebel.com
 *.celltick.com
 *.marketing.celona.io
@@ -6214,6 +6263,7 @@
 *.cheap-result.pro
 *.fqppgv.cheapoair.com
 *.cheaterboss.com
+*.cheatingabate.com
 *.chebecsunsack.com
 *.check-me.online
 *.check-message.live
@@ -6386,9 +6436,11 @@
 *.cieh.mx
 *.connect.ciena.com
 *.smetrics.ciena.com
+*.cienciano.com
 *.smetrics.cigar.com
 *.smetrics.cigarsinternational.com
 *.ciimamore.com
+*.cijnveqievdvirp.com
 *.cijtxig.com
 *.cikelly.com
 *.ciksolre.net
@@ -6572,7 +6624,6 @@
 *.click-url.com
 *.click2sell.eu
 *.click360.io
-*.cas.clickability.com
 *.clickable.net
 *.clickadilla.com
 *.clickadu.com
@@ -6638,6 +6689,7 @@
 *.clicktripz.com
 *.clicktut.site
 *.clickvalidator.net
+*.clickwhitecode.com
 *.clickx.io
 *.clickxchange.com
 *.clickyab.com
@@ -8463,6 +8515,7 @@
 *.ceepcuritiba.com.br
 *.sstats.celcom.com.my
 *.ctyjsf.cellphones.com.vn
+*.cgigc.com.cn
 *.chanet.com.cn
 *.content22.citibank.com.au
 *.smetrics.citibank.com.hk
@@ -8499,6 +8552,7 @@
 *.fyccsw.eobuwie.com.pl
 *.eoseurlingeringont.com.ua
 *.metrics.escape.com.au
+*.esoviajar.com.br
 *.sadobe.falabella.com.co
 *.sadobe.falabella.com.pe
 *.countly.fibabanka.com.tr
@@ -8925,7 +8979,6 @@
 *.consecuenciastudios.com
 *.consensad.com
 *.gemius.mgr.consensu.org
-*.spolecznosci.mgr.consensu.org
 *.choices.consentframework.com
 *.delivery.consentmanager.net
 *.consigli.it
@@ -9577,6 +9630,7 @@
 *.danchimviet.info
 *.smetrics.dandh.com
 *.dandyair.com
+*.uu.daneslureful.com
 *.dangerfiddlesticks.com
 *.dangerouslyblemishsweater.com
 *.dankulavius.com
@@ -9671,6 +9725,7 @@
 *.app.datorama.com
 *.oauth.datorama.com
 *.datvietquan.com
+*.daubierbatties.uno
 *.adimg.daumcdn.net
 *.aem-collector.daumkakao.io
 *.oj.daunnotes.com
@@ -9978,7 +10033,6 @@
 *.derangenameunlimited.com
 *.derfulstatu.buzz
 *.deriv.com
-*.derkeiler.com
 *.px.derstandard.at
 *.metrics.dertour.de
 *.data-ee807be806.derwesten.de
@@ -9987,6 +10041,7 @@
 *.desen4.info
 *.solutions.desertfinancial.com
 *.desertskyvacationrentals.com
+*.deshourty.com
 *.desideriosoldi.com
 *.desigactinific.org
 *.designatejay.com
@@ -10115,6 +10170,7 @@
 *.dieved.com
 *.difiel.com
 *.difies.com
+*.digestiondrawer.com
 *.static.digidip.net
 *.affstat.digikala.com
 *.new-sentry.digikala.com
@@ -10130,7 +10186,6 @@
 *.ads.digitalcaramel.com
 *.digitalesnetwork.com
 *.ads.digitalfirstmedia.com
-*.dap.digitalgov.gov
 *.sci.digitalinsight.com
 *.digitalkites.com
 *.data.digitalks.az
@@ -10408,6 +10463,7 @@
 *.xml.dollopsdigital.com
 *.dolohen.com
 *.dolomitethistle.store
+*.doloroj.com
 *.addon.dolphin-browser.com
 *.opsen.dolphin-browser.com
 *.pnsen.dolphin-browser.com
@@ -10607,6 +10663,7 @@
 *.downloadoffice2010.org
 *.downloadpro.online
 *.downloadwarez.org
+*.downmsdn.com
 *.dowtyler.com
 *.ad.doyouad.com
 *.cdn.doyouad.com
@@ -10686,7 +10743,6 @@
 *.marketing.dropbox.com
 *.telemetry.dropbox.com
 *.telemetry.v.dropbox.com
-*.dropbox-download.com
 *.dropboxfingerprintjs.com
 *.dropkickmedia.com
 *.droppedbanking.com
@@ -10754,6 +10810,7 @@
 *.ductclickjl.com
 *.ductquest.com
 *.dudair.com
+*.dudccob.in
 *.dudok.nl
 *.duf1ql28oaxcm3x6baf7wxvo6n29hrozqxbd13emc3na96i64j.xyz
 *.dufcrun.com
@@ -11170,6 +11227,7 @@
 *.edtheparllase.com
 *.www.adityatekkali.edu.in
 *.chnu.edu.ua
+*.cnsc.edu.ph
 *.elu.edu.tr
 *.fpno.edu.ng
 *.ibsar.edu.in
@@ -11206,6 +11264,7 @@
 *.eethilsi.com
 *.eewhaukr.xyz
 *.eewheeds.com
+*.eeyy.com
 *.eezegrip.net
 *.ef2aecba6f.com
 *.ef9i0f3oev47.com
@@ -11342,6 +11401,7 @@
 *.electricalbicyclelistnonfiction.com
 *.electroenchufe.com
 *.electrokav.com
+*.electronicconsensus.com
 *.eleed.online
 *.eleganteea.com
 *.elegrina.pl
@@ -11563,6 +11623,7 @@
 *.errorception.com
 *.errorssmoked.com
 *.errresound.com
+*.errumoso.xyz
 *.ersanenglish.com
 *.ershniff.com
 *.ersislaqands.com
@@ -11740,6 +11801,8 @@
 *.evt17.com
 *.evunmc.xyz
 *.evzhzppj5kel.com
+*.ew3.io
+*.ewahj.cyou
 *.ewaighee.xyz
 *.ewallowi.buzz
 *.ewayanplease.xyz
@@ -12202,6 +12265,7 @@
 *.fghnergyflex.xyz
 *.fhcigars.com
 *.fhsmtrnsfnt.com
+*.fhvbhx.xyz
 *.images.bncontacto.fi.cr
 *.images.info.coopenae.fi.cr
 *.activate1.fidelity.com
@@ -12506,6 +12570,7 @@
 *.fmnetwork.nl
 *.fmniltb.com
 *.fmpub.net
+*.fms88.shop
 *.fmv9kweoe06r.com
 *.fmwesgr.com
 *.fn-pz.com
@@ -12598,6 +12663,7 @@
 *.forlumineontor.com
 *.formalyzer.com
 *.formarshtompchan.com
+*.data-c2cfe04d43.formel1.de
 *.formisimo.com
 *.formmail.com
 *.analytics.formstack.com
@@ -12640,9 +12706,7 @@
 *.adlog.foxitcloud.com
 *.logger.foxitcloud.com
 *.ad.foxitsoftware.com
-*.ads.foxnews.com
 *.metrics.foxnews.com
-*.oas.foxnews.com
 *.smetrics.foxnews.com
 *.tracking.foxnews.com
 *.foxpush.com
@@ -12790,7 +12854,6 @@
 *.frolicbrook.com
 *.fromdoctopdf.com
 *.fromjoytohappiness.com
-*.fromru.su
 *.frondewame.com
 *.smetrics.frontier.com
 *.frontlinehealthnews.com
@@ -13387,6 +13450,7 @@
 *.gdfp.gifshow.com
 *.whatsapp.gift-out.com
 *.gift2pair.com
+*.giftaward.life
 *.gifthandymanshortage.com
 *.gifttopsurvey.top
 *.data-17c7ec5f16.giga.de
@@ -13434,6 +13498,7 @@
 *.prod-defaulting-subscriptiontool.gismart.xyz
 *.stat-api-yndx.cloud.gismeteo.net
 *.collector.github.com
+*.collector-cdn.github.com
 *.googleads.github.io
 *.collector.githubapp.com
 *.copilot-telemetry.githubusercontent.com
@@ -13552,6 +13617,7 @@
 *.glzniuy.cn
 *.gmaakjrmpc.com
 *.gmai.com
+*.gmailmsg.com
 *.pdmsmrt.gmc.com
 *.gmdmpdm.com
 *.aef42.gmf.fr
@@ -13591,7 +13657,6 @@
 *.w88.go.com
 *.api.telemetry.watchabc.go.com
 *.c.go-mpulse.net
-*.s.go-mpulse.net
 *.s2.go-mpulse.net
 *.go1news.biz
 *.go2.global
@@ -13656,7 +13721,6 @@
 *.t.gofrogs.com
 *.insights-collector.gog.com
 *.gogetlinks.net
-*.goggle.com
 *.gogo-news.com
 *.gogoldteam.com
 *.beacon-fullpage-predictor.goguardian.com
@@ -13756,7 +13820,6 @@
 *.crashlyticsreports-pa.googleapis.com
 *.firebaselogging.googleapis.com
 *.googlecommerce.com
-*.googledrive-en.com
 *.newstatisc.googleinfo.se
 *.googleoptimize.com
 *.googles.video
@@ -13892,6 +13955,7 @@
 *.gravityrd-services.com
 *.grayreceipt.com
 *.greasysquare.com
+*.greatbonushere.life
 *.greatdexchange.com
 *.greatfxmedia.com
 *.smetrics.greatland.com
@@ -14094,6 +14158,7 @@
 *.gwryfkd.cc
 *.gwtqtsy.com
 *.gwxitnd.com
+*.gxhbsapkkdni.xyz
 *.gxkoci.xyz
 *.tracking.gxmedia-ads.com
 *.gyantak.com
@@ -14428,6 +14493,7 @@
 *.production.wootric.com.herokudns.com
 *.analytics.yopify.com.herokudns.com
 *.static.herr.io
+*.hesatinaco.com
 *.hetadinh.com
 *.hetahien.com
 *.hetaint.com
@@ -14545,6 +14611,7 @@
 *.highperformancegate.com
 *.highrevenuecpm.com
 *.highrevenuecpmnetwork.com
+*.highrevenuegate.com
 *.filter.highsea.fun
 *.marketing.highwoods.com
 *.hihrfxy.com
@@ -14629,6 +14696,7 @@
 *.hjxajf.com
 *.hjzosou.com
 *.track.hk01.com
+*.hkbzl.hk
 *.abc.hkepc.net
 *.event.hket.com
 *.inlog01.hket.com
@@ -15126,6 +15194,7 @@
 *.iconosquare.com
 *.icorp.ro
 *.icowatchlist.com
+*.icsranger.com
 *.icwb.com
 *.icyporno.com
 *.icyrwy.xyz
@@ -16323,6 +16392,7 @@
 *.jklbilitukyd.xyz
 *.jkub.com
 *.jkxvvv.xyz
+*.jkyokdfjbhcuc.xyz
 *.jldbnjghezv.com
 *.discover.jll.com
 *.email-am.us.jll.com
@@ -16674,6 +16744,7 @@
 *.keekeeps.com
 *.keen.io
 *.keen-slip.com
+*.keep-rewards.life
 *.keepingconcerned.com
 *.keet1liod.com
 *.keidweneth.com
@@ -16746,6 +16817,7 @@
 *.kiajrcx.com
 *.kibostores.com
 *.kick1pore.com
+*.kickchecking.com
 *.data-3cd8fb3825.kicker.de
 *.data-e69b3d32a9.kicker.de
 *.jdgtgb.kicker.de
@@ -16869,6 +16941,7 @@
 *.rr.knet.cn
 *.ss.knet.cn
 *.kneylhewould.xyz
+*.knihuss.lol
 *.knitstamp.com
 *.knkqjmjyxzev.info
 *.knkyszc.com
@@ -16964,6 +17037,7 @@
 *.i.kpzip.com
 *.kq6lwk3m9g.ru
 *.qc.kqbd88.com
+*.kqjveskjxid.com
 *.krainajednorozca.pl
 *.fdt.kraken.com
 *.krakenoptimize.com
@@ -17166,6 +17240,7 @@
 *.ladsp.com
 *.ladsp.jp
 *.ladyphapty.com
+*.fpc.laerdal.com
 *.lafastnews.com
 *.lafca.net
 *.lagera.com
@@ -17178,6 +17253,7 @@
 *.smetrics.lakeshorelearning.com
 *.smetrics.lakeside.com
 *.lakewoodmediagroup.net
+*.lalapush.com
 *.lalithaajewellery.com
 *.lalofilters.website
 *.laluvygy.com
@@ -17267,6 +17343,7 @@
 *.popup.laybuy.com
 *.rum.ingress.layer0.co
 *.rum.layer0.co
+*.laylalanemusic.com
 *.lazypeacefullyutterly.com
 *.cc.lbesec.com
 *.aff-policy.lbesecapi.com
@@ -17397,7 +17474,6 @@
 *.forecast.lemonde.fr
 *.ressources.lemoniteur.com
 *.lemonmov.com
-*.lemonparty.org
 *.content.lemonpi.io
 *.creative-content.lemonpi.io
 *.log.lemonpi.io
@@ -17721,6 +17797,7 @@
 *.ads.livetv625.me
 *.ads.livetv626.me
 *.ads.livetv630.me
+*.ads.livetv631.me
 *.liveupdt.com
 *.liveyield.com
 *.livezilla.net
@@ -17911,6 +17988,7 @@
 *.louqzrf.com
 *.louses.net
 *.love7date.info
+*.love88.club
 *.loveafrofoods.com
 *.loveaholics.com
 *.loveandsensibility.com
@@ -18074,6 +18152,7 @@
 *.macadscleaner.com
 *.macadwarecleaner.com
 *.sponsors.macaronikid.com
+*.macaw.is
 *.maccms.com
 *.event.mackeeper.com
 *.rdt.mackeeper.com
@@ -18323,6 +18402,7 @@
 *.marx7loki.com
 *.marydating.com
 *.masaxe.xyz
+*.mascarellocabines.com
 *.images.response.maserati.com
 *.g.mashable.com
 *.mashreqdev.com
@@ -18383,6 +18463,7 @@
 *.uy.mawseednoblest.com
 *.maxbounty.com
 *.maxcache.ml
+*.maxearningcryp.com
 *.maxetise.net
 *.smetrics.maxi.ca
 *.maximilitary.ru
@@ -18664,6 +18745,7 @@
 *.meo257na3rch.com
 *.meprudsljr.com
 *.mepuzz.com
+*.meqjdrrrxhdtgj.xyz
 *.mercadoclics.com
 *.events.mercadolibre.com
 *.mercent.com
@@ -18727,6 +18809,7 @@
 *.dk.metumpscageful.com
 *.meueeq.xyz
 *.mevaembalagens.com
+*.mewgzllnsp.com
 *.mewigurom.com
 *.mewkid.net
 *.secure.mews2ruck.com
@@ -18831,6 +18914,7 @@
 *.midlandfeisty.com
 *.clientlog.midomi.com
 *.client.midosoo.com
+*.midouwhi.com
 *.track.midway.run
 *.ads.midwayusa.com
 *.analytics.midwesternmac.com
@@ -18858,6 +18942,7 @@
 *.milfme.com
 *.milfunsource.com
 *.milfxv.pro
+*.miliolaungated.space
 *.militaryapp.net
 *.militaryverse.com
 *.rtb-useast.milkywase.com
@@ -19196,7 +19281,9 @@
 *.moneyexpert.com
 *.moneyhome.biz
 *.moneymakercdn.com
+*.moneymm1688.shop
 *.moneyplatform.biz
+*.mongbo.com
 *.mongolianforex.com
 *.mongoosemetrics.com
 *.monipla.jp
@@ -19371,6 +19458,7 @@
 *.x822.mrt.com
 *.ad.mrtnsvr.com
 *.event.mrtnsvr.com
+*.mruhkylwcirnw.com
 *.mryshl.com
 *.aka.ms-ads.co
 *.msads.net
@@ -19416,6 +19504,7 @@
 *.stats.mt.com
 *.mt34iofvjay.com
 *.mt48.net
+*.mtawcy.xyz
 *.mtcmilr.net
 *.ads.mtgroup.kr
 *.mthsbsq.net
@@ -19522,6 +19611,7 @@
 *.mxtads.com
 *.mxybawp.cc
 *.mxzijg.com
+*.jne-express.my.id
 *.r.my.com
 *.smknbancak.my.id
 *.t.my.jobs
@@ -19579,6 +19669,7 @@
 *.mygames4girls.com
 *.mygametoa.com
 *.mygceqd.com
+*.mygreatprize.life
 *.images.myhealthyfinances.com
 *.analytics.myhermes.de
 *.as.myhomebook.de
@@ -19626,6 +19717,7 @@
 *.mypopups.com
 *.mypowermall.com
 *.metrics.myprime.com
+*.myprintscreen.com
 *.myprivatesearch.com
 *.marketing.mypureradiance.com
 *.tracking.myregus.com
@@ -20121,6 +20213,7 @@
 *.newextra.com
 *.newfootwearshop.com
 *.newhin.com
+*.newmail.ru
 *.newnudecash.com
 *.marketing.neworleans.com
 *.smetrics.newport.com
@@ -20354,7 +20447,6 @@
 *.nobost.com
 *.noddus.com
 *.node7seat.com
-*.dev.nodle.io
 *.behave.noen.at
 *.tracking.noen.at
 *.noerwe5gianfor19e4st.com
@@ -20821,16 +20913,6 @@
 *.smetrics.abbott.ssl.sc.omtrdc.net
 *.geico.com.ssl.sc.omtrdc.net
 *.rs-online.com.ssl.sc.omtrdc.net
-*.adobe.tt.omtrdc.net
-*.bankofamerica.tt.omtrdc.net
-*.comcastresidentialservices.tt.omtrdc.net
-*.consumerinfo.tt.omtrdc.net
-*.huntingtonbank.tt.omtrdc.net
-*.marriottinternationa.tt.omtrdc.net
-*.restaurantcom.tt.omtrdc.net
-*.stampscom.tt.omtrdc.net
-*.tdameritrade.tt.omtrdc.net
-*.webmdcom.tt.omtrdc.net
 *.omzylhvhwp.com
 *.ad4.on.cc
 *.ad6.on.cc
@@ -20870,7 +20952,6 @@
 *.validate.onecount.net
 *.event-collector.analytics.onedio.com
 *.onedmp.com
-*.onedrive-us-en.com
 *.oneegrou.net
 *.oneflextiank.com
 *.pappagallu.onefootball.com
@@ -20889,6 +20970,7 @@
 *.onenomadtstore.com
 *.onenotegem.com
 *.oneotheacon.cc
+*.oneparttimejob.com
 *.onepx.kr
 *.scvgzt.onequince.com
 *.onesafesoftware.com
@@ -20919,6 +21001,7 @@
 *.oniad.com
 *.cp.onicon.ru
 *.onion.capital
+*.onkacspio.com
 *.online.com
 *.online.tm
 *.online-banners.nl
@@ -21041,6 +21124,7 @@
 *.operarymishear.store
 *.operaszeks.com
 *.operationchicken.com
+*.operch.com
 *.ophoacit.com
 *.opienetwork.com
 *.invitation.opinionbar.com
@@ -21236,6 +21320,7 @@
 *.ostlon.com
 *.ostrichesica.com
 *.data-60d896f23d.ostsee-zeitung.de
+*.t.osubeavers.com
 *.otaserve.net
 *.otbrana.com
 *.otc-manila.com
@@ -21317,6 +21402,7 @@
 *.widgetmonitor.outbrain.com
 *.widgets.outbrain.com
 *.outbrainimg.com
+*.outbraixenr.com
 *.outbuck.com
 *.outbyte.com
 *.outdilateinterrupt.com
@@ -21435,7 +21521,9 @@
 *.pafcpd.xyz
 *.pafutos.com
 *.pagalworld.uk
+*.czwcvfbc.page.link
 *.nalzahqp.page.link
+*.tpqcywcx.page.link
 *.page-x.com
 *.page1monk.com
 *.page9awry.com
@@ -21591,6 +21679,7 @@
 *.patgsrv.com
 *.path2zillion.com
 *.path5wall.com
+*.pathswreaths.guru
 *.patibe.com
 *.patienceboostboss.com
 *.patioeasternopera.com
@@ -22092,7 +22181,6 @@
 *.placed.com
 *.ea.placedestendances.com
 *.placeiq.com
-*.placelocal.com
 *.placeofres.com
 *.out.pladform.ru
 *.plaicecaught.com
@@ -22263,6 +22351,7 @@
 *.smetrics.politico.com
 *.smetrics.politicopro.com
 *.polki-nago.pl
+*.nnmefd.polkmerth.com
 *.pollpublicly.com
 *.pollster.pl
 *.privacy.polskapress.pl
@@ -22424,6 +22513,7 @@
 *.ppro.de
 *.api.afdback.ppsimg.com
 *.zt.pptv.com
+*.pqhbasxx.com
 *.pqrtd9hhtu9x.info
 *.pqszpa.com
 *.practicbog.com
@@ -22440,6 +22530,7 @@
 *.preanalytication.com
 *.prebid.org
 *.prebidwrapper.com
+*.precisionpop.com
 *.cdn.preciso.net
 *.predatasrv.com
 *.predicamentprestige.com
@@ -22493,6 +22584,7 @@
 *.prfct.co
 *.cdn-assets.prfct.cc
 *.cdn-otf-cas.prfct.cc
+*.cdn-resources.prfct.cc
 *.prfctmney.com
 *.prhzxq.com
 *.price11.com
@@ -22551,7 +22643,10 @@
 *.privy.com
 *.privymktg.com
 *.priyafoods.com
+*.prizeaward.life
 *.prizee.com
+*.prizerush.life
+*.prizesenses.life
 *.prizetopsurvey.top
 *.prjhvswdjoly.xyz
 *.prltmz.com
@@ -22605,6 +22700,7 @@
 *.cqpmvc.programme-tv.net
 *.progressproceeding.com
 *.xmr.prohash.net
+*.consent.prointernet.com
 *.cdn.ll.project-limelight.com
 *.projectagora.net
 *.projectagora.tech
@@ -22698,6 +22794,7 @@
 *.prscripts.com
 *.prstatics.com
 *.prtc.net
+*.prtord.com
 *.prtrackings.com
 *.pruare.com
 *.prudsys-rde.de
@@ -22921,6 +23018,7 @@
 *.pushowl.com
 *.pushpad.xyz
 *.pushpanda.io
+*.pushpong.net
 *.pushpro.io
 *.pushprofit.net
 *.pushprofit.ru
@@ -22978,6 +23076,8 @@
 *.collector-pxz5wgh7n9.px-cdn.net
 *.collector-pxzhh9f9x0.px-cdn.net
 *.collector-pxzyvfoxac.px-cdn.net
+*.collector-px04cd4k9e.px-client.net
+*.collector-px09a9fhxa.px-client.net
 *.collector-px0iiey9lm.px-client.net
 *.collector-px16ud0kof.px-client.net
 *.collector-px1dk3430l.px-client.net
@@ -22988,11 +23088,13 @@
 *.collector-px46uwk7he.px-client.net
 *.collector-px58asv359.px-client.net
 *.collector-px5smc4pty.px-client.net
+*.collector-px6a5i7vr2.px-client.net
 *.collector-px8fcgygk4.px-client.net
 *.collector-px8suhxpnm.px-client.net
 *.collector-pxaflyiz9n.px-client.net
 *.collector-pxajdckzhd.px-client.net
 *.collector-pxczdhf737.px-client.net
+*.collector-pxdl6gosf9.px-client.net
 *.collector-pxff0j69t5.px-client.net
 *.collector-pxg1gmnz2v.px-client.net
 *.collector-pxhyx10rg3.px-client.net
@@ -23002,6 +23104,8 @@
 *.collector-pxkbpjof0j.px-client.net
 *.collector-pxkgkikzzj.px-client.net
 *.collector-pxkp4clsb5.px-client.net
+*.collector-pxkxodf6rk.px-client.net
+*.collector-pxlkxie7oj.px-client.net
 *.collector-pxm636svr4.px-client.net
 *.collector-pxnp9b16cq.px-client.net
 *.collector-pxns7abmiv.px-client.net
@@ -23012,6 +23116,7 @@
 *.collector-pxoyfhox4z.px-client.net
 *.collector-pxp2oog666.px-client.net
 *.collector-pxp2tbvnjz.px-client.net
+*.collector-pxqqxm841a.px-client.net
 *.collector-pxrw7m6iav.px-client.net
 *.collector-pxslc3j22k.px-client.net
 *.collector-pxt6dy78t8.px-client.net
@@ -23320,6 +23425,7 @@
 *.path.qidian.com
 *.qdp.qidian.com
 *.uedas.qidian.com
+*.gbnwe.qifjksdqwd.xyz
 *.js.passport.qihucdn.com
 *.qingfengxq.com
 *.qinghua.cc
@@ -23471,6 +23577,7 @@
 *.wxsnsad.tc.qq.com
 *.hpjy-report.tga.qq.com
 *.trace-report.tgp.qq.com
+*.vn-aovtv-report.timi-esports.qq.com
 *.toggle.qq.com
 *.trace.qq.com
 *.xmaterial.tu.qq.com
@@ -23551,13 +23658,12 @@
 *.zn0e7bzdkqc0myrcm-imperfectfoods.siteintercept.qualtrics.com
 *.zn0ec68sa2lrtjvj3-bluekc.siteintercept.qualtrics.com
 *.zn0emblpr2pdrmz9j-sapinsights.siteintercept.qualtrics.com
-*.zn0f9kcwf61byxw8d-modahealth.siteintercept.qualtrics.com
 *.zn0fcgtfbn7tv7jqw-redventures.siteintercept.qualtrics.com
 *.zn0feyon15oqdwcu1-compass.siteintercept.qualtrics.com
 *.zn0fzbjuhlistjwrz-nihodoercomm.siteintercept.qualtrics.com
+*.zn0gkpz4fslksg4dv-sony.siteintercept.qualtrics.com
 *.zn0gnl3th3zkiyzsb-aadigital.siteintercept.qualtrics.com
 *.zn0gsrcbql2stgk3a-vistaprint.siteintercept.qualtrics.com
-*.zn0gty0909kdborkl-primerica.siteintercept.qualtrics.com
 *.zn0gukjd7tjtqjzrh-dtts.siteintercept.qualtrics.com
 *.zn0gwzvoaupqcgtr8-oldnational.siteintercept.qualtrics.com
 *.zn0hbsazgwqae33bs-excellus.siteintercept.qualtrics.com
@@ -23596,7 +23702,6 @@
 *.zn0oyf73utgoqzb1x-geico.siteintercept.qualtrics.com
 *.zn0oyh8mqq82zt2ws-seek.siteintercept.qualtrics.com
 *.zn0p5s4xbb4elilpm-ttcucreditunion.siteintercept.qualtrics.com
-*.zn0p6hpkek9hjnpv4-lloydsbankinggroup.siteintercept.qualtrics.com
 *.zn0pbjqrfuiah3sm1-jjkeller.siteintercept.qualtrics.com
 *.zn0pptmov7gazlq3x-dukeenergyft.siteintercept.qualtrics.com
 *.zn0pq1ns1ykkocdds-equifax.siteintercept.qualtrics.com
@@ -23615,7 +23720,6 @@
 *.zn0v50nxg7sbu68us-kingspan.siteintercept.qualtrics.com
 *.zn0vd4bhfejymnxzk-financiatimescx.siteintercept.qualtrics.com
 *.zn0vn25p6npvc29mt-mavenlink.siteintercept.qualtrics.com
-*.zn0vsjgpwvw5ewlqc-consumerinfo.siteintercept.qualtrics.com
 *.zn0vvxp9zq7k19hhf-suncoast.siteintercept.qualtrics.com
 *.zn0vwhsjuibdmiadf-expediainc.siteintercept.qualtrics.com
 *.zn0vxykjxsxo4lipw-healthline.siteintercept.qualtrics.com
@@ -23626,6 +23730,7 @@
 *.zn0xleir6swszany9-canadapostdigital.siteintercept.qualtrics.com
 *.zn0xmnygpneiallxn-hsbcdigital.siteintercept.qualtrics.com
 *.zn0xmxq4camg7mvzh-qxm.siteintercept.qualtrics.com
+*.zn0xpenuws5rca8aw-wellstar.siteintercept.qualtrics.com
 *.zn0xpzmyuva9exty9-dmschools.siteintercept.qualtrics.com
 *.zn1am4bw3vg0kpsew-siteone.siteintercept.qualtrics.com
 *.zn1ayrtmr6ju2jr0p-bradycocx.siteintercept.qualtrics.com
@@ -23642,6 +23747,7 @@
 *.zn1hx8t0qdhvd5tp3-nhsdigital.siteintercept.qualtrics.com
 *.zn1i9flyp5oesg2jz-nylinforceservice.siteintercept.qualtrics.com
 *.zn1lynuluttpyvtpv-aicpa.siteintercept.qualtrics.com
+*.zn1mhjrnkcolo677n-libertymutual.siteintercept.qualtrics.com
 *.zn1n6ir6tvogqfobj-proquest.siteintercept.qualtrics.com
 *.zn1ntbjl0tieswlju-1800flowers.siteintercept.qualtrics.com
 *.zn1okxvh5mvvnsd3u-analogdevicescx.siteintercept.qualtrics.com
@@ -23674,7 +23780,6 @@
 *.zn1zw3m3dlvzezje2-nineresearch.siteintercept.qualtrics.com
 *.zn1zygp5fiqwqhkte-glic.siteintercept.qualtrics.com
 *.zn200wkifsswgwkws-dukeenergyft.siteintercept.qualtrics.com
-*.zn20tenrqrrivan42-floridabluelistens.siteintercept.qualtrics.com
 *.zn20uuf1anjcqsbqu-healthallianceplan.siteintercept.qualtrics.com
 *.zn23mecwvtuhqn9gz-careerbuilder.siteintercept.qualtrics.com
 *.zn23t9amtoapybpji-chopdigital.siteintercept.qualtrics.com
@@ -23701,7 +23806,6 @@
 *.zn2lclvyzbtciqkic-nbacx.siteintercept.qualtrics.com
 *.zn2lqzjzelu2sdykl-firstcitizensbank.siteintercept.qualtrics.com
 *.zn2ltqxlbiolqextl-stepstone.siteintercept.qualtrics.com
-*.zn2mc7sbmn5kcgg7h-hondaeurope.siteintercept.qualtrics.com
 *.zn2mdf9swsmopozop-heritageauctions.siteintercept.qualtrics.com
 *.zn2me3ebrjhedy3vc-ims.siteintercept.qualtrics.com
 *.zn2mf8aculsihnrgc-fandango.siteintercept.qualtrics.com
@@ -23719,12 +23823,10 @@
 *.zn2rtgq6h2yqvzry1-lloydsbankinggroup.siteintercept.qualtrics.com
 *.zn2skdlwiokog4zp3-teconnectivity.siteintercept.qualtrics.com
 *.zn2smebvj9ehsyygp-15five.siteintercept.qualtrics.com
-*.zn2snsqgndethhc9m-workramp.siteintercept.qualtrics.com
 *.zn2t0w4zvevry6nwx-asurion.siteintercept.qualtrics.com
 *.zn2tbnxzsysy6zef7-regions.siteintercept.qualtrics.com
 *.zn2tcehoxwhq6zgax-bose.siteintercept.qualtrics.com
 *.zn2uc4p98akzsthsg-pokemonintl.siteintercept.qualtrics.com
-*.zn2udqakimcdqjgmx-tribune.siteintercept.qualtrics.com
 *.zn2uilpu4w61qnjia-onegs.siteintercept.qualtrics.com
 *.zn2uvagn14jl3nrg5-greatwestfinancial.siteintercept.qualtrics.com
 *.zn2uzuerthy996h0o-zebratechnologies.siteintercept.qualtrics.com
@@ -23748,9 +23850,9 @@
 *.zn3e15tv56scsjlce-healthline.siteintercept.qualtrics.com
 *.zn3edajdvgwonv9nr-tmobilecx.siteintercept.qualtrics.com
 *.zn3eixrlr3hisbpmq-servicenowcx.siteintercept.qualtrics.com
+*.zn3enbiwjzejgzfxq-deliveryhub.siteintercept.qualtrics.com
 *.zn3enozuz6nnn9nkf-tribune.siteintercept.qualtrics.com
 *.zn3eoctuu82gi4qup-lloydsbankinggroup.siteintercept.qualtrics.com
-*.zn3eolxssvjejxxke-mcafeeenterprise.siteintercept.qualtrics.com
 *.zn3etdzvv330bnajr-expressscriptscx.siteintercept.qualtrics.com
 *.zn3f0cuzq5h96deey-fifththirdbank.siteintercept.qualtrics.com
 *.zn3f8e6tceotw1rnn-aholddelhaize.siteintercept.qualtrics.com
@@ -23760,13 +23862,12 @@
 *.zn3gbcaiuig8q8whh-plantronicscx.siteintercept.qualtrics.com
 *.zn3gccbbkzbefhqgi-redventures.siteintercept.qualtrics.com
 *.zn3ibgexs2ujmdvla-newfolddigital.siteintercept.qualtrics.com
-*.zn3itxoisu1z0urce-nikeemployeevoice.siteintercept.qualtrics.com
+*.zn3ibrpkldazquxaq-consumerinfo.siteintercept.qualtrics.com
 *.zn3jd2mikqv62n0ax-haven.siteintercept.qualtrics.com
 *.zn3jhcvho31gchlyg-upscx.siteintercept.qualtrics.com
 *.zn3jlighnzhjtq7xg-ehi.siteintercept.qualtrics.com
 *.zn3jtefmaqkyy2nas-noredink.siteintercept.qualtrics.com
 *.zn3jw5flovgiippnd-lloydsbankinggroup.siteintercept.qualtrics.com
-*.zn3jzs0cp1zh0sf0o-americanhonda.siteintercept.qualtrics.com
 *.zn3k0ex8w7a2bzrkm-dishvoc.siteintercept.qualtrics.com
 *.zn3kfu9wzxvlvc1g2-goaaa.siteintercept.qualtrics.com
 *.zn3khnzhfta2pj47i-flmotorservices.siteintercept.qualtrics.com
@@ -23815,7 +23916,6 @@
 *.zn3sb0gdk8bl0bl54-spire.siteintercept.qualtrics.com
 *.zn3shhevgopspvnix-legalandgeneral.siteintercept.qualtrics.com
 *.zn3t1mux42sbvurzk-criver.siteintercept.qualtrics.com
-*.zn3t3xkv5cb1btlqc-mbtc.siteintercept.qualtrics.com
 *.zn3tphmkchhzaq8tv-carfax.siteintercept.qualtrics.com
 *.zn3ts5izhgdp6ryfxcoxautomotive.siteintercept.qualtrics.com
 *.zn3udd53mf4hhsvcj-caresource.siteintercept.qualtrics.com
@@ -23830,7 +23930,6 @@
 *.zn3vyi2t0sf6tvuim-pixiv.siteintercept.qualtrics.com
 *.zn3vzkagx7kztva6i-americanhonda.siteintercept.qualtrics.com
 *.zn3w2wpxtgawjuoht-ebayclassifieds.siteintercept.qualtrics.com
-*.zn3w8vz2f4dqalkek-ltk.siteintercept.qualtrics.com
 *.zn3wp1pgsknam4tuj-coxauto.siteintercept.qualtrics.com
 *.zn3wrgccuzssdiihx-uhg1.siteintercept.qualtrics.com
 *.zn3wuecdqd6sxvlyu-marriottvacationclub.siteintercept.qualtrics.com
@@ -23881,7 +23980,6 @@
 *.zn4sfv6mapgpbajg9-sapinsights.siteintercept.qualtrics.com
 *.zn4sgljnbr1dn7vnn-coxauto.siteintercept.qualtrics.com
 *.zn4sjgms8pc0ssxdx-cbs.siteintercept.qualtrics.com
-*.zn4sm9aureoz8omfc-ciscocx.siteintercept.qualtrics.com
 *.zn4soacf9m1xy4085-aaanational.siteintercept.qualtrics.com
 *.zn4tm9bphfrb1qac5-towerswatson.siteintercept.qualtrics.com
 *.zn4ttjiysmvecs38f-bmocx.siteintercept.qualtrics.com
@@ -23890,7 +23988,6 @@
 *.zn4uskorj60zpdttt-rakuten.siteintercept.qualtrics.com
 *.zn4uszwwmrehd1hgr-iconhealth.siteintercept.qualtrics.com
 *.zn4uvckekpomseb42-obe.siteintercept.qualtrics.com
-*.zn4vduci3sa7jnulo-harting.siteintercept.qualtrics.com
 *.zn4vjcdkia9mycwvk-vistaprint.siteintercept.qualtrics.com
 *.zn4ygigdt9rdmiaps-jeldwen.siteintercept.qualtrics.com
 *.zn4yjrjsz5bkhbzpu-ehi.siteintercept.qualtrics.com
@@ -23924,7 +24021,6 @@
 *.zn5avhxvj4yirtdlw-nationwideresearch.siteintercept.qualtrics.com
 *.zn5bbkkbe2r7zfhlf-financiatimescx.siteintercept.qualtrics.com
 *.zn5bemcjxq0measaa-softct.siteintercept.qualtrics.com
-*.zn5bemmjqnlmkdrpl-wiley.siteintercept.qualtrics.com
 *.zn5bgphfvhkgrzd9z-constantcontact.siteintercept.qualtrics.com
 *.zn5bvpdtma7urhqyn-qdigitalsupport.siteintercept.qualtrics.com
 *.zn5bxs0kfcxmozrm9-ebg.siteintercept.qualtrics.com
@@ -23932,7 +24028,6 @@
 *.zn5cfoezj2kv4n9ub-generalmotors.siteintercept.qualtrics.com
 *.zn5dbnwpyrnclvxi2-bswhsi.siteintercept.qualtrics.com
 *.zn5doastgyjlj07us-americanhomeshield.siteintercept.qualtrics.com
-*.zn5dq2rrhu8yzjqmc-mielecx.siteintercept.qualtrics.com
 *.zn5gmaasmoqnwjsjc-ameriprise.siteintercept.qualtrics.com
 *.zn5hbat6gtsdy7ceo-condor.siteintercept.qualtrics.com
 *.zn5hdt9ykymynxbgj-ebayclassifieds.siteintercept.qualtrics.com
@@ -23946,7 +24041,6 @@
 *.zn5mol9clqkfklcw1-zoetis.siteintercept.qualtrics.com
 *.zn5mvwfi1g8ili9hu-asmlcx.siteintercept.qualtrics.com
 *.zn5nc1mqoq29oh1fi-vsp.siteintercept.qualtrics.com
-*.zn5o7t0cdo93pinrh-cargillfeedback.siteintercept.qualtrics.com
 *.zn5ojumm06lktnx4q-olo.siteintercept.qualtrics.com
 *.zn5olgkd5yakidb2l-pattersondental.siteintercept.qualtrics.com
 *.zn5olq56o1hhjgceq-indeedsurvey.siteintercept.qualtrics.com
@@ -24036,12 +24130,12 @@
 *.zn6tcottmmdunxtbd-aeo.siteintercept.qualtrics.com
 *.zn6tzmbn0volz4mgi-froedtert.siteintercept.qualtrics.com
 *.zn6tzxvq5zxfnlagq-newsy.siteintercept.qualtrics.com
-*.zn6vh36ostfhaudh3-weightwatcherscx.siteintercept.qualtrics.com
 *.zn6vwcgpsc5cbcd4v-emersonelectric.siteintercept.qualtrics.com
 *.zn6vxkyqywaf9f1t7-usbank.siteintercept.qualtrics.com
 *.zn6w4syxcjbbkvkmv-mgmresortssurveys.siteintercept.qualtrics.com
 *.zn6whdnfzzbxcq0tf-synchronysurvey.siteintercept.qualtrics.com
 *.zn6wnpqo360vid1wz-jnjcx.siteintercept.qualtrics.com
+*.zn6wocssouj0y6oyt-pmimsa.siteintercept.qualtrics.com
 *.zn6xaky6jngsyrozg-nbi1.siteintercept.qualtrics.com
 *.zn6xcdveksdx5g9rn-countryfinancial.siteintercept.qualtrics.com
 *.zn6xdztfrqafbgppf-wiley.siteintercept.qualtrics.com
@@ -24060,12 +24154,14 @@
 *.zn725dkxtvxq847sl-qxm.siteintercept.qualtrics.com
 *.zn73axurlao42xuyx-blackrockdigital.siteintercept.qualtrics.com
 *.zn73tsagi0ilt5f3e-linkedinresearch.siteintercept.qualtrics.com
+*.zn73ux8ov4pvlpkso-bancoguayaquil.siteintercept.qualtrics.com
 *.zn74atixxmf2ssnqa-dcccedu.siteintercept.qualtrics.com
 *.zn74cvbyxcewl8l2z-transunioncxusa.siteintercept.qualtrics.com
 *.zn77lrcyrhqdnuuih-qps.siteintercept.qualtrics.com
 *.zn77ycxjaq1e0122v-cbs.siteintercept.qualtrics.com
 *.zn780vxspp4zyl7dr-citcx.siteintercept.qualtrics.com
 *.zn78lrdnt2il4mjwr-thirtyonegifts.siteintercept.qualtrics.com
+*.zn78njubwkodhg8ht-bankofamerica.siteintercept.qualtrics.com
 *.zn799b2ogkfhqcf6l-nylinforceservice.siteintercept.qualtrics.com
 *.zn79gqqpdlnt7afvf-sweat.siteintercept.qualtrics.com
 *.zn79gybbreacr0v3n-athene.siteintercept.qualtrics.com
@@ -24086,18 +24182,19 @@
 *.zn7pvvogbfmgnzg4b-kumandgo.siteintercept.qualtrics.com
 *.zn7qbckgahly8dnd8-buildertrend.siteintercept.qualtrics.com
 *.zn7qchny5hadksvmv-expressscriptscx.siteintercept.qualtrics.com
-*.zn7qfj9qxttalnwyc-cerner.siteintercept.qualtrics.com
 *.zn7qlc5rmy5fqiijw-redventures.siteintercept.qualtrics.com
 *.zn7qw02fztzjl8lyu-inc.siteintercept.qualtrics.com
-*.zn7timijqqoujdmcd-otc.siteintercept.qualtrics.com
 *.zn7uu5oduhvrn1s3s-enova.siteintercept.qualtrics.com
 *.zn7v6adzug8hc6bji-assaabloyab.siteintercept.qualtrics.com
 *.zn7v9civpfnxnvtwz-caleres.siteintercept.qualtrics.com
 *.zn7vbhecbgyszzeei-mercadolibre.siteintercept.qualtrics.com
 *.zn7vylpwr2mkdfmtx-deltadentalnj.siteintercept.qualtrics.com
+*.zn7whmh3uiscl3is2-lloydsbankinggroup.siteintercept.qualtrics.com
 *.zn7whwrcrmbs9xwyd-nlmenterprise.siteintercept.qualtrics.com
 *.zn7wid4j2pvvudrpe-sabre.siteintercept.qualtrics.com
+*.zn7wjxa5brlo6jo3h-delawarenorth.siteintercept.qualtrics.com
 *.zn7wpimtllrvuw68d-ebsco.siteintercept.qualtrics.com
+*.zn7zmqrcamzpdieb4-nycgo.siteintercept.qualtrics.com
 *.zn7zycgrxkcbi2nx8-move.siteintercept.qualtrics.com
 *.zn809ptkaut9mcknc-infarmbureau.siteintercept.qualtrics.com
 *.zn80jaa6vfg97oqfk-flmotorservices.siteintercept.qualtrics.com
@@ -24119,7 +24216,6 @@
 *.zn88nudxurnvlubez-fhlbdm.siteintercept.qualtrics.com
 *.zn898cfynjtg3sswe-applecare.siteintercept.qualtrics.com
 *.zn8af2sa47srliowv-aspendental.siteintercept.qualtrics.com
-*.zn8ahgmz4rn0qfojb-ziplyfiber.siteintercept.qualtrics.com
 *.zn8apsnlmpanpufvi-americanhonda.siteintercept.qualtrics.com
 *.zn8bkspgedopf4i1g-newsy.siteintercept.qualtrics.com
 *.zn8c3rv20b382cnby-plume.siteintercept.qualtrics.com
@@ -24146,7 +24242,6 @@
 *.zn8iwmhdng8mwvoup-voyafinancial.siteintercept.qualtrics.com
 *.zn8izvz0pscb1qp5y-adobe.siteintercept.qualtrics.com
 *.zn8jfufzbrnnzqbri-polkvoc.siteintercept.qualtrics.com
-*.zn8jhuffxsz5juxpp-extraspacecx.siteintercept.qualtrics.com
 *.zn8jk90zb7ojehomb-qps.siteintercept.qualtrics.com
 *.zn8jl2ln91ueqjqli-hach.siteintercept.qualtrics.com
 *.zn8kb1jclxeiqsvn8-equifax.siteintercept.qualtrics.com
@@ -24191,7 +24286,6 @@
 *.zn9enqgwlulcwnbsw-truistcx.siteintercept.qualtrics.com
 *.zn9enxi1bpiyb4qhj-nuskin.siteintercept.qualtrics.com
 *.zn9evzyx4h5qvwdee-questdiagnostics.siteintercept.qualtrics.com
-*.zn9fsuuqwqiulrpww-netapp.siteintercept.qualtrics.com
 *.zn9g24vkq6tkbd81m-bnadigital.siteintercept.qualtrics.com
 *.zn9gnmr4g3ce3ts9l-fandango.siteintercept.qualtrics.com
 *.zn9kaim9wtwszirga-davidsbridal.siteintercept.qualtrics.com
@@ -24210,6 +24304,7 @@
 *.zn9nsigbnk054lp8n-frk.siteintercept.qualtrics.com
 *.zn9nudlqgzzlmbbdb-upmchp.siteintercept.qualtrics.com
 *.zn9nxfmd5iboqorgm-trdigital.siteintercept.qualtrics.com
+*.zn9nzbxskm5nk6uuk-sae.siteintercept.qualtrics.com
 *.zn9ogeu2akhc6qjuw-hiltonreservations.siteintercept.qualtrics.com
 *.zn9otk8vh3zaftcy6-collectivehealth.siteintercept.qualtrics.com
 *.zn9otw96prydaxdvf-hpetraining.siteintercept.qualtrics.com
@@ -24224,19 +24319,15 @@
 *.zn9qtjklceg15veaz-uhcdr.siteintercept.qualtrics.com
 *.zn9qvbtnjsxcm2hwz-expediainc.siteintercept.qualtrics.com
 *.zn9rcvt7xh3iyd3sa-citifeedback.siteintercept.qualtrics.com
-*.zn9rjhkfzzfcuitqd-bgrs.siteintercept.qualtrics.com
 *.zn9rktsyukkhrcrgt-mouser.siteintercept.qualtrics.com
 *.zn9seszngrkhr2hz0-vidalfr.siteintercept.qualtrics.com
 *.zn9sopigpuvlklemo-trinet.siteintercept.qualtrics.com
-*.zn9sx7gunbqhzlrss-creditsuissedigital.siteintercept.qualtrics.com
 *.zn9t617pnapnhscn4-edmentum.siteintercept.qualtrics.com
 *.zn9tagyxdbhcnxaq1-synchronysurvey.siteintercept.qualtrics.com
 *.zn9tasdijn4oxsdnr-capitalbluecross.siteintercept.qualtrics.com
 *.zn9tmjux8yxvbc7eb-nsandihowdidwedo.siteintercept.qualtrics.com
 *.zn9tr9kfuwtczrdys-unum.siteintercept.qualtrics.com
-*.zn9ttzzqsp5ifojah-stepstone.siteintercept.qualtrics.com
 *.zn9tyi5rhfobw9b8g-aspendental.siteintercept.qualtrics.com
-*.zn9ufzluqllsdj0an-hsbcdigital.siteintercept.qualtrics.com
 *.zn9vfkwwyruvt6oo1-tmobilecx.siteintercept.qualtrics.com
 *.zn9vlcpyfvcdmupxc-adweekdigital.siteintercept.qualtrics.com
 *.zn9vlyi6yxjv40rkv-asurion.siteintercept.qualtrics.com
@@ -24252,6 +24343,7 @@
 *.zn9yjx7o439m60tu5-paddypower.siteintercept.qualtrics.com
 *.zn9yksa8ulc01r8tb-netaporter.siteintercept.qualtrics.com
 *.zn9ykzvxooaxghil3-rei.siteintercept.qualtrics.com
+*.zn9yrdfsoqbu7qd2d-creditacceptance.siteintercept.qualtrics.com
 *.zn9yzccm1gaf8emnk-ehi.siteintercept.qualtrics.com
 *.zn9zbviqv7oprngks-wesco.siteintercept.qualtrics.com
 *.zn9zffjzr8bfeznvr-intuittsheets.siteintercept.qualtrics.com
@@ -24295,7 +24387,9 @@
 *.znavrrbuaasua7fbz-trulia.siteintercept.qualtrics.com
 *.znaw9zsytgvyddb6l-ehi.siteintercept.qualtrics.com
 *.znawqoh5e46wdazt0-nineresearch.siteintercept.qualtrics.com
+*.znawsz4awtdayj62p-frk.siteintercept.qualtrics.com
 *.znaxcwihwnv6p36yf-edwardjonesdigital.siteintercept.qualtrics.com
+*.znaxfwg2lzsqxdf2m-olgcx.siteintercept.qualtrics.com
 *.znaxmkmjumgc4mxsr-pultegroup.siteintercept.qualtrics.com
 *.znaxzr1mw52ca9mvz-meritorinc.siteintercept.qualtrics.com
 *.znaxzy6tfqhjlqw5v-deluxecorp.siteintercept.qualtrics.com
@@ -24305,7 +24399,6 @@
 *.znb1kk7gqjjqmejis-ehi.siteintercept.qualtrics.com
 *.znb1tncl44sygtvww-uhg1.siteintercept.qualtrics.com
 *.znb2b6wn008pbgkwn-autodeskfeedback.siteintercept.qualtrics.com
-*.znb2bvtu3dljtu1uj-bose.siteintercept.qualtrics.com
 *.znb2eqfcapbzrt5yd-mscdirect.siteintercept.qualtrics.com
 *.znb2shoj0co8iaxqn-cbs.siteintercept.qualtrics.com
 *.znb2zbwde2msvokqu-pimco.siteintercept.qualtrics.com
@@ -24343,7 +24436,6 @@
 *.znbfkexqbr8elolwk-redventures.siteintercept.qualtrics.com
 *.znbfrpy3eqewfugoz-siriusxm.siteintercept.qualtrics.com
 *.znbgspwl9prdhwcgn-jackson.siteintercept.qualtrics.com
-*.znbhhjmjr8p3hpvek-rackspacecx.siteintercept.qualtrics.com
 *.znbi8bnoy4ptdg4ps-autozone.siteintercept.qualtrics.com
 *.znbjdxvxkbzemgoxq-abboptical.siteintercept.qualtrics.com
 *.znbjgfoo5d4kdksnq-setoyota.siteintercept.qualtrics.com
@@ -24358,11 +24450,9 @@
 *.znbl8rufo7atiirtn-unitysoftware.siteintercept.qualtrics.com
 *.znblos9tjthpq0dqj-quicken.siteintercept.qualtrics.com
 *.znbltexmqcqo1do1g-deliveryhub.siteintercept.qualtrics.com
-*.znblxg1msi462olds-ninjatrader.siteintercept.qualtrics.com
 *.znbmda84ti8npbglj-armstrong.siteintercept.qualtrics.com
 *.znbmi8kjcqy2q8r7v-danfoss.siteintercept.qualtrics.com
 *.znbnheamgai9vy9o5-nihodoercomm.siteintercept.qualtrics.com
-*.znbnkbbppiv2wa81e-nineresearch.siteintercept.qualtrics.com
 *.znbnnujuydj7on7eh-aga.siteintercept.qualtrics.com
 *.znbo58uvbwdxyen1r-hdsupply.siteintercept.qualtrics.com
 *.znboeraj5ckzy50mq-redventures.siteintercept.qualtrics.com
@@ -24377,9 +24467,9 @@
 *.znbpx7zziilzextjx-teamknowhow.siteintercept.qualtrics.com
 *.znbpzg8vfyvvbekxw-utconcierge.siteintercept.qualtrics.com
 *.znbpzynrxq8e5aawl-electrolux.siteintercept.qualtrics.com
+*.znbq3tafx5oikzebv-randstadexperience.siteintercept.qualtrics.com
 *.znbq9kn8xjplehoqm-lloydsbankinggroup.siteintercept.qualtrics.com
 *.znbqhwdd5z3m7lqia-pminstitute.siteintercept.qualtrics.com
-*.znbqi2udyr6jamxmh-rackspacecx.siteintercept.qualtrics.com
 *.znbqrarkqas3whbpi-outdoorsy.siteintercept.qualtrics.com
 *.znbr5amnlemoxdurh-redbubble.siteintercept.qualtrics.com
 *.znbr5c4ygaajajfmz-travelers.siteintercept.qualtrics.com
@@ -24402,7 +24492,6 @@
 *.znbyo84uwvimindqz-aexpfeedback.siteintercept.qualtrics.com
 *.znca5uksadxzw1dkb-nestlewaterscx.siteintercept.qualtrics.com
 *.zncap6q6tarclsbyl-acuitybrands.siteintercept.qualtrics.com
-*.zncbc5yybo3ggxzdl-tmobilecx.siteintercept.qualtrics.com
 *.zncbm0arm1bbhdtlu-idealo.siteintercept.qualtrics.com
 *.zncc3qogefxnevd9k-gates.siteintercept.qualtrics.com
 *.zncciynxcbu3citkx-raymourflanigan.siteintercept.qualtrics.com
@@ -24432,13 +24521,10 @@
 *.znctf0lnwzv1idzq9-umn.siteintercept.qualtrics.com
 *.zncthivth1wia6lwf-bcbsaz.siteintercept.qualtrics.com
 *.znctkwklcssrc3j7d-southerncompany.siteintercept.qualtrics.com
-*.znctoxwdw6mwffwxf-educationinsight.siteintercept.qualtrics.com
 *.znctrsbrlzhqwi9af-uniteddigital.siteintercept.qualtrics.com
 *.znctstcedc1rc1tnw-arvest.siteintercept.qualtrics.com
 *.zncu3xs5w1cxemhf4-starbuckspartner.siteintercept.qualtrics.com
 *.zncumssusuiwujvta-ncoa.siteintercept.qualtrics.com
-*.zncupwinaakwknzjn-cengage.siteintercept.qualtrics.com
-*.zncuqbupzv4drk8xm-manutd.siteintercept.qualtrics.com
 *.zncurxqdbndpzjacy-psp.siteintercept.qualtrics.com
 *.zncusgjcf7grapzvd-geico.siteintercept.qualtrics.com
 *.zncuuzdujdpz5mpjj-uvudx.siteintercept.qualtrics.com
@@ -24471,7 +24557,6 @@
 *.znd0y3ntzchbfavjd-ihg.siteintercept.qualtrics.com
 *.znd0zbgibmqse8t09-uhg1.siteintercept.qualtrics.com
 *.znd3xk9gckh8pvqdu-trinityhealth.siteintercept.qualtrics.com
-*.znd4elkrbyvu1ndmz-travelers.siteintercept.qualtrics.com
 *.znd4iaa5ygd7nexul-yoox.siteintercept.qualtrics.com
 *.znd5933b2tkeggfiq-akqatangeroutlets.siteintercept.qualtrics.com
 *.znd5msnrsz4ohs98h-prosourcewholesale.siteintercept.qualtrics.com
@@ -24496,6 +24581,7 @@
 *.znddmlvlhkk1abacs-tropicalsmoothiecafe.siteintercept.qualtrics.com
 *.zndg8l5yvncyciopk-docusign.siteintercept.qualtrics.com
 *.zndgawyevlwczcyah-uber.siteintercept.qualtrics.com
+*.zndgifwjx13l0tqgf-rogers.siteintercept.qualtrics.com
 *.zndgkxxo5pvegll3f-caleres.siteintercept.qualtrics.com
 *.zndh8xcg975xfjkpl-amerisbank.siteintercept.qualtrics.com
 *.zndht60lr86rx6rmb-tribune.siteintercept.qualtrics.com
@@ -24516,14 +24602,13 @@
 *.zndny5kzzodhwywuh-flyscoot.siteintercept.qualtrics.com
 *.zndohht6xbshxrzdf-digikey.siteintercept.qualtrics.com
 *.zndorg75jpwvy7bax-creditacceptance.siteintercept.qualtrics.com
+*.zndp49emrfbxppviz-gracoincandsubs.siteintercept.qualtrics.com
 *.zndpcsg5fk6srdwk2-buildertrend.siteintercept.qualtrics.com
 *.zndpq7uw2elr2st9z-forbesbi.siteintercept.qualtrics.com
 *.zndpxjszmzwajbpxh-healthequity.siteintercept.qualtrics.com
-*.zndpzhr48cpi7bkes-upscx.siteintercept.qualtrics.com
 *.zne2rcdpmgjkq46tb-texashealth.siteintercept.qualtrics.com
 *.zne3tjpi8x62vsqdm-safeliteux.siteintercept.qualtrics.com
 *.zne3xgwtn7cwomkhv-uhg1.siteintercept.qualtrics.com
-*.zne4bwyxdrlbg4ucf-intuit.siteintercept.qualtrics.com
 *.zne4kxnq5cjudt5ev-salliemae.siteintercept.qualtrics.com
 *.zne4nduvt5a8tv0db-1800flowers.siteintercept.qualtrics.com
 *.zne4woh3g7wkgnmd0-seaworldcx.siteintercept.qualtrics.com
@@ -24603,10 +24688,8 @@
 *.znepub6zbdhqtf4dy-fourseasons.siteintercept.qualtrics.com
 *.znepykmqesqoz38lx-uhg1.siteintercept.qualtrics.com
 *.zneq0eic3xaurqgmh-consumerinfo.siteintercept.qualtrics.com
-*.zneqcznljgovmaozb-nylinforceservice.siteintercept.qualtrics.com
 *.zneqdeawqobqwpqg5-hgvcustopt.siteintercept.qualtrics.com
 *.zneqklromab9e1yfz-carefirst.siteintercept.qualtrics.com
-*.zneqwwxa5cmiwx3tl-appdynamicsux.siteintercept.qualtrics.com
 *.zneqxf5ljmxbvnp0x-mhehighered.siteintercept.qualtrics.com
 *.zneqz6w0pxsftigi6-obe.siteintercept.qualtrics.com
 *.zner7mgseuyurx4rk-wesco.siteintercept.qualtrics.com
@@ -24614,7 +24697,6 @@
 *.znergehtkuacyk0wa-goodrx.siteintercept.qualtrics.com
 *.znergtvm9anjohfd0-truistcx.siteintercept.qualtrics.com
 *.znerhz5yvtpdvigf7-sapinsights.siteintercept.qualtrics.com
-*.znersjdpc9lrf9olf-teamknowhow.siteintercept.qualtrics.com
 *.zneruufzqukvfipbu-leroymerlinglobal.siteintercept.qualtrics.com
 *.znes2krbn1csbzyyc-lightspeedhq.siteintercept.qualtrics.com
 *.znes8aqast1yokfkd-redventures.siteintercept.qualtrics.com
@@ -24622,6 +24704,7 @@
 *.znetevwa2wlb6en9p-coned.siteintercept.qualtrics.com
 *.znetl1usg2hbqc7op-usbank.siteintercept.qualtrics.com
 *.znev4gllshk8i7bwr-santanderpt.siteintercept.qualtrics.com
+*.znevcocyi03e6mks1-hsbcdigital.siteintercept.qualtrics.com
 *.znevcrkpzely9tahj-afklm.siteintercept.qualtrics.com
 *.znevt70vo9sffck33-nationalgrid.siteintercept.qualtrics.com
 *.znew2pz3yjx9poggn-intuitsocial.siteintercept.qualtrics.com
@@ -24718,6 +24801,7 @@
 *.qvkjkc.xyz
 *.iadctest.qwapi.com
 *.qwcqqw.xyz
+*.qwcwnjk.com
 *.qwerfdx.com
 *.qwerty24.net
 *.qwertypay.com
@@ -24753,6 +24837,7 @@
 *.raab3frog.com
 *.raac33.net
 *.rabbitrifle.com
+*.rabbits.webcam
 *.log.rabobank.nl
 *.saa.rachaelrayshow.com
 *.d7d3cf2e81d293050033-3dfc0615b0fd7b49143049256703bfce.ssl.cf1.rackcdn.com
@@ -24945,7 +25030,6 @@
 *.data.madridista-free.realmadrid.com
 *.iot-logser.realme.com
 *.realmedia.ro
-*.network.realmedia.com
 *.realmsham.com
 *.realnetworks.com
 *.realnews.life
@@ -25041,6 +25125,7 @@
 *.indmetric.rediff.com
 *.metric.rediff.com
 *.metricsishare.rediff.com
+*.moneymetric.rediff.com
 *.track.rediff.com
 *.usmetric.rediff.com
 *.redintelligence.net
@@ -25344,6 +25429,7 @@
 *.revupads.com
 *.reward4spot.com
 *.rewardexplore.com
+*.rewardgains.life
 *.rewardsadvisor.com
 *.rewardsavenue.net
 *.rewardsgiantusa.com
@@ -25735,6 +25821,7 @@
 *.rufususb.gives
 *.rufuswin.com
 *.fglrgt.ruggable.com
+*.ruhdisofk.xyz
 *.data-f59db3288b.ruhr24.de
 *.rulescvosher.com
 *.rulingcaviarreliance.com
@@ -25964,7 +26051,6 @@
 *.sape.ru
 *.sapino.net
 *.sapioanalytics.com
-*.pub.sapo.pt
 *.pubimgs.sapo.pt
 *.pub.web.sapo.io
 *.ux.sapoaix.com
@@ -25997,6 +26083,7 @@
 *.mobileconfig.sascdn.com
 *.sasisa.ru
 *.smetrics.sasktel.com
+*.saspreview.com
 *.satarabazar.com
 *.sathobby.com
 *.satisfycork.com
@@ -26118,6 +26205,7 @@
 *.scoreheadingbabysitting.com
 *.gallys.scoreland.com
 *.scoreloop.com
+*.scorereward.life
 *.sa.scorpion.co
 *.somniture.scotiabank.com
 *.scour.com
@@ -26428,6 +26516,7 @@
 *.sexflirtbook.com
 *.sexgangsters.com
 *.x.sexhd.pics
+*.sexhd69.com
 *.sexier.com
 *.sexlist.com
 *.sexplaycam.com
@@ -26492,8 +26581,13 @@
 *.shara.li
 *.api.share2w.com
 *.events.shareably.net
-*.shareaholic.com
+*.analytics.shareaholic.com
+*.apps.shareaholic.com
 *.cdn.shareaholic.net
+*.grace.shareaholic.com
+*.partner.shareaholic.com
+*.pixel.shareaholic.com
+*.recs.shareaholic.com
 *.smetrics.sharecare.com
 *.sharecash.org
 *.api.sharedcount.com
@@ -26719,6 +26813,7 @@
 *.simpleanalyticscdn.com
 *.simplebrutedigestive.com
 *.simplehitcounter.com
+*.simpleprize.life
 *.simplereach.com
 *.simplesharebuttons.com
 *.simplestar.com
@@ -27862,9 +27957,11 @@
 *.stuted.com
 *.data-1fbcf6d7f5.stuttgarter-nachrichten.de
 *.data-fb37a1e7c3.stuttgarter-nachrichten.de
+*.swmhdata.stuttgarter-nachrichten.de
 *.data-1fbcf6d7f5.stuttgarter-zeitung.de
 *.data-fb37a1e7c3.stuttgarter-zeitung.de
 *.sp-consent.stuttgarter-zeitung.de
+*.swmhdata.stuttgarter-zeitung.de
 *.sumologic.stv.tv
 *.stvkr.com
 *.style-buzz-blog.com
@@ -28278,6 +28375,7 @@
 *.taggyad.jp
 *.taghaugh.com
 *.tagon.co
+*.tagrpd.de
 *.tagsrvcs.com
 *.tagstaticx.com
 *.tagtic.cn
@@ -28294,6 +28392,7 @@
 *.takeallsoft.ru
 *.takeoffcamus.live
 *.takeoverrings.com
+*.taketheprizes.life
 *.takeyourpresent.life
 *.cashback.takhfifan.com
 *.takingbackjuly.com
@@ -28379,7 +28478,6 @@
 *.adashx4sg.ut.taobao.com
 *.adashxgc.ut.taobao.com
 *.h-adashx.ut.taobao.com
-*.h-adashx4ae.ut.taobao.com
 *.h-adashx4sg.ut.taobao.com
 *.h-adashx4yt.ut.taobao.com
 *.dailyupdate.wangwang.taobao.com
@@ -28471,6 +28569,7 @@
 *.appdeumext.tdameritrade.com
 *.sstats.tdameritrade.com
 *.i.tddmp.com
+*.tdgrop168.vip
 *.tracking.tdk.com
 *.tdmd.us
 *.tdugvspdnq.com
@@ -28707,6 +28806,7 @@
 *.track.thebase.in
 *.smetrics.thebay.com
 *.thebestlinks.com
+*.thebestprizes.life
 *.thebrightforks.com
 *.thebrighttag.com
 *.revive.thebusinessjournal.com
@@ -28776,6 +28876,7 @@
 *.adpai.thepaper.cn
 *.theperfectkitandcompany.com
 *.theprizecentral.website
+*.thepsusiwho.com
 *.thequalitydata.com
 *.thequin.ai
 *.therapypicnic.com
@@ -28819,6 +28920,7 @@
 *.smetrics.thewhitecompany.com
 *.metrics.theworlds50best.com
 *.thewowfeed.com
+*.theyardservice.com
 *.thickcash.com
 *.thighargu.com
 *.thinkaction.com
@@ -29227,6 +29329,7 @@
 *.touchclarity.com
 *.touchoshirase.net
 *.touchtacchi.net
+*.toupdate15.com
 *.tourburlington.com
 *.plus.tourispo.com
 *.analytics.tout.com
@@ -29556,6 +29659,7 @@
 *.trk-imps.com
 *.trk-maiorum.com
 *.trk42.net
+*.trkcliq.com
 *.eng.trkcnv.com
 *.trker.com
 *.trkjmp.com
@@ -29976,7 +30080,6 @@
 *.ukraineserverhosting.com
 *.ukrainian-wife.net
 *.ukrait.com
-*.ukrpts.net
 *.uksale.pl
 *.ukw.jp
 *.ulclick.ru
@@ -30847,6 +30950,7 @@
 *.vizury.com
 *.vizzit.se
 *.vjdciu.com
+*.h5.vjrniqwekq.com
 *.vjzlgtnaov.com
 *.prod.html5-ads.vk-apps.com
 *.stats.vk-portal.net
@@ -30904,6 +31008,7 @@
 *.fc.vodafone.de
 *.metrics.vodafone.hu
 *.scsmetrics.vodafone.it
+*.smetrics.vodafone.es
 *.smetrics.vodafone.gr
 *.smetrics.vodafone.qa
 *.swa.vodafone.pt
@@ -31099,7 +31204,6 @@
 *.web.care.wakemed.org
 *.omniture.wal-mart.com
 *.omniture-ssl.wal-mart.com
-*.waldenfarms.com
 *.smetrics.walgreens.com
 *.walkinggrandparents.com
 *.ec.walkme.com
@@ -31463,6 +31567,7 @@
 *.wf66l5ylwq.com
 *.wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me
 *.c1.wfinterface.com
+*.wfndponfd.com
 *.triggers.wfxtriggers.com
 *.wg-aff.com
 *.wgchrrammzv.com
@@ -31594,9 +31699,12 @@
 *.smetrics.wilson.com
 *.smetrics.wimbledon.com
 *.win-crack.com
+*.win-prize.life
 *.win-spy.com
 *.winbaicai.com
 *.winbestprizess.info
+*.winbigdrip.life
+*.wind88.shop
 *.winda10.com
 *.windadblocker.com
 *.windindelicateexclusive.com
@@ -31623,11 +31731,13 @@
 *.ygopvz.windsorstore.com
 *.windsplay.com
 *.secure.wine9bond.com
+*.winearth.life
 *.visitors.winecountrygiftbaskets.com
 *.wineshasi.cf
 *.winexpert.life
 *.tag.winister.app
 *.winload.de
+*.winmore.life
 *.winprizehere.life
 *.winsafe.xyz
 *.winserv.life
@@ -31639,6 +31749,7 @@
 *.wintouch.life
 *.tracker.winudf.com
 *.winworker.club
+*.winxlbonus.life
 *.winzerhof-kridlo.com
 *.wpt.wipe.de
 *.wwa.wipe.de
@@ -31852,6 +31963,7 @@
 *.wronti.com
 *.wrrzje.com
 *.wsds.cn
+*.wsend.co
 *.preitem.wshareit.com
 *.oms.wsj.com
 *.wsod.com
@@ -31991,6 +32103,7 @@
 *.gga.xhamster.com
 *.ynoymse4.xhamster.com
 *.collector.xhamster12.desi
+*.collector.xhamster15.desi
 *.collector.xhamster19.com
 *.collector.xhamster19.desi
 *.collector.xhamster2.com
@@ -32107,6 +32220,7 @@
 *.xn--screnshot-iib.net
 *.xn--screnshot-jib.net
 *.nope.xn--ygba1c.wtf
+*.xnfmbejucgoldi.com
 *.xnrcnz.xyz
 *.xnrdezutnd.com
 *.multi.xnxx.com
@@ -32130,6 +32244,7 @@
 *.xq5tf4nfccrb.info
 *.ax.xrea.com
 *.counter.xrea.com
+*.ct1.xrea.com
 *.xrewo.xyz
 *.xryjyfb.cn
 *.xsa2zq7q2l.ru
@@ -32297,6 +32412,7 @@
 *.yarlnk.com
 *.sw.yars10.net
 *.yasir252.com
+*.yavli.com
 *.ybandwhwscrcyf.com
 *.ybb-network.com
 *.ybbserver.com
@@ -32394,7 +32510,6 @@
 *.edgecast-vod.yimg.com
 *.us.js2.yimg.com
 *.l.yimg.com
-*.richmedia.yimg.com
 *.sec.yimg.com
 *.us.yimg.com
 *.analytics-chi-nfl.yinzcam.com
@@ -32695,6 +32810,7 @@
 *.zbtlgd.com
 *.wa.zcnewy.com
 *.zcoptry.com
+*.zcoup.com
 *.zcube.in
 *.t1.zcvh.net
 *.t2.zcvh.net
@@ -32953,16 +33069,3 @@
 *.s.zzcdn.me
 *.zzyl.mobi
 *.zzzperform.com
-*.macaw.is
-*.maxearningcryp.com
-*.czwcvfbc.page.link
-*.tpqcywcx.page.link
-*.fms88.shop
-*.oneparttimejob.com
-*.jne-express.my.id
-*.h5.vjrniqwekq.com
-*.bcm8.shop
-*.moneymm1688.shop
-*.ajdta.com
-*.wind88.shop
-*.tdgrop168.vip
