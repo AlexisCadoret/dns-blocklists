@@ -4,10 +4,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 03 Mar 2023 09:38 UTC
-! Version: 2023.0303.0938.52
+! Last modified: 04 Mar 2023 23:02 UTC
+! Version: 2023.0304.2302.39
 ! Syntax: AdBlock
-! Domains: 8091
+! Domains: 8092
 !
 ||00-torrnets.com^
 ||zer0day.000webhostapp.com^
@@ -4229,6 +4229,7 @@
 ||movie-hogs.info^
 ||movie-shack.com^
 ||movie-torrentz.com^
+||movie-web.app^
 ||movie123.club^
 ||movie360.me^
 ||movie4k.org^
