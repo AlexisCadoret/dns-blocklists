@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 04 Mar 2023 19:46 UTC
-# Version: 2023.0304.1946.22
+# Last modified: 04 Mar 2023 19:59 UTC
+# Version: 2023.0304.1959.44
 # Syntax: Hosts
-# Domains: 99998
+# Domains: 99881
 #
 0.0.0.0 003store.com
 0.0.0.0 www.003store.com
@@ -1275,8 +1275,6 @@
 0.0.0.0 206ads.com
 0.0.0.0 s.206ads.com
 0.0.0.0 www.206ads.com
-0.0.0.0 207.net
-0.0.0.0 www.207.net
 0.0.0.0 20dollars2surf.com
 0.0.0.0 www.20dollars2surf.com
 0.0.0.0 20gensoftwares.com
@@ -16167,7 +16165,6 @@
 0.0.0.0 notes-analytics-events.apple.com
 0.0.0.0 securemetrics.apple.com
 0.0.0.0 securemvt.apple.com
-0.0.0.0 stocks-analytics-events.apple.com
 0.0.0.0 supportmetrics.apple.com
 0.0.0.0 weather-analytics-events.apple.com
 0.0.0.0 books-analytics-events.news.apple-dns.net
@@ -16534,7 +16531,6 @@
 0.0.0.0 archbel.com
 0.0.0.0 www.archbel.com
 0.0.0.0 sstats.architecturaldigest.com
-0.0.0.0 analytics.archive.org
 0.0.0.0 archswimming.com
 0.0.0.0 intouch.arcsoft.com
 0.0.0.0 arcspire.io
@@ -19755,8 +19751,6 @@
 0.0.0.0 www.blueconic.com
 0.0.0.0 www.blueconic.net
 0.0.0.0 wyanokegroup.blueconic.net
-0.0.0.0 bluecore.com
-0.0.0.0 api.bluecore.com
 0.0.0.0 cdn.bluecore.com
 0.0.0.0 onsitestats.bluecore.com
 0.0.0.0 partner-assets.bluecore.com
@@ -19766,7 +19760,6 @@
 0.0.0.0 signatures.bluecore.com
 0.0.0.0 site.bluecore.com
 0.0.0.0 siteassets.bluecore.com
-0.0.0.0 www.bluecore.com
 0.0.0.0 somni.bluecrossma.com
 0.0.0.0 globalconfig.bluedot.io
 0.0.0.0 telemetry.bluedot.io
@@ -26491,7 +26484,6 @@
 0.0.0.0 pbs.at.cbsi.com
 0.0.0.0 pbs-cache.at.cbsi.com
 0.0.0.0 ads.play.cbsi.video
-0.0.0.0 saa.cbsi.com
 0.0.0.0 som.cbsi.com
 0.0.0.0 dns-clientinfo.cbsivideo.com
 0.0.0.0 doppler-beacons.cbsivideo.com
@@ -32448,7 +32440,6 @@
 0.0.0.0 cws-us-east.conviva.com
 0.0.0.0 cws-usw2.conviva.com
 0.0.0.0 vrl.m.conviva.com
-0.0.0.0 pings.conviva.com
 0.0.0.0 convrse.media
 0.0.0.0 widget-latest.api.convrse.media
 0.0.0.0 cdn.convrse.media
@@ -44665,15 +44656,12 @@
 0.0.0.0 ensban.com
 0.0.0.0 www.ensban.com
 0.0.0.0 enseelgrippy.com
-0.0.0.0 ensighten.com
 0.0.0.0 activate.ensighten.com
 0.0.0.0 fidelity.activate.ensighten.com
 0.0.0.0 united.activate.ensighten.com
-0.0.0.0 nexus.ensighten.com
 0.0.0.0 privacy.ensighten.com
 0.0.0.0 data.privacy.ensighten.com
 0.0.0.0 scarf.ensighten.com
-0.0.0.0 www.ensighten.com
 0.0.0.0 api-stg.ensonhaber.com
 0.0.0.0 tracking.ensonhaber.com
 0.0.0.0 ensueswill.com
@@ -44956,7 +44944,6 @@
 0.0.0.0 tr.mnoc.espmp-nifr.net
 0.0.0.0 log.espn.com
 0.0.0.0 sw88.espn.com
-0.0.0.0 w88.espn.com
 0.0.0.0 advx.esprimo.com
 0.0.0.0 abc.esprit.de
 0.0.0.0 dcs.esprit.be
@@ -48870,10 +48857,8 @@
 0.0.0.0 ncdn.gameads.io
 0.0.0.0 node.gameads.io
 0.0.0.0 www.gameads.io
-0.0.0.0 gameanalytics.com
 0.0.0.0 api.gameanalytics.com
 0.0.0.0 download.gameanalytics.com
-0.0.0.0 www.gameanalytics.com
 0.0.0.0 gameangel.com
 0.0.0.0 styleup.gameangel.com
 0.0.0.0 m.styleup.gameangel.com
@@ -49507,7 +49492,6 @@
 0.0.0.0 getmspy.net
 0.0.0.0 getnee.com
 0.0.0.0 to.getnitropack.com
-0.0.0.0 d.getpocket.com
 0.0.0.0 getpoliglu.com
 0.0.0.0 www.getpoliglu.com
 0.0.0.0 analytics.getpostman.com
@@ -54782,9 +54766,7 @@
 0.0.0.0 ssp.indexmob.com
 0.0.0.0 indextools.com
 0.0.0.0 www.indextools.com
-0.0.0.0 indexww.com
 0.0.0.0 cdn.indexww.com
-0.0.0.0 js-sec.indexww.com
 0.0.0.0 lb.indexww.com
 0.0.0.0 am-xn.lb.indexww.com
 0.0.0.0 appodeal-eu.lb.indexww.com
@@ -54826,7 +54808,6 @@
 0.0.0.0 va-xn.lb.indexww.com
 0.0.0.0 update.indexww.com
 0.0.0.0 s.update.indexww.com
-0.0.0.0 www.indexww.com
 0.0.0.0 indiakino.net
 0.0.0.0 www.indiakino.net
 0.0.0.0 ua.indianexpress.com
@@ -55724,7 +55705,6 @@
 0.0.0.0 pf.intuit.com
 0.0.0.0 zion.qbo.intuit.com
 0.0.0.0 sci.intuit.ca
-0.0.0.0 sci.intuit.com
 0.0.0.0 inuseme.com
 0.0.0.0 1496.inuseme.com
 0.0.0.0 www.inuseme.com
@@ -60954,7 +60934,6 @@
 0.0.0.0 www.manyou.com
 0.0.0.0 manzzatujuhtiga.com
 0.0.0.0 www.manzzatujuhtiga.com
-0.0.0.0 events.mapbox.com
 0.0.0.0 maper.info
 0.0.0.0 www.maper.info
 0.0.0.0 adx.maplehaze.cn
@@ -68408,65 +68387,8 @@
 0.0.0.0 cdn.omnivirt.com
 0.0.0.0 omoonsih.net
 0.0.0.0 www.omoonsih.net
-0.0.0.0 hb.omtrdc.net
-0.0.0.0 abc.hb.omtrdc.net
-0.0.0.0 abcnews.hb.omtrdc.net
-0.0.0.0 adobecorp.hb.omtrdc.net
-0.0.0.0 aem.hb.omtrdc.net
-0.0.0.0 aetv.hb.omtrdc.net
-0.0.0.0 att.hb.omtrdc.net
-0.0.0.0 bellmedia.hb.omtrdc.net
-0.0.0.0 bskyb.hb.omtrdc.net
-0.0.0.0 byubroadcasting.hb.omtrdc.net
-0.0.0.0 cartoonnetworknewmedia.hb.omtrdc.net
-0.0.0.0 cbcca.hb.omtrdc.net
-0.0.0.0 cbsdigitalmedia.hb.omtrdc.net
-0.0.0.0 cbsinteractive.hb.omtrdc.net
-0.0.0.0 comcastentertainmentgroup.hb.omtrdc.net
-0.0.0.0 corus.hb.omtrdc.net
-0.0.0.0 dell.hb.omtrdc.net
-0.0.0.0 directv.hb.omtrdc.net
-0.0.0.0 discovery.hb.omtrdc.net
-0.0.0.0 discoverydp.hb.omtrdc.net
-0.0.0.0 dishpurchasingcorporation.hb.omtrdc.net
-0.0.0.0 dowjones.hb.omtrdc.net
-0.0.0.0 dr.hb.omtrdc.net
-0.0.0.0 espn.hb.omtrdc.net
-0.0.0.0 ewscripps.hb.omtrdc.net
-0.0.0.0 fandango.hb.omtrdc.net
-0.0.0.0 fortis.hb.omtrdc.net
-0.0.0.0 foxentertainment.hb.omtrdc.net
-0.0.0.0 foxnews.hb.omtrdc.net
-0.0.0.0 foxsports.hb.omtrdc.net
-0.0.0.0 hulu.hb.omtrdc.net
-0.0.0.0 legalandgeneral.hb.omtrdc.net
-0.0.0.0 mathworks.hb.omtrdc.net
-0.0.0.0 mediacorp.hb.omtrdc.net
-0.0.0.0 mtv.hb.omtrdc.net
-0.0.0.0 nascardigitalsap.hb.omtrdc.net
-0.0.0.0 nbcstreaming.hb.omtrdc.net
-0.0.0.0 nbcume.hb.omtrdc.net
-0.0.0.0 newimagitasinc.hb.omtrdc.net
-0.0.0.0 newscorpau.hb.omtrdc.net
-0.0.0.0 nfl.hb.omtrdc.net
-0.0.0.0 nhkonline.hb.omtrdc.net
-0.0.0.0 pluralsight.hb.omtrdc.net
-0.0.0.0 radiocanada.hb.omtrdc.net
-0.0.0.0 rtl.hb.omtrdc.net
-0.0.0.0 rtve.hb.omtrdc.net
-0.0.0.0 skydeutschland.hb.omtrdc.net
-0.0.0.0 skyitalia.hb.omtrdc.net
-0.0.0.0 skyshowtimejvcoskyuklimited.hb.omtrdc.net
-0.0.0.0 stv.hb.omtrdc.net
-0.0.0.0 talpaholdingnv.hb.omtrdc.net
-0.0.0.0 turnerclassicmovies.hb.omtrdc.net
-0.0.0.0 verizontelecom.hb.omtrdc.net
-0.0.0.0 vrt.hb.omtrdc.net
-0.0.0.0 webmd.hb.omtrdc.net
-0.0.0.0 yleisradio.hb.omtrdc.net
 0.0.0.0 analytics.ihg.com.ssl.d1.sc.omtrdc.net
 0.0.0.0 royalmail.com.ssl.d1.sc.omtrdc.net
-0.0.0.0 o.webmd.com.ssl.d2.sc.omtrdc.net
 0.0.0.0 reedbusiness.net.ssl.d2.sc.omtrdc.net
 0.0.0.0 nzz.d3.sc.omtrdc.net
 0.0.0.0 rcsmetrics.it.ssl.d3.sc.omtrdc.net
@@ -70630,23 +70552,17 @@
 0.0.0.0 parsec.media
 0.0.0.0 meta.parsec.media
 0.0.0.0 www.parsec.media
-0.0.0.0 parsely.com
-0.0.0.0 api.parsely.com
 0.0.0.0 cdn.parsely.com
 0.0.0.0 dash.parsely.com
 0.0.0.0 fpa-api-arstechnica-com.parsely.com
-0.0.0.0 fpa-cdn-adweek-com.parsely.com
 0.0.0.0 fpa-cdn-arstechnica-com.parsely.com
 0.0.0.0 fpa-cdn-slate-com.parsely.com
-0.0.0.0 fpa-events-adweek-com.parsely.com
 0.0.0.0 fpa-events-arstechnica-com.parsely.com
 0.0.0.0 fpa-events-slate-com.parsely.com
 0.0.0.0 images.parsely.com
 0.0.0.0 p1.parsely.com
 0.0.0.0 pixel.parsely.com
 0.0.0.0 srv.pixel.parsely.com
-0.0.0.0 static.parsely.com
-0.0.0.0 www.parsely.com
 0.0.0.0 parsimoniouspolice.com
 0.0.0.0 partage-facile.com
 0.0.0.0 www.partage-facile.com
@@ -76246,7 +76162,6 @@
 0.0.0.0 config.quantumgraph.com
 0.0.0.0 users.quantumgraph.com
 0.0.0.0 www.quantumgraph.com
-0.0.0.0 quantummetric.com
 0.0.0.0 3m-app.quantummetric.com
 0.0.0.0 3mmarketplace-app.quantummetric.com
 0.0.0.0 800contacts-app.quantummetric.com
@@ -76262,8 +76177,6 @@
 0.0.0.0 academy.quantummetric.com
 0.0.0.0 academy-app.quantummetric.com
 0.0.0.0 academy-sync.quantummetric.com
-0.0.0.0 acs-app.quantummetric.com
-0.0.0.0 adidasgroup.quantummetric.com
 0.0.0.0 adidasgroup-app.quantummetric.com
 0.0.0.0 adidasgroup-sync.quantummetric.com
 0.0.0.0 adiglobal-app.quantummetric.com
@@ -76308,9 +76221,6 @@
 0.0.0.0 bbb-sync.quantummetric.com
 0.0.0.0 bbw-app.quantummetric.com
 0.0.0.0 bbw-sync.quantummetric.com
-0.0.0.0 beaconpro.quantummetric.com
-0.0.0.0 beaconpro-app.quantummetric.com
-0.0.0.0 beautybay-app.quantummetric.com
 0.0.0.0 betfair-app.quantummetric.com
 0.0.0.0 betvictor-app.quantummetric.com
 0.0.0.0 betvictor-sync.quantummetric.com
@@ -76333,23 +76243,19 @@
 0.0.0.0 carewell-app.quantummetric.com
 0.0.0.0 carhartt-app.quantummetric.com
 0.0.0.0 carhartt-sync.quantummetric.com
-0.0.0.0 carhartteu-app.quantummetric.com
 0.0.0.0 carparts-app.quantummetric.com
 0.0.0.0 carparts-sync.quantummetric.com
 0.0.0.0 carters-app.quantummetric.com
 0.0.0.0 carters-sync.quantummetric.com
-0.0.0.0 ccg-app.quantummetric.com
 0.0.0.0 cdn.quantummetric.com
 0.0.0.0 centralmarket-app.quantummetric.com
 0.0.0.0 christies-app.quantummetric.com
 0.0.0.0 cibtglobal-app.quantummetric.com
 0.0.0.0 citynationalbank-app.quantummetric.com
-0.0.0.0 clearchoice-app.quantummetric.com
 0.0.0.0 cms-app.quantummetric.com
 0.0.0.0 colehaan-app.quantummetric.com
 0.0.0.0 comcast-app.quantummetric.com
 0.0.0.0 compassion-app.quantummetric.com
-0.0.0.0 conde-app.quantummetric.com
 0.0.0.0 confused-app.quantummetric.com
 0.0.0.0 conns-app.quantummetric.com
 0.0.0.0 constantcontact-app.quantummetric.com
@@ -76357,8 +76263,6 @@
 0.0.0.0 containerstore-sync.quantummetric.com
 0.0.0.0 cosmoprof-app.quantummetric.com
 0.0.0.0 cosmoprof-sync.quantummetric.com
-0.0.0.0 coty-app.quantummetric.com
-0.0.0.0 coty-sync.quantummetric.com
 0.0.0.0 crateandbarrel-app.quantummetric.com
 0.0.0.0 crateandbarrel-sync.quantummetric.com
 0.0.0.0 csaa-app.quantummetric.com
@@ -76368,8 +76272,6 @@
 0.0.0.0 cvs-sync.quantummetric.com
 0.0.0.0 davidyurman-app.quantummetric.com
 0.0.0.0 dcu-app.quantummetric.com
-0.0.0.0 delta-app.quantummetric.com
-0.0.0.0 delta-sync.quantummetric.com
 0.0.0.0 deluxe-app.quantummetric.com
 0.0.0.0 diageocorp-app.quantummetric.com
 0.0.0.0 dickssportinggoods-app.quantummetric.com
@@ -76430,9 +76332,7 @@
 0.0.0.0 geico-sync.quantummetric.com
 0.0.0.0 globalindustrial-app.quantummetric.com
 0.0.0.0 globalindustrial-sync.quantummetric.com
-0.0.0.0 globo-app.quantummetric.com
 0.0.0.0 gnc-app.quantummetric.com
-0.0.0.0 gnm-app.quantummetric.com
 0.0.0.0 gocompare-app.quantummetric.com
 0.0.0.0 goodrxcore-app.quantummetric.com
 0.0.0.0 gsk-app.quantummetric.com
@@ -76462,7 +76362,6 @@
 0.0.0.0 joann-sync.quantummetric.com
 0.0.0.0 journeys-app.quantummetric.com
 0.0.0.0 journeys-sync.quantummetric.com
-0.0.0.0 kajabi-app.quantummetric.com
 0.0.0.0 ke-app.quantummetric.com
 0.0.0.0 kohler-app.quantummetric.com
 0.0.0.0 kontoor-app.quantummetric.com
@@ -76480,10 +76379,8 @@
 0.0.0.0 lenovo-sync.quantummetric.com
 0.0.0.0 lenovopartnerhub-app.quantummetric.com
 0.0.0.0 lenovosupport-app.quantummetric.com
-0.0.0.0 level-app.quantummetric.com
 0.0.0.0 llacostarica-app.quantummetric.com
 0.0.0.0 llajamaica-app.quantummetric.com
-0.0.0.0 llapanama-app.quantummetric.com
 0.0.0.0 llapuertorico-app.quantummetric.com
 0.0.0.0 llbean-app.quantummetric.com
 0.0.0.0 llbean-sync.quantummetric.com
@@ -76517,8 +76414,6 @@
 0.0.0.0 neimans-sync.quantummetric.com
 0.0.0.0 nfm-app.quantummetric.com
 0.0.0.0 nintendo-app.quantummetric.com
-0.0.0.0 nma.quantummetric.com
-0.0.0.0 nma-app.quantummetric.com
 0.0.0.0 norfolksouthern-app.quantummetric.com
 0.0.0.0 norton-app.quantummetric.com
 0.0.0.0 officedepotmx-app.quantummetric.com
@@ -76605,7 +76500,6 @@
 0.0.0.0 tmobile-app.quantummetric.com
 0.0.0.0 tmobile-sync.quantummetric.com
 0.0.0.0 tnfeu-app.quantummetric.com
-0.0.0.0 tractorsupply.quantummetric.com
 0.0.0.0 tractorsupply-app.quantummetric.com
 0.0.0.0 tractorsupply-sync.quantummetric.com
 0.0.0.0 travelers-app.quantummetric.com
@@ -76631,7 +76525,6 @@
 0.0.0.0 universal-app.quantummetric.com
 0.0.0.0 untuckit-app.quantummetric.com
 0.0.0.0 usbank.quantummetric.com
-0.0.0.0 usbank-app.quantummetric.com
 0.0.0.0 usbank-sync.quantummetric.com
 0.0.0.0 usbankeu-app.quantummetric.com
 0.0.0.0 varomoney.quantummetric.com
@@ -76652,10 +76545,8 @@
 0.0.0.0 williamssonomainc-app.quantummetric.com
 0.0.0.0 williamssonomainc-sync.quantummetric.com
 0.0.0.0 wu-app.quantummetric.com
-0.0.0.0 wugpfi-app.quantummetric.com
 0.0.0.0 wupos-app.quantummetric.com
 0.0.0.0 wupos2-app.quantummetric.com
-0.0.0.0 www.quantummetric.com
 0.0.0.0 wyndham.quantummetric.com
 0.0.0.0 wyndham-app.quantummetric.com
 0.0.0.0 xometry-app.quantummetric.com
@@ -80429,7 +80320,6 @@
 0.0.0.0 api.sbz.vn
 0.0.0.0 www.sbz.vn
 0.0.0.0 ads-interfaces.sc-cdn.net
-0.0.0.0 sc-static.net
 0.0.0.0 scadnet.com
 0.0.0.0 www.scadnet.com
 0.0.0.0 tracker.scalarr.net
@@ -80880,14 +80770,11 @@
 0.0.0.0 www.sefh.es
 0.0.0.0 sefsdvc.com
 0.0.0.0 www.sefsdvc.com
-0.0.0.0 segment.io
 0.0.0.0 api.segment.io
 0.0.0.0 app.segment.com
-0.0.0.0 cdn.segment.io
 0.0.0.0 cdn-settings.segment.com
 0.0.0.0 idsync.segment.com
 0.0.0.0 profiles.segment.com
-0.0.0.0 www.segment.io
 0.0.0.0 segmentapis.com
 0.0.0.0 ap1.segmentapis.com
 0.0.0.0 in.ap1.segmentapis.com
@@ -92903,8 +92790,6 @@
 0.0.0.0 analytics.uberspace.de
 0.0.0.0 ubertags.com
 0.0.0.0 www.ubertags.com
-0.0.0.0 data.ubi.com
-0.0.0.0 ubiservices.data.ubi.com
 0.0.0.0 smetrics.ubi.com
 0.0.0.0 reports.ubimo.com
 0.0.0.0 ublock.org
@@ -96505,8 +96390,6 @@
 0.0.0.0 act.webmasterplan.com
 0.0.0.0 www.webmasterplan.com
 0.0.0.0 jdsbyb.webmd.com
-0.0.0.0 o.webmd.com
-0.0.0.0 ssl.o.webmd.com
 0.0.0.0 survey.o.webmd.com
 0.0.0.0 webmedia.pl
 0.0.0.0 www.webmedia.pl
@@ -100007,3 +99890,4 @@
 0.0.0.0 trk67.zzzperform.com
 0.0.0.0 trk82.zzzperform.com
 0.0.0.0 trk85.zzzperform.com
+0.0.0.0 buyfingermoney.company.com
