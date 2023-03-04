@@ -2663,3 +2663,10 @@ img*.target.com
 # https://github.com/hagezi/dns-blocklists/issues/602
 zadn.vn
 
+# https://github.com/hagezi/dns-blocklists/issues/605
+*.mc.cubecdn.net
+*.images.core.optasports.com
+vue.comm100.com
+cmsbetconstruct.com
+eu-swarm-newm.betcoswarm.com
+
