@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.fake. hostmaster.hagezi.fake. 1677884400 86400 3600 604800 30
+@ SOA rpz.hagezi.fake. hostmaster.hagezi.fake. 1677970800 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 30
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ; Expires: Updated regularly
-; Last modified: 03 Mar 2023 09:44 UTC
-; Version: 2023.0303.0944.24
+; Last modified: 04 Mar 2023 23:07 UTC
+; Version: 2023.0304.2307.24
 ; Syntax: RPZ
-; Domains: 5253
+; Domains: 5254
 ;
 1euro.at CNAME .
 *.1euro.at CNAME .
@@ -5219,6 +5219,8 @@ vertexoptiontrading.com CNAME .
 *.vertexoptiontrading.com CNAME .
 vertow.com CNAME .
 *.vertow.com CNAME .
+veryvoga.com CNAME .
+*.veryvoga.com CNAME .
 vesinhhoatam.com CNAME .
 *.vesinhhoatam.com CNAME .
 vgr8.com CNAME .

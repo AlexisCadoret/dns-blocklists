@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 03 Mar 2023 09:44 UTC
-# Version: 2023.0303.0944.24
+# Last modified: 04 Mar 2023 23:07 UTC
+# Version: 2023.0304.2307.24
 # Syntax: DNSMasq
-# Domains: 5253
+# Domains: 5254
 #
 address=/willhaben.at.04300.id/#
 address=/11trikots.com/#
@@ -4915,6 +4915,7 @@ address=/versilia-electromarkt.com/#
 address=/vertexoptiontrading.com/#
 address=/vertow.com/#
 address=/vertrauenwin.de/#
+address=/veryvoga.com/#
 address=/veryvoga.es/#
 address=/veryvoga.fr/#
 address=/vesinhhoatam.com/#
