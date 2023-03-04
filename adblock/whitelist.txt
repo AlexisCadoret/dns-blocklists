@@ -2913,3 +2913,7 @@
 ! Target app
 @@|img*.target.com^
 
+! https://github.com/hagezi/dns-blocklists/issues/602
+@@|zadn.vn^
+@@|www.zadn.vn^
+
