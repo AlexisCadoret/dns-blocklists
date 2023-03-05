@@ -572,8 +572,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 05 Mar 2023 10:30 UTC
-! Version: 2023.0305.1030.08
+! Last modified: 05 Mar 2023 10:41 UTC
+! Version: 2023.0305.1041.50
 ! Syntax: AdBlock
 ! Domains: 30883
 !
@@ -136420,7 +136420,8 @@
 @@|click.discord.com^
 
 ! Videos in Filmstarts.de App on Android
-@@|dmxleo.dailymotion.com^
+!dmxleo.dailymotion.com
+@@|streaming.split.io^
 
 
 ! Title: HaGeZi's White-/Allowlist Referral
