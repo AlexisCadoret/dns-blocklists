@@ -7,8 +7,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 03 Mar 2023 09:40 UTC
-! Version: 2023.0303.0940.25
+! Last modified: 05 Mar 2023 23:13 UTC
+! Version: 2023.0305.2313.45
 ! Syntax: AdGuard
 !
 |*.agency^$denyallow=battlefield.agency|baam.agency|robotzebra.agency|uphotel.agency
@@ -25,6 +25,7 @@
 |*.ga^$denyallow=google.ga|filtri-dns.ga|dgdi.ga|9191.ga|animevsub.ga|my.ga
 |*.gdn^
 |*.gq^$denyallow=inege.gq|tvgelive.gq
+|*.haus^
 |*.loan^
 |*.loans^$denyallow=nic.loans
 |*.ml^$denyallow=amap.ml|beatbump.ml|biblioreads.ml|ghostcloud.ml|google.ml|info-matin.ml|lemmy.ml|lingva.ml|mastodon.ml|melody.ml|nothingprivate.ml|prompt.ml
