@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 04 Mar 2023 19:59 UTC
-# Version: 2023.0304.1959.44
+# Last modified: 05 Mar 2023 00:09 UTC
+# Version: 2023.0305.0009.43
 # Syntax: Hosts
-# Domains: 99881
+# Domains: 99888
 #
 0.0.0.0 003store.com
 0.0.0.0 www.003store.com
@@ -21411,6 +21411,8 @@
 0.0.0.0 smetrics.capella.edu
 0.0.0.0 tr.news.capfun.com
 0.0.0.0 data-27f08504c8.capital.de
+0.0.0.0 capital-whale.com
+0.0.0.0 www.capital-whale.com
 0.0.0.0 capital365.fm
 0.0.0.0 www.capital365.fm
 0.0.0.0 d.sourcepoint.capitalfm.com
@@ -31712,6 +31714,7 @@
 0.0.0.0 www.communicationads.net
 0.0.0.0 platform.communicatorcorp.com
 0.0.0.0 compactyunker.com
+0.0.0.0 buyfingermoney.company.com
 0.0.0.0 company-target.com
 0.0.0.0 api.company-target.com
 0.0.0.0 c.company-target.com
@@ -34933,6 +34936,8 @@
 0.0.0.0 ft.device9.com
 0.0.0.0 tag.device9.com
 0.0.0.0 www.device9.com
+0.0.0.0 devicesta.ru
+0.0.0.0 www.devicesta.ru
 0.0.0.0 adv-front.devpnd.com
 0.0.0.0 balancer.devtodev.com
 0.0.0.0 statgw.devtodev.com
@@ -44561,6 +44566,8 @@
 0.0.0.0 cs1.ename.net
 0.0.0.0 www.ename.net
 0.0.0.0 enarmuokzo.com
+0.0.0.0 encodeinflected.com
+0.0.0.0 www.encodeinflected.com
 0.0.0.0 trk.encoreglobal.com
 0.0.0.0 encounterboastful.com
 0.0.0.0 www.encounterboastful.com
@@ -46891,6 +46898,7 @@
 0.0.0.0 finnanregauge.com
 0.0.0.0 trk.fintechfutures.com
 0.0.0.0 fintribute.space
+0.0.0.0 finvestings.com
 0.0.0.0 banner.finzoom.ro
 0.0.0.0 fiobio.ru
 0.0.0.0 www.fiobio.ru
@@ -50848,7 +50856,6 @@
 0.0.0.0 cdn.greencuttlefish.com
 0.0.0.0 events.greencuttlefish.com
 0.0.0.0 greendolphinreviews.com
-0.0.0.0 www.greendolphinreviews.com
 0.0.0.0 smetrics.greendot.com
 0.0.0.0 greenfieldinvestment.net
 0.0.0.0 greenfieldinvestment.pro
@@ -52475,7 +52482,6 @@
 0.0.0.0 honestlydeploy.com
 0.0.0.0 www.honestlydeploy.com
 0.0.0.0 honey8.love
-0.0.0.0 www.honey8.love
 0.0.0.0 honeygoldfish.com
 0.0.0.0 honeymoonregular.com
 0.0.0.0 www.honeymoonregular.com
@@ -69465,6 +69471,7 @@
 0.0.0.0 a.opmnstr.com
 0.0.0.0 api.opmnstr.com
 0.0.0.0 www.opmnstr.com
+0.0.0.0 opnbwg.com
 0.0.0.0 fzgpzp.opodo.de
 0.0.0.0 gtrack.opossumsauce.com
 0.0.0.0 opoxv.com
@@ -99890,4 +99897,3 @@
 0.0.0.0 trk67.zzzperform.com
 0.0.0.0 trk82.zzzperform.com
 0.0.0.0 trk85.zzzperform.com
-0.0.0.0 buyfingermoney.company.com

@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 04 Mar 2023 19:59 UTC
-# Version: 2023.0304.1959.44
+# Last modified: 05 Mar 2023 00:09 UTC
+# Version: 2023.0305.0009.43
 # Syntax: DNSMasq
-# Domains: 33460
+# Domains: 33466
 #
 address=/003store.com/#
 address=/007sites.com/#
@@ -5861,6 +5861,7 @@ address=/elqtracking.capella.edu/#
 address=/smetrics.capella.edu/#
 address=/tr.news.capfun.com/#
 address=/data-27f08504c8.capital.de/#
+address=/capital-whale.com/#
 address=/capital365.fm/#
 address=/d.sourcepoint.capitalfm.com/#
 address=/capitalfx.co/#
@@ -8886,6 +8887,7 @@ address=/commonvivacious.com/#
 address=/communicationads.net/#
 address=/platform.communicatorcorp.com/#
 address=/compactyunker.com/#
+address=/buyfingermoney.company.com/#
 address=/company-target.com/#
 address=/smetrics.comparethemarket.com/#
 address=/comparisonpredatororigin.com/#
@@ -10092,6 +10094,7 @@ address=/developermedia.com/#
 address=/altsysimg.developpez.com/#
 address=/compteur.developpez.com/#
 address=/device9.com/#
+address=/devicesta.ru/#
 address=/adv-front.devpnd.com/#
 address=/balancer.devtodev.com/#
 address=/statgw.devtodev.com/#
@@ -11499,6 +11502,7 @@ address=/t.en25.com/#
 address=/enactsbasiate.com/#
 address=/ename.net/#
 address=/enarmuokzo.com/#
+address=/encodeinflected.com/#
 address=/trk.encoreglobal.com/#
 address=/encounterboastful.com/#
 address=/encouragingthread.com/#
@@ -12370,6 +12374,7 @@ address=/finnan2you.org/#
 address=/finnanregauge.com/#
 address=/trk.fintechfutures.com/#
 address=/fintribute.space/#
+address=/finvestings.com/#
 address=/banner.finzoom.ro/#
 address=/fiobio.ru/#
 address=/fiocchidiriso.com/#
@@ -21133,6 +21138,7 @@ address=/invitation.opinionbar.com/#
 address=/opinionlab.com/#
 address=/oplpectation.xyz/#
 address=/opmnstr.com/#
+address=/opnbwg.com/#
 address=/fzgpzp.opodo.de/#
 address=/gtrack.opossumsauce.com/#
 address=/opoxv.com/#
@@ -33469,4 +33475,3 @@ address=/zz3r0.com/#
 address=/s.zzcdn.me/#
 address=/zzyl.mobi/#
 address=/zzzperform.com/#
-address=/buyfingermoney.company.com/#

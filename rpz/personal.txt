@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.personal. hostmaster.hagezi.personal. 1677884400 86400 3600 604800 30
+@ SOA rpz.hagezi.personal. hostmaster.hagezi.personal. 1677970800 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Personal DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 30
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ; Expires: Updated regularly
-; Last modified: 04 Mar 2023 19:59 UTC
-; Version: 2023.0304.1959.44
+; Last modified: 05 Mar 2023 00:09 UTC
+; Version: 2023.0305.0009.43
 ; Syntax: RPZ
-; Domains: 33460
+; Domains: 33466
 ;
 marketing.globalpointofcare.abbott CNAME .
 *.marketing.globalpointofcare.abbott CNAME .
@@ -10653,6 +10653,8 @@ capacitygrid.com CNAME .
 *.capacitygrid.com CNAME .
 tr.news.capfun.com CNAME .
 *.tr.news.capfun.com CNAME .
+capital-whale.com CNAME .
+*.capital-whale.com CNAME .
 d.sourcepoint.capitalfm.com CNAME .
 *.d.sourcepoint.capitalfm.com CNAME .
 analytics.capitalgroup.com CNAME .
@@ -15539,6 +15541,8 @@ enactsbasiate.com CNAME .
 *.enactsbasiate.com CNAME .
 enarmuokzo.com CNAME .
 *.enarmuokzo.com CNAME .
+encodeinflected.com CNAME .
+*.encodeinflected.com CNAME .
 trk.encoreglobal.com CNAME .
 *.trk.encoreglobal.com CNAME .
 encounterboastful.com CNAME .
@@ -16671,6 +16675,8 @@ finnanregauge.com CNAME .
 *.finnanregauge.com CNAME .
 trk.fintechfutures.com CNAME .
 *.trk.fintechfutures.com CNAME .
+finvestings.com CNAME .
+*.finvestings.com CNAME .
 fiocchidiriso.com CNAME .
 *.fiocchidiriso.com CNAME .
 fioressence.com CNAME .
@@ -28151,6 +28157,8 @@ opinionlab.com CNAME .
 *.opinionlab.com CNAME .
 opmnstr.com CNAME .
 *.opmnstr.com CNAME .
+opnbwg.com CNAME .
+*.opnbwg.com CNAME .
 gtrack.opossumsauce.com CNAME .
 *.gtrack.opossumsauce.com CNAME .
 opoxv.com CNAME .
@@ -62189,6 +62197,8 @@ grs.platform.dbankcloud.ru CNAME .
 *.grs.platform.dbankcloud.ru CNAME .
 cdn.ddmanager.ru CNAME .
 *.cdn.ddmanager.ru CNAME .
+devicesta.ru CNAME .
+*.devicesta.ru CNAME .
 digitaltarget.ru CNAME .
 *.digitaltarget.ru CNAME .
 directadvert.ru CNAME .
