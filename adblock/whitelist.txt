@@ -2935,3 +2935,10 @@
 !dmxleo.dailymotion.com
 @@|streaming.split.io^
 
+! https://github.com/hagezi/dns-blocklists/issues/614
+@@|a.nel.cloudflare.com^
+
+! https://github.com/hagezi/dns-blocklists/issues/621
+@@|spring-oreo.itracmediav4.com^
+@@|pubssl.itmems4.com^
+
