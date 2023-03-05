@@ -13221,8 +13221,6 @@ pm.dailykos.com CNAME .
 *.pm.dailykos.com CNAME .
 dailylocalguide.com CNAME .
 *.dailylocalguide.com CNAME .
-dmxleo.dailymotion.com CNAME .
-*.dmxleo.dailymotion.com CNAME .
 dailypharmajobs.com CNAME .
 *.dailypharmajobs.com CNAME .
 stats.dailyposter.com CNAME .
@@ -56329,6 +56327,8 @@ wildcard.yieldmo.com.edgekey.net CNAME .
 *.wildcard.yieldmo.com.edgekey.net CNAME .
 rubiconproject.com-v1.edgekey.net CNAME .
 *.rubiconproject.com-v1.edgekey.net CNAME .
+telemetry-console.api.playstation.com-v2.edgekey.net CNAME .
+*.telemetry-console.api.playstation.com-v2.edgekey.net CNAME .
 v6analytics.htmedia.in.edgekey.net CNAME .
 *.v6analytics.htmedia.in.edgekey.net CNAME .
 wildcard46.akstat.io.edgekey.net CNAME .

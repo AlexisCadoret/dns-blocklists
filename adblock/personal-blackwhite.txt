@@ -572,8 +572,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 05 Mar 2023 05:20 UTC
-! Version: 2023.0305.0520.13
+! Last modified: 05 Mar 2023 10:15 UTC
+! Version: 2023.0305.1015.39
 ! Syntax: AdBlock
 ! Domains: 30882
 !
@@ -10994,6 +10994,7 @@
 ||matchadsrvr.yieldmo.com.edgekey.net^
 ||wildcard.yieldmo.com.edgekey.net^
 ||rubiconproject.com-v1.edgekey.net^
+||telemetry-console.api.playstation.com-v2.edgekey.net^
 ||v6analytics.htmedia.in.edgekey.net^
 ||akstat.io.edgekey.net^
 ||dable.io.edgekey.net^
@@ -136416,6 +136417,9 @@
 
 ! https://github.com/hagezi/dns-blocklists/issues/607
 @@|click.discord.com^
+
+! Videos in Filmstarts.de App on Android
+@@|dmxleo.dailymotion.com^
 
 
 ! Title: HaGeZi's White-/Allowlist Referral
