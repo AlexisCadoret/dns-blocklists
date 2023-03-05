@@ -572,10 +572,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 05 Mar 2023 10:15 UTC
-! Version: 2023.0305.1015.39
+! Last modified: 05 Mar 2023 10:30 UTC
+! Version: 2023.0305.1030.08
 ! Syntax: AdBlock
-! Domains: 30882
+! Domains: 30883
 !
 ||003store.com^
 ||007sites.com^
@@ -9591,6 +9591,7 @@
 ||matrix.dailyinnovation.biz^
 ||pm.dailykos.com^
 ||dailylocalguide.com^
+||dmxleo.dailymotion.com^
 ||dailynews123us.com^
 ||dailyonlinebenefits.com^
 ||dailypharmajobs.com^
