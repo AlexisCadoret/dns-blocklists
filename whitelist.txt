@@ -2690,3 +2690,6 @@ pubssl.itmems4.com
 # PayPal payment sending service
 xoom.com
 
+# https://github.com/hagezi/dns-blocklists/issues/625
+file*.gofile.io
+
